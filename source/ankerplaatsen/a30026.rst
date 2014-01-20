@@ -18,32 +18,32 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 deels aan ontvening te wijten, deels natuurlijk
 
 **Macroreliëf:**
 
--markante terreinovergang
+ * markante terreinovergang
 
 overgang polder/ijzerbroeken - zandleemgebied
 
 **Hydrografische\_Elementen:**
 
--rivier
--beek
--vallei
--oude rivierarm
+ * rivier
+ * beek
+ * vallei
+ * oude rivierarm
 
  
 Ijzer en met zijbeken, vaarten, kanalen; Dode Ijzer bij Elzendamme
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 Blankaart
@@ -53,42 +53,42 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 bij Blankaartkasteel
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 fintele
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
+ * kasteel
+ * toren
 
  
 kasteel Blankaart
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Pollinkhof bij Pollinkhove
 
 **Militair erfgoed:**
 
--fort
+ * fort
 
  
 Vaubanvestingresten rond Knokkebrug; Ijzertoren
 
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 kerk Pollinkhove
@@ -98,18 +98,18 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--Oostenrijkse periode
+ * Oostenrijkse periode
 
  
 vlakbij Elzendamme
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--brug
--sluis
--grachtenstelsel
+ * kanaal
+ * dijk
+ * brug
+ * sluis
+ * grachtenstelsel
 
  
 dijk bij Ijzer; sluizen op Lovaart en Ijzer ter hoogte van Fintele;
@@ -120,22 +120,22 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
+ * bomenrij
+ * knotbomenrij
 
 bomenrij langs Lovaart en Ijzer; zeldzame resten van knotbomenrij
 
 **Kunstmatige waters:**
 
--turfput
+ * turfput
 
  
 blankaart
 
 **Topografie:**
 
--repelvormig
--historisch stabiel
+ * repelvormig
+ * historisch stabiel
 
  
 repelvormig rond Blankaart tot Noordschote; elders geometrisch en
@@ -143,20 +143,20 @@ historisch stabiel
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--loof
--broek
+ * loof
+ * broek
 
  
 rond Blankaart
 
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

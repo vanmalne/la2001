@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 typisch voor oudlandpolders
@@ -28,7 +28,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 kleinschalige hoeves
@@ -38,9 +38,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--grachtenstelsel
+ * kanaal
+ * dijk
+ * grachtenstelsel
 
  
 Graaf Jansader
@@ -50,19 +50,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 veedrinkput
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

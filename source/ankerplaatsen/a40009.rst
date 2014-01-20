@@ -16,22 +16,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 
@@ -40,54 +40,54 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
--gehucht
+ * nederzettingspatroon
+ * plein
+ * gehucht
 
 relatie Kasteel- dorp- hoeves, gehucht Bachte
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--orangerie
--hovenierswoning
--boswachterswoning
--muur
--omheining
--ijskelder
--kasteelgracht
+ * kasteel
+ * toren
+ * orangerie
+ * hovenierswoning
+ * boswachterswoning
+ * muur
+ * omheining
+ * ijskelder
+ * kasteelgracht
 
  
 duiventoren
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--herberg
--afspanning
+ * (heren)woning
+ * huis
+ * herberg
+ * afspanning
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 Raasboomkapel
@@ -97,15 +97,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--brug
--sluis
--grachtenstelsel
+ * brug
+ * sluis
+ * grachtenstelsel
 
  
 
@@ -114,46 +114,46 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--blokvormig
--onregelmatig
+ * blokvormig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--kouters
--meersen
+ * permanent grasland
+ * kouters
+ * meersen
 
  
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 

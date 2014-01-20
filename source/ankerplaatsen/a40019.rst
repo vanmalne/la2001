@@ -18,29 +18,29 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
--rivierduin
+ * macroreliëf
+ * landduin
+ * rivierduin
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
--meander
+ * waterloop
+ * rivier
+ * vallei
+ * meander
 
  
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 
@@ -57,16 +57,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--pompgemaal
--grachtenstelsel
+ * dijk
+ * sluis
+ * pompgemaal
+ * grachtenstelsel
 
  
 
@@ -75,40 +75,40 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--houtwal
+ * bomenrij
+ * houtkant
+ * houtwal
 
 **Topografie:**
 
--repelvormig
--blokvormig
--onregelmatig
--historisch stabiel
+ * repelvormig
+ * blokvormig
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--meersen
+ * meersen
 
  
 **Bos:**
 
--loof
--broek
--middelhout
--struweel
+ * loof
+ * broek
+ * middelhout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--vloeiweide
+ * vloeiweide
 
  
 Dijk omheen Molsbroek werd einde de jaren 60 aangelegd om de

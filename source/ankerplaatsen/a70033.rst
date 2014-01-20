@@ -18,28 +18,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
+ * macroreliëf
+ * landduin
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
+ * waterloop
+ * rivier
+ * vallei
 
  
 grotendeels rechtgetrokken Dommel
 
 **Moerassige gronden:**
 
--veen
--rietland
--ven
+ * veen
+ * rietland
+ * ven
 
  
 
@@ -48,13 +48,13 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 **Klein historisch erfgoed:**
 
--kruis
--grenspaal
+ * kruis
+ * grenspaal
 
  
 Verkeerde Lieveheer, oude grenssteen in blauwe arduin naast recentere
@@ -65,15 +65,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--pad
+ * pad
 
  
 knuppelpad
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--grachtenstelsel
+ * dijk
+ * grachtenstelsel
 
  
 Bergeikse dijk
@@ -83,36 +83,36 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Historisch stabiel landgebruik:**
 
--plaggenbodems
--heide
+ * plaggenbodems
+ * heide
 
  
 **Bos:**
 
--loof
--broek
+ * loof
+ * broek
 
  
 **Bijzondere waterhuishouding:**
 
--vloeiweide
--watering
+ * vloeiweide
+ * watering
 
  
 

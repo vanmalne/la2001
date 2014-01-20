@@ -18,33 +18,33 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
--steilrand
+ * macroreliëf
+ * landduin
+ * steilrand
 
 stuifzandduinen
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
--oude rivierarm
+ * waterloop
+ * rivier
+ * vallei
+ * oude rivierarm
 
  
 Kleine Nete, Boterpottenloop, Langendonkloop, Kneutersloop
 
 **Moerassige gronden:**
 
--veen
--rietland
--ven
+ * veen
+ * rietland
+ * ven
 
  
 Zwart Water, Lavendelven
@@ -54,7 +54,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 kruisweg van 14 staties en 7 kapellen
@@ -67,7 +67,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -76,38 +76,38 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--turfput
--vijver
+ * turfput
+ * vijver
 
  
 Snepkesvijver
 
 **Topografie:**
 
--opstrekkend
+ * opstrekkend
 
  
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 **Bos:**
 
--naald
--loof
--broek
--struweel
+ * naald
+ * loof
+ * broek
+ * struweel
 
  
 

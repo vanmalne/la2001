@@ -18,14 +18,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 valleirand
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Heidebeek en enkele zijbeken
@@ -35,8 +35,8 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kerkelijk erfgoed:**
 
--kerk
--pastorie
+ * kerk
+ * pastorie
 
  
 Watou
@@ -52,9 +52,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--knotbomenrij
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 bomen en struiken langs beek; restanten houtkanten en knotbomenrijen
 weilanden

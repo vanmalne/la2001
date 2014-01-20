@@ -18,43 +18,43 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--graft
--talud
+ * microreliëf
+ * graft
+ * talud
 
  
 o.a. trappenreliëf
 
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--steilrand
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * steilrand
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 o.a. fossiele maasbedding, bronnen
 
 **Moerassige gronden:**
 
--veen
+ * veen
 
  
 alcalisch veen, vochtig grasland
 
 **Geologie:**
 
--ontsluitingen
--graften
+ * ontsluitingen
+ * graften
 
  
 mergel, grind, harde kalksteen (Onder-Carboon), vuursteen
@@ -67,55 +67,55 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
--gehucht
+ * nederzettingspatroon
+ * plein
+ * gehucht
 
 's Gravenvoeren, Sint-Martens- en Sint-Pietersvoeren en gehuchten
 (Schoppem, Ketten enz.)
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--boswachterswoning
--landgoed
--kasteelgracht
+ * kasteel
+ * boswachterswoning
+ * landgoed
+ * kasteelgracht
 
  
 o.a. Altenbroek, Commanderij Sint-Pietersvoeren
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--afspanning
+ * (heren)woning
+ * huis
+ * afspanning
 
  
 o.a. De Swaen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 o.a. Sint-Annakapel, Steenboskapel, Sint-Lambertus-, Sint-Martinus-
@@ -123,7 +123,7 @@ en Sint-Pieterskerk
 
 **Klein historisch erfgoed:**
 
--kruis
+ * kruis
 
  
 **Archeologische elementen:**
@@ -133,10 +133,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Romeinse weg
--Oostenrijkse periode
+ * weg
+ * pad
+ * Romeinse weg
+ * Oostenrijkse periode
 
  
 o.a. Koetsweg, Snauwenberg
@@ -147,7 +147,7 @@ spoorweg met tunnel en boogbruggen
 
 **Waterbouwkundige\_infrastructuur:**
 
--brug
+ * brug
 
  
 boogbrug, bruggetjes over de Voer
@@ -157,50 +157,50 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 o.a. hellingbossen, plateaubossen

@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Zalfense Beek, Lopende Beek
@@ -36,7 +36,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -45,29 +45,29 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 

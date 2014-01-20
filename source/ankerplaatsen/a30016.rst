@@ -18,15 +18,15 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 vijverdam in noordoosten van ankerplaats
 
 **Moerassige gronden:**
 
--ven
+ * ven
 
  
 **Geologie:**
@@ -39,7 +39,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 hofstede Vloethem, Hoeve Hildaghem (Ter Vraghe), hoeve Noortweghe
@@ -54,7 +54,7 @@ onverharde zandwegen
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 spoorweg naar en op militair domein
 
@@ -68,23 +68,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--knotbomenrij
+ * dreef
+ * bomenrij
+ * knotbomenrij
 
 buiten bosgebied; zeer gave knotbomenrijen in zuidwestelijke hoek en
 rond Walebeek
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 in militiar domein (geen/weinig overeenkomst met veldvijvers)
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 buiten militair domein (ten noord- en zuidoosten) blokvormige
@@ -92,7 +92,7 @@ percelen met dreven
 
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 vochtige heide en heischrale graslanden door niet bemesten op
@@ -100,8 +100,8 @@ militiair domein
 
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 

@@ -18,22 +18,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
+ * waterloop
+ * beek
+ * vallei
+ * meander
 
  
 bronnen
@@ -43,14 +43,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -59,8 +59,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -69,31 +69,31 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--kouters
+ * permanent grasland
+ * kouters
 
  
 Beekbegeleidende bossen
 
 **Bos:**
 
--loof
--middelhout
--hooghout
+ * loof
+ * middelhout
+ * hooghout
 
  
 

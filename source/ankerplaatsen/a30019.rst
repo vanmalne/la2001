@@ -18,13 +18,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--landduin
+ * landduin
 
 dekzandrug Gistel-Maldegem-Stekene-Verrebroek
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Maleleie
@@ -34,38 +34,38 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 bij abdij St-Trudo
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--ijskelder
--kasteelgracht
+ * kasteel
+ * toren
+ * ijskelder
+ * kasteelgracht
 
  
 oude donjon, kasteel wordt als abdij gebruikt
 
 **Bouwkundig erfgoed:**
 
--huis
+ * huis
 
  
 vroeger stadhuis in uiterste zuidwesten van ankerplaats
 
 **Kerkelijk erfgoed:**
 
--abdij
+ * abdij
 
  
 kasteel deels verbouwd tot abdij
 
 **Klein historisch erfgoed:**
 
--schandpaal
+ * schandpaal
 
  
 pelderijn vlakbij stadhuis
@@ -75,7 +75,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 kasseiweg rond kasteel en langs zuidkant Maleveld
@@ -85,20 +85,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 dreven rond park en abdij; bomenrij langs Maleleie
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 

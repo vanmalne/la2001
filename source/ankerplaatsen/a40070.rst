@@ -16,13 +16,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
+ * waterloop
 
  
 Brakeleike, Eeklo's Leike
@@ -32,23 +32,23 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Remondshof, Hoeve Altena, Ten Breebroek
 
 **Militair erfgoed:**
 
--bunker
+ * bunker
 
  
 voormalig militair domein
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -57,8 +57,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -67,35 +67,35 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--hagen
+ * dreef
+ * bomenrij
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--repelvormig
--blokvormig
+ * repelvormig
+ * blokvormig
 
  
 **Bos:**
 
--naald
--loof
--hakhout
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 

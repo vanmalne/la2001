@@ -16,27 +16,27 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
+ * macroreliëf
+ * heuvel
 
 cuesta van Lotenhulle- Hertsberge
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
+ * waterloop
+ * beek
 
  
 Kwade stroom
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 Paniseliaan
@@ -46,31 +46,31 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--landgoed
+ * landgoed
 
  
 Blekkerbos
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--klooster
--pastorie
+ * kerk
+ * kapel
+ * klooster
+ * pastorie
 
  
 Broeders van Liefde 'Blekkervijver'
 
 **Klein historisch erfgoed:**
 
--grenspaal
+ * grenspaal
 
  
 grenspaal met Ruiselede, aan Hooggoed
@@ -83,9 +83,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Romeinse weg
+ * weg
+ * pad
+ * Romeinse weg
 
  
 Diksmuidse Boterweg
@@ -95,33 +95,33 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--hagen
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * hagen
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 vijvers bij landgoederen, poelen bij hoeves
 
 **Topografie:**
 
--blokvormig
--historisch stabiel
+ * blokvormig
+ * historisch stabiel
 
  
 **Bos:**
 
--naald
--loof
--hakhout
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 
@@ -184,7 +184,7 @@ omgeving van Schuurlo is het drevenpatroon veel meer breedmazig dan in
 de omgeving van Egypteveld, waar er een er fijnmazig drevenpatroon is.
 De ondergrond van het Bulskampveld bestaat uit tamelijk fijn zand met
 hier en daar een kleilens en min of meer doorlopende zandsteenbanken of
--platen (ook wel 'veldsteen' genoemd). Geologisch gezien behoren deze
+ * platen (ook wel 'veldsteen' genoemd). Geologisch gezien behoren deze
 oudere lagen tot de afzettingen van Vlierzele, vroeger ook wel het
 Onder- Paniseliaan genoemd. De naam veldsteen wordt voor de groengrijze
 brokken gebruikt die vaak worden opgeploegd in de veldgebieden waar het

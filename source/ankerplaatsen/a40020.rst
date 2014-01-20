@@ -18,30 +18,30 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
--rivierduin
--markante terreinovergang
+ * macroreliëf
+ * landduin
+ * rivierduin
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
 
  
 **Moerassige gronden:**
 
--veen
--rietland
+ * veen
+ * rietland
 
  
 **Geologie:**
@@ -54,7 +54,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 Kerk van Daknam
@@ -64,21 +64,21 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 geasfalteerd
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--pompgemaal
--grachtenstelsel
+ * dijk
+ * pompgemaal
+ * grachtenstelsel
 
  
 
@@ -87,55 +87,55 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--turfput
+ * turfput
 
  
 **Topografie:**
 
--blokvormig
--opstrekkend
--onregelmatig
--historisch stabiel
+ * blokvormig
+ * opstrekkend
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--meersen
+ * permanent grasland
+ * meersen
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * hooghout
+ * struweel
 
  
 niet typisch voor een meersengebied
 
 **Bijzondere waterhuishouding:**
 
--vloeiweide
+ * vloeiweide
 
  
 vermoedelijk voorheen vloeiweide

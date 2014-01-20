@@ -18,30 +18,30 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--holle weg
+ * macroreliëf
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--rivier
--vallei
--meander
--oude rivierarm
+ * rivier
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 Jekervallei
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 vochtige beemden
@@ -54,43 +54,43 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 kasteelpark
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Blaar
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
+ * kasteel
+ * landgoed
 
  
 Scherpenberg
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Blaarmolen
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Archeologische elementen:**
@@ -104,13 +104,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 Tongeren-Aken
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -119,55 +119,55 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--meersen
+ * permanent grasland
+ * meersen
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 rondom de bewoning
 
 **Bos:**
 
--loof
--broek
--hooghout
--struweel
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 
@@ -274,7 +274,7 @@ leigrachten opvangt. Die Zuurbeemden fungeerden tot even na de 2de
 wereldoorlog haast uitsluitend als hooiweiden die tot twee maal per jaar
 werden gemaaid. Later werden de weiden beplant met populieren. De
 verruigde percelen zijn omgeven door hoog uitgegroeide - veelal meidoorn
-- hagen. Hier en daar treffen we alleenstaande bomen aan. Ten
+ *  hagen. Hier en daar treffen we alleenstaande bomen aan. Ten
 noordoosten daarvan heeft zich op de zompige bodem van het Hardel een
 dicht elzenbroek van ca. 13 ha ontwikkeld; de aangeplante populieren
 zijn er een moeilijk leven beschoren. Ongeveer midden in het

@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--holle weg
+ * macroreliëf
+ * steilrand
+ * holle weg
 
 heuvelachtig, sterk ingesneden door erosie
 
 **Hydrografische\_Elementen:**
 
--rivier
--beek
--vallei
+ * rivier
+ * beek
+ * vallei
 
  
 Herk, Rullingenbeek met bronamfitheater
@@ -49,37 +49,37 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelparken De Klee en Rullingen
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 hoopdorp Kuttekoven, straatdorp Berlingen
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--omheining
--kasteelgracht
+ * kasteel
+ * landgoed
+ * omheining
+ * kasteelgracht
 
  
 De Klee, Rullingen
 
 **Bouwkundig erfgoed:**
 
--huis
+ * huis
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 o.a. De Klee, Pexters, restanten Hof van Herckenrode, 't Klein
@@ -87,16 +87,16 @@ Kasteeltje
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Oude Molen, Nieuwe Molen
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 o.a. OLV van Lourdes, Sint-Jan-de-Doper, Sint-Agatha
@@ -109,14 +109,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--Romeinse weg
+ * Romeinse weg
 
  
 Tongeren-Herentals-Antwerpen
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 Sint-Truiden - Tongeren
 
@@ -125,28 +125,28 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Topografie:**
 
--blokvormig
--historisch stabiel
+ * blokvormig
+ * historisch stabiel
 
  
 zuidoost-noordwest georiënteerd patroon
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 vochtige beemden, grasland onder boomgaarden, akkers met traditioneel
@@ -154,14 +154,14 @@ open karakter
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hooghout
--struweel
+ * loof
+ * hooghout
+ * struweel
 
  
 

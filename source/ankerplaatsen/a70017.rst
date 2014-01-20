@@ -18,24 +18,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--graft
--talud
+ * microreliëf
+ * graft
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--rivier
--beek
--vallei
--meander
+ * rivier
+ * beek
+ * vallei
+ * meander
 
  
 o.a. Gulp, bronnen
@@ -47,9 +47,9 @@ vochtig grasland
 
 **Geologie:**
 
--ontsluitingen
--graften
--karsten
+ * ontsluitingen
+ * graften
+ * karsten
 
  
 **Andere:**
@@ -60,35 +60,35 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
+ * kasteel
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--stal
+ * hoeve
+ * stal
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--abdij
--klooster
+ * kerk
+ * abdij
+ * klooster
 
  
 **Klein historisch erfgoed:**
 
--kruis
+ * kruis
 
  
 
@@ -97,14 +97,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--pad
+ * pad
 
  
 **Spoorweg:**
 
 **Waterbouwkundige\_infrastructuur:**
 
--brug
+ * brug
 
  
 aftakking watermolen, spoorwegbrug
@@ -114,45 +114,45 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--houtkant
--hagen
--perceelsrandbegroeiing
+ * dreef
+ * houtkant
+ * hagen
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--hakhout
--hooghout
--struweel
+ * naald
+ * loof
+ * hakhout
+ * hooghout
+ * struweel
 
  
 historisch stabiele bossen

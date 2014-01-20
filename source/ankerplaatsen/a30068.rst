@@ -18,14 +18,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 natuurlijk en/of artificieel
 
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 Monnikenwerve
@@ -35,16 +35,16 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Groot Ter Doest en kleinere hoeve; toegangspoort
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Archeologische elementen:**
@@ -55,8 +55,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--grachtenstelsel
+ * kanaal
+ * grachtenstelsel
 
  
 Lissewegevaartje
@@ -66,26 +66,26 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
+ * bomenrij
+ * knotbomenrij
 
 vlakbij hoeve zeer gave perceelsrandbegroeiing; rond hoeve
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 boomgaard bij Ter Doest
 
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

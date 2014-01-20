@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--kustduin
+ * kustduin
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -36,10 +36,10 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 langs perceelsgrenzen
 

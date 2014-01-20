@@ -18,15 +18,15 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--rivier
--beek
--vallei
+ * rivier
+ * beek
+ * vallei
 
  
 Maas, Langkeukelbeek, Molenbeek
@@ -38,7 +38,7 @@ vochtige graslanden in de uiterwaarden
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 grindbanken
@@ -48,35 +48,35 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--muur
+ * kasteel
+ * landgoed
+ * muur
 
  
 kasteel van Hocht, voormalige abdij
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 **Kerkelijk erfgoed:**
 
--kapel
--abdij
+ * kapel
+ * abdij
 
  
 voormalige abdij van Hocht
@@ -89,19 +89,19 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 afgesneden weg naar Pietersheim, Hochter Wegelke
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--brug
--sluis
--lijnpad
+ * kanaal
+ * dijk
+ * brug
+ * sluis
+ * lijnpad
 
  
 Verbindingskanaal Briegden-Neerharen, Zuid-Willemsvaart
@@ -111,48 +111,48 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 kasteelparkvijvers, open water door grindwinning
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 vochtige beemden in de uiterwaarden
 
 **Bos:**
 
--loof
--broek
--middelhout
--struweel
+ * loof
+ * broek
+ * middelhout
+ * struweel
 
  
 ooibos
 
 **Bijzondere waterhuishouding:**
 
--uiterwaarden
+ * uiterwaarden
 
  
 

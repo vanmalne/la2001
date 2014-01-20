@@ -16,28 +16,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
+ * macroreliëf
+ * heuvel
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
+ * waterloop
+ * beek
+ * vallei
+ * meander
 
  
 Molenbeek, bronnen
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 
@@ -46,14 +46,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 kapel O-L-V van Zeven Weeën
@@ -63,8 +63,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -73,23 +73,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--kaphaag
+ * bomenrij
+ * houtkant
+ * hagen
+ * kaphaag
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--kouters
+ * permanent grasland
+ * kouters
 
  
 **Bos:**
 
--loof
--hakhout
--middelhout
--hooghout
+ * loof
+ * hakhout
+ * middelhout
+ * hooghout
 
  
 

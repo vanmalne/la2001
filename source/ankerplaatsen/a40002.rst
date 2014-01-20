@@ -18,20 +18,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
 
 cuesta van Oedelem
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Wagenmakersbeek, Driesbeek,,,,
@@ -43,7 +43,7 @@ stuwgronden
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 Bartooncuesta van Oedelem
@@ -53,16 +53,16 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
+ * kasteel
 
  
 Kasteel van Prinseveld
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Drongengoedhoeve, Porcelijnegoed, Papinglohoeve
@@ -77,9 +77,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Oostenrijkse periode
+ * weg
+ * pad
+ * Oostenrijkse periode
 
  
 oude Gentweg
@@ -89,26 +89,26 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--blokvormig
--historisch stabiel
+ * blokvormig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 enkele kleine stukjes op het militair domein, zaadbank nog in de
@@ -116,12 +116,12 @@ bossen aanwezig
 
 **Bos:**
 
--naald
--loof
--hakhout
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 **Andere:**

@@ -16,27 +16,27 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--steilrand
+ * steilrand
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 
@@ -45,14 +45,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Driscartmolen
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -61,16 +61,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Spoorweg:**
 
 **Waterbouwkundige\_infrastructuur:**
 
--brug
--stuw
+ * brug
+ * stuw
 
  
 
@@ -79,39 +79,39 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--opstrekkend
--onregelmatig
+ * opstrekkend
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--meersen
+ * meersen
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--hakhout
--hooghout
+ * naald
+ * loof
+ * hakhout
+ * hooghout
 
  
 

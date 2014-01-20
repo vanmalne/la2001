@@ -18,27 +18,27 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 
@@ -50,8 +50,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -60,17 +60,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--bomenrij
+ * bomenrij
 
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 

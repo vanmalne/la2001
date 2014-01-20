@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
+ * waterloop
 
  
 Bosloop, Oude Dijkloop, Breemloop
@@ -33,14 +33,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--boswachterswoning
+ * boswachterswoning
 
  
 2 boswachtershuisjes
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Verlaten boerderij
@@ -58,7 +58,7 @@ Veldwegen
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -67,22 +67,22 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--naald
--loof
--broek
--middelhout
--hooghout
+ * naald
+ * loof
+ * broek
+ * middelhout
+ * hooghout
 
  
 
@@ -157,7 +157,7 @@ hydrografisch netwerk komt overeen met wat we terugvinden op de kaart
 van het Institut Cartographique Militaire, die de toestand weergaaft in
 het begin van de 20ste eeuw (1909). Vandaag kan het bos worden
 gekarakteriseerd als vochtig loofbos van voornamelijk Eik, Berk en Beuk
--maar ook Els en Es- met een rijke ondergroei van zeldzame en minder
+ * maar ook Els en Es- met een rijke ondergroei van zeldzame en minder
 zeldzame bosplanten. Hier en daar komen naaldhoutaanplanten voor. Het
 omringende landbouwgebied heeft een zeer open karakter met behoorlijk
 wat lijnvormige kleine landschapselementen. Als oud boscomplex herbergt

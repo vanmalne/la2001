@@ -16,19 +16,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 **Geologie:**
@@ -41,14 +41,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--waterput
+ * waterput
 
  
 waterput bij Kruiskapel
 
 **Militair erfgoed:**
 
--verdedingingslinie
+ * verdedingingslinie
 
  
 enkel een pad; ten oosten van de Kruiskapel ook een dijk. Linie
@@ -56,15 +56,15 @@ dateert van 1702 (successieoorlog).
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 Kruiskapel en 14 kruiswegkapelletjes
 
 **Klein historisch erfgoed:**
 
--kruis
--eendenkooi
+ * kruis
+ * eendenkooi
 
  
 voor de Kruiskapel staat een kruis, resten van eendenkooi
@@ -74,17 +74,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--brug
--pompgemaal
--grachtenstelsel
+ * kanaal
+ * dijk
+ * brug
+ * pompgemaal
+ * grachtenstelsel
 
  
 Koebrug (in1948 herbouwd na vernieling tijdens WOII)
@@ -94,28 +94,28 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--turfput
--vijver
+ * turfput
+ * vijver
 
  
 **Topografie:**
 
--blokvormig
--onregelmatig
--historisch stabiel
+ * blokvormig
+ * onregelmatig
+ * historisch stabiel
 
  
 aan Kruiskapel: onregelmatige percelering/ Enkel Vettemeers en
@@ -123,25 +123,25 @@ Heernisse historisch stabiel
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 wijmen, populier
 
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 

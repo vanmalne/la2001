@@ -18,31 +18,31 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * steilrand
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 o.a. Maas, Genootsbeek, Langbroekbeek, Kikbeek
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 kleinschalige grind- en leemputten, grindbanken
@@ -52,62 +52,62 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 o.a. kasteelpark Vilain XIV
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
--gehucht
+ * nederzettingspatroon
+ * plein
+ * gehucht
 
 dorpsplein Leut, gehucht Mazenhoven
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--muur
--omheining
--ijskelder
--kasteelgracht
+ * kasteel
+ * landgoed
+ * muur
+ * omheining
+ * ijskelder
+ * kasteelgracht
 
  
 kasteel Vilain XIV
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--herberg
+ * (heren)woning
+ * huis
+ * herberg
 
  
 o.a. brouwerij en herberg Paenhuis
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 o.a. kasteelhoeve, Oude Maashof, Palmenhof
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 molen Nieuw Leven
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 o.a. Sint-Pieterskerk met kerkhof, kapel Onze-Lieve-Vrouw van
@@ -115,8 +115,8 @@ Overwinning
 
 **Klein historisch erfgoed:**
 
--kruis
--grenspaal
+ * kruis
+ * grenspaal
 
  
 o.a. dorpspomp met drie lindebomen, Maaskruis, hekwerk
@@ -132,16 +132,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 o.a. Klein Kampwegske
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--lijnpad
+ * dijk
+ * lijnpad
 
  
 o.a. winterdijken, zomerdijken
@@ -154,50 +154,50 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
 
 Maasheggen
 
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 weerden
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hakhout
--hooghout
--struweel
+ * loof
+ * hakhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--uiterwaarden
--buitendijks
+ * uiterwaarden
+ * buitendijks
 
  
 

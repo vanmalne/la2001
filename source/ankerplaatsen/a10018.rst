@@ -18,18 +18,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
+ * macroreliëf
+ * landduin
 
 **Moerassige gronden:**
 
--ven
+ * ven
 
  
 
@@ -38,7 +38,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 Rovertkapel
@@ -48,7 +48,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -57,26 +57,26 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 heiderelicten
 
 **Bos:**
 
--naald
--loof
--hooghout
+ * naald
+ * loof
+ * hooghout
 
  
 

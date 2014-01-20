@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 
@@ -27,31 +27,31 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 villa Hemelrijk, Scheldeveld
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--kasteelgracht
+ * kasteel
+ * landgoed
+ * kasteelgracht
 
  
 Scheldevelde, dienstgebouwen,koetshuizen,Hemelrijk
 
 **Bouwkundig erfgoed:**
 
--villa
+ * villa
 
  
 'Chalet d'Hemelrijk'
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 O-L-Vrouw van Hemelrijk
@@ -61,8 +61,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -71,14 +71,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * perceelsrandbegroeiing
 
 **Bos:**
 
--loof
--middelhout
+ * loof
+ * middelhout
 
  
 

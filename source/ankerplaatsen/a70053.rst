@@ -18,28 +18,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
+ * macroreliëf
+ * landduin
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 o.a. Stiemerbeek, Miezerikbeek, Achterbeek
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
--ven
+ * moeras
+ * veen
+ * rietland
+ * ven
 
  
 vochtige beemden
@@ -49,14 +49,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Slagmolen
@@ -69,17 +69,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--pad
+ * pad
 
  
 wandelpaden
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--grachtenstelsel
--stuw
+ * dijk
+ * sluis
+ * grachtenstelsel
+ * stuw
 
  
 molensloot, vijvercomplex
@@ -89,46 +89,46 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--houtkant
+ * houtkant
 
 deels beboste dijken
 
 **Kunstmatige waters:**
 
--turfput
--vijver
+ * turfput
+ * vijver
 
  
 zogenaamde weyers
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--vloeiweide
--watering
+ * vloeiweide
+ * watering
 
  
 kleinschalige waterbeemden

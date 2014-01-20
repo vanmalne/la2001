@@ -18,18 +18,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--landduin
+ * landduin
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 Molenbeek, Visbeek, Vlimmerse Loop
@@ -39,20 +39,20 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Blommerschot
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--landgoed
+ * landgoed
 
  
 'Heiligenaert'
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 Kapel van O.-L.-Vrouw van Lourdes
@@ -68,40 +68,40 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 heiderelicten
 
 **Bos:**
 
--naald
--loof
--broek
--struweel
+ * naald
+ * loof
+ * broek
+ * struweel
 
  
 
@@ -173,7 +173,7 @@ Blommerschot -toen een groot Riddergoed- dateert uit 1432. Bij Ferraris
 heide, met langs de grenzen enkele percelen loof- of sparrenbos en in
 het noorden natte weilanden. Opvallend is de uitgestrekte
 ZW-NO-georiënteerde dreef naar Wechelderzande. Bij Vandermaelen (1854)
--bijna een eeuw later- is het bos uitgebreider en zijn er meer
+ * bijna een eeuw later- is het bos uitgebreider en zijn er meer
 ontginningswegen in de heide aangelegd. In het begin van de 20ste eeuw
 (cf. MGI, 1909) is de heide bijna volledig omgezet naar bos. De huidig
 bosstructuur is nog gaaf en herkenbaar in vergelijking met de situatie

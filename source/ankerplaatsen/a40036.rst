@@ -16,30 +16,30 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--steilrand
--markante terreinovergang
+ * steilrand
+ * markante terreinovergang
 
 Vinderhoutse Bossen en Kastelensites
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
+ * waterloop
+ * beek
+ * vallei
+ * meander
 
  
 Merebeek, Oude Kale
 
 **Moerassige gronden:**
 
--moeras
--veen
+ * moeras
+ * veen
 
  
 **Geologie:**
@@ -52,59 +52,59 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Kasteelparken
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--dries
--gehucht
+ * nederzettingspatroon
+ * dries
+ * gehucht
 
 Drieselken, Slindonk
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--orangerie
--hovenierswoning
--landgoed
--muur
--omheining
--ijskelder
--kasteelgracht
+ * kasteel
+ * toren
+ * orangerie
+ * hovenierswoning
+ * landgoed
+ * muur
+ * omheining
+ * ijskelder
+ * kasteelgracht
 
  
 portierswoning, wagenhuis
 
 **Bouwkundig erfgoed:**
 
--huis
+ * huis
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 Van Vlaenderensmolen
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 Sint- Annakapel, kerk en pastorie Vinderhoute
@@ -114,14 +114,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--brug
--grachtenstelsel
+ * brug
+ * grachtenstelsel
 
  
 
@@ -130,55 +130,55 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 bij kastelen
 
 **Topografie:**
 
--repelvormig
--blokvormig
--onregelmatig
--historisch stabiel
+ * repelvormig
+ * blokvormig
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--kouters
--meersen
+ * kouters
+ * meersen
 
  
 bulken
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--broek
--hakhout
--middelhout
--hooghout
--struweel
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 

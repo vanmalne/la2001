@@ -18,27 +18,27 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
+ * macroreliëf
 
 vlak tot zachtgolvend
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 o.a. Elsterbeek, Meersbeek, Molenbeek, Wilderbeek
 
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 vochtige graslanden
@@ -48,42 +48,42 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelparken Groenendaal en Zangerhei
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--kasteelgracht
+ * kasteel
+ * landgoed
+ * kasteelgracht
 
  
 kastelen Groenendaal en Zangerhei
 
 **Bouwkundig erfgoed:**
 
--huis
+ * huis
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 o.a. hoeven Hommelen en Klein Hommelen, kasteelhoeve Groenendaal
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 o.a. Sint-Rochuskapel
@@ -101,7 +101,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 Hasselt-Maastricht
 
@@ -110,30 +110,30 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 vochtige hooi- en graslanden, al dan niet beplant of begrensd met
@@ -141,11 +141,11 @@ populieren
 
 **Bos:**
 
--naald
--loof
--hakhout
--hooghout
--struweel
+ * naald
+ * loof
+ * hakhout
+ * hooghout
+ * struweel
 
  
 o.a. Bonijtersbos, Groenendaal, Zangerheide (deels
@@ -219,7 +219,7 @@ gedurende lange droogteperioden tijdens de zomer soms
 uitdrogingsverschijnselen optreden. Buiten de valleidepressies bevindt
 de grondwatertafel zich dieper dan 120 cm. In de beekvalleien
 daarentegen komen alluviale bodems voor - hetzij op klei, hetzij op leem
-- die praktisch permanent nat zijn. De voor een aantal landbouwgewassen
+ *  die praktisch permanent nat zijn. De voor een aantal landbouwgewassen
 ongunstige tot slechte waterhuishouding van de meeste gronden ligt aan
 de basis van de uitgebreide weideoppervlakte, al dan niet beplant of
 begrensd met populieren. Naargelang de valleigronden natter zijn

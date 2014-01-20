@@ -18,19 +18,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
+ * macroreliëf
+ * steilrand
 
 **Hydrografische\_Elementen:**
 
--rivier
--vallei
--meander
+ * rivier
+ * vallei
+ * meander
 
  
 De Mark
@@ -40,31 +40,31 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--ijskelder
--kasteelgracht
+ * kasteel
+ * ijskelder
+ * kasteelgracht
 
  
 wachthuisjes, kasteel van Hoogstraten
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
+ * (heren)woning
+ * huis
 
  
 directeurswoning, woonhuizen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Laarmolen
@@ -86,24 +86,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--loof
--hooghout
+ * loof
+ * hooghout
 
  
 
@@ -162,7 +162,7 @@ C.TEKSTUELE Omschrijving
 
  Het grootste deel van de structuur van deze ankerplaats is reeds
 herkenbaar bij Ferraris. Het gaat daarbij om het Kasteel van Hoogstraten
--de site met omwalling-, 't Withof, een aantal dreven en de loop van de
+ * de site met omwalling-, 't Withof, een aantal dreven en de loop van de
 Mark met lager gelegen valleigronden. Het is deze relatief sterk
 meanderende loop van de Mark met bijhorende vallei die voor een groot
 deel de wetenschappelijke en ook ruimtelijk structurerende waarde van

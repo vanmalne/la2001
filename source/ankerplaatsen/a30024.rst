@@ -18,13 +18,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--markante terreinovergang
+ * markante terreinovergang
 
 depressie rond brongebied van Bampoelbeek
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Bampoelbeek
@@ -34,14 +34,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 vele hoeves zijn waardevol en zonder storende nieuwbouw; Kasteelhof
 
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 kerk van Gijverinkhove met kerkhof en aansluitend de pastorie en tuin
@@ -54,15 +54,15 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--knotbomenrij
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 restanten van bomenrijen langs weilandgrenzen en rond hoeves
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Andere:**

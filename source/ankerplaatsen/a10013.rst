@@ -18,28 +18,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
+ * macroreliëf
+ * landduin
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
+ * waterloop
+ * rivier
 
  
 Aa, Lieremansloop, Rooise loop, Molengoorloop
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
--ven
+ * moeras
+ * veen
+ * rietland
+ * ven
 
  
 
@@ -48,14 +48,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Bouwkundig erfgoed:**
 
--huis
+ * huis
 
  
 landhuis, jachthuis
 
 **Landbouwkundig erfgoed:**
 
--schuur
+ * schuur
 
  
 **Archeologische elementen:**
@@ -66,15 +66,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--pad
+ * pad
 
  
 oude padenstructuur
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
--stuw
+ * grachtenstelsel
+ * stuw
 
  
 
@@ -83,33 +83,33 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--plaggenbodems
--heide
+ * permanent grasland
+ * plaggenbodems
+ * heide
 
  
 **Bos:**
 
--naald
--loof
--broek
--struweel
+ * naald
+ * loof
+ * broek
+ * struweel
 
  
 

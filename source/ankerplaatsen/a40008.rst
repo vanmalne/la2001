@@ -18,24 +18,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 Paniseliaan
@@ -45,43 +45,43 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Park Maria Hove
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--orangerie
--omheining
--ijskelder
--kasteelgracht
+ * kasteel
+ * toren
+ * orangerie
+ * omheining
+ * ijskelder
+ * kasteelgracht
 
  
 Maria Hove, duiventoren, dienstgebouwen
 
 **Bouwkundig erfgoed:**
 
--villa
+ * villa
 
  
 Villa Kraenepoel
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Hoeve Van Wanseele, Hof de Warande
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 Kerk van Bellem
@@ -91,9 +91,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Romeinse weg
+ * weg
+ * pad
+ * Romeinse weg
 
  
 Heirweg Gent- Brugge
@@ -104,7 +104,7 @@ spoorweg Gent- Brugge
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
+ * dijk
 
  
 overloop aan Kranepoel, dam in Kranepoel
@@ -114,30 +114,30 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 achtsterrig drevenpatroon in Markettebos, dreef van Bellem naar Hansbeke
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 Kranepoel (met eilandjes), vijvers in park Maria Hove
 
 **Bos:**
 
--naald
--loof
--hakhout
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 

@@ -18,26 +18,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--holle weg
+ * macroreliëf
+ * heuvel
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 
@@ -46,40 +46,40 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
--hof
+ * tuin
+ * park
+ * hof
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--orangerie
--hovenierswoning
--landgoed
--muur
--omheining
--ijskelder
--kasteelgracht
+ * kasteel
+ * orangerie
+ * hovenierswoning
+ * landgoed
+ * muur
+ * omheining
+ * ijskelder
+ * kasteelgracht
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 **Kerkelijk erfgoed:**
 
--kapel
--abdij
+ * kapel
+ * abdij
 
  
 **Klein historisch erfgoed:**
 
--gedenkteken
+ * gedenkteken
 
  
 
@@ -88,14 +88,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Oostenrijkse periode
+ * weg
+ * pad
+ * Oostenrijkse periode
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -104,17 +104,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Historisch stabiel landgebruik:**
@@ -122,9 +122,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  
 **Bos:**
 
--naald
--loof
--broek
+ * naald
+ * loof
+ * broek
 
  
 

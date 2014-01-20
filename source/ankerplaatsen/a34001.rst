@@ -18,27 +18,27 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--steilrand
--markante terreinovergang
+ * steilrand
+ * markante terreinovergang
 
 cuesta Lotenhulle-Hertsberghe
 
 **Hydrografische\_Elementen:**
 
--vallei
+ * vallei
 
  
 valleien van de Blauwhuis-, Wante- en Bornebeek
 
 **Moerassige gronden:**
 
--moeras
--veen
+ * moeras
+ * veen
 
  
 **Geologie:**
@@ -51,8 +51,8 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 park bij kast. Driekoningen en Bulskampveld(ook kruidentuin); tuin
@@ -60,18 +60,18 @@ bij woningen
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--landgoed
--muur
+ * kasteel
+ * toren
+ * landgoed
+ * muur
 
  
 bij kast. Bulskampveld en Driekoningen; Galgetoren
 
 **Bouwkundig erfgoed:**
 
--huis
--villa
+ * huis
+ * villa
 
  
 villa's en dienstwoningen bij het centrum voor jeugdbijstand en bij
@@ -79,7 +79,7 @@ het radiozendstation
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Colpaertshoeve; penitentiair landbouwcentrum in hoeve bij de
@@ -92,14 +92,14 @@ zeilschip bij marineschool en vijver
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 veldkapelleke; vagevuurkapel, herdenkingskapel lippensgoed
 
 **Klein historisch erfgoed:**
 
--schandpaal
+ * schandpaal
 
  
 kerkhof nabij Veldkapelleke
@@ -116,7 +116,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 Brugse Heerweg of Diksmuidse Boterweg
@@ -126,25 +126,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 bij de kastelen
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 **Bos:**
 
--naald
--loof
--hakhout
+ * naald
+ * loof
+ * hakhout
 
  
 

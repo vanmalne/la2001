@@ -18,19 +18,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--holle weg
+ * macroreliëf
+ * holle weg
 
 **Geologie:**
 
--ontsluitingen
--karsten
+ * ontsluitingen
+ * karsten
 
  
 mergelgroeven w.o. Lacroixberg, Roosburgh, Koegat, Pitjesberg, In de
@@ -41,32 +41,32 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 o.a. kasteeltje Sint-Pieter
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 aaneengroeien van oorspronkelijke hoopdorpen
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
+ * (heren)woning
+ * huis
 
  
 o.a. kasteeltje Sint-Pieter
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 o.a. Burrefetwinning (met duiventil), Coenegrachts (met duifhuis),
@@ -74,9 +74,9 @@ Liesens
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 o.a. Sint-Stefanuskerk, Sint-Pieterskerk, Sint-Genovevakerk,
@@ -84,8 +84,8 @@ Banneux-kapel
 
 **Klein historisch erfgoed:**
 
--kruis
--gedenkteken
+ * kruis
+ * gedenkteken
 
  
 o.a. gietijzeren kruis, monument van de Roosburg
@@ -105,28 +105,28 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 in het algemeen onregelmatig, op enkele gedeelten historisch stabiel
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 traditioneel open akkerbouwgebied op de hoger gelegen delen,
@@ -134,14 +134,14 @@ permanent grasland rond de dorpskommen
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hooghout
--struweel
+ * loof
+ * hooghout
+ * struweel
 
  
 enkele, kleine hellingbosjes

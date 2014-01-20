@@ -18,22 +18,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
+ * waterloop
+ * beek
 
  
 Vlemincksloop, Beemdenloop, peerloop, Waterstraatloop
 
 **Moerassige gronden:**
 
--moeras
--veen
--ven
+ * moeras
+ * veen
+ * ven
 
  
 slenken-bultenmoeras
@@ -46,8 +46,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--stuw
+ * kanaal
+ * stuw
 
  
 kanaal Dessel-Kwaadmechelen
@@ -57,35 +57,35 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--knotbomenrij
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--poel
--turfput
--vijver
+ * poel
+ * turfput
+ * vijver
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--plaggenbodems
--heide
+ * permanent grasland
+ * plaggenbodems
+ * heide
 
  
 **Bos:**
 
--naald
--loof
--broek
--struweel
+ * naald
+ * loof
+ * broek
+ * struweel
 
  
 

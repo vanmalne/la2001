@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 
@@ -27,32 +27,32 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--ijskelder
--kasteelgracht
+ * kasteel
+ * toren
+ * ijskelder
+ * kasteelgracht
 
  
 + cirkelvormig dienstgebouw, knechtenwoningen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 
@@ -64,28 +64,28 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--hagen
+ * dreef
+ * bomenrij
+ * hagen
 
 haag rond kasteelpark
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--loof
--middelhout
--hooghout
+ * loof
+ * middelhout
+ * hooghout
 
  
 

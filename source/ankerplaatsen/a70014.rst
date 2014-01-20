@@ -18,21 +18,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--holle weg
+ * macroreliëf
+ * holle weg
 
 zacht glooiend reliëf
 
 **Hydrografische\_Elementen:**
 
--rivier
--vallei
+ * rivier
+ * vallei
 
  
 Demer
@@ -50,51 +50,51 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
--hof
+ * tuin
+ * park
+ * hof
 
  
 Engels park, Franse tuin, voorhof van de landcommanderij
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--orangerie
--landgoed
--muur
--omheining
--kasteelgracht
+ * kasteel
+ * orangerie
+ * landgoed
+ * muur
+ * omheining
+ * kasteelgracht
 
  
 Landcommanderij Alden Biezen
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
+ * (heren)woning
 
  
 pachterswoning, rentmeesterswoning van de landcommanderij
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 neerhof, rentmeesterswoning van de landcommanderij
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 o.a. kapel van de landcommanderij
 
 **Klein historisch erfgoed:**
 
--kruis
+ * kruis
 
  
 
@@ -111,32 +111,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 grasland (onder boomgaarden), open akkers op hogere leemplateaus,
@@ -144,14 +144,14 @@ vochtige beemden in vallei
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hooghout
--struweel
+ * loof
+ * hooghout
+ * struweel
 
  
 o.a. parkbos, Winterbergbos

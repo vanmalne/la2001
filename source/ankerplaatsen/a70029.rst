@@ -18,29 +18,29 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--markante terreinovergang
+ * macroreliëf
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
--meander
--oude rivierarm
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 Itterbeek, Raambeek, verlaten Maasmeander
 
 **Moerassige gronden:**
 
--moeras
--veen
--ven
+ * moeras
+ * veen
+ * ven
 
  
 
@@ -49,34 +49,34 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--hof
+ * hof
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--toren
+ * toren
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Stokbroekhof
 
 **Militair erfgoed:**
 
--motte
+ * motte
 
  
 De Berg
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 Sint-Martinuskerk, grafkapel Michiels
@@ -89,13 +89,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--pad
--Romeinse weg
+ * pad
+ * Romeinse weg
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 Raambeek met grachtenstelsel, zogenaamde Raampjes
@@ -105,35 +105,35 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * hagen
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--turfput
+ * turfput
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--broek
--hakhout
+ * broek
+ * hakhout
 
  
 **Bijzondere waterhuishouding:**
 
--uiterwaarden
+ * uiterwaarden
 
  
 

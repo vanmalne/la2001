@@ -18,22 +18,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
+ * macroreliëf
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
+ * waterloop
+ * beek
 
  
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 
@@ -42,7 +42,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 
@@ -51,8 +51,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -61,16 +61,16 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
+ * bomenrij
 
 **Bos:**
 
--loof
+ * loof
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 

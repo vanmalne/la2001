@@ -16,28 +16,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
+ * waterloop
+ * beek
+ * vallei
+ * meander
 
  
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 
@@ -46,31 +46,31 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--hof
+ * hof
 
  
 Hof ter Bruggen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Hof ter Bruggen
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 Verrebeekmolen
 
 **Kerkelijk erfgoed:**
 
--kapel
--pastorie
+ * kapel
+ * pastorie
 
  
 Oude Pastorie
@@ -80,40 +80,40 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--kaphaag
+ * bomenrij
+ * houtkant
+ * hagen
+ * kaphaag
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Bos:**
 
--loof
--middelhout
--hooghout
+ * loof
+ * middelhout
+ * hooghout
 
  
 

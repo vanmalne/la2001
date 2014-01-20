@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 
@@ -27,7 +27,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Militair erfgoed:**
 
--motte
+ * motte
 
  
 site ten doele
@@ -45,12 +45,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

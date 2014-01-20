@@ -18,33 +18,33 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--graft
--talud
+ * microreliëf
+ * graft
+ * talud
 
  
 ook dassenburchten
 
 **Macroreliëf:**
 
--macroreliëf
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * markante terreinovergang
+ * holle weg
 
 diepe insnijding van Jeker, Maas (Nederland en Wallonië) en het
 uitgegraven Albertkanaal
 
 **Hydrografische\_Elementen:**
 
--rivier
+ * rivier
 
  
 Jeker, in Kanne grotendeels gekanaliseerd
 
 **Geologie:**
 
--ontsluitingen
--karsten
+ * ontsluitingen
+ * karsten
 
  
 mergelgroeven w.o. Tiendenberg, Slingerberg, Muizenberg, Caestert,
@@ -58,21 +58,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 valleisite
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
+ * kasteel
 
  
 terrassenkasteel van Neerkanne, echter gelegen in
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
+ * (heren)woning
+ * huis
 
  
 o.a. notarishuis Rendorp, panden in de Kleine Molenstraat en het
@@ -80,9 +80,9 @@ Avergat
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 o.a. Avergat, Cilissen, Vrancken, Vrijens, Caesterhoeve op plateau
@@ -90,14 +90,14 @@ o.a. Avergat, Cilissen, Vrancken, Vrijens, Caesterhoeve op plateau
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 molen van Neerkanne (Kleine molen, Smokkelmolen), molen van Opkanne
 
 **Militair erfgoed:**
 
--bunker
+ * bunker
 
  
 bunker nabij Albertkanaal te Vroenhoven, onderdeel van
@@ -105,10 +105,10 @@ verdedigingslinie
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--klooster
--pastorie
+ * kerk
+ * kapel
+ * klooster
+ * pastorie
 
  
 o.a. Sint-Hubertuskerk, H.-Grafkapel, voormalig rectorshuis van de
@@ -116,8 +116,8 @@ kanunniken van Hoogcruts-Noorbeek
 
 **Klein historisch erfgoed:**
 
--gedenkteken
--grenspaal
+ * gedenkteken
+ * grenspaal
 
  
 oorlogsgedenkteken nabij Albertkanaal te Vroenhoven
@@ -134,8 +134,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--brug
+ * kanaal
+ * brug
 
  
 bruggen over Albertkanaal te Kanne en Vroenhoven
@@ -145,23 +145,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--houtkant
--hagen
+ * houtkant
+ * hagen
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 open akkerbouwgebied en bos op het hoger gelegen leemplateau,
@@ -169,15 +169,15 @@ graslanden in vallei en op hellingen
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hakhout
--hooghout
--struweel
+ * loof
+ * hakhout
+ * hooghout
+ * struweel
 
  
 o.a. Carrébos, Overbos

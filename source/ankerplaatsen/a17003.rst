@@ -18,36 +18,36 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--landduin
--holle weg
+ * macroreliëf
+ * heuvel
+ * landduin
+ * holle weg
 
 o.a. Houterenberg, Weefberg, Zandberg
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 o.a. Gerhagenloop, Heideloop
 
 **Moerassige gronden:**
 
--ven
+ * ven
 
  
 o.a. Pinnekenswijer
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 **Andere:**
@@ -58,43 +58,43 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 abdijtuin, Mariapark
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 o.a. abdijhoeve, Bierhoeve, De Eik
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 o.a. Oude Molen (Achterheide), restanten Oude Molen (Houterenberg)
 
 **Militair erfgoed:**
 
--schans
+ * schans
 
  
 Gerhagenschans
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--abdij
--klooster
--pastorie
+ * kerk
+ * kapel
+ * abdij
+ * klooster
+ * pastorie
 
  
 o.a. abdij van Averbode, Mariapark, kapel Onze-Lieve-Vrouw van Zeven
@@ -110,8 +110,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 straalvormig patroon rond centrale abdij
@@ -121,44 +121,44 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--plaggenbodems
--heide
+ * plaggenbodems
+ * heide
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--hooghout
--struweel
+ * naald
+ * loof
+ * hooghout
+ * struweel
 
  
 o.a. Averbodebos, Averbodeheide, Houterenberg, Nac

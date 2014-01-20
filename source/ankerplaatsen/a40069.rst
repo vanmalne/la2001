@@ -16,27 +16,27 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
+ * macroreliëf
 
 dijken
 
 **Hydrografische\_Elementen:**
 
--waterloop
--kreek
+ * waterloop
+ * kreek
 
  
 grotendeels verlande kreek
 
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 verlande kreken
@@ -46,22 +46,22 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 dijkhuisjes
 
 **Bouwkundig erfgoed:**
 
--huis
+ * huis
 
  
 dijkhuisjes
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 
@@ -70,16 +70,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--brug
--grachtenstelsel
+ * kanaal
+ * dijk
+ * brug
+ * grachtenstelsel
 
  
 Leopoldskanaal
@@ -89,25 +89,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
+ * bomenrij
 
 bomenrijen langs de dijken
 
 **Topografie:**
 
--repelvormig
--blokvormig
--onregelmatig
+ * repelvormig
+ * blokvormig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

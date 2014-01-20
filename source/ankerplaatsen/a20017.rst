@@ -18,28 +18,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--holle weg
+ * macroreliëf
+ * heuvel
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 
@@ -48,39 +48,39 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
--hof
+ * tuin
+ * park
+ * hof
 
  
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
+ * nederzettingspatroon
+ * plein
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
+ * kasteel
+ * toren
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 **Klein historisch erfgoed:**
 
--standbeeld
+ * standbeeld
 
  
 **Andere:**
@@ -91,20 +91,20 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Spoorweg:**
 
--verlaten spoorweg
--oude tramroute
+ * verlaten spoorweg
+ * oude tramroute
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--grachtenstelsel
+ * dijk
+ * sluis
+ * grachtenstelsel
 
  
 
@@ -113,27 +113,27 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--turfput
+ * turfput
 
  
 **Bos:**
 
--loof
+ * loof
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 

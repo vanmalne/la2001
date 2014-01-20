@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Cicindria, Melsterbeek
@@ -33,9 +33,9 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
--hof
+ * tuin
+ * park
+ * hof
 
  
 begijnhof, kastelen Nonnen-Mielen, Speelhof, Spinneveld, kasteel en
@@ -43,49 +43,49 @@ pastorie Melveren
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Melveren
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--hovenierswoning
--landgoed
--muur
--omheining
--kasteelgracht
+ * kasteel
+ * hovenierswoning
+ * landgoed
+ * muur
+ * omheining
+ * kasteelgracht
 
  
 kastelen Melveren, Nonnen-Mielen, Speelhof, Spinne
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--herberg
+ * (heren)woning
+ * huis
+ * herberg
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 o.a. begijnhof, De Nonnentap, Nonnen-Mielen
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Hornemolen, Metsterenmolen
 
 **Kerkelijk erfgoed:**
 
--kerk
--pastorie
+ * kerk
+ * pastorie
 
  
 o.a. Salvator Mundikerk, pastorie Melveren
@@ -103,8 +103,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 parkpaden, toegangs- en rondwegen
@@ -114,47 +114,47 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 historisch stabiel rond Metsteren
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 grasland onder boomgaarden en weiden langs Cicindria en Melsterbeek
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hooghout
--struweel
+ * loof
+ * hooghout
+ * struweel
 
  
 parkbossen

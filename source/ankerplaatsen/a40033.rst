@@ -18,32 +18,32 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--steilrand
--markante terreinovergang
+ * steilrand
+ * markante terreinovergang
 
 steilrand aan Schelderode
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 **Geologie:**
@@ -56,44 +56,44 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteel avn Schelderode en van Welden
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
+ * nederzettingspatroon
+ * plein
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--hovenierswoning
--kasteelgracht
+ * kasteel
+ * toren
+ * hovenierswoning
+ * kasteelgracht
 
  
 kasteel van Schelderode en Welden, neerhof
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--herberg
+ * (heren)woning
+ * herberg
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 kerk van Schelderode en Zevergem, Sint- Elooiskapel
@@ -103,15 +103,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--kerkwegel
+ * weg
+ * pad
+ * kerkwegel
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--grachtenstelsel
+ * dijk
+ * grachtenstelsel
 
  
 
@@ -120,42 +120,42 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Topografie:**
 
--blokvormig
--onregelmatig
+ * blokvormig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--meersen
+ * meersen
 
  
 **Bos:**
 
--loof
--broek
--middelhout
--hooghout
--struweel
+ * loof
+ * broek
+ * middelhout
+ * hooghout
+ * struweel
 
  
 bosje rond Melsenbeek

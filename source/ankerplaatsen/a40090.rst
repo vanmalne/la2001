@@ -18,25 +18,25 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
+ * macroreliëf
+ * heuvel
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
+ * kasteel
 
  
 
@@ -45,13 +45,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--brug
+ * brug
 
  
 
@@ -60,25 +60,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--hagen
+ * bomenrij
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--loof
--middelhout
--hooghout
+ * loof
+ * middelhout
+ * hooghout
 
  
 

@@ -18,20 +18,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Tappelbeek
 
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 
@@ -40,33 +40,33 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--orangerie
--muur
--kasteelgracht
+ * kasteel
+ * toren
+ * orangerie
+ * muur
+ * kasteelgracht
 
  
 'Hof van Liere' + paviljoen, 'Kasteel Montens'
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
+ * (heren)woning
 
  
 dienstwoningen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--stal
+ * hoeve
+ * stal
 
  
 Bogaardehoeve
@@ -80,7 +80,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 oude kasseiweg
@@ -90,28 +90,28 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 

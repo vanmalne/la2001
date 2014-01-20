@@ -18,18 +18,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
+ * macroreliëf
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Bovenvliet, Hollebeek en Grote Struisbeek
@@ -39,42 +39,42 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
--hof
+ * park
+ * hof
 
  
 Monnikenhof
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--orangerie
--landgoed
--muur
--ijskelder
--kasteelgracht
+ * kasteel
+ * toren
+ * orangerie
+ * landgoed
+ * muur
+ * ijskelder
+ * kasteelgracht
 
  
 dienstwoningen, serres, omheiningsmuur, brug
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--stal
--wagenhuis
+ * hoeve
+ * stal
+ * wagenhuis
 
  
 **Militair erfgoed:**
 
--schans
+ * schans
 
  
 2 schansen
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 Kapel bij Monnikenhof
@@ -84,14 +84,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 Geplaveide weg naar kasteel Cleydael
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -100,20 +100,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--hagen
--knotbomenrij
+ * dreef
+ * bomenrij
+ * hagen
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--loof
--hooghout
+ * loof
+ * hooghout
 
  
 

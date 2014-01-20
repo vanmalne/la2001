@@ -18,21 +18,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--graft
--talud
+ * graft
+ * talud
 
  
 Wulfsberg en op westelijke helling
 
 **Macroreliëf:**
 
--heuvel
+ * heuvel
 
 topzones van interfluviale kam tussen Schelde en Leie
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 
@@ -41,22 +41,22 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--hof
+ * hof
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--boswachterswoning
--landgoed
+ * kasteel
+ * boswachterswoning
+ * landgoed
 
  
 kasteel Banhout uit 1857
 
 **Landbouwkundig erfgoed:**
 
--stal
--wagenhuis
+ * stal
+ * wagenhuis
 
  
 nabij kasteel Banhout
@@ -69,16 +69,16 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 **Bos:**
 
--loof
--middelhout
--struweel
+ * loof
+ * middelhout
+ * struweel
 
  
 

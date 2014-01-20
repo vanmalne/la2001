@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--holle weg
+ * macroreliëf
+ * steilrand
+ * holle weg
 
 door riviererosie sterk versneden steilrand tussen Laag- en
 Midden-België
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Molenbeek of Mombeek, Winterbeek
@@ -49,55 +49,55 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 kasteeltuin Bellevue, kasteelparken Gorsleeuw, Haagsmeer en Opleeuw
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 hoopdorp Gorsleeuw, straatdorp Opleeuw
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--boswachterswoning
--landgoed
--muur
--ijskelder
+ * kasteel
+ * boswachterswoning
+ * landgoed
+ * muur
+ * ijskelder
 
  
 Bellevue, Gorsleeuw, Haagsmeer, Opleeuw
 
 **Bouwkundig erfgoed:**
 
--huis
+ * huis
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 o.a. Oude Winning, kasteelhoeven Gorsleeuw, Haagsmeer, Opleeuw,
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 o.a. Sint-Martinus
 
 **Klein historisch erfgoed:**
 
--kruis
+ * kruis
 
  
 o.a. gietzijzeren pomp, Opleeuwkruis
@@ -113,7 +113,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--Oostenrijkse periode
+ * Oostenrijkse periode
 
  
 Tongersesteenweg
@@ -123,34 +123,34 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--knotbomenrij
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 gedeeltelijk historsich stabiel
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 grasland onder boomgaarden, vochtige beemden, traditioneel open
@@ -158,15 +158,15 @@ akkergebied op hogere delen
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--broek
--hooghout
--struweel
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 historisch stabiel Bellevuebos , hellingbos op oos

@@ -18,21 +18,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Berkenbeek
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 laagveen
@@ -42,7 +42,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Klein historisch erfgoed:**
 
--grenspaal
+ * grenspaal
 
  
 **Archeologische elementen:**
@@ -53,7 +53,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -62,28 +62,28 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--broek
--struweel
+ * broek
+ * struweel
 
  
 

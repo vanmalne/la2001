@@ -18,14 +18,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 typisch voor Oudlandpolder
 
 **Hydrografische\_Elementen:**
 
--waterloop
+ * waterloop
 
  
 Blankenberge- en Isabellavaart belangrijk
@@ -35,7 +35,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Blauwe Duivekeet
@@ -49,10 +49,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--sluis
--grachtenstelsel
+ * kanaal
+ * dijk
+ * sluis
+ * grachtenstelsel
 
  
 sommige sluizen nog met hand te bedienen; lanen in de weilanden
@@ -62,32 +62,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
+ * bomenrij
+ * knotbomenrij
 
 vlakbij en rond de gebouwen
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 pole als veedrinkput; vijver rond Neptunuswijk
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

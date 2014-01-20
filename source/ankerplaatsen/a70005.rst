@@ -18,24 +18,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 o.a. Demer, Tuilterdemer
 
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 vochtig grasland
@@ -45,42 +45,42 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--landgoed
--muur
--omheining
--kasteelgracht
+ * landgoed
+ * muur
+ * omheining
+ * kasteelgracht
 
  
 restanten van het gebruik van de abdissenvleugel e
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 abdijhoeve, Altenhof
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 abdijmolen, Tuiltermolen
 
 **Kerkelijk erfgoed:**
 
--kapel
--abdij
--klooster
+ * kapel
+ * abdij
+ * klooster
 
  
 voormalige abdij Herkenrode
@@ -94,17 +94,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--pad
+ * pad
 
  
 verbindingen met het Altenhof en met Stokrooie
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--brug
--grachtenstelsel
--stuw
+ * dijk
+ * brug
+ * grachtenstelsel
+ * stuw
 
  
 
@@ -113,53 +113,53 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 telkens een molenvijver achter de twee watermolens
 
 **Topografie:**
 
--onregelmatig
--historisch stabiel
--bolle akkers
+ * onregelmatig
+ * historisch stabiel
+ * bolle akkers
 
  
 **Historisch stabiel landgebruik:**
 
--plaggenbodems
+ * plaggenbodems
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
--vloeiweide
+ * ontwatering
+ * vloeiweide
 
  
 uitgebreid grachtensysteem voor bevloeiing en ontwatering

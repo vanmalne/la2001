@@ -18,28 +18,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--rivierduin
+ * macroreliëf
+ * rivierduin
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--moeras
--veen
+ * moeras
+ * veen
 
  
 
@@ -48,36 +48,36 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--hof
+ * tuin
+ * hof
 
  
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--kasteelgracht
+ * kasteel
+ * kasteelgracht
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 **Militair erfgoed:**
 
--verdedingingslinie
+ * verdedingingslinie
 
  
 anti-tankgracht
@@ -90,15 +90,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--brug
--grachtenstelsel
+ * dijk
+ * brug
+ * grachtenstelsel
 
  
 Oude Hansbrug
@@ -108,38 +108,38 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--meersen
+ * permanent grasland
+ * meersen
 
  
 **Bos:**
 
--loof
--broek
+ * loof
+ * broek
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 

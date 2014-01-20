@@ -18,27 +18,27 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
+ * macroreliëf
+ * steilrand
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--meander
+ * waterloop
+ * beek
+ * meander
 
  
 Molenbeek, Dorebeek, Zwartengracht
 
 **Moerassige gronden:**
 
--moeras
--veen
+ * moeras
+ * veen
 
  
 
@@ -47,21 +47,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Cottenmolen
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -70,16 +70,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Spoorweg:**
 
 **Waterbouwkundige\_infrastructuur:**
 
--brug
--sluis
+ * brug
+ * sluis
 
  
 
@@ -88,49 +88,49 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--houtwal
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * houtwal
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--kouters
--meersen
+ * permanent grasland
+ * kouters
+ * meersen
 
  
 **Typische landbouwteelten:**
 
--vlas
+ * vlas
 
  
 rooiputten aanwezig
 
 **Bos:**
 
--naald
--loof
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * middelhout
+ * hooghout
+ * struweel
 
  
 

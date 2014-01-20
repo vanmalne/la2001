@@ -16,29 +16,29 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--steilrand
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * steilrand
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
+ * waterloop
+ * beek
+ * vallei
+ * meander
 
  
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 Diestiaanzand en ijzerzandsteen
@@ -48,55 +48,55 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
--hof
+ * tuin
+ * park
+ * hof
 
  
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
--gehucht
+ * nederzettingspatroon
+ * plein
+ * gehucht
 
 Kwaremont
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--villa
--herberg
--afspanning
+ * (heren)woning
+ * huis
+ * villa
+ * herberg
+ * afspanning
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 Kwaremont, Hotondberg
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 Kwaremont
 
 **Klein historisch erfgoed:**
 
--standbeeld
+ * standbeeld
 
  
 Karel Van Wijnedaele (Kluisbergen)
@@ -106,10 +106,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--kerkwegel
--Romeinse weg
+ * weg
+ * pad
+ * kerkwegel
+ * Romeinse weg
 
  
 Romeinse weg ten zuiden van Kwaremont (van Blicquy naar Berchem en
@@ -126,40 +126,40 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--knotbomenrij
--kaphaag
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * kaphaag
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--kouters
+ * permanent grasland
+ * kouters
 
  
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 

@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Laarse Beek, Zeurtbeek
@@ -33,34 +33,34 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
--hof
+ * park
+ * hof
 
  
 Kasteelpark, Hof ter List
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--hovenierswoning
--ijskelder
+ * kasteel
+ * hovenierswoning
+ * ijskelder
 
  
 Kasteel van Brasschaat, Hof ter List
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--wagenhuis
+ * hoeve
+ * schuur
+ * wagenhuis
 
  
 Melkerij + bakhuis, Hemelhoeve
 
 **Kerkelijk erfgoed:**
 
--kerk
--pastorie
+ * kerk
+ * pastorie
 
  
 Parochiekerk St.-Antonius
@@ -70,7 +70,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -79,30 +79,30 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Bos:**
 
--naald
--loof
--hooghout
+ * naald
+ * loof
+ * hooghout
 
  
 

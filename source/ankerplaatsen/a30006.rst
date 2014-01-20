@@ -18,18 +18,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--markante terreinovergang
+ * markante terreinovergang
 
 overgang polder- zandstreek
 
 **Hydrografische\_Elementen:**
 
--waterloop
+ * waterloop
 
  
 Blankenbergevaart watert gebied af; zwinnen en geleden waarop
@@ -37,7 +37,7 @@ grachten aangesloten zijn
 
 **Moerassige gronden:**
 
--veen
+ * veen
 
  
 op sommige plaatsen nabij het oppervlak
@@ -47,29 +47,29 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 bij kastelen Bloemendale en Ter Lucht
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Meetkerke
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
+ * kasteel
+ * landgoed
 
  
 Bloemendale, Ter Lucht
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
+ * hoeve
+ * schuur
 
  
 Rode Poort Hoeve; hoeve rond Kapellebrug met boomgaard; Ter Mere en
@@ -77,23 +77,23 @@ Ter Zale
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 Poldermolen voor bemaling van de Moeren
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 kerk van Meetkerke met Romaanse resten
 
 **Klein historisch erfgoed:**
 
--eendenkooi
+ * eendenkooi
 
  
 
@@ -102,16 +102,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 kasseiweg door Meetkerke
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--sluis
--grachtenstelsel
+ * kanaal
+ * sluis
+ * grachtenstelsel
 
  
 kan. Gent-Oostende met begeleidende bomenrij; kleine sluizen
@@ -121,47 +121,47 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 dreef: oprijlanen naar gebouwen; perceelsrandbegroeiing vooral in Lage
 Moere
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 veedrinkput
 
 **Topografie:**
 
--repelvormig
--opstrekkend
+ * repelvormig
+ * opstrekkend
 
  
 repelvormig in laagste deel; percelen opstrekkend op dekzandrug
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 No
 
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 **Bijzondere waterhuishouding:**
 
--droogmakerij
+ * droogmakerij
 
  
 

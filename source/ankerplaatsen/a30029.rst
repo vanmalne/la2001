@@ -18,13 +18,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--heuvel
+ * heuvel
 
 heuvelrug
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Korverbeek en Zanddambeek
@@ -34,14 +34,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--landgoed
+ * landgoed
 
  
 kasteel De Groote
 
 **Bouwkundig erfgoed:**
 
--herberg
+ * herberg
 
  
 munneke herberg in zuidwesten
@@ -63,23 +63,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 dreven in Vrijbos, restanten ervan in het bos van Houthulst
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 oude bomkraters
 
 **Bos:**
 
--naald
--loof
--hakhout
--middelhout
+ * naald
+ * loof
+ * hakhout
+ * middelhout
 
  
 

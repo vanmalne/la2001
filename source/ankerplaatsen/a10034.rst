@@ -18,24 +18,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--steilrand
+ * steilrand
 
 **Hydrografische\_Elementen:**
 
--waterloop
--vallei
+ * waterloop
+ * vallei
 
  
 De Vliet
 
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 
@@ -44,12 +44,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Bouwkundig erfgoed:**
 
--huis
+ * huis
 
  
 **Landbouwkundig erfgoed:**
 
--schuur
+ * schuur
 
  
 
@@ -58,8 +58,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--grachtenstelsel
+ * dijk
+ * grachtenstelsel
 
  
 
@@ -68,30 +68,30 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--knotbomenrij
+ * dreef
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--kouters
+ * kouters
 
  
 **Bos:**
 
--loof
--broek
--hakhout
--hooghout
+ * loof
+ * broek
+ * hakhout
+ * hooghout
 
  
 

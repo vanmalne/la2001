@@ -18,21 +18,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Grote Beek
 
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 
@@ -41,14 +41,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--hof
+ * hof
 
  
 Wezels Hof
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteelgracht
+ * kasteelgracht
 
  
 **Bouwkundig erfgoed:**
@@ -58,10 +58,10 @@ dienstgebouwtje en jagersafspanning
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 Vloeikenshoeve, bakhuis, duiventoren
@@ -71,14 +71,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 aardenweg
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -87,32 +87,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 heiderelicten
 
 **Bos:**
 
--naald
--loof
--broek
--hooghout
+ * naald
+ * loof
+ * broek
+ * hooghout
 
  
 

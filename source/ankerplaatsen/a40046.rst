@@ -16,23 +16,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
+ * waterloop
+ * beek
+ * vallei
+ * meander
 
  
 vallei van de Oossebeek, Spouwbeek en Borrebeek
@@ -42,45 +42,45 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
--gehucht
+ * nederzettingspatroon
+ * plein
+ * gehucht
 
 Mater, Horebeke en Tissenhove
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--herberg
+ * (heren)woning
+ * huis
+ * herberg
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--watermolen
--windmolen
+ * watermolen
+ * windmolen
 
  
 Tissenhovemolen (windmolen) en Zwadderkotmolen (watermolen)
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 kerk en pastorie van Mater en Horebeke
@@ -90,8 +90,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 kasseiweg
@@ -101,36 +101,36 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--knotbomenrij
--kaphaag
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * kaphaag
+ * perceelsrandbegroeiing
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--kouters
+ * permanent grasland
+ * kouters
 
  
 **Bos:**
 
--loof
--middelhout
--hooghout
--struweel
+ * loof
+ * middelhout
+ * hooghout
+ * struweel
 
  
 

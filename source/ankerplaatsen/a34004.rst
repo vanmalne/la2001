@@ -16,19 +16,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
+ * macroreliëf
+ * heuvel
 
 cuesta van Oedelem
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Waarschootbeek, Splenterbeek, Vijverbeek
@@ -40,7 +40,7 @@ beekdalbos
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 Bartoonklei (cuesta van Oedelem)
@@ -50,23 +50,23 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Kasteel Wapenaar
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
+ * kasteel
 
  
 Kasteel Wapenaar
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Burkelhoeve
@@ -76,9 +76,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Oostenrijkse periode
+ * weg
+ * pad
+ * Oostenrijkse periode
 
  
 
@@ -87,40 +87,40 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 vijver bij kasteel Wapenaar en bij Burkelhoeve
 
 **Topografie:**
 
--blokvormig
--historisch stabiel
+ * blokvormig
+ * historisch stabiel
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 canadapopulier
 
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--middelhout
--hooghout
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * hooghout
 
  
 **Bijzondere waterhuishouding:**

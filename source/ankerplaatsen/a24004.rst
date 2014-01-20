@@ -18,28 +18,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 bij groeves
 
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 twee zandsteengroeven
@@ -49,22 +49,22 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--plein
--gehucht
+ * plein
+ * gehucht
 
 driehoekig dorpsplein van Meldert, Meisberg
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Hof te Putte
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 kerk van Meldert
@@ -74,8 +74,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -84,37 +84,37 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--blokvormig
--onregelmatig
+ * blokvormig
+ * onregelmatig
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--middelhout
--hooghout
+ * naald
+ * loof
+ * middelhout
+ * hooghout
 
  
 

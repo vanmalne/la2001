@@ -18,28 +18,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--holle weg
+ * macroreliëf
+ * holle weg
 
 sterk door erosie versneden heuvelend landschap
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Bollebeek
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 oude ambachtelijke zandgroeve
@@ -49,37 +49,37 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
+ * tuin
 
  
 Grote Mot
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 langgerekt hoopdorp
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
+ * (heren)woning
+ * huis
 
  
 o.a. Grote Mot
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 o.a. Servaeshoeve
 
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 o.a. Sint-Servatiuskerk
@@ -95,14 +95,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--Romeinse weg
+ * Romeinse weg
 
  
 Tongeren-Kassel
 
 **Spoorweg:**
 
--oude tramroute
+ * oude tramroute
 
 Borgloon-Oreye
 
@@ -111,36 +111,36 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--houtkant
--hagen
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 grasland onder boomgaarden
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 

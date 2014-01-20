@@ -18,30 +18,30 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--rivierduin
+ * macroreliëf
+ * rivierduin
 
 Asberg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
+ * waterloop
+ * rivier
+ * vallei
 
  
 Grote Nete, Oude Loop, De Laak, Zijptloop
 
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 
@@ -56,7 +56,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 Beeltjesndreef
@@ -66,36 +66,36 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--dreef
--houtkant
+ * dreef
+ * houtkant
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 

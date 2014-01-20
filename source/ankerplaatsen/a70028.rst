@@ -18,27 +18,27 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
+ * macroreliëf
+ * landduin
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 o.a. Gortenloop, Gortenbuitenloop, Holvense Beek
 
 **Moerassige gronden:**
 
--moeras
--veen
--ven
+ * moeras
+ * veen
+ * ven
 
  
 
@@ -47,25 +47,25 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
+ * tuin
 
  
 omhaagde tuin en moestuin op het domein Hobos
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--herberg
--afspanning
+ * (heren)woning
+ * huis
+ * herberg
+ * afspanning
 
  
 domein Hobos, barrierhuis De Trapkens
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--stal
+ * hoeve
+ * stal
 
  
 domein Hobos, De Grote Hof
@@ -78,9 +78,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Oostenrijkse periode
+ * weg
+ * pad
+ * Oostenrijkse periode
 
  
 Steenweg van Luik naar Den Bosch uit 1777, onverhard wegenpatroon
@@ -91,57 +91,57 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 o.a. monumentale esdoorn op het erf van domein Hobos
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--houtwal
--hagen
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * houtwal
+ * hagen
+ * perceelsrandbegroeiing
 
 linde- en eikendreef, bomenrijen, houtkanten en -wallen op de
 perceelsgrenzen,
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 ter hoogte van Hobosdomein en 't Plat in de vallei van de Gortenloop
 
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 voormalig gemeen klodveld
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 gemengde fruitboomgaard en kastanjeboomgaard op het domein Hobos
 
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 relicten van de eerste experimentele bosbouwcultuu

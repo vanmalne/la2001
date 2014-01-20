@@ -16,23 +16,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
--meander
+ * waterloop
+ * rivier
+ * vallei
+ * meander
 
  
 
@@ -41,29 +41,29 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 Prinsenmolen
 
 **Militair erfgoed:**
 
--bunker
--verdedingingslinie
+ * bunker
+ * verdedingingslinie
 
  
 op de Muntekouter
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -72,8 +72,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -82,26 +82,26 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Bos:**
 
--naald
--loof
--middelhout
--hooghout
+ * naald
+ * loof
+ * middelhout
+ * hooghout
 
  
 

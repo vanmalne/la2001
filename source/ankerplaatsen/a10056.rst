@@ -18,22 +18,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--vallei
--meander
+ * waterloop
+ * vallei
+ * meander
 
  
 Molse Nete, Millegemloop
 
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 
@@ -48,30 +48,30 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--turfput
--vijver
+ * turfput
+ * vijver
 
  
 **Topografie:**
 
--repelvormig
--opstrekkend
+ * repelvormig
+ * opstrekkend
 
  
 **Historisch stabiel landgebruik:**
 
--plaggenbodems
+ * plaggenbodems
 
  
 **Bos:**
 
--broek
--struweel
+ * broek
+ * struweel
 
  
 

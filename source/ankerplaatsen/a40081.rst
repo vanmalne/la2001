@@ -16,26 +16,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
+ * macroreliëf
+ * heuvel
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 bronamfitheater
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 zandsteengroeven
@@ -45,30 +45,30 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 **Militair erfgoed:**
 
--fort
--bunker
--motte
--verdedingingslinie
+ * fort
+ * bunker
+ * motte
+ * verdedingingslinie
 
  
 verdedigingsgordel rond Gent, motte bij Hof ter Hulst
 
 **Kerkelijk erfgoed:**
 
--kerk
--pastorie
+ * kerk
+ * pastorie
 
  
 Moortsele en Landskouter
@@ -81,8 +81,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Spoorweg:**
@@ -92,22 +92,22 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Bos:**
 
--loof
--middelhout
--hooghout
--struweel
+ * loof
+ * middelhout
+ * hooghout
+ * struweel
 
  
 

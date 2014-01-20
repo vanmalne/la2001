@@ -21,36 +21,36 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
--hof
+ * park
+ * hof
 
  
 hof van Breda; park bij kasteel van Loppem
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--landgoed
--muur
--ijskelder
--kasteelgracht
+ * kasteel
+ * toren
+ * landgoed
+ * muur
+ * ijskelder
+ * kasteelgracht
 
  
 kasteeldomein Loppem; merkwaardig grottencomplex
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--stal
--wagenhuis
+ * hoeve
+ * stal
+ * wagenhuis
 
  
 kasteelhoeve, Evershof, hof van Breda
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 aan toegangsdreef naar hoeve
@@ -68,29 +68,29 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 in park
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 bij kasteel
 
 **Bos:**
 
--loof
--hakhout
+ * loof
+ * hakhout
 
  
 

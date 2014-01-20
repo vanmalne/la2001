@@ -18,14 +18,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 wal van het fort
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Scheidingsbeek
@@ -35,7 +35,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Militair erfgoed:**
 
--fort
+ * fort
 
  
 
@@ -47,8 +47,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
+ * bomenrij
+ * knotbomenrij
 
 restanten van knotbomenrijen
 
@@ -59,17 +59,17 @@ gracht rond fort
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--loof
+ * loof
 
  
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

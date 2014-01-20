@@ -16,13 +16,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
+ * waterloop
 
  
 Burggravenstroom
@@ -32,7 +32,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 Kapel 'O-L-V van de Bevende Hazelaar'
@@ -42,13 +42,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--pompgemaal
+ * pompgemaal
 
  
 
@@ -57,30 +57,30 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--blokvormig
--historisch stabiel
+ * blokvormig
+ * historisch stabiel
 
  
 **Bos:**
 
--naald
--loof
--hakhout
--middelhout
--hooghout
+ * naald
+ * loof
+ * hakhout
+ * middelhout
+ * hooghout
 
  
 

@@ -18,15 +18,15 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
+ * waterloop
+ * rivier
+ * vallei
 
  
 Grote Nete, Goorbeekloop, Varendonkse Loop
@@ -36,26 +36,26 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--kasteelgracht
+ * kasteel
+ * toren
+ * kasteelgracht
 
  
 waterburcht, donjon, dienstgebouwen, kapel, brug
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 Kaaibeekhoeve
@@ -72,26 +72,26 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--hagen
+ * dreef
+ * bomenrij
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--naald
--loof
--broek
--hooghout
+ * naald
+ * loof
+ * broek
+ * hooghout
 
  
 

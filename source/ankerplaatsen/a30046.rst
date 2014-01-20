@@ -18,21 +18,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 valleiranden; uitgebakken terrein
 
 **Macroreliëf:**
 
--heuvel
+ * heuvel
 
 interfluviale kam
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Zandbeek; droge vallei tussen boscomplexen
@@ -42,14 +42,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 hoeve Driehoven (met ast), Labroye
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Archeologische elementen:**
@@ -63,14 +63,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--knotbomenrij
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 

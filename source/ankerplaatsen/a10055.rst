@@ -18,28 +18,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--landduin
+ * landduin
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
 
  
 Grote Nete, Grote- en Kleine Laak, Trichelbeek, Hoefkensloop
 
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 
@@ -48,16 +48,16 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 verschillende oudere hoeves
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 St. Bavokapel, Kruisweg
@@ -70,15 +70,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 oude wegenstructuur
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--grachtenstelsel
+ * dijk
+ * grachtenstelsel
 
  
 
@@ -87,48 +87,48 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 moerkuilen
 
 **Topografie:**
 
--opstrekkend
--historisch stabiel
+ * opstrekkend
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--plaggenbodems
+ * permanent grasland
+ * plaggenbodems
 
  
 **Bos:**
 
--loof
--broek
--hakhout
--struweel
+ * loof
+ * broek
+ * hakhout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--vloeiweide
+ * vloeiweide
 
  
 

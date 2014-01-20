@@ -16,35 +16,35 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--rivierduin
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * heuvel
+ * rivierduin
+ * steilrand
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 bronnenstraat (Christianabronnen)
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 
@@ -53,33 +53,33 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Kasteel Grenier
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--hovenierswoning
+ * kasteel
+ * hovenierswoning
 
  
 Kasteel Grenier, neerhof,
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 De Kaaihoeve
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 Christianakapel, kerk en pastorie van Welden en Nederzwalm
@@ -89,14 +89,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--grachtenstelsel
+ * dijk
+ * grachtenstelsel
 
  
 
@@ -105,47 +105,47 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
--turfput
--vijver
+ * poel
+ * turfput
+ * vijver
 
  
 vijvers bij Kasteel Grenier
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--kouters
--meersen
+ * kouters
+ * meersen
 
  
 **Bos:**
 
--loof
--broek
--hakhout
--middelhout
--hooghout
--struweel
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 

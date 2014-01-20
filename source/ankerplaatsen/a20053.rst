@@ -18,17 +18,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--oude rivierarm
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 
@@ -37,15 +37,15 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -54,31 +54,31 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--bomenrij
+ * bomenrij
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Historisch stabiel landgebruik:**
 
--kouters
--meersen
+ * kouters
+ * meersen
 
  
 No
 
 **Bos:**
 
--loof
--broek
--hakhout
+ * loof
+ * broek
+ * hakhout
 
  
 

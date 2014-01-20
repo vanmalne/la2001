@@ -22,7 +22,7 @@ interfluviale kam
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 zijbeek Marsbeek
@@ -32,34 +32,34 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Engelse landschapsstijl
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--ijskelder
--kasteelgracht
+ * kasteel
+ * landgoed
+ * ijskelder
+ * kasteelgracht
 
  
 kast. Nieuwburg en Breidels
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
+ * (heren)woning
+ * huis
 
  
 de gebouwen nabij kasteeldomein Nieuwburg door hun uniform kleur
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--stal
--wagenhuis
+ * hoeve
+ * stal
+ * wagenhuis
 
  
 landgoed bij kast. Nieuwburg en omliggende hoeves
@@ -72,46 +72,46 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 in de parken
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--knotbomenrij
+ * dreef
+ * bomenrij
+ * knotbomenrij
 
 gave knot/bomenrijen bij Nieuwburg
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 bij kastelen
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 geaccentueerd door dreven
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 bij kast Nieuwburg
 
 **Bos:**
 
--naald
--loof
--hakhout
--middelhout
+ * naald
+ * loof
+ * hakhout
+ * middelhout
 
  
 

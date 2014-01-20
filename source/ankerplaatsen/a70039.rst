@@ -18,28 +18,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
+ * macroreliëf
+ * landduin
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 o.a. Itterbeek, Zwart Water of Witbeek
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
--ven
+ * moeras
+ * veen
+ * rietland
+ * ven
 
  
 
@@ -48,25 +48,25 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--landgoed
+ * landgoed
 
  
 Jagersborg
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--herberg
+ * (heren)woning
+ * huis
+ * herberg
 
  
 Jagersborg met boerenburgerhuis
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 o.a. Jagersborg, Hof ter Heide
@@ -78,18 +78,18 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 blokvormig, regelmatig wegenpatroon
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--grachtenstelsel
--stuw
+ * dijk
+ * sluis
+ * grachtenstelsel
+ * stuw
 
  
 
@@ -98,46 +98,46 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--houtwal
+ * dreef
+ * bomenrij
+ * houtkant
+ * houtwal
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--heide
+ * permanent grasland
+ * heide
 
  
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 

@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 langs randen beekvalleien
@@ -29,8 +29,8 @@ interfluvium
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 vallei Kemmelbeek; talrijke bronnen voor zijbeken Kemmelbeek en
@@ -41,23 +41,23 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 bij kastelen
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--orangerie
--hovenierswoning
--landgoed
--muur
+ * kasteel
+ * orangerie
+ * hovenierswoning
+ * landgoed
+ * muur
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Hospitaalhoeveen andere (soms restant walgracht)
@@ -69,8 +69,8 @@ begraafplaatsen WOI (vnl. Britse)
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 kerk van Elverdinge
@@ -83,30 +83,30 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 bij kapellen
 
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 zuidelijke grens
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 bij kastelen; poelen in bossen
 
 **Bos:**
 
--loof
--hakhout
--middelhout
+ * loof
+ * hakhout
+ * middelhout
 
  
 

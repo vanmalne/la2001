@@ -16,23 +16,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
+ * waterloop
+ * beek
+ * vallei
+ * meander
 
  
 bronnen op Kapelleberg (oa 'Fontanabronnen')
@@ -42,43 +42,43 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--hof
+ * tuin
+ * hof
 
  
 **Nederzettingspatronen:**
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
+ * (heren)woning
+ * huis
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Borgtmolen
 
 **Militair erfgoed:**
 
--fort
--verdedingingslinie
+ * fort
+ * verdedingingslinie
 
  
 Kezelfort
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 O-L-V van Kerselare met Rozenkransommegang
@@ -88,9 +88,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--kerkwegel
+ * weg
+ * pad
+ * kerkwegel
 
  
 
@@ -99,31 +99,31 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--knotbomenrij
--kaphaag
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * kaphaag
+ * perceelsrandbegroeiing
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--kouters
+ * permanent grasland
+ * kouters
 
  
 **Bos:**
 
--loof
--middelhout
--hooghout
--struweel
+ * loof
+ * middelhout
+ * hooghout
+ * struweel
 
  
 

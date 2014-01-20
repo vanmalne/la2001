@@ -18,22 +18,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--holle weg
+ * macroreliëf
+ * steilrand
+ * holle weg
 
 steilrand tussen Laag- en Midden-België
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Kleine Herk, Vilster- of Vilsteegbeek
@@ -48,24 +48,24 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
+ * tuin
 
  
 ommuurde abdijtuin en boomgaard
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 voormalig neerhof van de abdij
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--abdij
--pastorie
+ * kerk
+ * kapel
+ * abdij
+ * pastorie
 
  
 abdij Mariënlof met kerk en kapel Sint-Jozef, kapel Sint-Anna
@@ -78,39 +78,39 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--kerkwegel
+ * kerkwegel
 
  
 kerkwegel van abdij naar pastorie en kerk
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 grasland onder boomgaarden, vochtige beemden, open akkers op hoger
@@ -118,7 +118,7 @@ gelegen delen
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 

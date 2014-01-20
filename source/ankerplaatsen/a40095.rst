@@ -16,24 +16,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 
@@ -42,23 +42,23 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--hof
+ * hof
 
  
 Katteneie, Schalieveld
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Schalieveld, Katteneie, omwalling
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 Aumansmolen
@@ -68,9 +68,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--kerkwegel
+ * weg
+ * pad
+ * kerkwegel
 
  
 Koewegel
@@ -80,41 +80,41 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--poel
--turfput
+ * poel
+ * turfput
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--kouters
+ * permanent grasland
+ * kouters
 
  
 **Bos:**
 
--naald
--loof
--broek
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * middelhout
+ * hooghout
+ * struweel
 
  
 

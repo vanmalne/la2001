@@ -18,14 +18,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--steilrand
--markante terreinovergang
+ * steilrand
+ * markante terreinovergang
 
 overgang van Lovaart ( Ijzervallei) naar plateau van Izenberghe
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Hollevoordebeek, Scheibeek en talrijke kleinere beekjes
@@ -35,34 +35,34 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
+ * hoeve
+ * schuur
 
  
 talrijke waardevolle en gave hoeves met walgracht of restant ervan
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 Lindemolen
 
 **Militair erfgoed:**
 
--motte
+ * motte
 
  
 vlakbij St-Rijkers; ook elders nog motte-sites (bij Diephof)
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Klein historisch erfgoed:**
 
--kruis
+ * kruis
 
  
 
@@ -71,14 +71,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 2 oude wegenpatronen
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
+ * kanaal
 
  
 Lovaart waarschijnlijk volgens loop van zijbeek van Ijzer
@@ -88,21 +88,21 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 bomenrij langs Lovaart;perceelsrandbegroeiing soms nog zeer gaaf rond
 weilanden
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 

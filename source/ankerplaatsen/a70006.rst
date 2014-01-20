@@ -18,33 +18,33 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 oeverwallen, stuifzandreliëfs
 
 **Macroreliëf:**
 
--macroreliëf
--landduin
+ * macroreliëf
+ * landduin
 
 duinreliëfs
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
--meander
+ * beek
+ * vallei
+ * meander
 
  
 o.a. Zwarte Beek, Oude Beek, Winterbeek
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
--ven
+ * moeras
+ * veen
+ * rietland
+ * ven
 
  
 beemden, hier broeken genoemd, verruigde hooilanden
@@ -57,34 +57,34 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--gehucht
+ * nederzettingspatroon
+ * gehucht
 
 oude landbouwkernen De Hoef, Fonteintje, Hemelbrug, Hemelrijk,
 Spiekelspade
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Stalse Molen
 
 **Militair erfgoed:**
 
--schans
+ * schans
 
  
 o.a. Vurtense schans
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 o.a. kapel van Onze-Lieve-Vrouw-aan-de-Staak
@@ -97,18 +97,18 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 opstrekkend patroon van paden en wegen naar en door de vallei
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--grachtenstelsel
--stuw
+ * dijk
+ * sluis
+ * grachtenstelsel
+ * stuw
 
  
 stelsel van grachten en zijbeken in de broeken van de Zwarte
@@ -119,53 +119,53 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--turfput
--vijver
+ * turfput
+ * vijver
 
  
 **Topografie:**
 
--opstrekkend
--historisch stabiel
+ * opstrekkend
+ * historisch stabiel
 
  
 in de Zwarte Beekvallei
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--plaggenbodems
--heide
+ * permanent grasland
+ * plaggenbodems
+ * heide
 
  
 beemden, hier broeken genoemd
 
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
--vloeiweide
--watering
+ * ontwatering
+ * vloeiweide
+ * watering
 
  
 voormalige, bevloeide waterbeemden

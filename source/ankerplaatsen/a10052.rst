@@ -18,31 +18,31 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--steilrand
+ * macroreliëf
+ * heuvel
+ * steilrand
 
 Kruiskensberg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
--oude rivierarm
+ * waterloop
+ * rivier
+ * vallei
+ * oude rivierarm
 
  
 Grote Nete, Heiloop
 
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 
@@ -51,22 +51,22 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--stal
+ * hoeve
+ * stal
 
  
 Blauwe Hoeve + bakhuis
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 kruisweg
 
 **Klein historisch erfgoed:**
 
--kruis
+ * kruis
 
  
 ijzeren kruis
@@ -79,7 +79,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -88,32 +88,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 heiderelicten
 
 **Bos:**
 
--naald
--loof
--hooghout
+ * naald
+ * loof
+ * hooghout
 
  
 

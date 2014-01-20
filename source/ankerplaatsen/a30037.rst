@@ -18,21 +18,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--graft
--talud
+ * graft
+ * talud
 
  
 langs valleiranden en hellingen
 
 **Macroreliëf:**
 
--heuvel
--steilrand
--holle weg
+ * heuvel
+ * steilrand
+ * holle weg
 
 **Geologie:**
 
--graften
+ * graften
 
  
 langs hellingen veroorzaaakt door de lithologische ondergrond
@@ -49,32 +49,32 @@ dorpen op toppen van heuvels gelegen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
+ * hoeve
+ * schuur
 
  
 Westhof, allen in wederopbouwarchitectuur
 
 **Militair erfgoed:**
 
--bunker
--motte
+ * bunker
+ * motte
 
  
 bij Westhof en elders in ankerplaats
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 **Klein historisch erfgoed:**
 
--standbeeld
--kruis
--gedenkteken
--grenspaal
+ * standbeeld
+ * kruis
+ * gedenkteken
+ * grenspaal
 
  
 ter herinnering aan WOI
@@ -88,15 +88,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--Romeinse weg
+ * Romeinse weg
 
  
 Bellestraat (gem. Heuvelland)
 
 **Waterbouwkundige\_infrastructuur:**
 
--sluis
--stuw
+ * sluis
+ * stuw
 
  
 Dikkebusvijver afgedamd met sluis in Vaubantoren
@@ -106,38 +106,38 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--knotbomenrij
--kaphaag
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * kaphaag
+ * perceelsrandbegroeiing
 
 resten van bocagelandschap; grote soortenrijkdom aan knotbomen
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 poelen door geologische gesteldheid; Dikkebusvijver
 
 **Topografie:**
 
--blokvormig
--historisch stabiel
+ * blokvormig
+ * historisch stabiel
 
  
 in Douvevallei
 
 **Bos:**
 
--loof
--broek
--hakhout
--middelhout
--struweel
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * struweel
 
  
 broek rond elzenwallewijk;

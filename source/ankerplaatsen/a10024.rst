@@ -21,30 +21,30 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--kasteelgracht
+ * kasteel
+ * toren
+ * kasteelgracht
 
  
 Valkentoren, Smeedijzeren toegangspoort, kapel
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Riddershoeve
 
 **Klein historisch erfgoed:**
 
--gedenkteken
+ * gedenkteken
 
  
 
@@ -56,17 +56,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--loof
--hooghout
+ * loof
+ * hooghout
 
  
 

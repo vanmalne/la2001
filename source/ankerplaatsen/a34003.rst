@@ -18,21 +18,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 boswal in Slangebossen
 
 **Macroreliëf:**
 
--heuvel
+ * heuvel
 
 cuestafront
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 vallei van de Wantebeek rond brongebied
@@ -42,7 +42,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Akspoelehoeve, Schoonberg
@@ -58,30 +58,30 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--knotbomenrij
+ * dreef
+ * bomenrij
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--repelvormig
--historisch stabiel
+ * repelvormig
+ * historisch stabiel
 
  
 geometrisch patroon uit 18e eeuw; repelvormig in natte bosbestanden
 
 **Bos:**
 
--naald
--loof
--hakhout
--middelhout
--struweel
+ * naald
+ * loof
+ * hakhout
+ * middelhout
+ * struweel
 
  
 Vorte Bossen, Schoonbergbos, bronbos Wantebeek

@@ -16,22 +16,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--markante terreinovergang
+ * markante terreinovergang
 
 rand van de Cuesta van het Waasland
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
--kreek
+ * waterloop
+ * beek
+ * vallei
+ * meander
+ * kreek
 
  
 Rupelmondse Kreek, Barbierbeek, Kapelbeek, Kruibeekse Kreek, Bazelse
@@ -39,8 +39,8 @@ kreek, Twissels
 
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 
@@ -49,50 +49,50 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 **Nederzettingspatronen:**
 
--plein
--gehucht
+ * plein
+ * gehucht
 
 Bazel
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--muur
--kasteelgracht
+ * kasteel
+ * toren
+ * muur
+ * kasteelgracht
 
  
 Kasteel van Wissekerke, Graventoren, Altena
 
 **Bouwkundig erfgoed:**
 
--herberg
+ * herberg
 
  
 herberg de Eenhoorn
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 getijdewatermolen
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 Kerk van Bazel
@@ -105,17 +105,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Romeinse weg
+ * weg
+ * pad
+ * Romeinse weg
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--brug
--sluis
--pompgemaal
+ * dijk
+ * brug
+ * sluis
+ * pompgemaal
 
  
 stoompompgemaal
@@ -125,50 +125,50 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 linden op wegensplitsingen (met kapelletjes)
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--turfput
--weel
--vijver
+ * turfput
+ * weel
+ * vijver
 
  
 **Topografie:**
 
--repelvormig
--historisch stabiel
+ * repelvormig
+ * historisch stabiel
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--broek
--hakhout
--hooghout
--struweel
+ * loof
+ * broek
+ * hakhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--polder
--buitendijks
+ * polder
+ * buitendijks
 
  
 

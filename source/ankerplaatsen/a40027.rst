@@ -16,13 +16,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
+ * waterloop
+ * beek
 
  
 Heusdensloot
@@ -32,27 +32,27 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--hof
+ * tuin
+ * hof
 
  
 Slot van Laarne
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 relatie kasteel- kerk en dorp
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--muur
--omheining
--ijskelder
--kasteelgracht
--waterput
+ * kasteel
+ * toren
+ * muur
+ * omheining
+ * ijskelder
+ * kasteelgracht
+ * waterput
 
  
 **Bouwkundig erfgoed:**
@@ -62,12 +62,12 @@ gemeentehuis
 
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 **Klein historisch erfgoed:**
 
--schandpaal
+ * schandpaal
 
  
 
@@ -76,14 +76,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 kasseiweg
 
 **Waterbouwkundige\_infrastructuur:**
 
--brug
+ * brug
 
  
 
@@ -92,35 +92,35 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * perceelsrandbegroeiing
 
 kasteeldreven
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 binnen- en buitengrachten
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Bos:**
 
--loof
--middelhout
--hooghout
+ * loof
+ * middelhout
+ * hooghout
 
  
 boomgaard

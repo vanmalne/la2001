@@ -18,16 +18,16 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 typisch voor Oudlandpolders
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--kreek
+ * waterloop
+ * beek
+ * kreek
 
  
 geleden, beken, kreekrestant
@@ -37,15 +37,15 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
+ * hoeve
+ * schuur
 
  
 vooral op hogere kreekruggronden
 
 **Militair erfgoed:**
 
--motte
+ * motte
 
  
 ter hoogte van Dudzele dorp
@@ -58,21 +58,21 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
+ * bomenrij
+ * knotbomenrij
 
 restanten van een veel dichter netwerk; ook veel rond hoeves en gebouwen
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 veedrinkput
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 

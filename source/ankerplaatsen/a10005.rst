@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Miksebeek
@@ -28,22 +28,22 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Engelse parkstijl
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--kasteelgracht
+ * kasteel
+ * kasteelgracht
 
  
 Brug en poort
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 
@@ -52,7 +52,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -61,23 +61,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--naald
--loof
--hooghout
+ * naald
+ * loof
+ * hooghout
 
  
 **Andere:**

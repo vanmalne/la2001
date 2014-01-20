@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
+ * macroreliëf
 
 **Hydrografische\_Elementen:**
 
--waterloop
+ * waterloop
 
  
 Hoge Vijversloop, Kijkverdrietloop, Mierdseloop, Molengoorloop0
 
 **Moerassige gronden:**
 
--ven
+ * ven
 
  
 
@@ -43,42 +43,42 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--boswachterswoning
--waterput
+ * kasteel
+ * boswachterswoning
+ * waterput
 
  
 Kasteel 'Den Tip'
 
 **Bouwkundig erfgoed:**
 
--villa
+ * villa
 
  
 Villa Meerhoef, portiershuis
 
 **Landbouwkundig erfgoed:**
 
--wagenhuis
+ * wagenhuis
 
  
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 O.-L.-Vrouw-van -Lourdes kapel, Kapel ter Hoge Heide
 
 **Klein historisch erfgoed:**
 
--standbeeld
+ * standbeeld
 
  
 
@@ -87,8 +87,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--brug
+ * kanaal
+ * brug
 
  
 Kanaal Dessel-Schoten, Brug 6
@@ -98,21 +98,21 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 kasteelvijvers
 
 **Topografie:**
 
--blokvormig
--historisch stabiel
+ * blokvormig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
@@ -122,11 +122,11 @@ heiderelicten
 
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 

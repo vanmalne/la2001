@@ -18,17 +18,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--markante terreinovergang
+ * markante terreinovergang
 
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 
@@ -37,10 +37,10 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Militair erfgoed:**
 
--fort
--schans
--bunker
--verdedingingslinie
+ * fort
+ * schans
+ * bunker
+ * verdedingingslinie
 
  
 
@@ -49,10 +49,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--brug
--sluis
--grachtenstelsel
--lijnpad
+ * brug
+ * sluis
+ * grachtenstelsel
+ * lijnpad
 
  
 Antitankgracht, grachten rondom de forten en schansen
@@ -65,23 +65,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
+ * bomenrij
+ * houtkant
 
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 **Bos:**
 
--struweel
+ * struweel
 
  
 

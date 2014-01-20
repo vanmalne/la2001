@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 Grote Kaliebeek, Kleine Kaliebeek, Roeikensloop, Echelsgracht
 
 **Moerassige gronden:**
 
--veen
--rietland
+ * veen
+ * rietland
 
  
 
@@ -46,8 +46,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 aarden wegen en paden
@@ -57,42 +57,42 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--turfput
--vijver
+ * turfput
+ * vijver
 
  
 **Topografie:**
 
--repelvormig
+ * repelvormig
 
  
 **Historisch stabiel landgebruik:**
 
--plaggenbodems
--heide
+ * plaggenbodems
+ * heide
 
  
 heiderelicten
 
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 

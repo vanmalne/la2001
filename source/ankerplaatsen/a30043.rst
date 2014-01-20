@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--graft
--talud
+ * graft
+ * talud
 
  
 valleiranden en langs hellingen
 
 **Macroreliëf:**
 
--heuvel
--holle weg
+ * heuvel
+ * holle weg
 
 interfluviale kam
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 beken en droge valleien stroomopwaarts bronnen
@@ -44,28 +44,28 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--hof
+ * hof
 
  
 Argendaalhof
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
+ * kasteel
 
  
 Argendaal
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 hoeves ten noordwesten van bos vrij gaaf
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -77,16 +77,16 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtwal
--knotbomenrij
+ * dreef
+ * bomenrij
+ * houtwal
+ * knotbomenrij
 
 toegangsdreef kasteel; langs perceelsranden
 
 **Bos:**
 
--loof
+ * loof
 
  
 

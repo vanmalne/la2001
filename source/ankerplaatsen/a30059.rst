@@ -18,8 +18,8 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 
@@ -28,26 +28,26 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Sterrebos
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--landgoed
--ijskelder
--kasteelgracht
+ * kasteel
+ * toren
+ * landgoed
+ * ijskelder
+ * kasteelgracht
 
  
 poortgebouwen
 
 **Landbouwkundig erfgoed:**
 
--stal
--wagenhuis
+ * stal
+ * wagenhuis
 
  
 bij kasteel als dienstgebouwen
@@ -60,20 +60,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--hagen
+ * dreef
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 in beekdal gelegen
 
 **Bos:**
 
--loof
--middelhout
+ * loof
+ * middelhout
 
  
 

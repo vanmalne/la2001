@@ -18,21 +18,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Itterbeek
 
 **Moerassige gronden:**
 
--moeras
--ven
+ * moeras
+ * ven
 
  
 
@@ -41,17 +41,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--muur
--omheining
+ * kasteel
+ * landgoed
+ * muur
+ * omheining
 
  
 kasteel De Oude Kuil
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Keyaertmolen en Galdermansmolen.
@@ -61,18 +61,18 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 grotendeels historisch stabiel wegenpatroon
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--grachtenstelsel
--stuw
+ * dijk
+ * sluis
+ * grachtenstelsel
+ * stuw
 
  
 
@@ -81,51 +81,51 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--houtwal
--knotbomenrij
+ * bomenrij
+ * houtkant
+ * houtwal
+ * knotbomenrij
 
 spinnewebstructuur
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--plaggenbodems
--heide
+ * permanent grasland
+ * plaggenbodems
+ * heide
 
  
 vochtig hooi- en weiland
 
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 

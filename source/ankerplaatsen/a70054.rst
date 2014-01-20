@@ -18,33 +18,33 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * landduin
+ * steilrand
+ * markante terreinovergang
 
 zuidwestelijke steilrand van het Kempens Plateau
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
--meander
+ * beek
+ * vallei
+ * meander
 
  
 o.a. Laambeek, Roosterbeek en Slangebeek
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
--ven
+ * moeras
+ * veen
+ * rietland
+ * ven
 
  
 vochtige graslanden
@@ -54,35 +54,35 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--gehucht
+ * nederzettingspatroon
+ * gehucht
 
 Tenhaagdoorn
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Oude of Genaderse molen, Korenmolen
 
 **Militair erfgoed:**
 
--schans
+ * schans
 
  
 Brelaarschans, Molenschans
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Archeologische elementen:**
@@ -93,21 +93,21 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--pad
+ * pad
 
  
 wandel- en fietspaden
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--grachtenstelsel
--stuw
+ * dijk
+ * sluis
+ * grachtenstelsel
+ * stuw
 
  
 molensloot, vijvercomplex
@@ -117,51 +117,51 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--houtwal
--hagen
+ * bomenrij
+ * houtkant
+ * houtwal
+ * hagen
 
 **Kunstmatige waters:**
 
--poel
--turfput
--vijver
+ * poel
+ * turfput
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--plaggenbodems
--heide
+ * plaggenbodems
+ * heide
 
  
 o.a. Molenheide, de Teut, Tenhaagdoornheide
 
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--vloeiweide
--watering
+ * vloeiweide
+ * watering
 
  
 kleinschalige waterbeemden
@@ -206,7 +206,7 @@ landschap herkenbaar blijft. Reeds vanaf de 15de eeuw werden vennen door
 veenontginning uitgediept en omgevormd tot viskweekvijvers. In de
 beekvalleien werden beemden als hooiland in cultuur gebracht. Dijken,
 sluisjes en sloten maakten het waterbeheer mogelijk. Houtkanten of
--wallen bakenden akkers en weilanden af. Zoals de plaatselijke bossen
+ * wallen bakenden akkers en weilanden af. Zoals de plaatselijke bossen
 dienden zij als houtvoorraad. Met de toenmalige landbouwgemeenschap
 hangt ook het voorkomen van schansen en molens samen. Die laatste gaven
 hier ontstaan aan kleine gehuchten. Aan de Holsteen werden bovendien de

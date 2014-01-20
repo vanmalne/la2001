@@ -18,40 +18,40 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--landduin
--rivierduin
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * heuvel
+ * landduin
+ * rivierduin
+ * steilrand
+ * markante terreinovergang
 
 mijnterrils, steilrand van het Kempens plateau met droge dalen, dekzand-
 en duinreliëfs e.a.
 
 **Hydrografische\_Elementen:**
 
--vallei
+ * vallei
 
  
 veelal droge valleien
 
 **Moerassige gronden:**
 
--veen
--ven
+ * veen
+ * ven
 
  
 vennen op het plateau
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 ontsluitingen op de hellingen van de steilrand en valleien, in de
@@ -62,32 +62,32 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 o.a. Koninginnepark
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
--gehucht
+ * nederzettingspatroon
+ * plein
+ * gehucht
 
 tuinwijken (Oude cité, Nieuwe Cité) van Eisden-Mijn
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
+ * kasteel
 
  
 directeurswoning 't Kasteeltje
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--villa
+ * (heren)woning
+ * huis
+ * villa
 
  
 tuinwijken met mijnwerkershuizen, villa's, directeurswoning,
@@ -95,18 +95,18 @@ logementshuizen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 o.a. Saanhoeve, kasteelhoeve Litzberg
 
 **Kerkelijk erfgoed:**
 
--kerk
--klooster
--pastorie
+ * kerk
+ * klooster
+ * pastorie
 
  
 o.a. Sint-Barbarakerk
@@ -129,7 +129,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 o.a. Hoeveweg, Koninginnelaan, Zetellaan, lanen en wegen van de
@@ -137,13 +137,13 @@ tuinwijken
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 kolenspoor Genk (Waterschei) - As - Maasmechelen (Eisden)
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
+ * kanaal
 
  
 Zuid-Willemsvaart
@@ -153,38 +153,38 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Topografie:**
 
--blokvormig
--opstrekkend
+ * blokvormig
+ * opstrekkend
 
  
 bos- en landbouwontginningen
 
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 heiderestanten
 
 **Bos:**
 
--naald
--loof
--hooghout
--struweel
+ * naald
+ * loof
+ * hooghout
+ * struweel
 
  
 

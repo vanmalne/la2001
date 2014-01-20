@@ -16,18 +16,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--holle weg
+ * macroreliëf
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 
@@ -36,29 +36,29 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 park van Baudries
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--kasteelgracht
+ * kasteel
+ * kasteelgracht
 
  
 dienstgebouwen, stallen, koetshuis, paardestallen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 kerk van Dikkelvenne
@@ -68,8 +68,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -78,20 +78,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 **Bos:**
 
--naald
--loof
--hakhout
--middelhout
+ * naald
+ * loof
+ * hakhout
+ * middelhout
 
  
 

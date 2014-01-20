@@ -16,20 +16,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
+ * macroreliëf
+ * steilrand
 
 Grote Dekzandrug
 
 **Hydrografische\_Elementen:**
 
--waterloop
+ * waterloop
 
  
 **Geologie:**
@@ -42,13 +42,13 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 **Militair erfgoed:**
 
--fort
--verdedingingslinie
+ * fort
+ * verdedingingslinie
 
  
 resten van "Fort Francipanie", Spaans fort uit de 80-jarige oorlog
@@ -58,16 +58,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Spoorweg:**
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--pompgemaal
+ * kanaal
+ * pompgemaal
 
  
 Parmavaart: vermoedelijk oude turfvaart
@@ -77,9 +77,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
@@ -88,9 +88,9 @@ wal rond fort
 
 **Topografie:**
 
--blokvormig
--onregelmatig
--historisch stabiel
+ * blokvormig
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
@@ -100,9 +100,9 @@ Door bebossing is heide sterk gereduceerd
 
 **Bos:**
 
--naald
--loof
--hooghout
+ * naald
+ * loof
+ * hooghout
 
  
 

@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Moerassige gronden:**
 
--ven
+ * ven
 
  
 
@@ -32,31 +32,31 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
+ * tuin
 
  
 abdijtuin
 
 **Bouwkundig erfgoed:**
 
--huis
+ * huis
 
  
 landhuis
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 hoeve bij abdij
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--abdij
--klooster
+ * kerk
+ * kapel
+ * abdij
+ * klooster
 
  
 Trappistenabdij
@@ -69,14 +69,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 oud wegenpatroon
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 **Andere:**
@@ -87,29 +87,29 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Topografie:**
 
--blokvormig
--historisch stabiel
+ * blokvormig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 

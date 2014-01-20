@@ -18,20 +18,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
+ * waterloop
 
  
 Marelse Loop, Witvenloop
 
 **Moerassige gronden:**
 
--moeras
--ven
+ * moeras
+ * ven
 
  
 
@@ -40,12 +40,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Klein historisch erfgoed:**
 
--grenspaal
+ * grenspaal
 
  
 
@@ -54,7 +54,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -63,33 +63,33 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--heide
+ * permanent grasland
+ * heide
 
  
 heiderelicten
 
 **Bos:**
 
--naald
--loof
--hooghout
--struweel
+ * naald
+ * loof
+ * hooghout
+ * struweel
 
  
 

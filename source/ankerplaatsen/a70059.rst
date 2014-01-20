@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
+ * macroreliëf
 
 zacht golvend reliëf
 
@@ -32,21 +32,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 o.a. Iers Kruisstraat 76-78
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Klein historisch erfgoed:**
 
--kruis
+ * kruis
 
  
 o.a. Iers Kruis
@@ -59,7 +59,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--Romeinse weg
+ * Romeinse weg
 
  
 Tongeren-Maastricht
@@ -69,15 +69,15 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Historisch stabiel landgebruik:**
 
@@ -86,12 +86,12 @@ hoger gelegen, traditioneel open akkerbouwgebied
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--pestbosje
+ * pestbosje
 
  
 

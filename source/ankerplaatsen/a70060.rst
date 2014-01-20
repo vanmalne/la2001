@@ -18,21 +18,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--holle weg
+ * macroreliëf
+ * heuvel
+ * holle weg
 
 sterk heuvelend reliëf op waterscheidingskam
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Fonteinbeek
@@ -42,27 +42,27 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 kasteelpark van Beto
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--landgoed
--kasteelgracht
+ * kasteel
+ * toren
+ * landgoed
+ * kasteelgracht
 
  
 kasteel van Beto
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 kasteelhoeve van Beto
@@ -78,10 +78,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--kerkwegel
--Romeinse weg
+ * weg
+ * pad
+ * kerkwegel
+ * Romeinse weg
 
  
 Romeinse weg Tongeren-Kassel, geometrische patronen van paden en
@@ -97,44 +97,44 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 weilanden nabij kasteel en bebouwing, onder boomgaarden of populieren
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hooghout
--struweel
+ * loof
+ * hooghout
+ * struweel
 
  
 
@@ -208,7 +208,7 @@ centrale zuidoost-noordwest as. Uit het patroon van paden en wegen (o.a.
 ook een kerkewegel) en de perceelsaflijning met bomenrijen, dreven en
 houtkanten spreekt een geometrische, half-open landinrichting. Ook in
 het stervormige wegenstelsel van het gesloten bosgebied op de Beukenberg
-- met een kleine vijver - komt dat sterk tot uiting. Het landgebruik in
+ *  met een kleine vijver - komt dat sterk tot uiting. Het landgebruik in
 de omgeving van het kasteel en de stedelijke (lint)bebouwing is
 traditioneel en wordt gekenmerkt door akkers en vooral weiden, soms
 aangeplant met populieren of nog in gebruik als boomgaard. Op de

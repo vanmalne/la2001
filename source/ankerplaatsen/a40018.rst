@@ -16,19 +16,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
+ * macroreliëf
 
 grote dekzandrug Maldegem- Stekene
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
+ * waterloop
+ * beek
 
  
 **Geologie:**
@@ -44,15 +44,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--pompgemaal
--grachtenstelsel
+ * dijk
+ * pompgemaal
+ * grachtenstelsel
 
  
 Papdijk
@@ -62,39 +62,39 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--blokvormig
--historisch stabiel
+ * blokvormig
+ * historisch stabiel
 
  
 **Bos:**
 
--naald
--loof
--hooghout
--struweel
+ * naald
+ * loof
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 
@@ -114,7 +114,7 @@ B.landschapswaarden
 
  Wetenschappelijke waarde:
 Dit bos maakt deel uit van de bosgordel die op de dekzandrug Maldegem
-- Stekene gelegen is. Het bos is reeds in 1743 op kaart te zien.
+ *  Stekene gelegen is. Het bos is reeds in 1743 op kaart te zien.
 Historische waarde:
 De toestand op de kaart van Ferraris (ca. 1775): een groot boscomplex
 met een duidelijke structuur. Op de volgende topografische kaarten

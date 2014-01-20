@@ -16,26 +16,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--holle weg
+ * macroreliëf
+ * heuvel
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 zandgroeve - ijzerzandsteen- Diestiaan
@@ -45,35 +45,35 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Louise- Marie
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
+ * kasteel
 
  
 Kasteel Gauthier, dienstwoningen, hondenhok
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 kerk van Louise- Marie en Lorettekapel
@@ -86,15 +86,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--kerkwegel
+ * weg
+ * pad
+ * kerkwegel
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--brug
--sluis
+ * brug
+ * sluis
 
  
 
@@ -103,35 +103,35 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--knotbomenrij
--kaphaag
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * kaphaag
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Bos:**
 
--naald
--loof
--hooghout
--struweel
+ * naald
+ * loof
+ * hooghout
+ * struweel
 
  
 

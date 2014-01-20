@@ -18,25 +18,25 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--landduin
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * heuvel
+ * landduin
+ * steilrand
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
--meander
+ * beek
+ * vallei
+ * meander
 
  
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
--ven
+ * moeras
+ * veen
+ * rietland
+ * ven
 
  
 
@@ -45,41 +45,41 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--hovenierswoning
--boswachterswoning
--landgoed
--omheining
--kasteelgracht
+ * kasteel
+ * hovenierswoning
+ * boswachterswoning
+ * landgoed
+ * omheining
+ * kasteelgracht
 
  
 **Bouwkundig erfgoed:**
 
--(heren)woning
+ * (heren)woning
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Andere:**
@@ -90,15 +90,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--pad
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--grachtenstelsel
--stuw
+ * dijk
+ * sluis
+ * grachtenstelsel
+ * stuw
 
  
 vijvercomplex
@@ -108,46 +108,46 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--turfput
--vijver
+ * turfput
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 

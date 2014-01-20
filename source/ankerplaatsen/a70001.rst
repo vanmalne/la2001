@@ -18,13 +18,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
+ * waterloop
+ * beek
 
  
 Heuvelse loop
@@ -39,34 +39,34 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--gehucht
+ * nederzettingspatroon
+ * gehucht
 
 voormalige Rijkslandbouwkolonie (huidige Koloniestraat)
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
+ * (heren)woning
 
  
 wateringhuis
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 hoeve Corens
 
 **Kerkelijk erfgoed:**
 
--kerk
--pastorie
+ * kerk
+ * pastorie
 
  
 **Klein historisch erfgoed:**
 
--grenspaal
+ * grenspaal
 
  
 
@@ -75,20 +75,20 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Oostenrijkse periode
+ * weg
+ * pad
+ * Oostenrijkse periode
 
  
 steenweg 's Hertogenbosch-Luik, verbindingswegen en -paden
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--sluis
--grachtenstelsel
--stuw
+ * kanaal
+ * dijk
+ * sluis
+ * grachtenstelsel
+ * stuw
 
  
 bevloeiingssysteem met kunstwerken, spijssloten e.a., gevoed door
@@ -99,49 +99,49 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 o.a. paardekastanjes als voormalige erfbeplanting in de Kolonie
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--knotbomenrij
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 o.a. bomenrijen op de dijken
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 kunstmatig aangelegde, vochtige weiden
 
 **Bos:**
 
--naald
--loof
--hooghout
--struweel
+ * naald
+ * loof
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--vloeiweide
--watering
+ * vloeiweide
+ * watering
 
  
 

@@ -18,30 +18,30 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
+ * macroreliëf
+ * steilrand
 
 donk
 
 **Hydrografische\_Elementen:**
 
--waterloop
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 **Geologie:**
@@ -54,22 +54,22 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Kasteel van Uitbergen
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--muur
+ * kasteel
+ * muur
 
  
 Kasteel van Uitbergen
 
 **Klein historisch erfgoed:**
 
--eendenkooi
+ * eendenkooi
 
  
 
@@ -78,15 +78,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--pompgemaal
--grachtenstelsel
+ * dijk
+ * pompgemaal
+ * grachtenstelsel
 
  
 
@@ -95,41 +95,41 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--turfput
--vijver
+ * turfput
+ * vijver
 
  
 **Topografie:**
 
--repelvormig
--blokvormig
+ * repelvormig
+ * blokvormig
 
  
 **Historisch stabiel landgebruik:**
 
--meersen
+ * meersen
 
  
 No
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--broek
--middelhout
--hooghout
--struweel
+ * loof
+ * broek
+ * middelhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
@@ -219,7 +219,7 @@ rivierpatroon ging gepaard met een insnijding, waardoor de toenmalige
 Scheldevlakte enkele meters beneden het algemene opvullingsniveau van de
 Vlaamse Vallei kwam te liggen. Die insnijdingsfase was bepalend voor het
 uitzicht van de huidige riviervlakte, omdat latere riviererosie en
--afzetting zich grotendeels beperkten tot het gebied binnen de
+ * afzetting zich grotendeels beperkten tot het gebied binnen de
 laatglaciale overstromingsvlakte. Hierdoor komen de grenzen van de
 laatglaciale riviervlakte langs een groot deel van de Schelde overeen
 met die van de huidige alluviale vlakte. De hoogte in de alluviale

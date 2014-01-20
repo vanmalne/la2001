@@ -18,20 +18,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--holle weg
+ * macroreliëf
+ * holle weg
 
 golvend reliëf
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Kelsbeek, Raasbeek
@@ -41,9 +41,9 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
--hof
+ * tuin
+ * park
+ * hof
 
  
 hoeves Kasselaar en Schorrenbos, kastelen Kortenbos, Nieuwenhoven,
@@ -51,30 +51,30 @@ Nieuwerkerken, Terkelen
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 Kortenbos, ontstaan als bedevaartsoord langs de weg naar Hasselt
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--boswachterswoning
--landgoed
--muur
--omheining
--ijskelder
--kasteelgracht
+ * kasteel
+ * toren
+ * boswachterswoning
+ * landgoed
+ * muur
+ * omheining
+ * ijskelder
+ * kasteelgracht
 
  
 kastelen Kortenbos, Nieuwerkerken, Nieuwenhoven, T
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 o.a. hoeves Kasselaar en Schorrebos, kasteelhoeves Nieuwenhoven,
@@ -82,9 +82,9 @@ Nieuwerkerken, Terkelen
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 o.a. basiliek Onze-Lieve-Vrouw-Hemelvaart
@@ -102,8 +102,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 bos- en parkpaden en -wegen
@@ -113,20 +113,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 o.a. parkvijvers, kanaalvormige vijver met waterbekkens aan de hoeve
@@ -134,27 +134,27 @@ Schorrebos
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 grasland onder boomgaarden of populierenaanplantingen
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--hooghout
--struweel
+ * naald
+ * loof
+ * hooghout
+ * struweel
 
  
 kleinere, verspreide (park)bossen zowel als uitges

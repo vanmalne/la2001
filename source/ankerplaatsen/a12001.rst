@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
+ * waterloop
+ * rivier
+ * beek
+ * vallei
 
  
 Dijle, Boeimeerbeek, Molenbeek, Platte Beek
 
 **Moerassige gronden:**
 
--veen
--rietland
+ * veen
+ * rietland
 
  
 
@@ -43,32 +43,32 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
--hof
+ * park
+ * hof
 
  
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--kasteelgracht
+ * kasteel
+ * kasteelgracht
 
  
 **Bouwkundig erfgoed:**
 
--huis
--herberg
+ * huis
+ * herberg
 
  
 tolhuisje
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 Hottentothoeve, Mispeldonkhoeve
@@ -78,8 +78,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--grachtenstelsel
+ * dijk
+ * grachtenstelsel
 
  
 
@@ -88,47 +88,47 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--houtwal
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * houtwal
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 zandwinningsput, bomkrater
 
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--heide
+ * permanent grasland
+ * heide
 
  
 heiderelicten
 
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 

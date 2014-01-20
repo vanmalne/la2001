@@ -16,22 +16,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
+ * waterloop
+ * beek
+ * vallei
+ * meander
 
  
 
@@ -40,21 +40,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Ijzerkotmolen en Ter Biestmolen
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -63,14 +63,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--brug
--sluis
+ * brug
+ * sluis
 
  
 
@@ -79,43 +79,43 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * hagen
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 bekkens bij molens
 
 **Topografie:**
 
--blokvormig
--onregelmatig
+ * blokvormig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--kouters
+ * permanent grasland
+ * kouters
 
  
 **Bos:**
 
--loof
--broek
--hooghout
--struweel
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 

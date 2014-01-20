@@ -18,20 +18,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--holle weg
+ * macroreliëf
+ * heuvel
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
+ * waterloop
+ * beek
 
  
 
@@ -40,31 +40,31 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
+ * nederzettingspatroon
+ * plein
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--muur
--kasteelgracht
+ * kasteel
+ * muur
+ * kasteelgracht
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 **Kerkelijk erfgoed:**
 
--kapel
--pastorie
+ * kapel
+ * pastorie
 
  
 **Archeologische elementen:**
@@ -75,32 +75,32 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Oostenrijkse periode
+ * weg
+ * pad
+ * Oostenrijkse periode
 
  
 **Spoorweg:**
 
--verlaten spoorweg
--oude tramroute
+ * verlaten spoorweg
+ * oude tramroute
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 

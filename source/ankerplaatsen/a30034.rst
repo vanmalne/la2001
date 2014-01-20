@@ -18,14 +18,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--heuvel
--holle weg
+ * heuvel
+ * holle weg
 
 interfluvium tussen Ijzer en Vleterbeek
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 bronniveau's
@@ -35,28 +35,28 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--hof
+ * tuin
+ * hof
 
  
 Couthof
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--hovenierswoning
--landgoed
--muur
--ijskelder
+ * kasteel
+ * hovenierswoning
+ * landgoed
+ * muur
+ * ijskelder
 
  
 ook klooster, kappelletjes, prieeltje
 
 **Kerkelijk erfgoed:**
 
--kapel
--abdij
--klooster
+ * kapel
+ * abdij
+ * klooster
 
  
 bij kasteel de Lovie; trappistenabdij van Westmalle
@@ -69,20 +69,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 bij kappellen
 
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 **Bos:**
 
--loof
--hakhout
--middelhout
+ * loof
+ * hakhout
+ * middelhout
 
  
 

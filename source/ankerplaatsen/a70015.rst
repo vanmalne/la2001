@@ -18,25 +18,25 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 trappenprofiel
 
 **Macroreliëf:**
 
--macroreliëf
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * markante terreinovergang
+ * holle weg
 
 Maasterrassen, steile dalhellingen, historische holle wegen
 
 **Hydrografische\_Elementen:**
 
--rivier
--vallei
--meander
+ * rivier
+ * vallei
+ * meander
 
  
 Berwijn
@@ -48,7 +48,7 @@ vochtig grasland
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 o.a. primaire gesteenten (harde kalksteen uit het Onder Carboon)
@@ -58,12 +58,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -72,15 +72,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 historische holle wegen
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
--stuw
+ * grachtenstelsel
+ * stuw
 
  
 molensloot met stuw en zalmtrap
@@ -90,43 +90,43 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 hellings- en valleigraslanden
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hooghout
--struweel
+ * loof
+ * hooghout
+ * struweel
 
  
 

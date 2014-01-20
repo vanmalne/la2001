@@ -18,45 +18,45 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 o.a. dekzandreliëfs, depressies
 
 **Macroreliëf:**
 
--macroreliëf
--landduin
--rivierduin
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * landduin
+ * rivierduin
+ * steilrand
+ * markante terreinovergang
 
 o.a. oostelijke rand van het Kempens Plateau, Feldbissbreuk aan De
 Warre, Maasterrassen, duinreliëfs
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
--meander
--oude rivierarm
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 o.a. Broekbeek, De Beek, Zanderbeek, meanderbocht van Bergerven
 
 **Moerassige gronden:**
 
--moeras
--rietland
--ven
+ * moeras
+ * rietland
+ * ven
 
  
 vochtige weiden
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 groeve te Berg
@@ -69,51 +69,51 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
--hof
+ * tuin
+ * park
+ * hof
 
  
 kasteel Sipernau, Rubensgoed
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--kasteelgracht
+ * kasteel
+ * landgoed
+ * kasteelgracht
 
  
 kasteel Sipernau
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--villa
+ * (heren)woning
+ * huis
+ * villa
 
  
 Luikerhuis in de Heide, rentmeesterswoning Sipernau, Rubensgoed
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 o.a. kasteelhoeve Sipernau, Rubensgoed, Luikerhuis in de Heide
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Klaaskensmolen
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 o.a. kapel van de Weerstand, kapel H. Rita
@@ -130,27 +130,27 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 landwegen
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 As-Maaseik
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--brug
--sluis
--grachtenstelsel
--stuw
--lijnpad
+ * kanaal
+ * dijk
+ * brug
+ * sluis
+ * grachtenstelsel
+ * stuw
+ * lijnpad
 
  
 o.a. Zuid-Willemsvaart met voetgangersbrug, tapsluizen, Losbeek
@@ -160,64 +160,64 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--houtwal
+ * dreef
+ * bomenrij
+ * houtkant
+ * houtwal
 
 **Kunstmatige waters:**
 
--poel
--turfput
--vijver
+ * poel
+ * turfput
+ * vijver
 
  
 o.a. De Broeken, kasteelvijver
 
 **Topografie:**
 
--blokvormig
--onregelmatig
+ * blokvormig
+ * onregelmatig
 
  
 verschillende ontginningspatronen
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--heide
+ * permanent grasland
+ * heide
 
  
 vochtige weiden
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * hooghout
+ * struweel
 
  
 o.a. Armenbos, gemeentebos Schootsheide
 
 **Bijzondere waterhuishouding:**
 
--ontwatering
--vloeiweide
--watering
+ * ontwatering
+ * vloeiweide
+ * watering
 
  
 bevloeiing van de wateringen, ontwatering via Losbeek, Zanderbeek

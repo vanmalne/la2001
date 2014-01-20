@@ -18,28 +18,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 houtwallen
 
 **Macroreliëf:**
 
--macroreliëf
+ * macroreliëf
 
 convexe interfluvia en asymmetrische dalen
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Dommel, Bollisserbeek, Peerderloop
 
 **Moerassige gronden:**
 
--veen
+ * veen
 
  
 laag- en hoogveen
@@ -49,41 +49,41 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--gehucht
+ * nederzettingspatroon
+ * gehucht
 
 Frankische landname
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
+ * (heren)woning
+ * huis
 
  
 Teutenhuizen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 langgevelhoeves
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 **Militair erfgoed:**
 
--schans
+ * schans
 
  
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 talrijke veldkapellen
@@ -96,16 +96,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--pad
+ * pad
 
  
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 diepe sloten als perceelsscheiding
@@ -115,44 +115,44 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--houtwal
+ * dreef
+ * bomenrij
+ * houtkant
+ * houtwal
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 vijvers, oorspronkelijk veenuitgravingen
 
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--voormalige communautaire akker
--plaggenbodems
+ * voormalige communautaire akker
+ * plaggenbodems
 
  
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 

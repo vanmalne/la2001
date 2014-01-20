@@ -18,15 +18,15 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 Handzamevaart en -vallei; Zijdelinggeleed; Zarrenbeek
@@ -36,21 +36,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Barisdamhoeve
 
 **Militair erfgoed:**
 
--motte
+ * motte
 
  
 Barsidamhoeve; Hoge Andjoen (Werken)
 
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 kerk, kerkhof en ommegang in Werken
@@ -63,16 +63,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--Romeinse weg
+ * Romeinse weg
 
  
 Steenstraat tussen Werken en Zarren(gem. Kortemark)
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--grachtenstelsel
+ * kanaal
+ * dijk
+ * grachtenstelsel
 
  
 Handzamevaart; Oude gracht
@@ -82,34 +82,34 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 restanten van
 
 **Topografie:**
 
--repelvormig
--onregelmatig
+ * repelvormig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--loof
+ * loof
 
  
 bosje tussen Vladslo en Esen
 
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

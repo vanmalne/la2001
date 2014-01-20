@@ -18,34 +18,34 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 bronnen
 
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 
@@ -54,24 +54,24 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--hof
+ * hof
 
  
 Hof ten Steenborre
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--gehucht
+ * nederzettingspatroon
+ * gehucht
 
 Boskant: gehucht aan de bosrand (op Ferraris), specifiek
 nederzettingspatroon
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Verschillende (vierkant) hoeves die zich op plaatsen bevinden waar er
@@ -79,7 +79,7 @@ tijdens Ferraris bos was.
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 Juffrouwkapel, Sint- Pauluskapel, Atembekekapel,…
@@ -89,9 +89,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--kerkwegel
+ * weg
+ * pad
+ * kerkwegel
 
  
 Kasseiweg (Bosberg), Keltische weg
@@ -101,30 +101,30 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 oud bos
@@ -136,9 +136,9 @@ medische planten
 
 **Bos:**
 
--loof
--hakhout
--middelhout
+ * loof
+ * hakhout
+ * middelhout
 
  
 Bronbos

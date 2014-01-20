@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--kustduin
+ * kustduin
 
 sekwentie strand-zeeduin-polder
 
@@ -36,8 +36,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Bos:**
 
--loof
--struweel
+ * loof
+ * struweel
 
  
 **Bijzondere waterhuishouding:**

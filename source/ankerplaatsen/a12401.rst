@@ -18,15 +18,15 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 Molenbeek, Paasheideloop, Waterloop van de Molenheide
@@ -36,31 +36,31 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
+ * tuin
 
  
 tuin bij kasteel
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--ijskelder
--kasteelgracht
+ * kasteel
+ * toren
+ * ijskelder
+ * kasteelgracht
 
  
 Hof te Melis + bijgebouwen, traptorens
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Site Wolfputhoeve
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 Kapel 'O. - L. -Vrouw Van Meesen'
@@ -70,7 +70,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 ringgracht
@@ -80,26 +80,26 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 400 jaar oude eik
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtwal
+ * dreef
+ * bomenrij
+ * houtwal
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
@@ -109,10 +109,10 @@ historisch stabiel bos
 
 **Bos:**
 
--naald
--loof
--broek
--hooghout
+ * naald
+ * loof
+ * broek
+ * hooghout
 
  
 

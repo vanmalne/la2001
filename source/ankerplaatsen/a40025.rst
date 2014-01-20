@@ -16,33 +16,33 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
--rivierduin
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * landduin
+ * rivierduin
+ * steilrand
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 **Geologie:**
@@ -55,21 +55,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--dries
--plein
+ * nederzettingspatroon
+ * dries
+ * plein
 
 Dries van Schellebelle, half bebouwd
 
 **Bouwkundig erfgoed:**
 
--herberg
+ * herberg
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--pastorie
+ * kerk
+ * pastorie
 
  
 
@@ -78,16 +78,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--sluis
--grachtenstelsel
+ * kanaal
+ * dijk
+ * sluis
+ * grachtenstelsel
 
  
 veer
@@ -97,51 +97,51 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--turfput
+ * turfput
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--voormalige communautaire akker
--meersen
+ * voormalige communautaire akker
+ * meersen
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--vloeiweide
--watering
+ * vloeiweide
+ * watering
 
  
 

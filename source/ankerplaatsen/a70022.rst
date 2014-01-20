@@ -18,43 +18,43 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
--steilrand
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * landduin
+ * steilrand
+ * markante terreinovergang
+ * holle weg
 
 belangrijke dalbodem met pediment
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
+ * waterloop
+ * beek
+ * vallei
+ * meander
 
  
 o.a. Bosbeek, Kleine Beek, Berkeinderzijp
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
--ven
+ * moeras
+ * veen
+ * rietland
+ * ven
 
  
 vochtige beemden
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 
@@ -63,57 +63,57 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteeldomein De Schans
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--gehucht
+ * nederzettingspatroon
+ * gehucht
 
 gehuchten Aartshouw en De Houw
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--kasteelgracht
+ * kasteel
+ * landgoed
+ * kasteelgracht
 
  
 kasteel De Schans
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Oude Molen, Slagmolen, Dorpermolen
 
 **Militair erfgoed:**
 
--schans
+ * schans
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 o.a. Sint-Dyonisiuskerk
 
 **Klein historisch erfgoed:**
 
--kruis
+ * kruis
 
  
 **Archeologische elementen:**
@@ -125,9 +125,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Romeinse weg
+ * weg
+ * pad
+ * Romeinse weg
 
  
 o.a. opstrekkend wegenpatroon tussen vallei, nederzettingen en
@@ -135,10 +135,10 @@ plateau, evenals achter De Houw
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--grachtenstelsel
--stuw
+ * dijk
+ * sluis
+ * grachtenstelsel
+ * stuw
 
  
 
@@ -147,61 +147,61 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--houtwal
--hagen
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * houtwal
+ * hagen
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
--turfput
--vijver
+ * poel
+ * turfput
+ * vijver
 
  
 **Topografie:**
 
--opstrekkend
--historisch stabiel
+ * opstrekkend
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--plaggenbodems
--heide
+ * permanent grasland
+ * plaggenbodems
+ * heide
 
  
 o.a. akkers, heiderelicten, vochtige hooi- en weilanden
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
--vloeiweide
--watering
+ * ontwatering
+ * vloeiweide
+ * watering
 
  
 o.a. kleinschalige waterbeemden

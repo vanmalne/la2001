@@ -18,13 +18,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--heuvel
+ * heuvel
 
 interfluvium Schelde-Leie en Ijzer
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Reutel- en Polygonebeek; brongebied Polygonebeek
@@ -45,17 +45,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--knotbomenrij
+ * dreef
+ * bomenrij
+ * knotbomenrij
 
 begeleidende bomenrijen langs beken
 
 **Bos:**
 
--naald
--loof
--struweel
+ * naald
+ * loof
+ * struweel
 
  
 

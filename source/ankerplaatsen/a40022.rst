@@ -18,35 +18,35 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * steilrand
+ * markante terreinovergang
 
 Cuesta van het Waasland
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 Durme, Oude arm Durme, Rodebeek, bron
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 **Geologie:**
@@ -59,27 +59,27 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 **Nederzettingspatronen:**
 
--dries
--gehucht
+ * dries
+ * gehucht
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
+ * kasteel
 
  
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 **Klein historisch erfgoed:**
 
--schandpaal
+ * schandpaal
 
  
 **Archeologische elementen:**
@@ -90,21 +90,21 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 oude spoorwegdijk van spoorweg 56 Sint-Niklaas- Hamme- Dendermonde
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--brug
--grachtenstelsel
+ * dijk
+ * brug
+ * grachtenstelsel
 
  
 Mirabrug
@@ -114,50 +114,50 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--turfput
+ * turfput
 
  
 **Topografie:**
 
--blokvormig
--onregelmatig
+ * blokvormig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--meersen
+ * meersen
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--broek
--hakhout
--middelhout
--hooghout
--struweel
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 bronbosje
 
 **Bijzondere waterhuishouding:**
 
--polder
--uiterwaarden
--buitendijks
+ * polder
+ * uiterwaarden
+ * buitendijks
 
  
 Zoetwaterschorren van de Durme

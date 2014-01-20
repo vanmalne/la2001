@@ -18,26 +18,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
+ * waterloop
+ * beek
+ * vallei
+ * meander
 
  
 **Moerassige gronden:**
 
--veen
+ * veen
 
  
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 Vlaamse Vallei
@@ -47,42 +47,42 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Park van Poeke
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--orangerie
--muur
--omheining
--ijskelder
--kasteelgracht
+ * kasteel
+ * toren
+ * orangerie
+ * muur
+ * omheining
+ * ijskelder
+ * kasteelgracht
 
  
 koetshuis, hondenkennel
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 kerk van Poeke
 
 **Klein historisch erfgoed:**
 
--standbeeld
+ * standbeeld
 
  
 H. Hartmonument
@@ -92,14 +92,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--brug
--grachtenstelsel
+ * brug
+ * grachtenstelsel
 
  
 
@@ -108,41 +108,41 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--blokvormig
--onregelmatig
--historisch stabiel
+ * blokvormig
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--loof
--hakhout
--middelhout
--hooghout
+ * loof
+ * hakhout
+ * middelhout
+ * hooghout
 
  
 

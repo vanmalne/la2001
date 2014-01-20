@@ -18,22 +18,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
+ * waterloop
+ * rivier
+ * vallei
 
  
 de Mark
 
 **Moerassige gronden:**
 
--ven
+ * ven
 
  
 
@@ -42,8 +42,8 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 Franse tuin
@@ -55,20 +55,20 @@ landhuis, aalmoezeniershuis, jachtwachterwsoning
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
+ * hoeve
+ * schuur
 
  
 + hokken voormalige kippenkwekerij
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Klein historisch erfgoed:**
 
--standbeeld
+ * standbeeld
 
  
 **Archeologische elementen:**
@@ -79,7 +79,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 oud wegenpatroon
@@ -89,31 +89,31 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 oud drevenpatroon
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Bos:**
 
--naald
--loof
--struweel
+ * naald
+ * loof
+ * struweel
 
  
 

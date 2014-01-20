@@ -18,22 +18,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--steilrand
--holle weg
+ * macroreliëf
+ * heuvel
+ * steilrand
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
+ * waterloop
+ * rivier
+ * vallei
 
  
 
@@ -42,38 +42,38 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--muur
--kasteelgracht
+ * kasteel
+ * muur
+ * kasteelgracht
 
  
 **Bouwkundig erfgoed:**
 
--villa
+ * villa
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -82,8 +82,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -92,17 +92,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
+ * bomenrij
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 
@@ -127,7 +127,7 @@ nog duidelijk herkenbaar in het systeem van grachten en wallen, soms
 onder bos verborgen. Het Margijsbos was ook het decor voor een
 dramatische episode uit de Franse revolutie (de dood van 'Charlepoeng').
 Esthetische waarde: De site - beekdal met kasteel en beboste helling
-- is zeer aantrekkelijk.
+ *  is zeer aantrekkelijk.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
  

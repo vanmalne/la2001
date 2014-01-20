@@ -18,13 +18,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Bosbeek
@@ -34,42 +34,42 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 pastorietuin, kasteelpark, moestuin, Franse tuin
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--boswachterswoning
--muur
--kasteelgracht
+ * kasteel
+ * toren
+ * boswachterswoning
+ * muur
+ * kasteelgracht
 
  
 Kasteel de Borrekens + toegangspoort en brug
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
+ * (heren)woning
 
  
 dienstwoningen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 Parochiekerk St.- Pieter
@@ -79,7 +79,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 oud wegenpatroon
@@ -89,32 +89,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Bos:**
 
--naald
--loof
--hooghout
+ * naald
+ * loof
+ * hooghout
 
  
 

@@ -16,28 +16,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
+ * waterloop
+ * beek
+ * vallei
+ * meander
 
  
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 Diestiaanzand, zavel, ijzerzandsteen
@@ -47,28 +47,28 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--hof
+ * hof
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Hof ten Bosse, Hof te Fransbeke
 
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 kerk van 0pbrakel
 
 **Klein historisch erfgoed:**
 
--kruis
+ * kruis
 
  
 Ludwineskruis
@@ -78,17 +78,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Romeinse weg
--Oostenrijkse periode
+ * weg
+ * pad
+ * Romeinse weg
+ * Oostenrijkse periode
 
  
 Chaussée de Brunehaut
 
 **Waterbouwkundige\_infrastructuur:**
 
--brug
+ * brug
 
  
 
@@ -97,28 +97,28 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--knotbomenrij
--kaphaag
--perceelsrandbegroeiing
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * kaphaag
+ * perceelsrandbegroeiing
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--loof
--hooghout
+ * loof
+ * hooghout
 
  
 

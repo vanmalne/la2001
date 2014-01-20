@@ -16,21 +16,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * steilrand
+ * markante terreinovergang
+ * holle weg
 
 Cuesta van het Waasland
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 bron
@@ -45,35 +45,35 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 Les Gobelets kasteel, Rozenbergabdij, Ortegakasteel, Roos kasteel
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--muur
--kasteelgracht
+ * kasteel
+ * landgoed
+ * muur
+ * kasteelgracht
 
  
 stal, koetshuis, serres, jachtpaviljoen,
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--stal
--wagenhuis
+ * hoeve
+ * stal
+ * wagenhuis
 
  
 hoeve die aan Baudelo-abdij toebehoorde
 
 **Kerkelijk erfgoed:**
 
--kapel
--abdij
+ * kapel
+ * abdij
 
  
 Rozenbergabdij
@@ -83,9 +83,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Romeinse weg
+ * weg
+ * pad
+ * Romeinse weg
 
  
 kasseiweg
@@ -98,37 +98,37 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 vijver in park Ortega
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Bos:**
 
--naald
--loof
--middelhout
--hooghout
+ * naald
+ * loof
+ * middelhout
+ * hooghout
 
  
 

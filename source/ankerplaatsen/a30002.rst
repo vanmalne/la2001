@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 gedeeltelijk verlande vijvers
@@ -28,7 +28,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Militair erfgoed:**
 
--bunker
+ * bunker
 
  
 begraven onder zand
@@ -38,7 +38,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
+ * dijk
 
  
 
@@ -47,7 +47,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 vijvers ontstaan door uitgraven duingrond voor dijken

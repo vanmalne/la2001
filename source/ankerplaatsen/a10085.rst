@@ -18,24 +18,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
+ * macroreliëf
+ * landduin
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Schaggelenbeek
 
 **Moerassige gronden:**
 
--ven
+ * ven
 
  
 Marbelenven, Moffenven, Muizeven, Kelderven
@@ -45,27 +45,27 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
+ * tuin
 
  
 tuin bij abdij
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Militair erfgoed:**
 
--schans
+ * schans
 
  
 **Kerkelijk erfgoed:**
 
--kapel
--abdij
+ * kapel
+ * abdij
 
  
 Onze-Lieve-Vrouw van Nazareth abdij
@@ -75,16 +75,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 aarden wegen, Tilburgse weg
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--sluis
--grachtenstelsel
+ * kanaal
+ * sluis
+ * grachtenstelsel
 
  
 Kanaal Schoten-Turnhout-Dessel
@@ -94,35 +94,35 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 oude kleiputten
 
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 **Bos:**
 
--naald
--loof
--hooghout
--struweel
+ * naald
+ * loof
+ * hooghout
+ * struweel
 
  
 

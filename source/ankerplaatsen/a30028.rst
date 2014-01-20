@@ -18,13 +18,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--macroreliëf
+ * macroreliëf
 
 uitloper van het plateau van Wijnendaele
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 brongebied voor Kamarde-, Kasteel- en Westbeek
@@ -34,39 +34,39 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Ter Hiede
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--hovenierswoning
--boswachterswoning
--landgoed
+ * kasteel
+ * toren
+ * hovenierswoning
+ * boswachterswoning
+ * landgoed
 
  
 omwalling
 
 **Bouwkundig erfgoed:**
 
--herberg
+ * herberg
 
  
 Herberg Wikkelaar
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Hoeve Praatbos,
 
 **Militair erfgoed:**
 
--bunker
+ * bunker
 
  
 militaire begraafplaats uit WOI te Vladslo met beeldenpaar "Treurende
@@ -77,7 +77,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--Oostenrijkse periode
+ * Oostenrijkse periode
 
  
 provinciebaan tussen Beerst en Wijnendaele
@@ -87,26 +87,26 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 dreef langs provinciebaan, houtkant ten noorden van begraafplaats,
 dreven bij kasteel
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 veedrinkpoel
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 hydrografisch net is mede bepalend voor percelering

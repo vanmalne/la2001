@@ -18,21 +18,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--holle weg
+ * macroreliëf
+ * holle weg
 
 heuvelend met asymmetrische beekinsnijdingen
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Fonteinbeek, Molenbeek of Mombeek
@@ -50,31 +50,31 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 kasteelparken Kolmont en Rooi
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 straatdorp Kolmont
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
+ * kasteel
+ * landgoed
 
  
 kastelen van Kolmont en van Rooi
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Herkwinning, kasteelhoeve Rooi
@@ -90,15 +90,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--Romeinse weg
--Oostenrijkse periode
+ * Romeinse weg
+ * Oostenrijkse periode
 
  
 Romeinse weg Bilzen-Waremme, steenweg Tongeren-Hasselt (1741)
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 Sint-Truiden - Tongeren
 
@@ -107,39 +107,39 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hooghout
--struweel
+ * loof
+ * hooghout
+ * struweel
 
  
 historisch stabiele hellingbossen

@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--heuvel
+ * heuvel
 
 zandheuvel de Hoge Berg of Huzarenberg
 
@@ -32,30 +32,30 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--muur
--kasteelgracht
+ * kasteel
+ * muur
+ * kasteelgracht
 
  
 kasteelremises; muur oude moestuin
 
 **Landbouwkundig erfgoed:**
 
--wagenhuis
+ * wagenhuis
 
  
 koetshuis bij het kasteel
 
 **Klein historisch erfgoed:**
 
--grenspaal
+ * grenspaal
 
  
 rijksgrens met Nederland
@@ -71,22 +71,22 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--knotbomenrij
+ * dreef
+ * bomenrij
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 spiegelvijver bij kasteel
 
 **Bos:**
 
--naald
--loof
--hooghout
+ * naald
+ * loof
+ * hooghout
 
  
 deels historisch stabiel

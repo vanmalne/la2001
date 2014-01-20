@@ -18,26 +18,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * steilrand
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--rivier
--kreek
+ * rivier
+ * kreek
 
  
 de Schelde
 
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 
@@ -46,50 +46,50 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Prosperdorp
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
+ * (heren)woning
 
  
 Enkele karakteristieke woningen te Lillofort.
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
+ * hoeve
+ * schuur
 
  
 Anoniushoeve, Prosperhoeve
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 **Militair erfgoed:**
 
--fort
+ * fort
 
  
 Fort Lillo, Fort Liefkenshoek
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 St. -Engelbertus
 
 **Klein historisch erfgoed:**
 
--gedenkteken
--grenspaal
+ * gedenkteken
+ * grenspaal
 
  
 dorpspomp
@@ -103,7 +103,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
+ * dijk
 
  
 **Andere:**
@@ -114,32 +114,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 aanplantingen Lillofort
 
 **Lijnvormige elementen:**
 
--bomenrij
+ * bomenrij
 
 aanplantingen Lillofort
 
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Bos:**
 
--loof
+ * loof
 
  
 **Bijzondere waterhuishouding:**
 
--polder
--uiterwaarden
--buitendijks
+ * polder
+ * uiterwaarden
+ * buitendijks
 
  
 Prosperpolder

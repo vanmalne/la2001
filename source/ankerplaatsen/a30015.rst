@@ -18,13 +18,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--markante terreinovergang
+ * markante terreinovergang
 
 ter hoogte van Diksmuide overgang vallei en nederzetting Diksmuide
 
 **Hydrografische\_Elementen:**
 
--rivier
+ * rivier
 
  
 Ijzer
@@ -39,29 +39,29 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Stuivekenskerke
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 omwalde kasteelhoeve op motte
 
 **Militair erfgoed:**
 
--bunker
--verdedingingslinie
+ * bunker
+ * verdedingingslinie
 
  
 resten van loopgraven in Dodengang
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 kerk Stuivekenskerke en kapel bij kasteelhoeve (beide in
@@ -69,7 +69,7 @@ Stuivekenskerke)
 
 **Klein historisch erfgoed:**
 
--gedenkteken
+ * gedenkteken
 
  
 oorlogsmonumenten
@@ -82,27 +82,27 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
+ * bomenrij
+ * knotbomenrij
 
 bomenrij langs wegen en dijken; knotbomen soms als
 perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 in natuurreservaat Kleiputten door uitgraving
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 broeken

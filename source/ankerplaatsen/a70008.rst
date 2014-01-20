@@ -18,21 +18,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--holle weg
+ * macroreliëf
+ * holle weg
 
 heuvelachtig
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Herkebeek of Molenbeek, Marmelbeek, Sassenbroekbeek
@@ -44,7 +44,7 @@ vochtige valleigronden
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 tertiaire ondergrond ontsloten op heuveltoppen en in holle wegen
@@ -54,42 +54,42 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 kasteelparken van Heks, Bommershoven en Heurne
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--dries
--gehucht
+ * nederzettingspatroon
+ * dries
+ * gehucht
 
 hoopdorp (Heks), straatdorp met dries (Bommershoven), kleine kernen
 (gehuchten)
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--muur
+ * kasteel
+ * landgoed
+ * muur
 
  
 kastelen van Heks, Bommershoven en Heurne
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
+ * (heren)woning
+ * huis
 
  
 o.a. rentmeesterswoning
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
+ * hoeve
+ * schuur
 
  
 o.a. Manshovenhof, Monnikkenhof, Biezenhof, Rode Hoeve, de Bellefroid
@@ -97,17 +97,17 @@ o.a. Manshovenhof, Monnikkenhof, Biezenhof, Rode Hoeve, de Bellefroid
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 molen Heks, Sassenbroekmolen
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--klooster
--pastorie
+ * kerk
+ * kapel
+ * klooster
+ * pastorie
 
  
 o.a. kapel Sint-Gerardus Majella / Sint-Pieter, klooster
@@ -115,7 +115,7 @@ Sint-Vincentius, kerk OLV / Sint-Alfonisus
 
 **Klein historisch erfgoed:**
 
--kruis
+ * kruis
 
  
 o.a. Begijnekruis
@@ -131,20 +131,20 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--Romeinse weg
+ * Romeinse weg
 
  
 Bilzen-Waremme, Tongeren-Kassel en diverticula
 
 **Spoorweg:**
 
--oude tramroute
+ * oude tramroute
 
 Borgloon-Oreye
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 drainagesloten in valleibossen
@@ -154,31 +154,31 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 vochtige valleigronden, traditioneel open akkerbouwgebied, bos en
@@ -186,15 +186,15 @@ park, boomgaarden en weiden
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--hooghout
--struweel
+ * naald
+ * loof
+ * hooghout
+ * struweel
 
  
 o.a. parkbos van het kasteel, Manshovenbos, Magnee
@@ -323,7 +323,7 @@ van het Engelse park met parkbos, rond 1770 ontworpen en in zijn soort
 afgelijnd door eeuwenoude bomen en zeldzame struiken, een vijver en
 enkele beboste heuveltoppen. Verder zijn er nog enkele kleine
 monumenten: een gedenkzuil, een kasteelruïne en op de hoogste heuveltop
-- de Zalenberg, (129 m) - het paviljoentje De Filosoof. Dwars erdoor
+ *  de Zalenberg, (129 m) - het paviljoentje De Filosoof. Dwars erdoor
 loopt de Platanendreef die naar het aansluitende akkergebied en het
 naburige dorpje Bommershoven leidt. Bommershoven is in oorsprong een
 straatdorp gelegen aan de bovenloop van de Marmelbeek. Het is één van de

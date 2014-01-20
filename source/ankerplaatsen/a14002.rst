@@ -18,30 +18,30 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * steilrand
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 
@@ -50,25 +50,25 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Vlassenbroek
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 **Klein historisch erfgoed:**
 
--standbeeld
--kruis
+ * standbeeld
+ * kruis
 
  
 graf Emile Verhaeren, waterpomp
@@ -81,15 +81,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--grachtenstelsel
+ * dijk
+ * sluis
+ * grachtenstelsel
 
  
 veer
@@ -99,42 +99,42 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
+ * bomenrij
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--turfput
--weel
+ * turfput
+ * weel
 
  
 **Topografie:**
 
--repelvormig
--blokvormig
--historisch stabiel
+ * repelvormig
+ * blokvormig
+ * historisch stabiel
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--broek
--hakhout
--middelhout
--hooghout
--struweel
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--polder
--uiterwaarden
--buitendijks
+ * polder
+ * uiterwaarden
+ * buitendijks
 
  
 

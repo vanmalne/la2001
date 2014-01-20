@@ -18,15 +18,15 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 langs oude kanaalarm
 
 **Hydrografische\_Elementen:**
 
--rivier
--beek
+ * rivier
+ * beek
 
  
 Bouvriebeek; monding kanaal in Schelde
@@ -36,28 +36,28 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--orangerie
--landgoed
--muur
--kasteelgracht
+ * kasteel
+ * toren
+ * orangerie
+ * landgoed
+ * muur
+ * kasteelgracht
 
  
 kasteel van Bossuit;
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--stal
--wagenhuis
+ * hoeve
+ * stal
+ * wagenhuis
 
  
 stal en wagenhuis bij kasteel; hoeve ten noordoosten van kasteel
@@ -70,9 +70,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--sluis
--pompgemaal
+ * kanaal
+ * sluis
+ * pompgemaal
 
  
 oude kanaalarm; voormalig pompgebouw
@@ -82,29 +82,29 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 struweel langs taluds kanaal; dreef op as kasteel
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 in kasteelpark
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 boomgaard bij kasteel en hoeve
 
 **Bos:**
 
--loof
+ * loof
 
  
 

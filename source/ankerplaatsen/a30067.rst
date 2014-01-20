@@ -18,9 +18,9 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Hydrografische\_Elementen:**
 
--rivier
--beek
--vallei
+ * rivier
+ * beek
+ * vallei
 
  
 Leie, Markebeek
@@ -30,24 +30,24 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 bij patersmote; park bij kasteel van Marke
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--muur
+ * kasteel
+ * landgoed
+ * muur
 
  
 landgoed ten oosten kasteeldomein; ommuurde tuin
 
 **Militair erfgoed:**
 
--motte
+ * motte
 
  
 patersmote
@@ -60,27 +60,27 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--knotbomenrij
+ * dreef
+ * bomenrij
+ * knotbomenrij
 
 restanten van knotbomenrijen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 bij kasteel, op domein van Patersmote
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
+ * loof
 
  
 park bij domein

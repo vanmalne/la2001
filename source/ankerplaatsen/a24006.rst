@@ -18,32 +18,32 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--holle weg
+ * macroreliëf
+ * heuvel
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--meander
+ * waterloop
+ * beek
+ * vallei
+ * meander
 
  
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 
@@ -52,60 +52,60 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteel van Neigem
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--dries
--plein
+ * nederzettingspatroon
+ * dries
+ * plein
 
 dries van Neigem
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--kasteelgracht
+ * kasteel
+ * toren
+ * kasteelgracht
 
  
 koetshuis, portierswoning, duiventoren,poortgebouw
 
 **Bouwkundig erfgoed:**
 
--huis
--herberg
+ * huis
+ * herberg
 
  
 "Nieuw Balleke" herberg
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 "Fonteintjesmolen"
 
 **Militair erfgoed:**
 
--verdedingingslinie
+ * verdedingingslinie
 
  
 loopgraven uit WO I
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 Kruiskapel, Kapel O-L-V van Bevingen
@@ -115,8 +115,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -125,33 +125,33 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--loof
--middelhout
+ * loof
+ * middelhout
 
  
 
@@ -252,7 +252,7 @@ westelijke en zuidelijke zijde wordt het bos omringd door de
 Prindaalbeek en de Molenbeek. De leemlaag is vrij dun op de
 zuidwesthellingen van het Neigembos. De Tertiaire lagen die aangetrokken
 worden zijn Bartoonzand, Lediaanzand, Lutetiaanzand en Ieperiaanzand en
-- klei. Neigem, gelegen op de grens tussen het oude Graafschap
+ *  klei. Neigem, gelegen op de grens tussen het oude Graafschap
 Vlaanderen en het vroegere Hertogdom Brabant, maakte eertijds deel uit
 van de heerlijkheid van Wedergraete. Rond het kasteel van Neigem (dat
 sinds het aanpassen van de grenzen onder Napoleon op Meerbeeks

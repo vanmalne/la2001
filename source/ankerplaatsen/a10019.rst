@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Leibeek
@@ -33,25 +33,25 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
+ * kasteel
+ * landgoed
 
  
 De Schrieken + paviljoen + huisje uit boomstammen
 
 **Bouwkundig erfgoed:**
 
--villa
+ * villa
 
  
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Klein historisch erfgoed:**
 
--grenspaal
+ * grenspaal
 
  
 
@@ -60,14 +60,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 patrouillelaantje
 
 **Waterbouwkundige\_infrastructuur:**
 
--brug
+ * brug
 
  
 Bedafse brug
@@ -77,24 +77,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 

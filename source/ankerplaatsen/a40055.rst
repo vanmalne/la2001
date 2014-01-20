@@ -16,29 +16,29 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * steilrand
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 
@@ -47,35 +47,35 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 abdij van Beaulieu
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--gehucht
+ * nederzettingspatroon
+ * gehucht
 
 Melden
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
+ * (heren)woning
+ * huis
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Kerkelijk erfgoed:**
 
--abdij
--pastorie
+ * abdij
+ * pastorie
 
  
 voormalige abdij van Beaulieu
@@ -85,17 +85,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--kerkwegel
+ * weg
+ * pad
+ * kerkwegel
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--sas
--grachtenstelsel
+ * kanaal
+ * dijk
+ * sas
+ * grachtenstelsel
 
  
 Rietgracht of Coupure
@@ -105,34 +105,34 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
+ * bomenrij
+ * knotbomenrij
 
 **Topografie:**
 
--repelvormig
--opstrekkend
--historisch stabiel
+ * repelvormig
+ * opstrekkend
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--voormalige communautaire akker
--permanent grasland
--kouters
--meersen
+ * voormalige communautaire akker
+ * permanent grasland
+ * kouters
+ * meersen
 
  
 **Bos:**
 
--loof
--hooghout
--struweel
+ * loof
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--watering
+ * watering
 
  
 

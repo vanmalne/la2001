@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--kreek
+ * kreek
 
  
 Grote en Kleine Keignaert, Sluis- en Zoute kreek; geleden, Oude
@@ -31,7 +31,7 @@ Straatkreek
 
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 langs oevers van kreken en geleden
@@ -41,7 +41,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 **Militair erfgoed:**
@@ -54,16 +54,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 spoorlijn Oostende-Torhout; nu fiets- en wandelpad
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--sluis
--grachtenstelsel
+ * kanaal
+ * dijk
+ * sluis
+ * grachtenstelsel
 
  
 kan. Plassendale-Nieuwpoort
@@ -73,13 +73,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
+ * bomenrij
 
 bomenrijen langs kanaal en dijken
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 

@@ -18,13 +18,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--heuvel
+ * heuvel
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
+ * waterloop
+ * rivier
+ * vallei
 
  
 
@@ -33,34 +33,34 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
--hof
+ * park
+ * hof
 
  
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
+ * nederzettingspatroon
+ * plein
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--hovenierswoning
+ * kasteel
+ * hovenierswoning
 
  
 + jachtpaviljoen
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--herberg
--afspanning
+ * (heren)woning
+ * huis
+ * herberg
+ * afspanning
 
  
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 **Andere:**
@@ -71,8 +71,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -81,13 +81,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 

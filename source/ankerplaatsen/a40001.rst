@@ -18,18 +18,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--markante terreinovergang
+ * macroreliëf
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--waterloop
--kreek
+ * waterloop
+ * kreek
 
  
 Bentillekreek, Boerekreek, Blokkreek, Roeselarekreek, Molenkreek,
@@ -37,8 +37,8 @@ Vrouwkeshoekkreek, Haantjesgat
 
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 
@@ -47,30 +47,30 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Bouwkundig erfgoed:**
 
--herberg
+ * herberg
 
  
 Palinghuis
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Torenhof, Hoeve Engelendaal
 
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 Sint-Jan- in- Eremo en Sint- Margriete
 
 **Klein historisch erfgoed:**
 
--grenspaal
+ * grenspaal
 
  
 **Andere:**
@@ -81,15 +81,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--brug
+ * kanaal
+ * dijk
+ * brug
 
  
 Graaf Jansdijk, Oostpolderdijk, Sint\_Lievenpolderdijk,
@@ -100,32 +100,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * perceelsrandbegroeiing
 
 **Topografie:**
 
--repelvormig
--blokvormig
--onregelmatig
--historisch stabiel
+ * repelvormig
+ * blokvormig
+ * onregelmatig
+ * historisch stabiel
 
  
 **Bos:**
 
--loof
--struweel
+ * loof
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
+ * waterloop
+ * rivier
+ * beek
+ * vallei
 
  
 Groot Schijn, Heidebeek
 
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 
@@ -43,28 +43,28 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 kasteelpark, moestuin
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--orangerie
--hovenierswoning
--kasteelgracht
+ * kasteel
+ * orangerie
+ * hovenierswoning
+ * kasteelgracht
 
  
 Vrieselhof, Bleekhof, Schildehof
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 Dobbelhoeve + bakhuisje, Grote Hoeve + waterput, Rundvoorthoeve
@@ -74,14 +74,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 aarden weg
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -90,29 +90,29 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--hagen
+ * dreef
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--repelvormig
--opstrekkend
--historisch stabiel
+ * repelvormig
+ * opstrekkend
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--loof
+ * loof
 
  
 

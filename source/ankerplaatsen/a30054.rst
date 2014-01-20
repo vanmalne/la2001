@@ -18,15 +18,15 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 noordoosten ankerplaats
 
 **Macroreliëf:**
 
--kustduin
--markante terreinovergang
+ * kustduin
+ * markante terreinovergang
 
 duin-polderovergang
 
@@ -35,16 +35,16 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
+ * hoeve
+ * schuur
 
  
 Ten Bogaerde (met schuur!), Belvédère, Kapelhof
 
 **Kerkelijk erfgoed:**
 
--kerk
--abdij
+ * kerk
+ * abdij
 
  
 Ten Bogaerde (voormalige kerk en abdij)
@@ -54,8 +54,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--grachtenstelsel
+ * kanaal
+ * grachtenstelsel
 
  
 Langgeleed
@@ -65,30 +65,30 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 restanten van knotbomenrijen; struweel langs walgracht; overgang
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 boomgaard bij hoeve Te bogaerde
 
 **Bos:**
 
--struweel
+ * struweel
 
  
 in duinen
 
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

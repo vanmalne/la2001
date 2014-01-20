@@ -18,16 +18,16 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
--steilrand
--holle weg
+ * macroreliëf
+ * landduin
+ * steilrand
+ * holle weg
 
 stuifduinen
 
@@ -36,7 +36,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 St.-Jozefkapel
@@ -52,24 +52,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
+ * bomenrij
+ * houtkant
 
 **Historisch stabiel landgebruik:**
 
--plaggenbodems
--heide
+ * plaggenbodems
+ * heide
 
  
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 

@@ -21,19 +21,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
+ * tuin
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--muur
+ * muur
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--abdij
+ * kerk
+ * kapel
+ * abdij
 
  
 
@@ -45,12 +45,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
  
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~

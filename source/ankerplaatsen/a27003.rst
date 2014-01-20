@@ -18,31 +18,31 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--holle weg
+ * macroreliëf
+ * heuvel
+ * holle weg
 
 getuigenheuvels en ten zuiden van de vallei enkele depressies
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
--meander
+ * beek
+ * vallei
+ * meander
 
  
 o.a. Zwarte Beek, Bakelsbeek
 
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 natte depressies, moeras, beemden, hier broeken genoemd, verruigde
@@ -53,57 +53,57 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 o.a. kasteel Lobos, Geesthuis
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
+ * nederzettingspatroon
+ * plein
 
 driehoekig plein in het straatdorp Zelem
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--kasteelgracht
+ * kasteel
+ * landgoed
+ * kasteelgracht
 
  
 kasteel Lobos
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
+ * (heren)woning
+ * huis
 
  
 o.a. Geesthuis
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 o.a. Eksterhoek, kasteelhoeve Lobos, Oude Pastorij
 
 **Militair erfgoed:**
 
--schans
+ * schans
 
  
 Oude Schans
 
 **Kerkelijk erfgoed:**
 
--kerk
--klooster
--pastorie
+ * kerk
+ * klooster
+ * pastorie
 
  
 o.a. klooster Sint-Jansberg, Sint-Willibrorduskerk,
@@ -114,10 +114,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--grachtenstelsel
--stuw
+ * dijk
+ * sluis
+ * grachtenstelsel
+ * stuw
 
  
 stelsel van grachten en zijbeken in de broeken van Demer en Zwarte
@@ -128,31 +128,31 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--heide
+ * permanent grasland
+ * heide
 
  
 beemden, hier broeken genoemd, akkers aan de valleirand,
@@ -160,22 +160,22 @@ heiderelicten
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 

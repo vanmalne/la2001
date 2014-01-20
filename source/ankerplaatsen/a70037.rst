@@ -18,31 +18,31 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * steilrand
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
--meander
+ * beek
+ * vallei
+ * meander
 
  
 Abeek
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 vochtige beemden
@@ -55,31 +55,31 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--gehucht
+ * nederzettingspatroon
+ * gehucht
 
 valleisite Reppel en gehucht Over de Beek
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 o.a. Het Ooievaarsnest
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 o.a. Genamolen, Mariëndaal, Binkenmolen, Reppelmolen
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 o.a. Sint-Willibrorduskerk
@@ -92,20 +92,20 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 opstrekkend patroon vanuit Abeekvallei
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--sluis
--grachtenstelsel
--stuw
--lijnpad
+ * kanaal
+ * dijk
+ * sluis
+ * grachtenstelsel
+ * stuw
+ * lijnpad
 
  
 grachtenstelsel met o.a. Losbeek, oud kanaal Jan Van Abroek,
@@ -116,50 +116,50 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--poel
--turfput
--vijver
+ * poel
+ * turfput
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--plaggenbodems
+ * permanent grasland
+ * plaggenbodems
 
  
 o.a. vochtige hooi- en weilanden
 
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
--vloeiweide
--watering
+ * ontwatering
+ * vloeiweide
+ * watering
 
  
 o.a. kleinschalige waterbeemden

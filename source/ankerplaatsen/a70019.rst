@@ -18,29 +18,29 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--landduin
+ * macroreliëf
+ * heuvel
+ * landduin
 
 mijnterrils, duinreliëfs
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Lietenbeek, valleirand van de Bosbeek
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 oude gemeentelijke grindgroeve
@@ -53,21 +53,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
+ * tuin
 
  
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--gehucht
+ * nederzettingspatroon
+ * gehucht
 
 tuinwijken van Waterschei
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--villa
+ * (heren)woning
+ * huis
+ * villa
 
  
 tuinwijken met mijnwerkershuizen en villa's voor ingenieurs en
@@ -75,15 +75,15 @@ directieleden
 
 **Kerkelijk erfgoed:**
 
--kerk
--klooster
+ * kerk
+ * klooster
 
  
 o.a. parochiekerk Chrtistus-Koning
 
 **Klein historisch erfgoed:**
 
--gedenkteken
+ * gedenkteken
 
  
 gedenkteken André Dumont
@@ -101,7 +101,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 o.a. André Dumontlaan, Onderwijslaan, lanen en wegen van de
@@ -109,7 +109,7 @@ tuinwijken
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 kolenspoor Genk (Waterschei) - As - Maasmechelen (Eisden)
 
@@ -118,43 +118,43 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 bos- en landbouwontginningen
 
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 o.a. Heiderbos
 
 **Bos:**
 
--naald
--loof
--hakhout
--hooghout
--struweel
+ * naald
+ * loof
+ * hakhout
+ * hooghout
+ * struweel
 
  
 

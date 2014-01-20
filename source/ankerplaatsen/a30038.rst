@@ -18,27 +18,27 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--graft
--talud
+ * graft
+ * talud
 
  
 langs Palingbeek
 
 **Macroreliëf:**
 
--macroreliëf
+ * macroreliëf
 
 interfluviale kam Ijzer- Schelde&Leie
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 langs de wanden van het kanaal zowel formaties van Gent, kortrijk en
@@ -49,23 +49,23 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--hof
+ * hof
 
  
 Lankhof met motte; Pollepelhof
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
+ * kasteel
 
  
 Kasteel Palingbeek
 
 **Militair erfgoed:**
 
--fort
--bunker
--motte
+ * fort
+ * bunker
+ * motte
 
  
 grotendeels uit WOI
@@ -79,15 +79,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 Ieper - Komen nu als fietspad in gebruik
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--sluis
--stuw
+ * kanaal
+ * sluis
+ * stuw
 
  
 kan. Ieper-Komen met talrijke sluizen erop; dam voor Zillebeekse
@@ -98,34 +98,34 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--knotbomenrij
+ * dreef
+ * bomenrij
+ * knotbomenrij
 
 dreef palingbeek; restanten knot/bomenrijen; bomenrijen langs
 vestingswallen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 zillebeekse vijver; vijvers bij kasteel Palingbeek
 
 **Historisch stabiel landgebruik:**
 
--meersen
+ * meersen
 
  
 Verdronken Weide
 
 **Bos:**
 
--naald
--loof
--hakhout
--middelhout
--struweel
+ * naald
+ * loof
+ * hakhout
+ * middelhout
+ * struweel
 
  
 

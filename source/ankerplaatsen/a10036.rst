@@ -21,28 +21,28 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--kasteelgracht
+ * kasteel
+ * kasteelgracht
 
  
 'Hof ter Linden' + toegangspoort en boogbrug
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--wagenhuis
+ * hoeve
+ * wagenhuis
 
  
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -54,20 +54,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 kasteelvijver
 
 **Bos:**
 
--naald
--loof
--struweel
+ * naald
+ * loof
+ * struweel
 
  
 

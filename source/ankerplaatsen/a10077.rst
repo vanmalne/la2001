@@ -18,25 +18,25 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 Grote Nete, Gestelse Beek, Kiekensloop
 
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 
@@ -45,59 +45,59 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 kasteelpark, landschapspark, moestuin
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Gestel
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--hovenierswoning
--kasteelgracht
+ * kasteel
+ * toren
+ * hovenierswoning
+ * kasteelgracht
 
  
 Gestelhof, Rameienhof, Kesselhof, Berlaarhof
 
 **Bouwkundig erfgoed:**
 
--herberg
+ * herberg
 
  
 Herberg 'De Boekt'
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 Gasthuishoeve, Karthuizerhoeve, Witte Hoeve, Hoeve 'De Hel'
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 St.-Lambertuskerk, 'Kapel van O.L.- Vrouw Troost der Bedrukten'
 
 **Klein historisch erfgoed:**
 
--standbeeld
--gedenkteken
--schandpaal
+ * standbeeld
+ * gedenkteken
+ * schandpaal
 
  
 **Andere:**
@@ -108,16 +108,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--kerkwegel
+ * weg
+ * kerkwegel
 
  
 aarden weg
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--grachtenstelsel
+ * dijk
+ * grachtenstelsel
 
  
 
@@ -126,40 +126,40 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--loof
--broek
--hooghout
--struweel
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 
@@ -332,7 +332,7 @@ Het uitgesproken landelijk karakter, de variatie in structuur en opbouw
 en de aanwezigheid van heel wat waardevol, bouwkundig erfgoed dragen
 allen bij tot de hoge belevingswaarde van deze ankerplaats. Knelpunten
 in deze ankerplaats zijn het verspreid voorkomen van atypische bebouwing
--die vooral ter hoogte van Gestel storend werkt-, weekendverblijven in
+ * die vooral ter hoogte van Gestel storend werkt-, weekendverblijven in
 de noordelijk rand, alsook de aanwezigheid van een serrecomplex ten
 zuiden van Achterhoek. Verder merken we ook op dat door verhoging van de
 Nete-dijken op sommige plaatsen de relatie tussen de rivier en haar

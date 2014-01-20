@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--kustduin
+ * kustduin
 
 paraboolduinen
 
@@ -33,14 +33,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--houtwal
+ * houtwal
 
 rond vroegere duinakkers
 
 **Bos:**
 
--loof
--struweel
+ * loof
+ * struweel
 
  
 Kerkepannebos; struweel in de duinen

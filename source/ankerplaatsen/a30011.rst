@@ -18,11 +18,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--kustduin
+ * kustduin
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 in de depressie van Hannecat ligt een grote duinbeek

@@ -18,26 +18,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 o.a. oeverwallen
 
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * steilrand
+ * markante terreinovergang
+ * holle weg
 
 o.a. noordoostrand van het Kempens Plateau
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
--meander
+ * beek
+ * vallei
+ * meander
 
  
 Itterbeek, Eetsevelder- of Wijshagerbeek, Baatsbeek, bronnen of
@@ -45,16 +45,16 @@ sprinken
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 vochtige beemden
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 **Andere:**
@@ -65,63 +65,63 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 o.a. pastorietuin Opitter, park Itterdal
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--dries
--plein
--gehucht
+ * nederzettingspatroon
+ * dries
+ * plein
+ * gehucht
 
 valleisites Gruitrode en Opitter met dorpspleinen, valleirandsites
 Eetseveld en Neerglabbeek
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--landgoed
--muur
--omheining
--kasteelgracht
+ * kasteel
+ * toren
+ * landgoed
+ * muur
+ * omheining
+ * kasteelgracht
 
  
 commanderij van Gruitrode
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 o.a. kasteelhoeve commanderij Gruitrode
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Rooiermolen, Pollismolen, Stalsmolen, Vinckemolen of Kasteelmolen
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 o.a. Sint-Gertrudiskerk, Sint-Trudokerk met kerkhof
 
 **Klein historisch erfgoed:**
 
--kruis
+ * kruis
 
  
 ommuringen
@@ -134,9 +134,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--kerkwegel
+ * weg
+ * pad
+ * kerkwegel
 
  
 o.a. historische verbindingen tussen beemden, molens en
@@ -144,10 +144,10 @@ nederzettingen
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--grachtenstelsel
--stuw
+ * dijk
+ * sluis
+ * grachtenstelsel
+ * stuw
 
  
 waterbouwkundige infrastructuur in de beemden en aan de molens
@@ -157,59 +157,59 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--houtwal
--hagen
--knotbomenrij
+ * dreef
+ * bomenrij
+ * houtkant
+ * houtwal
+ * hagen
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--plaggenbodems
--heide
+ * permanent grasland
+ * plaggenbodems
+ * heide
 
  
 o.a. vochtige hooi- en weilanden, bevloeid hooiland, heiderelicten
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
--vloeiweide
--watering
+ * ontwatering
+ * vloeiweide
+ * watering
 
  
 bevloeid hooiland

@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Grote Spierebeek
@@ -28,37 +28,37 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 park in Engelse landschapsstijl
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--muur
+ * kasteel
+ * muur
 
  
 moestuin en boomgaard;hoofd- en dienstgebouwen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 site van Kasteelhoeve
 
 **Militair erfgoed:**
 
--motte
+ * motte
 
  
 site van kasteelhoeve op neerhof van vermoedelijk middeleeuwse motte
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -70,12 +70,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--knotbomenrij
+ * dreef
+ * knotbomenrij
 
 **Bos:**
 
--loof
+ * loof
 
  
 

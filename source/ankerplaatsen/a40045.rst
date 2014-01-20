@@ -16,19 +16,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
+ * macroreliëf
+ * heuvel
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 
@@ -37,28 +37,28 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--gehucht
+ * nederzettingspatroon
+ * gehucht
 
 protestantse gemeenschap
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--villa
--herberg
+ * (heren)woning
+ * huis
+ * villa
+ * herberg
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--klooster
+ * kerk
+ * klooster
 
  
 tempel
@@ -71,24 +71,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--hagen
--perceelsrandbegroeiing
+ * bomenrij
+ * hagen
+ * perceelsrandbegroeiing
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 **Historisch stabiel landgebruik:**
 
--kouters
+ * kouters
 
  
 **Andere:**

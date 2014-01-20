@@ -18,22 +18,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 rabattenstructuur + natuurlijk microreliëf
 
 **Macroreliëf:**
 
--macroreliëf
--markante terreinovergang
+ * macroreliëf
+ * markante terreinovergang
 
 Grote Dekzandrug
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
+ * waterloop
+ * beek
 
  
 Luisbeek, Voorhoutbeek, Hulst, Linie
@@ -48,15 +48,15 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Militair erfgoed:**
 
--fort
--verdedingingslinie
+ * fort
+ * verdedingingslinie
 
  
 voormalig Fort Sint- Jan
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -65,41 +65,41 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 wal rond Fort- site, Linie
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 **Bos:**
 
--naald
--loof
--hakhout
+ * naald
+ * loof
+ * hakhout
 
  
 

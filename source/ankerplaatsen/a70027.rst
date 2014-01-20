@@ -18,18 +18,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
--meander
+ * beek
+ * vallei
+ * meander
 
  
 Warmbeek, Beverbeekloop, de Vliet
 
 **Moerassige gronden:**
 
--moeras
--rietland
--ven
+ * moeras
+ * rietland
+ * ven
 
  
 
@@ -38,47 +38,47 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--boswachterswoning
--landgoed
--kasteelgracht
+ * kasteel
+ * boswachterswoning
+ * landgoed
+ * kasteelgracht
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 Jagerhof, Beverbeekhoeve
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Het Mulke
 
 **Militair erfgoed:**
 
--motte
+ * motte
 
  
 woontoren de Tomp
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--abdij
--klooster
+ * kerk
+ * kapel
+ * abdij
+ * klooster
 
  
 Kluis, Catharinadal, Kapel Onze-Lieve-Vrouw in de Nood
@@ -91,11 +91,11 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -104,49 +104,49 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 oude vijvers Lange Els, Tompwijer, oude molenvijver
 
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--plaggenbodems
--heide
+ * plaggenbodems
+ * heide
 
  
 heiderelicten, plaggenbodems in de omgeving van bebouwingskernen
 
 **Bos:**
 
--naald
--loof
--broek
--hooghout
+ * naald
+ * loof
+ * broek
+ * hooghout
 
  
 **Bijzondere waterhuishouding:**
 
--vloeiweide
--watering
+ * vloeiweide
+ * watering
 
  
 

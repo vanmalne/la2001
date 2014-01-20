@@ -18,36 +18,36 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 ontginningen in Geitebos
 
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--steilrand
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * steilrand
+ * markante terreinovergang
+ * holle weg
 
 ontginningen in Geitebos
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
 
  
 bronniveau's
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 
@@ -56,38 +56,38 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--kasteelgracht
+ * kasteel
+ * toren
+ * kasteelgracht
 
  
 Hof van Lier, dienstgebouwen
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--villa
+ * (heren)woning
+ * huis
+ * villa
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--abdij
--pastorie
+ * kerk
+ * kapel
+ * abdij
+ * pastorie
 
  
 Grimminge en Idegem
 
 **Klein historisch erfgoed:**
 
--schandpaal
+ * schandpaal
 
  
 
@@ -96,19 +96,19 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Spoorweg:**
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--brug
--pompgemaal
--grachtenstelsel
--lijnpad
+ * dijk
+ * brug
+ * pompgemaal
+ * grachtenstelsel
+ * lijnpad
 
  
 
@@ -117,53 +117,53 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--houtwal
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * houtwal
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--repelvormig
--opstrekkend
--onregelmatig
+ * repelvormig
+ * opstrekkend
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--middelhout
--hooghout
--struweel
+ * loof
+ * middelhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 

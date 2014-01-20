@@ -18,19 +18,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
+ * macroreliëf
+ * landduin
 
 **Moerassige gronden:**
 
--moeras
--veen
--ven
+ * moeras
+ * veen
+ * ven
 
  
 
@@ -39,7 +39,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--landgoed
+ * landgoed
 
  
 
@@ -48,7 +48,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 Turfvaart
@@ -58,22 +58,22 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 **Kunstmatige waters:**
 
--turfput
+ * turfput
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 
@@ -157,5 +157,5 @@ esthetische waarde van dit landschap. Waar 'De Nol' langs het zuiden
 wordt begrensd door het waardevolle heidelandschap van de Kalmthoutse
 Heide, ligt het zowel langs het oosten als het noorden ingesloten door
 bebouwing en infrastructuur. Verder moet een toenemende verdroging
--tengevolge van waterwinning- van het oorspronkelijk om en bij de 100 ha
+ * tengevolge van waterwinning- van het oorspronkelijk om en bij de 100 ha
 grote ven als knelpunt worden vermeld.

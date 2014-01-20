@@ -18,34 +18,34 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--graft
--talud
+ * microreliëf
+ * graft
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
+ * macroreliëf
+ * steilrand
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Herk
 
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 natte hooilanden met riet- en zeggevegetaties
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 ontsluiting van de "mergels van Gelinden" in de groeven van Overbroek
@@ -58,7 +58,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--pad
+ * pad
 
  
 
@@ -67,36 +67,36 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--houtkant
--hagen
--perceelsrandbegroeiing
+ * houtkant
+ * hagen
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 hooi- en kalkgraslanden, grasland onder boomgaarden
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hooghout
+ * loof
+ * hooghout
 
  
 

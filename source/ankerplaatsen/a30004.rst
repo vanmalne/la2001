@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 in weilanden op oude duingronden
@@ -29,8 +29,8 @@ duinengebieden
 
 **Hydrografische\_Elementen:**
 
--waterloop
--kreek
+ * waterloop
+ * kreek
 
  
 monding van de Zwingeul en kreken, geleden, vlieten
@@ -43,16 +43,16 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
+ * hoeve
+ * schuur
 
  
 grote hoeves (o.a. Prinsenhoeve en langs de Schapersdijk)
 
 **Militair erfgoed:**
 
--fort
--verdedingingslinie
+ * fort
+ * verdedingingslinie
 
  
 fort St.-Pol, Cantelmolinie, Oud fort Isabella
@@ -62,7 +62,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
+ * dijk
 
  
 Graaf Jansdijk in zuiden en Schapersdijk in noorden
@@ -72,22 +72,22 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 langs dijk, wegen en perceelsranden
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 enkele veedrinkpoelen
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 blokvormig en grootschalig in recentere polders, kleinschalig in
@@ -95,15 +95,15 @@ oudere polders
 
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 Koningsbos en Zwinbosjes
 
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 brak grondwater op geringe diepte

@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 o.a. de Herk, Cijnsbroekbeek, Busselkesbeek, Sterrebeek, Heustenbeek
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 
@@ -43,47 +43,47 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--omheining
--kasteelgracht
+ * kasteel
+ * landgoed
+ * omheining
+ * kasteelgracht
 
  
 kastelen van Stevoort en Schimpen
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
+ * (heren)woning
 
  
 kasteel van Schimpen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 o.a.Ten Roye, Scholteswinning, Vuileplas, Boswinning
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Elsartmolen, dorpsmolen van Stevoort
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Klein historisch erfgoed:**
@@ -100,16 +100,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 onverharde wegen en voetwegen volgens Atlas van de Buurtwegen
 
 **Waterbouwkundige\_infrastructuur:**
 
--brug
--grachtenstelsel
+ * brug
+ * grachtenstelsel
 
  
 toegangsbrug over de watergracht van het kasteel van Stevoort
@@ -119,26 +119,26 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
@@ -148,15 +148,15 @@ historisch stabiele bosrelicten
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--broek
--hooghout
--struweel
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 relicten van voormalig Herkenrodebos, Sterrebos op

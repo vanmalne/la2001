@@ -18,19 +18,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 langs hellingen Poelberg
 
 **Macroreliëf:**
 
--heuvel
--holle weg
+ * heuvel
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 bronnen aan de voet van de Poelberg; Elsbeek
@@ -44,14 +44,14 @@ opeenvolging van historische bebouwing langs kamlijn poelberg
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 meeste hoeves nog authentiek en weinig verstoord
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 Poelbergmolen
@@ -64,10 +64,10 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 dreef naar Goed Te Karels; bomenrijen Elsbeek en rond hoeves; knotbomen
 in weilanden

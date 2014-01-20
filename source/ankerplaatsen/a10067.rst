@@ -18,29 +18,29 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--markante terreinovergang
+ * markante terreinovergang
 
 donk
 
 **Hydrografische\_Elementen:**
 
--rivier
--beek
--vallei
--meander
+ * rivier
+ * beek
+ * vallei
+ * meander
 
  
 Grote Nete, Molenbeek, Oude Molenbeek, Steenkensbeek
 
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 
@@ -49,40 +49,40 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 landschapspark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--boswachterswoning
--muur
--ijskelder
--kasteelgracht
+ * kasteel
+ * boswachterswoning
+ * muur
+ * ijskelder
+ * kasteelgracht
 
  
 **Bouwkundig erfgoed:**
 
--huis
--herberg
+ * huis
+ * herberg
 
  
 brugwachtershuisje, 'Mac Adam'
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Kasteelhoeve 't Bergske + bakhuis
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 'Boskapel'
@@ -97,9 +97,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--brug
--grachtenstelsel
+ * dijk
+ * brug
+ * grachtenstelsel
 
  
 
@@ -108,43 +108,43 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 

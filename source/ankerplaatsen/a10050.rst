@@ -18,20 +18,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--vallei
+ * waterloop
+ * vallei
 
  
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 laagveen
@@ -41,7 +41,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 Elsummolen
@@ -51,10 +51,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--pompgemaal
--grachtenstelsel
--stuw
+ * dijk
+ * pompgemaal
+ * grachtenstelsel
+ * stuw
 
  
 
@@ -63,34 +63,34 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--knotbomenrij
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--poel
--turfput
+ * poel
+ * turfput
 
  
 **Topografie:**
 
--repelvormig
--opstrekkend
--historisch stabiel
+ * repelvormig
+ * opstrekkend
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--plaggenbodems
+ * permanent grasland
+ * plaggenbodems
 
  
 **Bos:**
 
--loof
--broek
--struweel
+ * loof
+ * broek
+ * struweel
 
  
 

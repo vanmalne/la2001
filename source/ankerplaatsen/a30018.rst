@@ -18,19 +18,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 typisch voor Oudlandpolder
 
 **Hydrografische\_Elementen:**
 
--kreek
+ * kreek
 
  
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 in verlande stukken van kreek
@@ -49,29 +49,29 @@ St-Janshospitaal
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 St-Christoffelhoeve, Hoeve Bonem
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 Schellemolen
 
 **Militair erfgoed:**
 
--verdedingingslinie
+ * verdedingingslinie
 
  
 Vaubanvestingswallen bewaard
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 kerk te Damme: toren met plat dak; kapel Ter Mikkem
@@ -81,10 +81,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--brug
--sluis
+ * kanaal
+ * dijk
+ * brug
+ * sluis
 
  
 Damse Vaart in oude Zwingeul; o.a. Romboutswervedijk;
@@ -94,34 +94,34 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--knotbomenrij
--perceelsrandbegroeiing
+ * bomenrij
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 rond hoeves: bomenrijen; af en toe resten van perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 veedrinkput
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 in de komgronden
 
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

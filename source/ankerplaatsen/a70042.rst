@@ -18,8 +18,8 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 wallen aan de kavelranden, zacht glooiende grasvelden
@@ -29,25 +29,25 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 o.a. Koninklijk Park, Nieuw Park
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
+ * nederzettingspatroon
+ * plein
 
 Kamp van Beverlo met dambordpatroon rond het centrale Koninklijk Park en
 ereplein
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--villa
+ * (heren)woning
+ * huis
+ * villa
 
  
 o.a. paviljoen van de Commandant van de Genie
@@ -59,15 +59,15 @@ bestanddelen van het Kamp van Beverlo
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 o.a. Onze-Lieve-Vrouw-Hemelvaartkerk
 
 **Klein historisch erfgoed:**
 
--gedenkteken
+ * gedenkteken
 
  
 **Andere:**
@@ -78,8 +78,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 oorspronkelijk patroon van paden en wegen
@@ -89,34 +89,34 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 dambordpatroon van het Kamp van Beverlo
 
 **Bos:**
 
--naald
--loof
--hooghout
--struweel
+ * naald
+ * loof
+ * hooghout
+ * struweel
 
  
 

@@ -18,24 +18,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--rivier
--beek
--vallei
--meander
+ * rivier
+ * beek
+ * vallei
+ * meander
 
  
 Kleine Nete, Krekelbeek, Elstbeek
 
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 
@@ -44,41 +44,41 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--kasteelgracht
+ * kasteel
+ * toren
+ * kasteelgracht
 
  
 Kasteel 'heidebloem' + dienstwoningen
 
 **Bouwkundig erfgoed:**
 
--huis
--herberg
+ * huis
+ * herberg
 
  
 bareelwachterhuis, 'Maison des Bains', breedhuis
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 'Heidebloemhoeve'
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Klein historisch erfgoed:**
@@ -91,8 +91,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--grachtenstelsel
+ * dijk
+ * grachtenstelsel
 
  
 
@@ -101,35 +101,35 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--knotbomenrij
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--heide
+ * permanent grasland
+ * heide
 
  
 heiderelict
 
 **Bos:**
 
--loof
--broek
--hooghout
--struweel
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 
@@ -166,7 +166,7 @@ van de Kleine Nete. Kasteel 'Heidebloem' is reeds terug te vinden op de
 kaart van Vandermaelen uit 1854. Het is een licht U-vormig kasteel van
 ca. 1800, dat werd verbouwd tussen 1939 en 1942. Het kasteelgebouw wordt
 omgeven door een park, waarin 18de eeuwse arduinen vazen op sokkels
--afkomstig van de abdij van Nazareth- staan. 'Maison des Bains' gaat
+ * afkomstig van de abdij van Nazareth- staan. 'Maison des Bains' gaat
 terug tot een herberg uit 1897.
 Esthetische waarde: Dit halfopen landschap, beheerst door een nog
 behoorlijk meanderende Kleine Nete, afgelijnd door dijken met een

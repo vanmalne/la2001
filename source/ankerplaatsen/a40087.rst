@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--landduin
--steilrand
+ * macroreliëf
+ * heuvel
+ * landduin
+ * steilrand
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
--meander
+ * waterloop
+ * rivier
+ * vallei
+ * meander
 
  
 
@@ -43,40 +43,40 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteel Koningsdonk, Klaverke en Kervijn
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--orangerie
--hovenierswoning
--landgoed
--omheining
--kasteelgracht
+ * kasteel
+ * orangerie
+ * hovenierswoning
+ * landgoed
+ * omheining
+ * kasteelgracht
 
  
 koetshuis
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
+ * (heren)woning
 
  
 tolhuis
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 kapel van Klaverken
@@ -86,8 +86,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 

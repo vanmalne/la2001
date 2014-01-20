@@ -18,17 +18,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--landduin
+ * landduin
 
 **Moerassige gronden:**
 
--ven
+ * ven
 
  
 
@@ -37,27 +37,27 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
+ * (heren)woning
 
  
 personeelswoningen met tuin
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--stal
+ * hoeve
+ * stal
 
  
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 kerkhof
 
 **Klein historisch erfgoed:**
 
--grenspaal
+ * grenspaal
 
  
 **Archeologische elementen:**
@@ -71,7 +71,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 rationeel, symmetrisch wegenpatroon
@@ -81,20 +81,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 **Bos:**
 
--naald
--loof
--hooghout
+ * naald
+ * loof
+ * hooghout
 
  
 

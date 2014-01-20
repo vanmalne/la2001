@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
 
 Bossnepbeek
@@ -33,30 +33,30 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
 
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--boswachterswoning
--ijskelder
--kasteelgracht
+ * kasteel
+ * boswachterswoning
+ * ijskelder
+ * kasteelgracht
 
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
+ * (heren)woning
 
 
 conciërgewoning
 
 **Landbouwkundig erfgoed:**
 
--wagenhuis
+ * wagenhuis
 
 
 
@@ -65,7 +65,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
 
 
@@ -74,23 +74,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
+ * bomengroep
 
 
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
 
 **Bos:**
 
--naald
--loof
--hooghout
+ * naald
+ * loof
+ * hooghout
 
 
 

@@ -16,8 +16,8 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
@@ -26,18 +26,18 @@ donk
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
--meander
+ * waterloop
+ * rivier
+ * vallei
+ * meander
 
  
 Moervaartdepressie, Zuidlede
 
 **Moerassige gronden:**
 
--moeras
--veen
+ * moeras
+ * veen
 
  
 **Geologie:**
@@ -50,15 +50,15 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--landgoed
+ * landgoed
 
  
 Kasteel Wulfsdonk, sinds 1962 vervangen door villa
 
 **Bouwkundig erfgoed:**
 
--villa
--herberg
+ * villa
+ * herberg
 
  
 ijzeren toegangshek, wolfskop naast voordeur en gevelsteen van het
@@ -66,14 +66,14 @@ vroeger kasteel Zamans
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Etboshoeve
 
 **Klein historisch erfgoed:**
 
--eendenkooi
+ * eendenkooi
 
  
 restanten van een eendenkooi
@@ -83,22 +83,22 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 kasseiweg 'Etboswegel'
 
 **Spoorweg:**
 
--verlaten spoorweg
+ * verlaten spoorweg
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--brug
--pompgemaal
+ * kanaal
+ * dijk
+ * brug
+ * pompgemaal
 
  
 
@@ -107,23 +107,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--turfput
--vijver
+ * turfput
+ * vijver
 
  
 **Topografie:**
 
--repelvormig
--blokvormig
--opstrekkend
--onregelmatig
+ * repelvormig
+ * blokvormig
+ * opstrekkend
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
@@ -133,16 +133,16 @@ vroegere meersen
 
 **Bos:**
 
--naald
--loof
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * middelhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 

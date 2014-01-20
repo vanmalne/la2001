@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 valleigrenzen; langs hellingen bepaald door geologische gesteldheid
 
 **Macroreliëf:**
 
--heuvel
--steilrand
--holle weg
+ * heuvel
+ * steilrand
+ * holle weg
 
 steilrand westelijke helling Mesen -Wijtschate
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Douvevallei; Haring-, Wijtschate-, Diependale, Stuiver-, Steen-,
@@ -42,7 +42,7 @@ bollaert-, Rozebeek
 
 **Geologie:**
 
--graften
+ * graften
 
  
 bepaald door geologische gesteldheid
@@ -52,24 +52,24 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Militair erfgoed:**
 
--bunker
--verdedingingslinie
+ * bunker
+ * verdedingingslinie
 
  
 kraterlijn; ondergrondse gangen; kerkhoven
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 Mesen en Wijtschate (!)
 
 **Klein historisch erfgoed:**
 
--kruis
--gedenkteken
+ * kruis
+ * gedenkteken
 
  
 gedenktekens voor WOI (talrijke oorlogsmonumenten)
@@ -82,7 +82,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--Romeinse weg
+ * Romeinse weg
 
  
 Cassel-kortrijk
@@ -92,26 +92,26 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
--knotbomenrij
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
 
 resten bocage; restanten langs perceelsgreznen of als begeleidende
 begroeiing bij beken
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 kraterlijn
 
 **Bos:**
 
--naald
--loof
--struweel
+ * naald
+ * loof
+ * struweel
 
  
 

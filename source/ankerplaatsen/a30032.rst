@@ -22,7 +22,7 @@ interfluvium tussen bekken Proversbeek en Velddambeek
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Leugaartsbeek
@@ -32,37 +32,37 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 bij drie kast.; Engelse landschapsstijl
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--ijskelder
--kasteelgracht
+ * kasteel
+ * ijskelder
+ * kasteelgracht
 
  
 Rapenburg met ijskelder; beiden gracht
 
 **Bouwkundig erfgoed:**
 
--villa
+ * villa
 
  
 Villa Zorgvliet; kleine boskanterswoningen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 bij kast. Rapenburg
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 vlakbij kast. Rapenburg
@@ -72,7 +72,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 in bossen nog resten van grachten en singels
@@ -82,29 +82,29 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--knotbomenrij
+ * dreef
+ * knotbomenrij
 
 knotbomen bij weilanden
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 veedrinkput
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 geaccentueerd door dreven; langwerpige geometrische vorm
 
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 

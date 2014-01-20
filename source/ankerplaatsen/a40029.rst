@@ -16,28 +16,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--heuvel
--steilrand
+ * heuvel
+ * steilrand
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--veen
+ * veen
 
  
 **Geologie:**
@@ -50,55 +50,55 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
--hof
+ * tuin
+ * park
+ * hof
 
  
 Kasteelpark van Wieze, Spaans Hof, pastorietuin Mespelare
 
 **Nederzettingspatronen:**
 
--plein
--gehucht
+ * plein
+ * gehucht
 
 kerkplein van Wieze en Mespelare
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--toren
--landgoed
--ijskelder
--kasteelgracht
+ * toren
+ * landgoed
+ * ijskelder
+ * kasteelgracht
 
  
 **Bouwkundig erfgoed:**
 
--(heren)woning
--afspanning
+ * (heren)woning
+ * afspanning
 
  
 Spaans Hof
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 Neerhof
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 **Klein historisch erfgoed:**
 
--schandpaal
+ * schandpaal
 
  
 voor de kerk van Mespelare
@@ -111,16 +111,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--sluis
--lijnpad
+ * kanaal
+ * dijk
+ * sluis
+ * lijnpad
 
  
 
@@ -129,38 +129,38 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--hagen
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * hagen
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--meersen
+ * permanent grasland
+ * meersen
 
  
 **Bos:**
 
--loof
--hooghout
+ * loof
+ * hooghout
 
  
 

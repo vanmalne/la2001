@@ -18,31 +18,31 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 o.a. wallen, windribbels
 
 **Macroreliëf:**
 
--macroreliëf
--landduin
--markante terreinovergang
+ * macroreliëf
+ * landduin
+ * markante terreinovergang
 
 o.a. duinreliëfs, stuifzandwallen, valhellingen, windkuilen
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 o.a. Busselzijp, Kattebeek, vallei van de Bosbeek
 
 **Moerassige gronden:**
 
--ven
+ * ven
 
  
 **Andere:**
@@ -53,7 +53,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 Boskapel of kapel van Onze-Lieve-Vrouw van Rust, Mariabeeldje op de
@@ -67,7 +67,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 Geuzenbaan
@@ -77,44 +77,44 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--houtwal
+ * dreef
+ * bomenrij
+ * houtkant
+ * houtwal
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 veedrinkputten
 
 **Topografie:**
 
--blokvormig
--onregelmatig
+ * blokvormig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 restanten van heide en kleinschalige landbouwpercelen
 
 **Bos:**
 
--naald
--loof
--hooghout
--struweel
+ * naald
+ * loof
+ * hooghout
+ * struweel
 
  
 
@@ -169,7 +169,7 @@ recreatie. Wandel- en fietsroutes zijn er uitgestippeld.
 Ruimtelijk-structurerende waarde:
 Het voorkomen van het duinmassief, in relatie tot de andere
 landschapseenheden, was hier bepalend voor de landschapsopbouw en
--organisatie.
+ * organisatie.
 
 --------------
 

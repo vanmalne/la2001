@@ -18,29 +18,29 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
 
  
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 
@@ -49,44 +49,44 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
--hof
+ * tuin
+ * park
+ * hof
 
  
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--kasteelgracht
+ * kasteel
+ * toren
+ * kasteelgracht
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 **Militair erfgoed:**
 
--bunker
+ * bunker
 
  
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--klooster
+ * kerk
+ * kapel
+ * klooster
 
  
 **Archeologische elementen:**
@@ -97,18 +97,18 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Spoorweg:**
 
--verlaten spoorweg
--oude tramroute
+ * verlaten spoorweg
+ * oude tramroute
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -117,24 +117,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--naald
--loof
--broek
+ * naald
+ * loof
+ * broek
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
+ * ontwatering
 
  
 
@@ -272,7 +272,7 @@ sporen van de voormalige buurtspoorweglijn van Brussel via Vossem naar
 Hamme-Mille en Tienen of Jodoigne. De sectie doorheen de Dijlevallei
 werd aangelegd in 1905 en buiten gebruik gesteld in 1957. Tijdens de
 Tweede Wereldoorlog had de rechtstreekse tramverbinding Brussel - Vossem
-- Tienen - Luik een belangrijke economische betekenis omdat de
+ *  Tienen - Luik een belangrijke economische betekenis omdat de
 spoorwegverbindingen geruime tijd onderbroken waren. Tussen Neerijse en
 Sint-Agatha-Rode liggen een aantal grote vierkantshoeven op de
 westelijke rand van de Dijlevallei. Ten noorden van de vijver Grootbroek

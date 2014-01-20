@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
+ * waterloop
+ * rivier
+ * vallei
 
  
 Rodeloop, Rooise Loop, Wamp
 
 **Moerassige gronden:**
 
--moeras
--veen
+ * moeras
+ * veen
 
  
 
@@ -43,30 +43,30 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 park en tuinen bij Priorij
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Corsendonk
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 **Kerkelijk erfgoed:**
 
--kapel
--klooster
+ * kapel
+ * klooster
 
  
 Priorij Corsendonk + bijgebouwen
@@ -76,8 +76,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
--stuw
+ * grachtenstelsel
+ * stuw
 
  
 
@@ -86,31 +86,31 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--poel
--vijver
+ * poel
+ * vijver
 
  
 **Topografie:**
 
--opstrekkend
+ * opstrekkend
 
  
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 **Bos:**
 
--naald
--broek
--struweel
+ * naald
+ * broek
+ * struweel
 
  
 
@@ -201,7 +201,7 @@ de kloostertuin kreeg een nieuw gezicht. In de tweede helft van de 20ste
 eeuw werden de resterende en vervallen priorijgebouwen, nl. de
 noordelijk en westelijke vleugel, het vrouwen-, kinder- en lekenhuis en
 de infirmerie gerestaureerd of gereconstrueerd in hun 16de en 17de
--eeuwse toestand. Op bepaalde plaatsen werd eveneens de vroegere
+ * eeuwse toestand. Op bepaalde plaatsen werd eveneens de vroegere
 geordende kloostertuin gereconstrueerd met o.a. een vierseizoenentuin.
 Ten noorden van de priorij ligt het molenhuis van de eertijds
 nabijgelegen molen, dat teruggaat tot het einde van de 18de eeuw. Het

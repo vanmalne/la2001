@@ -18,25 +18,25 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
 
  
 Grote Nete, Visbeek, Hanske Selsloop, Heiloop
 
 **Moerassige gronden:**
 
--moeras
--rietland
--ven
+ * moeras
+ * rietland
+ * ven
 
  
 
@@ -45,14 +45,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Topmolen, Hoolstmolen
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 St.-Odrada kapel
@@ -66,15 +66,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 zandwegen
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--grachtenstelsel
+ * dijk
+ * grachtenstelsel
 
  
 
@@ -83,34 +83,34 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--repelvormig
--historisch stabiel
+ * repelvormig
+ * historisch stabiel
 
  
 **Bos:**
 
--loof
--broek
--struweel
+ * loof
+ * broek
+ * struweel
 
  
 

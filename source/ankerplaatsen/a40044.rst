@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--steilrand
--markante terreinovergang
--holle weg
+ * macroreliëf
+ * heuvel
+ * steilrand
+ * markante terreinovergang
+ * holle weg
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 
@@ -43,63 +43,63 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--hof
+ * tuin
+ * hof
 
  
 Torreken te Walle
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
--gehucht
+ * nederzettingspatroon
+ * plein
+ * gehucht
 
 Boskant bij Bos t' Ename, Ename-bosrelatie, archeologische site,
 Volkegem
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--landgoed
--kasteelgracht
+ * landgoed
+ * kasteelgracht
 
  
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--herberg
+ * (heren)woning
+ * huis
+ * herberg
 
  
 dorpskern Ename, Schuifelbeen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
+ * hoeve
+ * schuur
+ * stal
 
  
 dorpskern Volkegem
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Toysschemolen
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--abdij
--pastorie
+ * kerk
+ * kapel
+ * abdij
+ * pastorie
 
  
 **Klein historisch erfgoed:**
 
--schandpaal
+ * schandpaal
 
  
 waterpomp
@@ -112,9 +112,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--kerkwegel
+ * weg
+ * pad
+ * kerkwegel
 
  
 kasseiweg tussen bos en dorp
@@ -126,32 +126,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--houtwal
--hagen
--knotbomenrij
--kaphaag
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * houtwal
+ * hagen
+ * knotbomenrij
+ * kaphaag
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--loof
--hakhout
--middelhout
--struweel
+ * loof
+ * hakhout
+ * middelhout
+ * struweel
 
  
 

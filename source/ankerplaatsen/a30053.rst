@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 valleirand en/of kunstmatig
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
--oude rivierarm
+ * beek
+ * vallei
+ * oude rivierarm
 
  
 Zuidleie; Borne-, Merle, Zuiddam- en Geuzenbeek
 
 **Moerassige gronden:**
 
--veen
+ * veen
 
  
 in Leiemeersen
@@ -44,30 +44,30 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--toren
--landgoed
+ * toren
+ * landgoed
 
  
 hoeve Blauw Kasteel
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 Blauw Kasteel, Schotsgoed, Grote Linde, en andere
 
 **Militair erfgoed:**
 
--bunker
--motte
+ * bunker
+ * motte
 
  
 restanten van mottestructuur en walgracht
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 bij hoeve Grote Linde
@@ -77,7 +77,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
+ * kanaal
 
  
 kanaal Oostende-Gent
@@ -87,37 +87,37 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 bij kapel Grote linde
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--hagen
--knotbomenrij
+ * dreef
+ * bomenrij
+ * hagen
+ * knotbomenrij
 
 langs kanaal; langs perceelsranden, bij hoeves
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 veedrinkpoel
 
 **Historisch stabiel landgebruik:**
 
--meersen
+ * meersen
 
  
 No
 
 **Bos:**
 
--struweel
+ * struweel
 
  
 rijshout/tuinbouw

@@ -18,14 +18,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--vallei
+ * waterloop
+ * rivier
+ * vallei
 
  
 Wimp, Oevelse Dreefloop
@@ -35,43 +35,43 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 Franse tuin, abdijtuin, landschapspark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--hovenierswoning
+ * kasteel
+ * toren
+ * hovenierswoning
 
  
 Kasteel de Meeuw d' Argenteuil + donjon
 
 **Bouwkundig erfgoed:**
 
--huis
+ * huis
 
  
 Bisschopshuis, Abtshuis
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 Abdijhoeve, tiendschuur
 
 **Kerkelijk erfgoed:**
 
--kerk
--abdij
--klooster
+ * kerk
+ * abdij
+ * klooster
 
  
 Norbertijnerabdij + ringmuur + toren
@@ -84,7 +84,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 oude, gekasseide dreef
@@ -94,25 +94,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--naald
--loof
--hooghout
+ * naald
+ * loof
+ * hooghout
 
  
 

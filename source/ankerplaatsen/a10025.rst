@@ -18,8 +18,8 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Hydrografische\_Elementen:**
 
--beek
--meander
+ * beek
+ * meander
 
  
 
@@ -28,35 +28,35 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
--hof
+ * tuin
+ * park
+ * hof
 
  
 Sterckshof met gracht
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--orangerie
+ * kasteel
+ * orangerie
 
  
 jachtwachterswoning, portierswoning, koetshuis
 
 **Bouwkundig erfgoed:**
 
--huis
+ * huis
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 **Klein historisch erfgoed:**
 
--standbeeld
--gedenkteken
+ * standbeeld
+ * gedenkteken
 
  
 gedenksteen
@@ -69,15 +69,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--pad
+ * pad
 
  
 geplaveid pad naar kasteel
 
 **Waterbouwkundige\_infrastructuur:**
 
--brug
--grachtenstelsel
+ * brug
+ * grachtenstelsel
 
  
 Restant Herentalsevaart met brug
@@ -87,27 +87,27 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--hagen
+ * dreef
+ * bomenrij
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 spiegelvijver
 
 **Bos:**
 
--loof
--hooghout
+ * loof
+ * hooghout
 
  
 

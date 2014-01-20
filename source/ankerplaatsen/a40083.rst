@@ -16,7 +16,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 
@@ -25,24 +25,24 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Kastelen Te Lande, Krabbenburg, Ter Meren, Succa en Notax
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--omheining
--kasteelgracht
+ * kasteel
+ * omheining
+ * kasteelgracht
 
  
 Te Lande, Krabbenburg, Ter Meren, Succa en Notax
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--wagenhuis
+ * hoeve
+ * wagenhuis
 
  
 
@@ -51,8 +51,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 
@@ -61,25 +61,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--hagen
+ * dreef
+ * bomenrij
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--loof
--middelhout
+ * loof
+ * middelhout
 
  
 

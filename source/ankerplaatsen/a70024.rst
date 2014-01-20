@@ -18,26 +18,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 o.a. oeverwallen, depressies
 
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * steilrand
+ * markante terreinovergang
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--meander
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * meander
+ * oude rivierarm
 
  
 o.a. Maas, Genootsbeek, Vrietselbeek, Zanderbeek of Diepbeek,
@@ -50,7 +50,7 @@ natte depressies
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 kleinschalige grind- en leemputten, grindbanken
@@ -60,8 +60,8 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 o.a. Sint-Gertrudiskerk, kasteeldomein Ommerstein, kasteel
@@ -69,26 +69,26 @@ Karolinaberg
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--gehucht
+ * nederzettingspatroon
+ * gehucht
 
 o.a. Boyen, Heppeneert, Oud-Dilsen
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--kasteelgracht
+ * kasteel
+ * landgoed
+ * kasteelgracht
 
  
 kasteel Ommerstein, kasteel Karolinaberg
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--villa
--herberg
+ * (heren)woning
+ * huis
+ * villa
+ * herberg
 
  
 o.a. kasteel Karolinaberg, Oud-Dilsen, Damiaan, Labaer, De Hoogte,
@@ -96,10 +96,10 @@ Boyen en Heppeneert
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 o.a. kasteelhoeve Ommerstein, Kraaienbos, Damiaan, Kapelhof,
@@ -107,17 +107,17 @@ Zanderhof, Boyen en Heppeneert
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 De Hoop
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--klooster
--pastorie
+ * kerk
+ * kapel
+ * klooster
+ * pastorie
 
  
 o.a. Sint-Gertrudiskerk, Sint-Maartenstoren, kapel Onze-Lieve-Vrouw
@@ -125,9 +125,9 @@ van Rust
 
 **Klein historisch erfgoed:**
 
--kruis
--gedenkteken
--grenspaal
+ * kruis
+ * gedenkteken
+ * grenspaal
 
  
 o.a. merktekens waterhoogte
@@ -140,16 +140,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--kerkwegel
+ * weg
+ * pad
+ * kerkwegel
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--brug
--lijnpad
+ * dijk
+ * brug
+ * lijnpad
 
  
 o.a. Pastoorsdijk, winterdijken, zomerdijken, Sint-Geertruibrug,
@@ -163,46 +163,46 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Kunstmatige waters:**
 
--poel
--weel
+ * poel
+ * weel
 
  
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 weerden
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hakhout
--hooghout
--struweel
+ * loof
+ * hakhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--uiterwaarden
--buitendijks
+ * uiterwaarden
+ * buitendijks
 
  
 

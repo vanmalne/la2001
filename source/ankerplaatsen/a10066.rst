@@ -18,13 +18,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Bruine Beek, Zennekensbeek
@@ -34,34 +34,34 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--kasteelgracht
+ * kasteel
+ * toren
+ * kasteelgracht
 
  
 Kasteel Zellaar, Kasteel Berentrode
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--wagenhuis
+ * hoeve
+ * schuur
+ * wagenhuis
 
  
 Blijdenberghoeve, Krankehoeve, Kleine Krankehoeve
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--abdij
+ * kerk
+ * kapel
+ * abdij
 
  
 Abdij van Bethlehem
@@ -71,7 +71,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 oude verbindingsweg tussen kerk en kasteel
@@ -81,28 +81,28 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--knotbomenrij
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * knotbomenrij
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--plaggenbodems
+ * plaggenbodems
 
  
 **Bos:**
 
--loof
--broek
--hooghout
--struweel
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 

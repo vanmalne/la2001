@@ -18,22 +18,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 typisch voor Oudlandpolder
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
+ * waterloop
+ * beek
 
  
 Bovenvliet, vlavaart, Grote Ijzerbeek, Beverdijkvaart,…
 
 **Moerassige gronden:**
 
--veen
+ * veen
 
  
 veen dicht aan het oppervlak
@@ -43,21 +43,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Lzmpernisse: straatdorp, St-Jzcobskapelle, Oostkerke, Oudekapelle,
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 talrijke gave en weinig verstoorde hoeves met walgracht
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 kerktorens van de gehuchten zeer opvallend in open landschap
@@ -70,9 +70,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--brug
--grachtenstelsel
+ * dijk
+ * brug
+ * grachtenstelsel
 
  
 Oude Zeedijk; kleine brugjes over beken; grillig grachtenpatroon
@@ -82,25 +82,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
+ * bomenrij
 
 rond en vlakbij hoeves
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 veedrinkput
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 in venige en kleiige komgronden
@@ -156,7 +156,7 @@ Middeleeuwse bewoningsgeschiedenis is goed bewaard. Tot in de 12de eeuw
 werden de hoger gelegen zandige gronden (de oerverwalafzettingen)
 opgezocht voor de bewoning wat een verklaring geeft voor het lintvormig
 bewoningsareaal. In de 13de-14de eeuw werden bedrijven voor veehouderij
-- veelal hoeven met walgracht - ingeplant op de lagergelegen komgronden.
+ *  veelal hoeven met walgracht - ingeplant op de lagergelegen komgronden.
 Vele hoeves werden later verlaten en de resten zijn goed bewaard
 gebleven dankzij het bestendig graslandgebruik. De oorspronkelijke
 13de-15de eeuwse kadastrale organisatie is bewaard gebleven. Het

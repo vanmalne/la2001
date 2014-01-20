@@ -18,14 +18,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--holle weg
+ * macroreliëf
+ * holle weg
 
 zcht glooiend reliëf van het Haspengouws leemplateau
 
@@ -34,7 +34,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelpark met arboretum, belvedère, Engelse tuin, Franse tuin,
@@ -42,30 +42,30 @@ rozentuin
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 kasteeldorp
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--muur
+ * kasteel
+ * muur
 
  
 kasteel met dienstgebouwen, staatsieplein, hek en
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 o.a. kasteelhoeve, hoeves in Sint-Maartensstraat
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--pastorie
+ * kerk
+ * kapel
+ * pastorie
 
  
 Sint-Martinuskerk, Sint-Apolloniakapel, Sint-Jozefkapel
@@ -81,23 +81,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--houtkant
--hagen
+ * dreef
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 historisch stabiel in omgeving van dorpskom en kasteeldomein,
@@ -105,23 +105,23 @@ ruilverkaveling in ruimere omgeving
 
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 graslanden nabij dorpssite, open akkerbouwgebied op leemplateau
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 wijnbouw
 
 **Bos:**
 
--loof
--hooghout
--struweel
+ * loof
+ * hooghout
+ * struweel
 
  
 o.a. Grootbos, Heidebos, Kiezelingenbos

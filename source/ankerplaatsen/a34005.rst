@@ -16,34 +16,34 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--heuvel
+ * macroreliëf
+ * heuvel
 
 cuesta van Lotenhulle- Hertsberge
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Zoutersbeek
 
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 moerassige zones op de plaatsen van de voormalige veldvijvers
 
 **Geologie:**
 
--ontsluitingen
+ * ontsluitingen
 
  
 Tertiaire Eocene zanden
@@ -53,25 +53,25 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 Kasteel van Schuurlo, koetshuis
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--orangerie
+ * kasteel
+ * orangerie
 
  
 Kasteel van Schuurlo, koetshuis
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 verschillende hoeves rond Schuurlokasteel
@@ -81,15 +81,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
--Oostenrijkse periode
+ * weg
+ * pad
+ * Oostenrijkse periode
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--brug
--grachtenstelsel
+ * brug
+ * grachtenstelsel
 
  
 kleine walbrug met ijzeren leuningen over vijver van kasteel Schuurlo
@@ -99,32 +99,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--hagen
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * hagen
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 aan autosnelweg en aan het Kasteel van Schuurlo
 
 **Topografie:**
 
--blokvormig
--historisch stabiel
+ * blokvormig
+ * historisch stabiel
 
  
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--middelhout
--hooghout
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * hooghout
 
  
 

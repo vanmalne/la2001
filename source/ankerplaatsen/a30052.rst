@@ -18,15 +18,15 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 overgang strand-duin (duinklif)
 
 **Macroreliëf:**
 
--kustduin
--markante terreinovergang
+ * kustduin
+ * markante terreinovergang
 
 strand - duinklif - duinen
 
@@ -35,17 +35,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--villa
+ * (heren)woning
+ * huis
+ * villa
 
  
 Concessie De Haan met gelijkvormige villabouw
 
 **Militair erfgoed:**
 
--fort
--bunker
+ * fort
+ * bunker
 
  
 fort Napoleon; talrijke bunkersites in duinen
@@ -58,7 +58,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
+ * dijk
 
  
 duinen tegen zeewerende dijken ontstaan
@@ -68,17 +68,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--houtwal
--hagen
--knotbomenrij
+ * houtwal
+ * hagen
+ * knotbomenrij
 
 in duinakkers
 
 **Bos:**
 
--naald
--loof
--struweel
+ * naald
+ * loof
+ * struweel
 
  
 graslanden

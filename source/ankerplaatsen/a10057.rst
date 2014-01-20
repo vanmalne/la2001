@@ -18,32 +18,32 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--landduin
--steilrand
+ * macroreliëf
+ * landduin
+ * steilrand
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
+ * waterloop
+ * rivier
+ * beek
+ * vallei
 
  
 Grote Nete, Zeeploop, Belseheideloop, Scherpenbergloop
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
--ven
+ * moeras
+ * veen
+ * rietland
+ * ven
 
  
 laagveen
@@ -53,10 +53,10 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 Kretkenshoeve, Monnikenhoeve of Grote Hoeve
@@ -66,14 +66,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 dambordvormig wegenpatroon
 
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -82,47 +82,47 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--houtwal
+ * bomenrij
+ * houtkant
+ * houtwal
 
 **Kunstmatige waters:**
 
--poel
--turfput
+ * poel
+ * turfput
 
  
 Malesbroek
 
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 dambordvormig
 
 **Historisch stabiel landgebruik:**
 
--voormalige communautaire akker
--permanent grasland
--heide
+ * voormalige communautaire akker
+ * permanent grasland
+ * heide
 
  
 relicten van natte heide
 
 **Bos:**
 
--naald
--loof
--broek
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 

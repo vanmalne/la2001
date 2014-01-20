@@ -25,7 +25,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteelgracht
+ * kasteelgracht
 
  
 restant jachtkasteel; kasteelbos
@@ -37,8 +37,8 @@ betonnen platform rest van een V1-lanceerplatform
 
 **Kerkelijk erfgoed:**
 
--kapel
--klooster
+ * kapel
+ * klooster
 
  
 klooster Virgo Fidelis
@@ -51,25 +51,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--knotbomenrij
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * knotbomenrij
+ * perceelsrandbegroeiing
 
 dreven vnl. in bos; bomenrij langs beken en perceelsgrenzen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 zwemdok en visvijver
 
 **Bos:**
 
--naald
--loof
--hakhout
+ * naald
+ * loof
+ * hakhout
 
  
 

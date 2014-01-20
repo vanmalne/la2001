@@ -18,14 +18,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--kustduin
--markante terreinovergang
+ * kustduin
+ * markante terreinovergang
 
 overgang binnenduinen naar Moeren en van Moeren naar plateau Izenberghe
 
 **Hydrografische\_Elementen:**
 
--kreek
+ * kreek
 
  
 Langgeleed
@@ -38,39 +38,39 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 wijk Zwaantje langs de Bergenvaart
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 hoeve 't Moerland en Moerhof
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 St-Karelsmolen en Gustaafmolen beide bemalingsmolens
 
 **Militair erfgoed:**
 
--bunker
+ * bunker
 
  
 in Cabourg duinen
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 **Klein historisch erfgoed:**
 
--kruis
+ * kruis
 
  
 **Archeologische elementen:**
@@ -84,10 +84,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--sluis
--grachtenstelsel
+ * kanaal
+ * dijk
+ * sluis
+ * grachtenstelsel
 
  
 Ringslot en Bergenvaart rond Moeren met grachtenstelsel.
@@ -97,18 +97,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Topografie:**
 
--repelvormig
+ * repelvormig
 
  
 **Bijzondere waterhuishouding:**
 
--droogmakerij
--polder
+ * droogmakerij
+ * polder
 
  
 

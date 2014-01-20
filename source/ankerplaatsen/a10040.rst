@@ -18,14 +18,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
+ * waterloop
+ * beek
+ * vallei
 
  
 Tappelbeek, Risschotse Loop, Monnikenloop, Voorste Hoevenloop,
@@ -33,8 +33,8 @@ Hulstenbeekje
 
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 
@@ -43,39 +43,39 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--orangerie
+ * kasteel
+ * orangerie
 
  
 'Zoerselhof'
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
+ * (heren)woning
 
  
 voormalige provisorwoning
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 'Boshof' + bakhuisje, 'Boshuisje', Voorste Hoeven
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 
@@ -84,19 +84,19 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 typisch voorbeeld van Kempische zandwegen, Bosstraatje, Boshuisweg
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--brug
--sluis
--spui
--grachtenstelsel
+ * dijk
+ * brug
+ * sluis
+ * spui
+ * grachtenstelsel
 
  
 'Halse Sluis', 'Zoerselse Sluis'
@@ -106,48 +106,48 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
--heide
+ * permanent grasland
+ * heide
 
  
 deels historisch stabiel bos, heiderelicten
 
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--middelhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--vloeiweide
+ * vloeiweide
 
  
 voormalige vloeibeemden

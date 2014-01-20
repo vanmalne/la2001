@@ -18,9 +18,9 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Hydrografische\_Elementen:**
 
--beek
--meander
--oude rivierarm
+ * beek
+ * meander
+ * oude rivierarm
 
  
 oude Maasmeanders, Groenstraatbeek, Zijpbeek
@@ -30,73 +30,73 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
--hof
+ * tuin
+ * park
+ * hof
 
  
 o.a. Engelse hof
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--plein
+ * nederzettingspatroon
+ * plein
 
 omwalde stad met markplein
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--muur
--omheining
--kasteelgracht
+ * kasteel
+ * toren
+ * muur
+ * omheining
+ * kasteelgracht
 
  
 kasteel d'Aspremont-Lynden
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--herberg
--afspanning
+ * (heren)woning
+ * huis
+ * herberg
+ * afspanning
 
  
 o.a. De Hoek, De Roomse Keizer, Het Posthuis, Gerechtshof
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 o.a. stadshoeven
 
 **Molens:**
 
--watermolen
--windmolen
+ * watermolen
+ * windmolen
 
  
 watermolen fragmentarisch bewaard, windmolen De Stormvogel (Boorsem)
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
--klooster
--pastorie
+ * kerk
+ * kapel
+ * klooster
+ * pastorie
 
  
 minderbroedersklooster en kerk, Sint-Pieterskerk
 
 **Klein historisch erfgoed:**
 
--kruis
--gedenkteken
+ * kruis
+ * gedenkteken
 
  
 o.a. perron
@@ -113,15 +113,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--grachtenstelsel
--lijnpad
+ * kanaal
+ * grachtenstelsel
+ * lijnpad
 
  
 restanten van het grachtenstelsel bij de omwalling, Zuid-Willemsvaart
@@ -131,43 +131,43 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--hagen
+ * bomenrij
+ * houtkant
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 grasland onder boomgaarden
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hooghout
--struweel
+ * loof
+ * hooghout
+ * struweel
 
  
 

@@ -18,29 +18,29 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
--markante terreinovergang
+ * macroreliëf
+ * steilrand
+ * markante terreinovergang
 
 steilrand van Dender
 
 **Hydrografische\_Elementen:**
 
--waterloop
--beek
--vallei
--oude rivierarm
+ * waterloop
+ * beek
+ * vallei
+ * oude rivierarm
 
  
 **Moerassige gronden:**
 
--moeras
+ * moeras
 
  
 
@@ -49,14 +49,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 stadspark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
+ * kasteel
 
  
 Osbroekkasteel
@@ -66,13 +66,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--grachtenstelsel
+ * grachtenstelsel
 
  
 
@@ -81,31 +81,31 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Bos:**
 
--loof
--broek
--hakhout
--middelhout
--struweel
+ * loof
+ * broek
+ * hakhout
+ * middelhout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--vloeiweide
+ * vloeiweide
 
  
 

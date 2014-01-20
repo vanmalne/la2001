@@ -18,14 +18,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 typisch voor Oudlandpolder
 
 **Hydrografische\_Elementen:**
 
--waterloop
+ * waterloop
 
  
 Bredewegzwin, Dorpzwin
@@ -35,28 +35,28 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
+ * nederzettingspatroon
 
 lineaire polderdorpen op kreekruggen
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 hoeve Otterput en 't Zwaluwnest
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 Dorpsmolen te Klemskerke
 
 **Militair erfgoed:**
 
--bunker
--verdedingingslinie
+ * bunker
+ * verdedingingslinie
 
  
 WOII
@@ -72,25 +72,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
+ * bomenrij
 
 aansluitend bij hoeves
 
 **Kunstmatige waters:**
 
--poel
+ * poel
 
  
 veedrinkput
 
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 No

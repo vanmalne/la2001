@@ -18,24 +18,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--rivier
--beek
--meander
+ * rivier
+ * beek
+ * meander
 
  
 o.a. Demer, Voortbeek en verschillende zijbeken
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
--ven
+ * moeras
+ * veen
+ * rietland
+ * ven
 
  
 valleibeemden van de Demer
@@ -45,36 +45,36 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 kasteelpark 't Looi
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--landgoed
--muur
--kasteelgracht
--waterput
+ * kasteel
+ * landgoed
+ * muur
+ * kasteelgracht
+ * waterput
 
  
 kasteel 't Looi
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 o.a. kasteelhoeve 't Looi
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 Grote Molen, Veldekemolen
@@ -84,20 +84,20 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 tuinpaden, dreven en wegen van kasteeldomein 't Looi
 
 **Waterbouwkundige\_infrastructuur:**
 
--kanaal
--dijk
--brug
--sluis
--grachtenstelsel
--stuw
+ * kanaal
+ * dijk
+ * brug
+ * sluis
+ * grachtenstelsel
+ * stuw
 
  
 gekanaliseerde Demer, vijvercomplex, molens, stelsel van beken en
@@ -108,50 +108,50 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--hagen
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * hagen
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
+ * onregelmatig
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 hooi- en weiland van de Demerbroeken, graspartijen in het park
 
 **Bos:**
 
--naald
--loof
--broek
--hakhout
--hooghout
--struweel
+ * naald
+ * loof
+ * broek
+ * hakhout
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--ontwatering
--vloeiweide
--watering
+ * ontwatering
+ * vloeiweide
+ * watering
 
  
 beemden en bevloeiingen in de Demervallei

@@ -18,25 +18,25 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
--steilrand
+ * macroreliëf
+ * steilrand
 
 **Hydrografische\_Elementen:**
 
--oude rivierarm
+ * oude rivierarm
 
  
 Oude Schelde
 
 **Moerassige gronden:**
 
--moeras
--rietland
+ * moeras
+ * rietland
 
  
 
@@ -45,18 +45,18 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 **Landbouwkundig erfgoed:**
 
--schuur
--stal
+ * schuur
+ * stal
 
  
 **Klein historisch erfgoed:**
 
--eendenkooi
+ * eendenkooi
 
  
 
@@ -65,16 +65,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
+ * weg
 
  
 dijkweg, oude steenweg
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sas
--grachtenstelsel
+ * dijk
+ * sas
+ * grachtenstelsel
 
  
 vaart
@@ -84,32 +84,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Topografie:**
 
--blokvormig
--historisch stabiel
+ * blokvormig
+ * historisch stabiel
 
  
 **Bos:**
 
--loof
--broek
--hakhout
--hooghout
+ * loof
+ * broek
+ * hakhout
+ * hooghout
 
  
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

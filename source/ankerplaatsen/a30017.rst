@@ -18,20 +18,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--landduin
+ * landduin
 
 dekzandrug Gistel-Maldegem-Stekene-Verrebroek
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Veldbeek
 
 **Moerassige gronden:**
 
--veen
+ * veen
 
  
 zuidwesten rond voormalige pompstation
@@ -41,36 +41,36 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 bij de meeste kastelen nog vrij gaaf
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--toren
--hovenierswoning
--landgoed
--muur
--ijskelder
--kasteelgracht
--waterput
+ * kasteel
+ * toren
+ * hovenierswoning
+ * landgoed
+ * muur
+ * ijskelder
+ * kasteelgracht
+ * waterput
 
  
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 hoeve St-Anna Ter Woestijn; hoeve Godts; hoeve Aandekooi
 
 **Kerkelijk erfgoed:**
 
--kapel
--abdij
--klooster
+ * kapel
+ * abdij
+ * klooster
 
  
 abdij van Zevenkerke met school en kapel
@@ -83,7 +83,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 **Kunstmatige waters:**
 
@@ -97,16 +97,16 @@ geometrisch
 
 **Historisch stabiel landgebruik:**
 
--heide
+ * heide
 
  
 door beheer onderhouden nabij kast. Beisbroek
 
 **Bos:**
 
--naald
--loof
--hakhout
+ * naald
+ * loof
+ * hakhout
 
  
 **Bijzondere waterhuishouding:**

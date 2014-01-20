@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 geologisch bepaald;
 
 **Macroreliëf:**
 
--macroreliëf
--heuvel
--holle weg
+ * macroreliëf
+ * heuvel
+ * holle weg
 
 vidaigne- en rodeberg; interlfuviumgrens
 
 **Hydrografische\_Elementen:**
 
--beek
--vallei
+ * beek
+ * vallei
 
  
 Douvevallei; talrijke beken
@@ -49,21 +49,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 bij kasteel Behaeghel
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
+ * kasteel
 
  
 kasteel Behaeghel
 
 **Molens:**
 
--windmolen
+ * windmolen
 
  
 Lijstermolen
@@ -79,25 +79,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
--houtkant
--knotbomenrij
+ * bomenrij
+ * houtkant
+ * knotbomenrij
 
 langs beken, op taluds, langs steilranden van beken
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 bij kasteel Behaeghel
 
 **Bos:**
 
--naald
--loof
--hakhout
--middelhout
+ * naald
+ * loof
+ * hakhout
+ * middelhout
 
  
 
@@ -208,7 +208,7 @@ bodemkundige grens tussen het zandleemgebied in het noorden en het
 leemgebied in het zuiden. De heuveltoppen zijn onderling verbonden door
 lagere heuvelkammen die men “zadels” noemt. Op de toppen van de Rode-,
 Bane- en Vidaigneberg dagzomen zgn. Diestiaanzand en
--ijzerzandsteenbanken. Deze zandsteenbanken zijn veel resistenter voor
+ * ijzerzandsteenbanken. Deze zandsteenbanken zijn veel resistenter voor
 (fluviatiele) erosie en hebben er waarschijnlijk toe bijgedragen dat de
 heuvelrij zich kon handhaven. De heuvels zelf kennen een afwisseling van
 kleiige en zandige geologische formaties. Waar een zandige formatie rust

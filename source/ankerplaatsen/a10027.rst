@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 
@@ -27,37 +27,37 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 kasteelpark, tuin bij de kerk
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--orangerie
--muur
--omheining
--kasteelgracht
+ * kasteel
+ * orangerie
+ * muur
+ * omheining
+ * kasteelgracht
 
  
 **Landbouwkundig erfgoed:**
 
--stal
--wagenhuis
+ * stal
+ * wagenhuis
 
  
 **Militair erfgoed:**
 
--fort
+ * fort
 
  
 fort 5
 
 **Kerkelijk erfgoed:**
 
--kerk
+ * kerk
 
  
 kapel St.-Antonius de Eremijt
@@ -70,17 +70,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
+ * dreef
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 T-vormige kasteelvijver

@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--heuvel
--rivierduin
--steilrand
+ * heuvel
+ * rivierduin
+ * steilrand
 
 **Hydrografische\_Elementen:**
 
--waterloop
--rivier
--beek
--vallei
--oude rivierarm
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+ * oude rivierarm
 
  
 Zenne, dijle, Nete, Langendonkbeek, Knopbeek, Tongkensloop, Heibeek,
@@ -42,7 +42,7 @@ Driebroekloop
 
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 
@@ -51,49 +51,49 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 moestuin, kasteelpark
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Zennegat
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--orangerie
--landgoed
--muur
--kasteelgracht
+ * kasteel
+ * orangerie
+ * landgoed
+ * muur
+ * kasteelgracht
 
  
 Kasteel Tibur, Kasteel Battenbroek
 
 **Bouwkundig erfgoed:**
 
--huis
+ * huis
 
  
 sluiswachtershuis, rijhuisjes
 
 **Landbouwkundig erfgoed:**
 
--hoeve
--schuur
--stal
--wagenhuis
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
 
  
 Polderhoeve
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 Kapel van O.-L.-Vrouw
@@ -103,9 +103,9 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--sluis
--grachtenstelsel
+ * dijk
+ * sluis
+ * grachtenstelsel
 
  
 **Andere:**
@@ -116,42 +116,42 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
--perceelsrandbegroeiing
+ * dreef
+ * bomenrij
+ * houtkant
+ * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 zandwinningsput
 
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Bos:**
 
--loof
--broek
--struweel
+ * loof
+ * broek
+ * struweel
 
  
 vloedbossen
 
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 

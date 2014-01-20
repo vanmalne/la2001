@@ -16,7 +16,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 
@@ -25,17 +25,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 bij kasteeldomein van Beervelde
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--hovenierswoning
--landgoed
--omheining
--ijskelder
+ * hovenierswoning
+ * landgoed
+ * omheining
+ * ijskelder
 
  
 **Andere:**
@@ -46,13 +46,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Waterbouwkundige\_infrastructuur:**
 
--brug
+ * brug
 
  
 
@@ -61,24 +61,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--hagen
+ * dreef
+ * hagen
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Bos:**
 
--loof
--middelhout
+ * loof
+ * middelhout
 
  
 

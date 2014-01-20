@@ -18,19 +18,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--talud
+ * talud
 
  
 **Macroreliëf:**
 
--heuvel
--holle weg
+ * heuvel
+ * holle weg
 
 interfluvium Vleterbeek - Heidebeek
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Bommelaarsbeek, Pokhanebeek
@@ -40,7 +40,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 verspreid langs de wegen; Mariakapel bij Helleketelweg
@@ -53,23 +53,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--dreef
--houtkant
--hagen
--kaphaag
--perceelsrandbegroeiing
+ * dreef
+ * houtkant
+ * hagen
+ * kaphaag
+ * perceelsrandbegroeiing
 
 dreef zuidoostelijke grens van de ankerplaats
 
 **Typische landbouwteelten:**
 
--hop
+ * hop
 
  
 **Bos:**
 
--naald
--loof
+ * naald
+ * loof
 
  
 bronbos

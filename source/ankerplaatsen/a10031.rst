@@ -18,17 +18,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Hydrografische\_Elementen:**
 
--vallei
+ * vallei
 
  
 **Moerassige gronden:**
 
--rietland
+ * rietland
 
  
 
@@ -37,46 +37,46 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--tuin
--park
+ * tuin
+ * park
 
  
 Franse tuin, kasteelpark
 
 **Nederzettingspatronen:**
 
--gehucht
+ * gehucht
 
 Buitenland
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--orangerie
--kasteelgracht
+ * kasteel
+ * orangerie
+ * kasteelgracht
 
  
 Kasteel d' Ursel+Laathof+toegangsbrug en -poort
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
+ * (heren)woning
+ * huis
 
  
 jachtpaviljoen+ conciërgewoning, schildershuis, wachthuisje
 
 **Landbouwkundig erfgoed:**
 
--stal
+ * stal
 
  
 oude paardenstalling
 
 **Kerkelijk erfgoed:**
 
--kerk
--kapel
+ * kerk
+ * kapel
 
  
 Parochiekerk St.-Stefaan
@@ -86,10 +86,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
--grachtenstelsel
--stuw
--lijnpad
+ * dijk
+ * grachtenstelsel
+ * stuw
+ * lijnpad
 
  
 
@@ -98,39 +98,39 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
+ * dreef
+ * bomenrij
 
 **Kunstmatige waters:**
 
--weel
--vijver
+ * weel
+ * vijver
 
  
 **Topografie:**
 
--repelvormig
--historisch stabiel
+ * repelvormig
+ * historisch stabiel
 
  
 **Bos:**
 
--loof
--broek
--hooghout
--struweel
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--polder
--buitendijks
+ * polder
+ * buitendijks
 
  
 **Andere:**
@@ -140,7 +140,7 @@ OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Te vermelden knelpunten in dit landschap zijn de hoge recreatiedruk
--waarvan de talrijke visvijvers getuige zijn- de nalatigheid van het
+ * waarvan de talrijke visvijvers getuige zijn- de nalatigheid van het
 onderhoud van het kasteelpark, alsook de aanwezigheid van het visueel
 storende zuiveringsstation. Voor het Buitenland is het de bedoeling om
 het landelijke en typische karakter te bewaren.

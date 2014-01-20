@@ -18,13 +18,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Macroreliëf:**
 
--kustduin
+ * kustduin
 
 met aansluitend strand; kopjes- en paraboolduinen
 
 **Hydrografische\_Elementen:**
 
--rivier
+ * rivier
 
  
 Ijzerestuarium
@@ -34,8 +34,8 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Militair erfgoed:**
 
--bunker
--verdedingingslinie
+ * bunker
+ * verdedingingslinie
 
  
 restanten van de Atlantikwal uit WOII
@@ -51,7 +51,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Bos:**
 
--struweel
+ * struweel
 
  
 op meest landinwaartse duinen

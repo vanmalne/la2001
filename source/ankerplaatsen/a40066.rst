@@ -16,7 +16,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 
@@ -25,36 +25,36 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Nederzettingspatronen:**
 
--nederzettingspatroon
--dries
--plein
+ * nederzettingspatroon
+ * dries
+ * plein
 
 **Bouwkundig erfgoed:**
 
--(heren)woning
--huis
--herberg
+ * (heren)woning
+ * huis
+ * herberg
 
  
 gemeentehuis
 
 **Landbouwkundig erfgoed:**
 
--hoeve
+ * hoeve
 
  
 'Balhoeve'
 
 **Kerkelijk erfgoed:**
 
--kerk
--klooster
--pastorie
+ * kerk
+ * klooster
+ * pastorie
 
  
 **Klein historisch erfgoed:**
 
--gedenkteken
+ * gedenkteken
 
  
 waterpomp, monument voor gesneuvelden uit beide WO
@@ -64,8 +64,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--kerkwegel
+ * weg
+ * kerkwegel
 
  
 
@@ -74,23 +74,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--solitaire boom
+ * solitaire boom
 
  
 Vrijheidsboom
 
 **Lijnvormige elementen:**
 
--bomenrij
+ * bomenrij
 
 **Topografie:**
 
--historisch stabiel
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 

@@ -18,19 +18,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
--talud
+ * microreliëf
+ * talud
 
  
 **Macroreliëf:**
 
--macroreliëf
+ * macroreliëf
 
 zacht glooiend reliëf
 
 **Hydrografische\_Elementen:**
 
--beek
+ * beek
 
  
 Langebeek, Molenbeek
@@ -40,35 +40,35 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Koeren en hovingen:**
 
--park
+ * park
 
  
 kasteelpark Duras
 
 **Kastelen, landgoederen en aanhorigheden:**
 
--kasteel
--orangerie
--hovenierswoning
--boswachterswoning
--landgoed
--muur
--omheining
--kasteelgracht
+ * kasteel
+ * orangerie
+ * hovenierswoning
+ * boswachterswoning
+ * landgoed
+ * muur
+ * omheining
+ * kasteelgracht
 
  
 kasteeldomein Duras
 
 **Molens:**
 
--watermolen
+ * watermolen
 
  
 o.a. Grevensmolen
 
 **Kerkelijk erfgoed:**
 
--kapel
+ * kapel
 
  
 kluiskapel van de Osseweg (Zoutleeuw)
@@ -81,8 +81,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 ontsluitende wandelpaden en (rond)wegen
@@ -92,44 +92,44 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Puntvormige elementen:**
 
--bomengroep
--solitaire boom
+ * bomengroep
+ * solitaire boom
 
  
 **Lijnvormige elementen:**
 
--dreef
--bomenrij
--houtkant
+ * dreef
+ * bomenrij
+ * houtkant
 
 **Kunstmatige waters:**
 
--vijver
+ * vijver
 
  
 **Topografie:**
 
--onregelmatig
--historisch stabiel
+ * onregelmatig
+ * historisch stabiel
 
  
 **Historisch stabiel landgebruik:**
 
--permanent grasland
+ * permanent grasland
 
  
 weiden van de Molenbeek
 
 **Typische landbouwteelten:**
 
--hoogstam
+ * hoogstam
 
  
 **Bos:**
 
--loof
--hooghout
--struweel
+ * loof
+ * hooghout
+ * struweel
 
  
 o.a. parkbos, Zwartaardebos

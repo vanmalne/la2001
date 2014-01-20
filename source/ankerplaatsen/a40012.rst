@@ -18,26 +18,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 **Microreliëf:**
 
--microreliëf
+ * microreliëf
 
  
 **Macroreliëf:**
 
--macroreliëf
+ * macroreliëf
 
 **Hydrografische\_Elementen:**
 
--waterloop
--kreek
+ * waterloop
+ * kreek
 
  
 Watergang van de Moerbekepolder, Grote Kreek en Pereboomsgat
 
 **Moerassige gronden:**
 
--moeras
--veen
--rietland
+ * moeras
+ * veen
+ * rietland
 
  
 
@@ -46,7 +46,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Klein historisch erfgoed:**
 
--grenspaal
+ * grenspaal
 
  
 langs de grens met Nederland bevinden zich verschillende grenspalen
@@ -60,19 +60,19 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
--weg
--pad
+ * weg
+ * pad
 
  
 **Spoorweg:**
 
--oude tramroute
+ * oude tramroute
 
 nu een betonweg
 
 **Waterbouwkundige\_infrastructuur:**
 
--dijk
+ * dijk
 
  
 Papdijk, Oude Zeedijk
@@ -82,11 +82,11 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Lijnvormige elementen:**
 
--bomenrij
+ * bomenrij
 
 **Topografie:**
 
--blokvormig
+ * blokvormig
 
  
 **Historisch stabiel landgebruik:**
@@ -96,15 +96,15 @@ akkers in polder
 
 **Bos:**
 
--loof
--broek
--hooghout
--struweel
+ * loof
+ * broek
+ * hooghout
+ * struweel
 
  
 **Bijzondere waterhuishouding:**
 
--polder
+ * polder
 
  
 
