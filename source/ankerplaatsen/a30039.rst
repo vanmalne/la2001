@@ -134,7 +134,10 @@ de natuur.
 B.landschapswaarden
 -------------------
 
+
 Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 De Vlaamse heuvelrij van Vidaigne- en Rodeberg sluit in westen aan op
 de Zwarte berg (Frankrijk) en in oosten op Scherpenberg en Kemmelberg.
 Ze vormt de waterscheidingskam tussen twee grote rivierbekkens in
@@ -156,7 +159,11 @@ het Hellegatbos. Deze streek kent een grote soortenrijkdom van
 knotbomen. In het noorden van de ankerplaats zorgt de ondergrond
 (formatie van Kortrijk) voor weinig ingesneden beekvalleien zoals de
 Pandoenebeek en de Franse beek.
+
 Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+
 De talrijke archeologische sporen uit verschillende tijdperken,
 aangetroffen op en rond de heuveltoppen, wijzen op de lange
 bewoningsgeschiedenis van deze strategische heuveltoppen. Ook de goed
@@ -168,7 +175,11 @@ maar werd later bebost met naaldhout. De vele oorlogsmonumenten,
 militaire kerkhoven, gedenktekens,onderaardse gangen, … herinneren aan
 het strategisch belang en de wapenfeiten van deze heuvelachtige streek
 tijdens WOI.
-Esthetische waarde: In dit open landschap bieden de grote
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+In dit open landschap bieden de grote
 reliëfsverschillen panoramische zichten aan in alle richtingen (naar
 Heuvelland en Ieper, naar de Leievallei, naar de Douvevallei,polders,
 Poperinge,…) waarbij talrijke elementen en structuren benadrukt worden.
@@ -186,8 +197,17 @@ top van de heuvels met erboven uitstekende kerktoren vormen
 oriënteringspunten en blikvangers in het landschap. De lage versnijding
 door wegen, de talrijke holle wegen, onverharde wegen met houtkanten en
 taluds,… bieden het gebied een esthetische meerwaarde.
-Sociaal-culturele waarde : \*
+
+
+Sociaal-culturele waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+\*
+
 Ruimtelijk-structurerende waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Het reliëf en de hydrografie (op hun beurt bepaald door de geologie)
 bepalen het landgebruik, het wegenpatroon, de bewoning,… Tegelijk vormt
 het reliëf ook een grens tussen verschillende landschappelijke,

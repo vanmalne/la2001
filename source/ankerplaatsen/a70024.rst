@@ -223,7 +223,10 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
+
 Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Rivierlandschappen hebben een dynamisch karakter. In geomorfologisch,
 bodemkundig en hydrografisch opzicht is de alluviale vlakte van de Maas
 een zeldzaam gegeven in Vlaanderen omdat een aantal natuurlijke
@@ -238,7 +241,11 @@ beddingen van grote rivieren. De stroomdalgraslanden en ruigten
 herbergen o.i.v. het kalkhoudende Maaswater een specifieke vegetatie.
 Het permanente grasland bezit nog een uitzonderlijk microreliëf met
 zandige oeverwallen en lemige depressies.
+
 Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+
 De historische verplaatsingen van de Maas zijn in het landschap
 herkenbaar, evenals het daarmee samenhangende dijken- en
 nederzettingspatroon. De Maaskade te Maaseik, de ligging van Oud-Dilsen
@@ -254,7 +261,11 @@ rijke verscheidenheid aan cultuurhistorische landschapselementen
 struwelen enz.). Oude kuilen getuigen van de kleinschalige, plaatselijke
 leem- of grindwinning. In het gebied liggen tenslotte archeologisch
 belangrijke sites.
-Esthetische waarde: Het grillige stroompatroon van de Maas met zijn
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+Het grillige stroompatroon van de Maas met zijn
 grindbanken, sterk wisselend debiet, uiterwaarden, historisch dijken- en
 nederzettingspatroon, verlaten meanders en stroomgeulen, klei- en
 grindkuilen enerzijds en de kleine gehuchten Boyen en Heppeneert en het
@@ -267,7 +278,13 @@ gekenmerkt door een kleurrijk tapijt van kruidachtige begroeiing,
 gevarieerde struwelen of knotbomen. Windmolen De Hoop domineert het open
 landschap van Keizerskamp en Steenkamp, kasteeldomein Ommerstein ten
 zuiden van Rotem.
-Sociaal-culturele waarde : Het gebied leent zich uitermate goed voor
+
+
+Sociaal-culturele waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Het gebied leent zich uitermate goed voor
 wandel- en fietstoerisme. Bij voldoende hoge waterstand is de Maas
 bevaarbaar met kajak en andere kleine vaartuigen. Door het groeiend
 fiets- en wandeltoerisme maakt in Rotem een voetveer weer opgang. De
@@ -275,7 +292,10 @@ reiziger wordt onthaald in bezoekerscentrum De Wissen. Het kerkje van
 Heppeneert staat bekend als bedevaartsoord van Onze-Lieve-Vrouw van
 Rust, dat erg veel bezoekers aantrekt. Aan de gelijknamige kapel te Elen
 worden elk jaar de kruidwissen gewijd.
+
 Ruimtelijk-structurerende waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 De Maas was determinerend voor de opbouw en organisatie van het
 volledige gebied. De Zanderbeek doorkruist het landschap in oostelijke
 richting en is één van de weinige beken die nog een open verbinding
