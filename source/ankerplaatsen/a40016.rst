@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -28,16 +28,16 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Cuesta van het Waasland
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 bron
 
 **Geologie:**
 
- 
+
 Cuesta van het Waasland
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 Les Gobelets kasteel, Rozenbergabdij, Ortegakasteel, Roos kasteel
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -58,7 +58,7 @@ Les Gobelets kasteel, Rozenbergabdij, Ortegakasteel, Roos kasteel
  * muur
  * kasteelgracht
 
- 
+
 stal, koetshuis, serres, jachtpaviljoen,
 
 **Landbouwkundig erfgoed:**
@@ -67,7 +67,7 @@ stal, koetshuis, serres, jachtpaviljoen,
  * stal
  * wagenhuis
 
- 
+
 hoeve die aan Baudelo-abdij toebehoorde
 
 **Kerkelijk erfgoed:**
@@ -75,7 +75,7 @@ hoeve die aan Baudelo-abdij toebehoorde
  * kapel
  * abdij
 
- 
+
 Rozenbergabdij
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -87,7 +87,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Romeinse weg
 
- 
+
 kasseiweg
 
  **Andere:**
@@ -101,7 +101,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -115,14 +115,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 vijver in park Ortega
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Bos:**
 
  * naald
@@ -130,7 +130,7 @@ vijver in park Ortega
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -144,7 +144,7 @@ cuestafront aanwezig.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De geologie en geomorfologie van het zuidelijke tot westelijk
 cuestafront van de paracuesta van het Waasland is erg opmerkelijk. Het
 gebied is gelegen op de grens van de Waasland en de Vlaamse Vallei, op
@@ -176,7 +176,7 @@ ligt diep ingesneden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Dit gebied ligt ten westen van Waasmunster, op het cuestafront van de
+Dit gebied ligt ten westen van Waasmunster, op het cuestafront van de
 cuesta van het Waasland. De cuesta van het Waasland is een subcuesta van
 een groter complex; de cuesta van de klei van Boom. Langsheen het
 cuestafront, dat zuidwaarts gericht staat, wisselt de hoogte tussen 25

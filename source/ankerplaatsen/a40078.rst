@@ -19,26 +19,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
- 
+
 Meentochtbeekje, Serskampse beek
 
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,7 +47,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -57,7 +57,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -66,20 +66,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Typische landbouwteelten:**
 
- 
+
 bomen
 
 **Bos:**
@@ -91,7 +91,7 @@ bomen
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats is op de heuvelrij van Wetteren- Serskamp- Lede
 gelegen, de meest noordelijke uitloper van het heuvelgebied tussen
 Schelde en Dender. De gronden bestaan uit een vrij vochtige tot natte
@@ -142,7 +142,7 @@ Hier en daar komt een weide voor.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het gebied situeert zich op grondgebied van de gemeenten Lede
+Het gebied situeert zich op grondgebied van de gemeenten Lede
 (Smetlede) en Wichelen (Serskamp). De heuvelrij van Wetteren- Serskamp-
 Lede is de meeste noordelijke uitloper van het heuvelgebied tussen
 Schelde en Dender. De dorpskom van Serskamp ligt op een hoogte die een

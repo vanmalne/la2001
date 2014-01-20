@@ -22,11 +22,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 uitloper van het plateau van Wijnendaele
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 brongebied voor Kamarde-, Kasteel- en Westbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -36,7 +36,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Ter Hiede
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -47,28 +47,28 @@ Ter Hiede
  * boswachterswoning
  * landgoed
 
- 
+
 omwalling
 
 **Bouwkundig erfgoed:**
 
  * herberg
 
- 
+
 Herberg Wikkelaar
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 Hoeve Praatbos,
 
 **Militair erfgoed:**
 
  * bunker
 
- 
+
 militaire begraafplaats uit WOI te Vladslo met beeldenpaar "Treurende
 Ouders"
 
@@ -79,7 +79,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * Oostenrijkse periode
 
- 
+
 provinciebaan tussen Beerst en Wijnendaele
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -101,14 +101,14 @@ dreven bij kasteel
  * poel
  * vijver
 
- 
+
 veedrinkpoel
 
 **Topografie:**
 
  * blokvormig
 
- 
+
 hydrografisch net is mede bepalend voor percelering
 
 OPMERKINGEN EN KNELPUNTEN
@@ -132,7 +132,7 @@ bossen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 In het gebied dagzomen de glauconiethoudende zandgronden van de
 formatie van Tielt (boven-Ieperiaan volgens oude benaming). Dit gebied
 was eertijds een veldgebied met heide- en struikvegetatie. Deze
@@ -169,7 +169,7 @@ waarde van de Oostenrijkse steenweg.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten noorden van Bovekerke (gem. Koekelare) en
+Deze ankerplaats ligt ten noorden van Bovekerke (gem. Koekelare) en
 ten oosten van Beerst (gem. Diksmuide). De weg Beerst - Koekelare vormt
 de noordelijke grens van de ankerplaats, de weg Beerst - Wijnendale
 (gem. Torhout) de zuidelijke die wel onderbroken wordt door het kasteel

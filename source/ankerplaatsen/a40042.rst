@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -28,19 +28,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,7 +50,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 Schaliënhof, kasteelpark van Roborst
 
 **Nederzettingspatronen:**
@@ -70,7 +70,7 @@ Velzeke, Knutsegem, Roborst, Hundelgem
  * muur
  * omheining
 
- 
+
 kasteel van Brakel, Roborst, Norman, koetshuis
 
 **Bouwkundig erfgoed:**
@@ -79,19 +79,19 @@ kasteel van Brakel, Roborst, Norman, koetshuis
  * huis
  * herberg
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 Bostmolen, Pedesmolen, Zwalmmolen, Boembekemolen en de Vanden
 Borremolen
 
@@ -99,7 +99,7 @@ Borremolen
 
  * motte
 
- 
+
 motte te Roborst ('tumulus' genoemd)
 
 **Kerkelijk erfgoed:**
@@ -109,12 +109,12 @@ motte te Roborst ('tumulus' genoemd)
  * klooster
  * pastorie
 
- 
+
 **Klein historisch erfgoed:**
 
  * kruis
 
- 
+
 fontein
 
  **Andere:**
@@ -128,17 +128,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
  * verlaten spoorweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
- 
+
 waterkersgrachten
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -149,7 +149,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 boom op Vollanderkouter
 
 **Lijnvormige elementen:**
@@ -166,18 +166,18 @@ boom op Vollanderkouter
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
- 
+
 **Bos:**
 
  * loof
@@ -187,7 +187,7 @@ boom op Vollanderkouter
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -197,7 +197,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Zwalmvallei, een zijloop van de Schelde, is polycyclisch
 ingesneden. Het is de centrale waterloop in een systeem van
 asymmetrische valleien met karakteristieke brongebieden. De bronzones
@@ -240,7 +240,7 @@ vallei. De hoogste gebieden, de kouters, zijn open.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Dit deel van de Zwalmvallei ligt aan de rand van de Vlaamse Ardennen,
+Dit deel van de Zwalmvallei ligt aan de rand van de Vlaamse Ardennen,
 tussen Nederbrakel en Munkzwalm. Rond de vallei van de Zwalm liggen de
 hogere heuvels die met leem bedekt zijn. Deze heuvels liggen onder
 akkerland en vormen open kouters in het gebied. Op sommige kouters, vb

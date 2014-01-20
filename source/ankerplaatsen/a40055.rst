@@ -19,14 +19,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -35,12 +35,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,7 +49,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 abdij van Beaulieu
 
 **Nederzettingspatronen:**
@@ -64,20 +64,20 @@ Melden
  * (heren)woning
  * huis
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * abdij
  * pastorie
 
- 
+
 voormalige abdij van Beaulieu
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -89,15 +89,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * sas
  * grachtenstelsel
 
- 
+
 Rietgracht of Coupure
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -114,7 +114,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * opstrekkend
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * voormalige communautaire akker
@@ -122,19 +122,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * kouters
  * meersen
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * watering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -151,7 +151,7 @@ die niet in het landschap passen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats is in de Scheldevallei gelegen, op een brede
 alluviale vlakte. Het steilrandje toont de overgang van het alluvium
 naar de zandleemruggen aan. Er bevinden zich een antropogeen afgesneden
@@ -202,7 +202,7 @@ Wortegem- Petegem.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats situeert zich ten oosten van Petegem-aan-de-Schelde.
+Deze ankerplaats situeert zich ten oosten van Petegem-aan-de-Schelde.
 De oostelijke grens wordt door de Schelde gevormd, de dorpskom Melden.
 Deze bevindt zich op de steilrand van de vallei van de Schelde. Aan de
 kant van Petegem valt de steilrand op omdat hij de grens vormt tussen de

@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,24 +29,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 heuvelachtig
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Herkebeek of Molenbeek, Marmelbeek, Sassenbroekbeek
 
 **Moerassige gronden:**
 
- 
+
 vochtige valleigronden
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 tertiaire ondergrond ontsloten op heuveltoppen en in holle wegen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -57,7 +57,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelparken van Heks, Bommershoven en Heurne
 
 **Nederzettingspatronen:**
@@ -75,7 +75,7 @@ hoopdorp (Heks), straatdorp met dries (Bommershoven), kleine kernen
  * landgoed
  * muur
 
- 
+
 kastelen van Heks, Bommershoven en Heurne
 
 **Bouwkundig erfgoed:**
@@ -83,7 +83,7 @@ kastelen van Heks, Bommershoven en Heurne
  * (heren)woning
  * huis
 
- 
+
 o.a. rentmeesterswoning
 
 **Landbouwkundig erfgoed:**
@@ -91,7 +91,7 @@ o.a. rentmeesterswoning
  * hoeve
  * schuur
 
- 
+
 o.a. Manshovenhof, Monnikkenhof, Biezenhof, Rode Hoeve, de Bellefroid
 (in 't Broeck)
 
@@ -99,7 +99,7 @@ o.a. Manshovenhof, Monnikkenhof, Biezenhof, Rode Hoeve, de Bellefroid
 
  * watermolen
 
- 
+
 molen Heks, Sassenbroekmolen
 
 **Kerkelijk erfgoed:**
@@ -109,7 +109,7 @@ molen Heks, Sassenbroekmolen
  * klooster
  * pastorie
 
- 
+
 o.a. kapel Sint-Gerardus Majella / Sint-Pieter, klooster
 Sint-Vincentius, kerk OLV / Sint-Alfonisus
 
@@ -117,7 +117,7 @@ Sint-Vincentius, kerk OLV / Sint-Alfonisus
 
  * kruis
 
- 
+
 o.a. Begijnekruis
 
  **Archeologische elementen:**
@@ -133,7 +133,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * Romeinse weg
 
- 
+
 Bilzen-Waremme, Tongeren-Kassel en diverticula
 
 **Spoorweg:**
@@ -142,11 +142,11 @@ Bilzen-Waremme, Tongeren-Kassel en diverticula
 
 Borgloon-Oreye
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 drainagesloten in valleibossen
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -157,7 +157,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -169,18 +169,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 vochtige valleigronden, traditioneel open akkerbouwgebied, bos en
 park, boomgaarden en weiden
 
@@ -188,7 +188,7 @@ park, boomgaarden en weiden
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -196,7 +196,7 @@ park, boomgaarden en weiden
  * hooghout
  * struweel
 
- 
+
 o.a. parkbos van het kasteel, Manshovenbos, Magnee
 
 OPMERKINGEN EN KNELPUNTEN
@@ -211,8 +211,8 @@ lijden van aftakeling of zijn reeds ontschouderd.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 Het landgebruik is vanouds typisch Droog-Haspengouws: verspreide
 kernen en hoeven met daarrond boomgaarden, weiden, open akkerland en
@@ -249,7 +249,7 @@ overwegende invloed gehad op de landschapsopbouw.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Heks was van oudsher een landbouwdorp in Droog-Haspengouw. De
+Heks was van oudsher een landbouwdorp in Droog-Haspengouw. De
 bebouwing concentreert zich aan de Hekslaan, en in het bij deze weg
 aansluitende gehucht Broek, wat het dorp het uitzicht geeft van een
 hoopdorp met lineaire bebouwing. De nederzetting ontstond bij de Herke-

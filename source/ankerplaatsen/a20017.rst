@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -36,12 +36,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,7 +52,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -63,26 +63,26 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * kasteel
  * toren
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
- 
+
 **Klein historisch erfgoed:**
 
  * standbeeld
 
- 
+
 **Andere:**
 Kiosk op het plein te Zichem, stationsgebouwen en loodsen te Zichem
 
@@ -94,19 +94,19 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
  * verlaten spoorweg
  * oude tramroute
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -115,7 +115,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -125,17 +125,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * turfput
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -149,7 +149,7 @@ de spoorlijn Aarschot - Diest - Hasselt.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Demervallei is de meest oostelijke uitloper van de Vlaamse Vallei.
 Sporadisch zijn nog afgesneden meanders aanwezig (bijv. in de
 Kloosterbeemden te Zichem). Het is een uitgestrekt beemdenlandschap met
@@ -181,14 +181,14 @@ rand van (en soms in) de vallei dragen eveneens bij tot de
 landschappelijke schoonheid.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het deel van de Demervallei van Aarschot tot Zichem vormt de meest
+Het deel van de Demervallei van Aarschot tot Zichem vormt de meest
 oostelijke uitloper van de zogenaamde fossiele Vlaamse vallei. Het gaat
 om een uitgestrekt beemdenlandschap waarin de perceelsrandbegroeiing
 grotendeels verdwenen is. Op biologisch vlak zijn er zeer interessante

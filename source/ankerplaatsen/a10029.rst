@@ -21,23 +21,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Lauwerijbeek
 
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,7 +47,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
@@ -55,7 +55,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * hovenierswoning
  * muur
 
- 
+
 Hof van Boechout + poortgebouw
 
 **Landbouwkundig erfgoed:**
@@ -65,28 +65,28 @@ Hof van Boechout + poortgebouw
  * stal
  * wagenhuis
 
- 
+
 Hoeve Lintacker, Lauwhoeve, Modelhoeve, Bisthoeve
 
 **Molens:**
 
  * windmolen
 
- 
+
 stellingmolen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 Courtoiskapel
 
 **Klein historisch erfgoed:**
 
  * standbeeld
 
- 
+
 beelden in kasteelpark
 
  **Archeologische elementen:**
@@ -103,7 +103,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -115,13 +115,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -138,7 +138,7 @@ verzekeren.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Eén van de zwaartepunten van de natuurwetenschappelijke waarde van
 deze ankerplaats ligt in het Bos van Moretus. Hoewel de boomlaag eerder
 artificieel is, onderscheiden we een waardevolle ondergroei, die goed
@@ -194,7 +194,7 @@ in het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Kasteel van Boechout en omgeving' is gelegen op
+De ankerplaats 'Kasteel van Boechout en omgeving' is gelegen op
 grondgebied van de landelijke gemeenten Boechout en Hove, ten zuidoosten
 van de stedelijke agglomeratie Antwerpen. De begrenzing wordt gevormd
 door het centrum van Boechout en de Holle Weg in het noorden, de

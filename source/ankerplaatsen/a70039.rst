@@ -20,18 +20,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 o.a. Itterbeek, Zwart Water of Witbeek
 
 **Moerassige gronden:**
@@ -41,7 +41,7 @@ o.a. Itterbeek, Zwart Water of Witbeek
  * rietland
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,7 +50,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * landgoed
 
- 
+
 Jagersborg
 
 **Bouwkundig erfgoed:**
@@ -59,7 +59,7 @@ Jagersborg
  * huis
  * herberg
 
- 
+
 Jagersborg met boerenburgerhuis
 
 **Landbouwkundig erfgoed:**
@@ -68,7 +68,7 @@ Jagersborg met boerenburgerhuis
  * schuur
  * stal
 
- 
+
 o.a. Jagersborg, Hof ter Heide
 
  **Archeologische elementen:**
@@ -81,17 +81,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 blokvormig, regelmatig wegenpatroon
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
  * stuw
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -114,18 +114,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
 
- 
+
 **Bos:**
 
  * naald
@@ -134,12 +134,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -157,7 +157,7 @@ levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het zwak tot zeer zwak golvend microreliëf is gevormd in een laag
 dekzand. Omwille van het zwak reliëf en de daarmee gepaard gaande
 gebrekkige ontwatering is het gebied van nature drassig. Bovendien komen
@@ -202,7 +202,7 @@ landschapsopbouw.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het domein Jagersborg is gelegen op de grens tussen Maaseik en
+Het domein Jagersborg is gelegen op de grens tussen Maaseik en
 Neeroeteren. Noordelijk en oostelijk sluit het omgevende landschap aan
 tegen de dorpskern van Kinrooi en het gehucht Gremelslo. In zuidelijke
 en westelijke richting wordt het begrensd door de Diestersteenweg (N773)

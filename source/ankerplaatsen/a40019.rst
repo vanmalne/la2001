@@ -21,35 +21,35 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * landduin
  * rivierduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
  * meander
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
 
- 
+
 schietstand uit WO II in Molsbergenstraat
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -60,15 +60,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * pompgemaal
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,7 +78,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -92,12 +92,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * meersen
 
- 
+
 **Bos:**
 
  * loof
@@ -105,12 +105,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
 
- 
+
 Dijk omheen Molsbroek werd einde de jaren 60 aangelegd om de
 potpolder af te sluiten
 
@@ -132,7 +132,7 @@ herstellen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Molsbroek is in de Durmevallei gelegen. In de omgeving zijn
 enkele kleine rivierduinen aanwezig. Het moerasgebied is ontstaan door
 het overstromingsbekken van de Durme.
@@ -161,7 +161,7 @@ binnen de dijken.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Molsbroek is een meersengebied aan de Durme; juist stroomafwaarts
+Het Molsbroek is een meersengebied aan de Durme; juist stroomafwaarts
 Lokeren gelegen. Tijdens de Middeleeuwen werden langs de riviergeul van
 de Durme de dijken aangelegd en via sluizen zal men eeuwenlang de
 invloed van de getijden pogen te beheersen. De oudste vermelding van het

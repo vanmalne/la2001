@@ -20,22 +20,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 typisch voor Oudlandpolder
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 Bovenvliet, vlavaart, Grote Ijzerbeek, Beverdijkvaart,…
 
 **Moerassige gronden:**
 
  * veen
 
- 
+
 veen dicht aan het oppervlak
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -51,7 +51,7 @@ Lzmpernisse: straatdorp, St-Jzcobskapelle, Oostkerke, Oudekapelle,
 
  * hoeve
 
- 
+
 talrijke gave en weinig verstoorde hoeves met walgracht
 
 **Kerkelijk erfgoed:**
@@ -59,7 +59,7 @@ talrijke gave en weinig verstoorde hoeves met walgracht
  * kerk
  * kapel
 
- 
+
 kerktorens van de gehuchten zeer opvallend in open landschap
 
  **Archeologische elementen:**
@@ -68,13 +68,13 @@ talrijke sites van middeleeuwse omwalde hoeves
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
  * grachtenstelsel
 
- 
+
 Oude Zeedijk; kleine brugjes over beken; grillig grachtenpatroon
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -90,19 +90,19 @@ rond en vlakbij hoeves
 
  * poel
 
- 
+
 veedrinkput
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 in venige en kleiige komgronden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -134,7 +134,7 @@ esthetische waarde van het gebied.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied omvat goed bewaarde Oud- en Middellandpolders die door een
 dijk gescheiden worden. In deze polders bepaalt de bodemkundige
 gesteldheid van lineaire zandige geulgronden tussen venige en kleiige
@@ -185,7 +185,7 @@ grotere afwateringskanalen ook structurerend voor het gebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze uitgestrekte ankerplaats loopt van de Ijzer stroomopwaarts van
+Deze uitgestrekte ankerplaats loopt van de Ijzer stroomopwaarts van
 Diksmuide tot net ten oosten van de Lovaart. De weg tussen
 St-Jacobskapelle (gem. Diksmuide), Oude Kapelle (gem. Diksmuide) en
 Fortem (gem. Alveringem) vormt de zuidelijke grens, de weg van Fortem

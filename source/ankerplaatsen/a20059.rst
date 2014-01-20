@@ -22,18 +22,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * graft
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,19 +42,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Archeologische elementen:**
 sporen van voormalige Romeinse heerbaan (Brede weg)
 
@@ -66,7 +66,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,7 +75,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * houtkant
@@ -85,12 +85,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * historisch stabiel
  * bolle akkers
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -105,7 +105,7 @@ afbakening.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het plateau heeft een bijzonder waarde op geomorfologisch gebied
 (diepe holle wegen, diverse typen van holle wegen, asymmetrische
 colluviale dalen). Inzake flora liggen de zones met de grootste
@@ -122,14 +122,14 @@ afwezigheid van bebouwing, het golvend soms diep ingesneden reliëf en de
 diepe holle wegen en droge dalen met begroeide taluds.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het plateau van Duisburg is gelegen tussen de vallei van de Voer in
+Het plateau van Duisburg is gelegen tussen de vallei van de Voer in
 het noorden en de vallei IJse-Dijle in het zuiden. Het ligt ten zuiden
 van Bertem en wordt begrensd door de woonkernen van Leefdaal, Vossem,
 Duisburg, Huldenberg, Loonbeek, Neerijse en Korbeek-Dijle. Het is in

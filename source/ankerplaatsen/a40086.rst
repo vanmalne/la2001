@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -27,7 +27,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Grand Noble en Rijsbrugge
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -39,14 +39,14 @@ Grand Noble en Rijsbrugge
  * ijskelder
  * kasteelgracht
 
- 
+
 Grand Noble en Rijsbrugge, koetshuis,tuinpaviljoen
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 hoeve bij Mariasteen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -57,7 +57,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,7 +67,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -80,15 +80,15 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
- 
+
 bulken
 
 **Bos:**
@@ -99,7 +99,7 @@ bulken
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -109,7 +109,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Fysisch- landschappelijk betreft het een dekzandgebied dat deel
 uitmaakt van de door pleistocene sedimenten opgevulde "Vlaamse Vallei".
 Het valt grotendeels samen met een lichte depressie in het micro-reliëf
@@ -148,7 +148,7 @@ kleine kasteeltjes rond Gent, behorend aan de 19e eeuwse katoenbaronnen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De kasteeldomeinen Grand Noble, Mariasteen en Borluut liggen in de
+De kasteeldomeinen Grand Noble, Mariasteen en Borluut liggen in de
 zuidelijke periferie van Gent en meer bepaald tussen de sterk
 verstedelijkte agglomeraties van De Pinte en Sint- Denijs- Westrem. Hier
 ligt een gebied waarvan de historisch gegroeide trekken vrij goed

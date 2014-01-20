@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,24 +29,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 donk
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * vallei
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
- 
+
 **Geologie:**
 
- 
+
 Vlaamse Vallai
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -56,7 +56,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Kasteel van Uitbergen
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -64,14 +64,14 @@ Kasteel van Uitbergen
  * kasteel
  * muur
 
- 
+
 Kasteel van Uitbergen
 
 **Klein historisch erfgoed:**
 
  * eendenkooi
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,14 +81,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * pompgemaal
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,25 +104,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * meersen
 
- 
+
 No
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -131,10 +131,10 @@ No
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -160,7 +160,7 @@ gebied een nieuw recreatiecentrum.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied bestaat uit verschillende eenheden : 1. Oude Scheldeloop,
 Donkmeer: de oude meander is verdwenen door vervening, er bevinden zich
 smalle venige stroken binnen de meander. In het westelijke deel van de
@@ -200,7 +200,7 @@ eveneens in de loop van de voormalige scheldearm.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten westen van Berlare, aan de linkeroever van
+Deze ankerplaats ligt ten westen van Berlare, aan de linkeroever van
 de Schelde. Waarschijnlijk vond in het begin van het Laatglaciaal (15
 500 tot 11 500 jaar geleden) de overgang plaats van een verwilderd naar
 een meanderend rivierpatroon. De oorzaak van de overgang was het milder

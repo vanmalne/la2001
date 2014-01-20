@@ -18,22 +18,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
 grote dekzandrug Maldegem- Stekene
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 **Geologie:**
 
- 
+
 Vlaamse Vallei
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -47,14 +47,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * pompgemaal
  * grachtenstelsel
 
- 
+
 Papdijk
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -64,7 +64,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -77,13 +77,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * blokvormig
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * naald
@@ -91,12 +91,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -112,7 +112,7 @@ perceelsrandbegroeiing is wat uitgedund op sommige plaatsen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit bos maakt deel uit van de bosgordel die op de dekzandrug Maldegem
  *  Stekene gelegen is. Het bos is reeds in 1743 op kaart te zien.
 Historische waarde:
@@ -141,7 +141,7 @@ door de perceelsrandbegroeiing erg gecomparimenteerd.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Wullebos - de Baggaart, op de grens tussen Moerbeke en Stekene, is
+Het Wullebos - de Baggaart, op de grens tussen Moerbeke en Stekene, is
 begrensd door de expresweg Knokke- Antwerpen in het noorden, de
 Haringslede in het westen, Klein Sinaai in het zuiden en loopt ongeveer
 tot aan Grote Huike in het oosten. Dwars door het gebied lopen de

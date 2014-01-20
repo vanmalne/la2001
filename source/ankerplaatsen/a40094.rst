@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -27,19 +27,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,12 +50,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,7 +65,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,7 +75,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -90,19 +90,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * permanent grasland
  * kouters
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -114,7 +114,7 @@ In het gebied komen verschillende hoogspanningsleidingen voor.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het landschap rond Rovorst en Kanakkendries bevat een aantal unieke
 bronbossen met een waardevolle bronbosflora. Op de dalwanden komen
 verschillende verglijdingen door. Het gebied omvat de bronhoofden van
@@ -139,7 +139,7 @@ zich in rijgehuchten, op de overgang van kouter naar vallei gelegen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats strekt zich over het grondgebied van de gemeenten
+Deze ankerplaats strekt zich over het grondgebied van de gemeenten
 Brakel en Schorisse uit. Het omvat de bronhoofden van drie parallel
 lopende beken, de Vaanbuikbeek, de Roosmeersbeek en de Slijpkotbeek. Dit
 zijn allen zijbeken van de Zwalm, deze laatste loopt iets meer

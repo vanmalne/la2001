@@ -20,25 +20,25 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * markante terreinovergang
 
 overgang Pleistocene dekzandrug naar Meersengebied met vnl. Holoceen
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 hoofdsloot, St-Trudoledeke, Zuiddambeek, Mazelbeek
 
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 in laagste delen van de Assebroekse Meersen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kasteel
 
- 
+
 kasteel Bergskens met bijhorend bosje
 
  **Archeologische elementen:**
@@ -81,21 +81,21 @@ knot/bomenrijen, houtkanten
 
  * poel
 
- 
+
 veedrinkput
 
 **Topografie:**
 
  * blokvormig
 
- 
+
 Beverhoutsveld: opstrekkend, geometrisch;
 
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 in Assebroekse Meersen
 
 **Bos:**
@@ -103,7 +103,7 @@ in Assebroekse Meersen
  * naald
  * loof
 
- 
+
 op dekzandrug in noorden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -129,7 +129,7 @@ gelegen op de beboste dekzandrug.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De ankerplaats ligt ter hoogte van een westelijke uitloper van de
 Vlaamse vallei en vertoont de gave en natuurlijke overgang van de
 Pleistocene dekzandrug (Gistel-Maldegem-Stekene-Verrebroek) naar de
@@ -192,7 +192,7 @@ vallei en benadrukken de dreven haarnoordwest-zuidoostoriëntatie.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt in de gemeenten Brugge (Assebroek), Beernem en
+Deze ankerplaats ligt in de gemeenten Brugge (Assebroek), Beernem en
 Oostkamp. In het noorden vormt de bebouwing van Steenbrugge, Assebroek
 en Ver Assebroek (beiden gem. Brugge) de grens, in het oosten de weg
 tussen Assebroek en Beernem, in het zuiden door de weg tussen

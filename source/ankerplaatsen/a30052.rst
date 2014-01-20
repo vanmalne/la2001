@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 overgang strand-duin (duinklif)
 
 **Macroreliëf:**
@@ -39,7 +39,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * huis
  * villa
 
- 
+
 Concessie De Haan met gelijkvormige villabouw
 
 **Militair erfgoed:**
@@ -47,7 +47,7 @@ Concessie De Haan met gelijkvormige villabouw
  * fort
  * bunker
 
- 
+
 fort Napoleon; talrijke bunkersites in duinen
 
  **Andere:**
@@ -56,11 +56,11 @@ zeepreventorium
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
 
- 
+
 duinen tegen zeewerende dijken ontstaan
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -80,7 +80,7 @@ in duinakkers
  * loof
  * struweel
 
- 
+
 graslanden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -102,7 +102,7 @@ midden in de zeereepduinen, dat op termijn beter zou verdwijnen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De graduele overgang van strand naar duinen is gaaf en natuurlijk
 waarbij sommige duinen restanten vormen van vroegere duinenlandschappen.
 De diverse reliëfs- en vochtigheidsgradiënten zorgen voor een diverse en
@@ -143,7 +143,7 @@ de kleur bakens langs de kust.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats bevat het strand en de duinen van Oostende tot ten
+Deze ankerplaats bevat het strand en de duinen van Oostende tot ten
 westen van Wenduine. Ze wordt in het zuiden begrensd door de N317 en de
 N34 van Wenduine naar Oostende. Op het strand tussen Oostende en het
 golfterrein van De Haan staan talrijke golfbrekers die de openheid van

@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Hofbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -37,7 +37,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 landschapspark & moestuin bij kasteel, Katershof
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -47,14 +47,14 @@ landschapspark & moestuin bij kasteel, Katershof
  * muur
  * kasteelgracht
 
- 
+
 Katershof & Kasteel van 's Gravenwezel + boogbrug
 
 **Bouwkundig erfgoed:**
 
  * (heren)woning
 
- 
+
 woning bij Katershof, portierswoning bij kasteel
 
 **Landbouwkundig erfgoed:**
@@ -64,14 +64,14 @@ woning bij Katershof, portierswoning bij kasteel
  * stal
  * wagenhuis
 
- 
+
 Duyvendaelhoeve, Hoeve Marijnissen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 als O. L. - Vrouwkapel ingericht bakhuis
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -81,14 +81,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 kasseiweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,7 +97,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -108,14 +108,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 kasteelvijvers
 
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -125,7 +125,7 @@ heiderelicten
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -143,7 +143,7 @@ landschapsbeeld verstoort.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 We vinden hier op een relatief beperkte ruimte nog een behoorlijke
 variatie in vegetatietypes en landschapselementen. Het domein van het
 Kasteel van 's Gravenwezel vertegenwoordigt bovendien een belangrijke
@@ -183,7 +183,7 @@ paviljoendreef, met de Zwanebeek.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats gevormd door het Domein Katershof en het Kasteel van 's
+De ankerplaats gevormd door het Domein Katershof en het Kasteel van 's
 Gravenwezel is gelegen op grondgebied van 's Gravenwezel, een
 deelgemeente van Schilde in de Antwerpse Kempen. De begrenzing wordt
 gevormd door De Haar en de gehuchten Willekom en Hoge Haar in het

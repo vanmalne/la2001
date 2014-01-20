@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * landduin
@@ -30,7 +30,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -39,7 +39,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * (heren)woning
 
- 
+
 personeelswoningen
 
 **Landbouwkundig erfgoed:**
@@ -47,14 +47,14 @@ personeelswoningen
  * hoeve
  * stal
 
- 
+
 750m² aan aardappelkelders
 
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 kerkhof
 
  **Archeologische elementen:**
@@ -71,14 +71,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 rastervormig wegenpatroon
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 ringgracht
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -94,7 +94,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * heide
 
- 
+
 **Bos:**
 
  * naald
@@ -102,7 +102,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 **Andere:**
 ontginningsputten
 
@@ -119,7 +119,7 @@ loodsen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Door de uitgestrektheid van het domein en de grote verscheidenheid
 aan biotopen, heeft het gebeid een belangrijke waarde voor fauna. Het
 immense drevenpatroon van voornamelijk zomereik en beuk, alsook de
@@ -164,7 +164,7 @@ Steenweg op Rijkevorsel.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Kolonie van Merksplas is gelegen in de Antwerpse Noorderkempen. De
+De Kolonie van Merksplas is gelegen in de Antwerpse Noorderkempen. De
 oostelijke en zuidelijke grens van de ankerplaats worden gevormd door
 het (voormalige) tracé van de ringgracht. De westelijke grens valt samen
 met het uiteinde van het drevenpatroon; de noordelijke punt grenst aan

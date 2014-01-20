@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 natuurlijk microreliëf maar misschien ook door uitbrikken of ontvenen
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * kreek
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -36,17 +36,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 in de grachten veelal rietkragen; op dijken veelal wegen
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -64,19 +64,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
 
- 
+
 geaccentueerd door "laantjes" in de weiden
 
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 vlakbij kreek weiland, komgrond akkerland
 
 OPMERKINGEN EN KNELPUNTEN
@@ -103,7 +103,7 @@ zich lintvormig en versnijdt op die manier de open ruimte.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het uitgebreid krekenstelsel ligt aan de basis van een grote
 verscheidenheid aan bodemkundige gradiënten. Dit weerspiegelt zich in de
 grote verscheidenheid van landschapselementen en heeft een soortenrijke
@@ -135,7 +135,7 @@ bakenfunctie.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt bijna volledig in de gemeente Damme, behalve het
+Deze ankerplaats ligt bijna volledig in de gemeente Damme, behalve het
 meest noordelijke stukje in de gemeente Knokke. In het oosten wordt ze
 door de Nederlandse grens begrensd, in het zuidoosten door de Zeedijk en
 de St-Pieterdijk tot het Leopoldkanaal. Vanaf het kanaal loopt de grens

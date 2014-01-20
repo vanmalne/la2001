@@ -21,24 +21,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * rivierduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,7 +53,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,12 +63,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -77,7 +77,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -87,12 +87,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,7 +104,7 @@ Residentiële bebouwing (verkaveling) in het centrale deel.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Broekelei is een fossiele meander, gevormd door de Dijle, hetgeen
 zich zowel in de topografie als in de bodemgesteldheid laat merken. Met
 meer dan 400 soorten vaatplanten op minder dan één vierkante kilometer
@@ -112,21 +112,21 @@ mag van een uitzonderlijk rijke flora gesproken worden. In het gebied
 komen bovendien een aantal zeldzame plantesoorten voor die indicatief
 zijn voor min of meer voedselarme milieus.
 Historische waarde:
- 
+
 Esthetische waarde: De gevarieerde begroeiing, de sterk versneden
 bosrand, de talrijke bomenrijen op de kavelgrenzen en het voorkomen van
 bloemrijke graslanden tussen de beboste percelen maken het gebied zeer
 aantrekkelijk.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Broekelei is gelegen tussen Keerbergen en Rijmenam, ten noorden van
+De Broekelei is gelegen tussen Keerbergen en Rijmenam, ten noorden van
 de Dijle. Langs de benedenlopen van Dijle, Demer en Laak (een oude
 Demerbedding) en langs de Leibeek tussen Wijgmaal en Hever (een oude
 Dijlebedding) komen op regelmatige afstanden bochtige stroken vochtig of

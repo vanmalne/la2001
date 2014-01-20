@@ -21,26 +21,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
 
- 
+
 Wimp, Grote Nete, Heibeek, Otterloop, Maasloop
 
 **Moerassige gronden:**
 
  * veen
 
- 
+
 laagveen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -50,7 +50,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -58,7 +58,7 @@ kasteelpark
  * kasteel
  * kasteelgracht
 
- 
+
 Kasteel Herlaar + dienstgebouwen
 
 **Bouwkundig erfgoed:**
@@ -67,7 +67,7 @@ Kasteel Herlaar + dienstgebouwen
  * huis
  * herberg
 
- 
+
 herberg 't Schipke, molenhuis, molenaarswoning
 
 **Landbouwkundig erfgoed:**
@@ -76,28 +76,28 @@ herberg 't Schipke, molenhuis, molenaarswoning
  * stal
  * wagenhuis
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 O.-L.-Vrouw-hofkapel
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
- 
+
 voetbrug
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -108,7 +108,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -121,12 +121,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
- 
+
 **Bos:**
 
  * naald
@@ -135,7 +135,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -148,7 +148,7 @@ atypische bebouwing, visvijvers en een serrecomplex.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De natuurwetenschappelijke waarde van deze ankerplaats wordt in de
 eerste plaats bepaald door de oude, goed ontwikkelde loofbossen met hun
 kenmerkende flora, alsook door de structuurrijke en botanisch
@@ -187,7 +187,7 @@ centraal gelegen kasteel van Herlaar met omgevend park.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Vallei van de Wimp en de Grote Nete' is gelegen op
+De ankerplaats 'Vallei van de Wimp en de Grote Nete' is gelegen op
 grondgebied van de gemeenten Herenthout en Itegem (Heist o/d Berg) in de
 Zuiderkempen. De begrenzing wordt gevormd door 'Kruiskensberg', de
 Merodese bossen en het centrum van Herenthout in het noorden, de

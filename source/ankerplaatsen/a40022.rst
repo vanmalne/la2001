@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,7 +30,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Cuesta van het Waasland
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -39,7 +39,7 @@ Cuesta van het Waasland
  * meander
  * oude rivierarm
 
- 
+
 Durme, Oude arm Durme, Rodebeek, bron
 
 **Moerassige gronden:**
@@ -48,10 +48,10 @@ Durme, Oude arm Durme, Rodebeek, bron
  * veen
  * rietland
 
- 
+
 **Geologie:**
 
- 
+
 Vlaamse Vallei
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -61,7 +61,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * dries
@@ -71,17 +71,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kasteel
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 **Klein historisch erfgoed:**
 
  * schandpaal
 
- 
+
 **Archeologische elementen:**
 rietsnijderij
 
@@ -93,20 +93,20 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
  * verlaten spoorweg
 
 oude spoorwegdijk van spoorweg 56 Sint-Niklaas- Hamme- Dendermonde
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
  * grachtenstelsel
 
- 
+
 Mirabrug
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -124,23 +124,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * turfput
 
- 
+
 **Topografie:**
 
  * blokvormig
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * meersen
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -150,7 +150,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 bronbosje
 
 **Bijzondere waterhuishouding:**
@@ -159,7 +159,7 @@ bronbosje
  * uiterwaarden
  * buitendijks
 
- 
+
 Zoetwaterschorren van de Durme
 
 OPMERKINGEN EN KNELPUNTEN
@@ -174,7 +174,7 @@ bepalend.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De oude meander van de Durme is nu een stilstaand water, deze meander
 werd in 1934-35 bij de rechttrekking van de Durme afgesneden. De
 schorren zijn één van de weinige overblijvende zoetwatergetijdengebieden
@@ -211,7 +211,7 @@ straat met de hoger gelegen Dries verbonden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten oosten van Waasmunster. De Durmevallei
+Deze ankerplaats ligt ten oosten van Waasmunster. De Durmevallei
 heeft, in tegenstelling tot de Scheldevallei, zijn open karakter
 grotendeels bewaard. Kleine populierenaanplanten en Elzenbosjes zijn
 verspreid aanwezig tussen de weiden, vooral tegen het Wase cuestafront.

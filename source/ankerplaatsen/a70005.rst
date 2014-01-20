@@ -20,8 +20,8 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -29,7 +29,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 o.a. Demer, Tuilterdemer
 
 **Moerassige gronden:**
@@ -37,7 +37,7 @@ o.a. Demer, Tuilterdemer
  * moeras
  * rietland
 
- 
+
 vochtig grasland
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
@@ -56,7 +56,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * omheining
  * kasteelgracht
 
- 
+
 restanten van het gebruik van de abdissenvleugel e
 
 **Landbouwkundig erfgoed:**
@@ -66,14 +66,14 @@ restanten van het gebruik van de abdissenvleugel e
  * stal
  * wagenhuis
 
- 
+
 abdijhoeve, Altenhof
 
 **Molens:**
 
  * watermolen
 
- 
+
 abdijmolen, Tuiltermolen
 
 **Kerkelijk erfgoed:**
@@ -82,7 +82,7 @@ abdijmolen, Tuiltermolen
  * abdij
  * klooster
 
- 
+
 voormalige abdij Herkenrode
 
  **Archeologische elementen:**
@@ -96,17 +96,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
+
 verbindingen met het Altenhof en met Stokrooie
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
  * grachtenstelsel
  * stuw
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -116,7 +116,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -127,7 +127,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 telkens een molenvijver achter de twee watermolens
 
 **Topografie:**
@@ -136,17 +136,17 @@ telkens een molenvijver achter de twee watermolens
  * historisch stabiel
  * bolle akkers
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -155,13 +155,13 @@ telkens een molenvijver achter de twee watermolens
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide
 
- 
+
 uitgebreid grachtensysteem voor bevloeiing en ontwatering
 
 OPMERKINGEN EN KNELPUNTEN
@@ -185,7 +185,7 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Engels park uit het tweede kwart van de 19de eeuw bezit een
 dendrologische waarde.
 Historische waarde:
@@ -220,7 +220,7 @@ structurerend geheel.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De abdijsite Herkenrode ligt in de Demervallei, in een overgangsgebied
+De abdijsite Herkenrode ligt in de Demervallei, in een overgangsgebied
 tussen de Lage Kempen en Haspengouw, ten zuiden van de dorpskern van
 Stokrooi (Hasselt). Het is een uitgestrekt historisch domein dat
 teruggaat tot het voormalige abdijcomplex der cisterciënzerinnen. Ten

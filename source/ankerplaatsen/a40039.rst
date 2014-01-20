@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -28,7 +28,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * steilrand
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -37,7 +37,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 bronnenstraat (Christianabronnen)
 
 **Moerassige gronden:**
@@ -46,7 +46,7 @@ bronnenstraat (Christianabronnen)
  * veen
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -55,7 +55,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Kasteel Grenier
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -63,7 +63,7 @@ Kasteel Grenier
  * kasteel
  * hovenierswoning
 
- 
+
 Kasteel Grenier, neerhof,
 
 **Landbouwkundig erfgoed:**
@@ -72,7 +72,7 @@ Kasteel Grenier, neerhof,
  * schuur
  * stal
 
- 
+
 De Kaaihoeve
 
 **Kerkelijk erfgoed:**
@@ -81,7 +81,7 @@ De Kaaihoeve
  * kapel
  * pastorie
 
- 
+
 Christianakapel, kerk en pastorie van Welden en Nederzwalm
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -92,13 +92,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -108,7 +108,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -124,20 +124,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 vijvers bij Kasteel Grenier
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * kouters
  * meersen
 
- 
+
 **Bos:**
 
  * loof
@@ -147,7 +147,7 @@ vijvers bij Kasteel Grenier
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -164,7 +164,7 @@ die niet op zijn plaats zit.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Schelde ligt in een brede alluviale vlakte. Langs de rand van het
 Scheldealluvium komen zandige ruggetjes voor die het resultaat zijn van
 lokale verstuivingen tijdens het Laatglaciaal. Bij Nederwelden is een
@@ -205,7 +205,7 @@ kasteeldomein Grenier bevindt zich op de steilrand.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Nagenoeg de volledige linkeroever van de Schelde in deze ankerplaats
+Nagenoeg de volledige linkeroever van de Schelde in deze ankerplaats
 behoort landschappelijk tot het alluviale deel van de Scheldevallei. Aan
 de rechteroever behoren er delen de ankerplaats tot het Zuid- Vlaams
 heuvelland (zandleemsteek). De kouter te Welden ligt op een zandige

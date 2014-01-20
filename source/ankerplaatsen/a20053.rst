@@ -20,17 +20,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,7 +47,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,7 +56,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -65,13 +65,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * kouters
  * meersen
 
- 
+
 No
 
 **Bos:**
@@ -80,7 +80,7 @@ No
  * broek
  * hakhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -93,7 +93,7 @@ Torfbroek en Terbronnen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Torfbroek ligt - samen met het Floordambos en het Silsombos in
 een brede strook "oud " alluvium die deel uit maakt van een fossiele
 oost-west gerichte riviervallei die momenteel via een aantal beken naar
@@ -118,14 +118,14 @@ schoonheid van sommige plantengemeenschappen vormen de basis van een
 grote esthetische waarde.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Torfbroek is gelegen ten zuiden van Kampenhout en de steenweg
+Het Torfbroek is gelegen ten zuiden van Kampenhout en de steenweg
 Brussel-Haacht, nabij het gehucht Berg. De voornaamste drager van
 ethetische waarde is de grote centrale vijver, omringd door struwelen en
 bossen, die deze ruimte afschermen van de omringende bebouwing. De open

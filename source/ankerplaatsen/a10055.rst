@@ -21,12 +21,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * landduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -34,14 +34,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * vallei
  * meander
 
- 
+
 Grote Nete, Grote- en Kleine Laak, Trichelbeek, Hoefkensloop
 
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,14 +52,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 verschillende oudere hoeves
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 St. Bavokapel, Kruisweg
 
  **Archeologische elementen:**
@@ -72,15 +72,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 oude wegenstructuur
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -90,7 +90,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -103,7 +103,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 moerkuilen
 
 **Topografie:**
@@ -111,13 +111,13 @@ moerkuilen
  * opstrekkend
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
 
- 
+
 **Bos:**
 
  * loof
@@ -125,12 +125,12 @@ moerkuilen
  * hakhout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -150,7 +150,7 @@ is.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De natuurwetenschappelijke waarde van het Zammels Broek en
 Trichelbroek wordt bepaald door de aanwezigheid van de oorspronkelijke
 hooilanden in hun verschillende successiestadia, de diversiteit in het
@@ -195,7 +195,7 @@ is hier grilliger.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap 'Zammels Broek en Trichelbroek' is gelegen op
+Het landschap 'Zammels Broek en Trichelbroek' is gelegen op
 grondgebied van de gemeenten Geel en Laakdal in de vallei van de Grote
 Nete en omgeven door de gehuchten Zammel, Oosterlo, Varendonk en Veerle.
 De ankerplaats wordt begrensd door de Sint-Gepebernusstraat en de

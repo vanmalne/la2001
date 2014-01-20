@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -26,19 +26,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 cuesta van Lotenhulle- Hertsberge
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 Kwade stroom
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 Paniseliaan
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * landgoed
 
- 
+
 Blekkerbos
 
 **Landbouwkundig erfgoed:**
@@ -57,7 +57,7 @@ Blekkerbos
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
@@ -65,14 +65,14 @@ Blekkerbos
  * klooster
  * pastorie
 
- 
+
 Broeders van Liefde 'Blekkervijver'
 
 **Klein historisch erfgoed:**
 
  * grenspaal
 
- 
+
 grenspaal met Ruiselede, aan Hooggoed
 
  **Andere:**
@@ -87,7 +87,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Romeinse weg
 
- 
+
 Diksmuidse Boterweg
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -105,7 +105,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 vijvers bij landgoederen, poelen bij hoeves
 
 **Topografie:**
@@ -113,7 +113,7 @@ vijvers bij landgoederen, poelen bij hoeves
  * blokvormig
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * naald
@@ -123,7 +123,7 @@ vijvers bij landgoederen, poelen bij hoeves
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -137,7 +137,7 @@ industrie die talrijk in de streek gevestigd is.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied maakt deel uit van de cuesta van Lotenhulle- Hertsberge.
 De kwartaire mantel is erg dun en niet continue, de bodem is weinig
 geschikt voor landbouw. Het gebied sluit aan bij het Bulskampveld in
@@ -170,7 +170,7 @@ landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats situeert zich grotendeels op grondgebied van de
+Deze ankerplaats situeert zich grotendeels op grondgebied van de
 gemeente Aalter, en ligt nog voor een klein deel op Ruiselede. Het
 vroegere uitgestrekte heidegebied tussen Gent en Brugge is in de laatste
 eeuwen herhaaldelijk van uitzicht veranderd. Het Bulskampveld is een van

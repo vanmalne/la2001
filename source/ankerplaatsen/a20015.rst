@@ -20,26 +20,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,7 +49,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -63,14 +63,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * stal
  * wagenhuis
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,13 +81,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -96,7 +96,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -107,18 +107,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Bos:**
 
  * loof
  * broek
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -131,7 +131,7 @@ omgeving van de Alsberg, Optielt en Tielt-Berg.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Walenbos bestaat uit een mozaïek van bos- en
 moerasvegetatietypen, waarvan de rijkdom niet alleen een gevolg is van
 de talrijke bronnen, het reliëf, de grote afwisseling in bodems en
@@ -154,14 +154,14 @@ en spectaculaire uitzichtpunten, maken dat het gebied een hoge
 belevingswaarde heeft.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Walenbos is gelegen ten noorden van Sint-Joris-Winge, tussen
+Het Walenbos is gelegen ten noorden van Sint-Joris-Winge, tussen
 Houwaart en Tielt. Het ligt ten zuiden van de drassige vallei van de
 Brede Motte, tussen de Diestiaanruggen bestaande uit de Houwaartseberg
 in het noorden en het complex Roeselberg-Alsberg in het zuiden. Het is

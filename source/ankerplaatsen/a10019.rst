@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Leibeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -36,24 +36,24 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * kasteel
  * landgoed
 
- 
+
 De Schrieken + paviljoen + huisje uit boomstammen
 
 **Bouwkundig erfgoed:**
 
  * villa
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
  * grenspaal
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,14 +62,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 patrouillelaantje
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
 
- 
+
 Bedafse brug
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -79,7 +79,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -90,13 +90,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Bos:**
 
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -109,7 +109,7 @@ landbouw.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De bossen rond 'De Schrieken' zijn behoorlijk oud en omvatten nog
 enkele heiderelicten; het vijvercomplex zou een restant zijn van een
 vroeger moeras en mogelijkheden bieden voor water- en moerasvegetaties.
@@ -144,7 +144,7 @@ zorgt op deze manier voor een afwisseling in de landschapsstructuur.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Domein 'De Schrieken' en omgeving is gelegen op grondgebied van de
+Domein 'De Schrieken' en omgeving is gelegen op grondgebied van de
 gemeente Ravels (deelgemeente Poppel) in de het noorden van de provincie
 Antwerpen en langsheen de grens met Nederland. Het wordt begrensd door
 de rijksgrens met Nederland in het westen, de Leeuweriklaan en

@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,14 +29,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * landduin
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
  * meander
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteel Koningsdonk, Klaverke en Kervijn
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -57,14 +57,14 @@ kasteel Koningsdonk, Klaverke en Kervijn
  * omheining
  * kasteelgracht
 
- 
+
 koetshuis
 
 **Bouwkundig erfgoed:**
 
  * (heren)woning
 
- 
+
 tolhuis
 
 **Landbouwkundig erfgoed:**
@@ -73,12 +73,12 @@ tolhuis
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 kapel van Klaverken
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -89,7 +89,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -102,7 +102,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Zandberg te Heusden is een goed bewaard restant van de
 stuifduinmassieven langs de Schelde. Het ontstaan van het
 stuifduincomplex te Heusden hangt nauw samen met de geschiedenis in het
@@ -134,7 +134,7 @@ omsingeld, ligt in de buurt van de kastelen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De kasteelsite van Heusden- Gentbrugge is op het grondgebied van de
+De kasteelsite van Heusden- Gentbrugge is op het grondgebied van de
 gemeenten Destelbergen en Gent gelegen. Ze wordt door de Schelde
 doorsneden. Rond de Schelde liggen nog resten van de vroegere meersen.
 Aan weerszijden van de Schelde komen verschillende kasteeldomeinen voor.

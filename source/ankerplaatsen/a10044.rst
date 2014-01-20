@@ -20,20 +20,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Visbeek
 
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,17 +54,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 **Bos:**
 
  * naald
@@ -72,7 +72,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * broek
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -85,7 +85,7 @@ van de waarden van dit valleilandschap niet verder mag uitbreiden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Hoewel bijna alle biotopen in de vallei van de Visbeek door de mens
 werden gecreëerd of beïnvloed, vertegenwoordigt het geheel een
 belangrijke vegetatiekundige en floristische waarde. Deze is te danken
@@ -128,7 +128,7 @@ met talrijke lijnvormige landschapselementen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Visbeek is gelegen op grondgebied van de gemeenten Lille en
+De Visbeek is gelegen op grondgebied van de gemeenten Lille en
 Wechelderzande in de Antwerpse kempen. De ankerplaats omvat de Visbeek
 met haar vallei en wordt begrensd door de bewoning van Wechelderzande in
 het westen, de gemeentegrens met Vlimmeren in het noorden, naaldbossen

@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * graft
  * talud
 
- 
+
 valleiranden en langs hellingen
 
 **Macroreliëf:**
@@ -31,12 +31,12 @@ valleiranden en langs hellingen
 
 interfluviale kam
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 beken en droge valleien stroomopwaarts bronnen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -46,28 +46,28 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 Argendaalhof
 
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
- 
+
 Argendaal
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 hoeves ten noordwesten van bos vrij gaaf
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -88,7 +88,7 @@ toegangsdreef kasteel; langs perceelsranden
 
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -108,7 +108,7 @@ helft wordt ontsierd door een bovengrondse hoogspanningsleiding.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De topzone ligt op de waterscheidingskam tussen Leie- en
 Scheldebekken en ligt wegens de bodemgesteldheid reeds lang onder bos.
 Het Bellegem- en Argendaalbos herbergen een grote verscheidenheid in
@@ -138,7 +138,7 @@ landbouwland.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten zuidoosten van Bellegem (gem. Kortrijk). Ze
+Deze ankerplaats ligt ten zuidoosten van Bellegem (gem. Kortrijk). Ze
 wordt in het westen begrensd door de N50 Kooigem-Kortrijk, in het
 noorden door de lintbebouwing vanuit Bellegem, in het oosten door een
 weg die evenwijdig aan de N50 loopt, en in het zuiden door een gedeelte

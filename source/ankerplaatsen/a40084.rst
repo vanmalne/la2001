@@ -21,12 +21,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -35,7 +35,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Reivissche, Predikherenhof, Nieuwgoed, Puttenhove, Hoedje en de
 Ghellinck d'Elsegem
 
@@ -50,19 +50,19 @@ Ghellinck d'Elsegem
  * omheining
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,7 +72,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
  * verlaten spoorweg
@@ -85,7 +85,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -99,15 +99,15 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
- 
+
 bulken
 
 **Bos:**
@@ -117,7 +117,7 @@ bulken
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,7 +130,7 @@ landschap.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Geomorfologisch bevindt het kasteelpark zich in de Vlaamse Vallei,
 een zandig gebied waar er een uitgesproken microreliëf voorkomt van
 westzuidwest- oostnoordoost geöriënteerde ruggen en depessies.
@@ -167,7 +167,7 @@ kleine kasteeltjes rond Gent, behorend aan de 19e eeuwse katoenbaronnen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De kastelensite van Zwijnaarde bestaat uit een ensemble van de
+De kastelensite van Zwijnaarde bestaat uit een ensemble van de
 kastelen Reivissche, Predikherenhof, Nieuwgoed, Puttenhove en Hoedje met
 hun bijhorende parken en het park van de Ghellinck d'Elsegem. Aan de
 zuidwestelijke periferie van Gent en meer bepaald tussen de sterk

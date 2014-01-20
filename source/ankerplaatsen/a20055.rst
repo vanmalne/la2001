@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * beek
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -36,27 +36,27 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * abdij
 
- 
+
 **Archeologische elementen:**
 opgravingen voormalige cisterciënzerinnenabdij
 
@@ -68,7 +68,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,7 +81,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -95,7 +95,7 @@ gemeenschapsvoorzieningen met recente schoolgebouwen en sportvelden
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het domein heeft een grote dendrologisxche waarde.
 Historische waarde:
 Het domein, in zijn hudige vorm herkenbaar als een uniek voorbeeld
@@ -108,14 +108,14 @@ pensionaat en school na 1928, is het parkgedeelte van het domein nog
 tamelijk mooi,
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De cisterciënzinnenabdij van Vrouwenpark werd omstreeks 1200 gesticht
+De cisterciënzinnenabdij van Vrouwenpark werd omstreeks 1200 gesticht
 en in 1796 opgeheven. Ze ligt te Rotselaar, ten noorden van Leuven. 16de
 en 17de-eeuwse kaarten tonen een volledig omgracht complex gelegen
 tussen de Winge en de Lostingbeek en aan drie zijden omringd door een

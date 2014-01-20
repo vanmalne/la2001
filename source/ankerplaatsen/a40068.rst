@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -30,7 +30,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 villa Hemelrijk, Scheldeveld
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -39,21 +39,21 @@ villa Hemelrijk, Scheldeveld
  * landgoed
  * kasteelgracht
 
- 
+
 Scheldevelde, dienstgebouwen,koetshuizen,Hemelrijk
 
 **Bouwkundig erfgoed:**
 
  * villa
 
- 
+
 'Chalet d'Hemelrijk'
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 O-L-Vrouw van Hemelrijk
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -64,7 +64,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -80,7 +80,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * loof
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -92,7 +92,7 @@ Er bevindt zich wel wat residentiële bebouwing in sommige dreven.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het gebied is gelegen op de waterscheiding tussen het Leie- en
 Scheldebekken: ten noorden geschiedt de afwatering naar de Leie, ten
 zuiden naar de Schelde.
@@ -127,7 +127,7 @@ en akkers. Er komen enkele kleine verkavelingen voor.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Scheldeveld en de zeven dreven liggen op grondgebied van de
+Het Scheldeveld en de zeven dreven liggen op grondgebied van de
 gemeente De Pinte. Het gebied van Scheldevelde gaat op een middeleeuw
 "veld" of "wastina" gebied terug. Dit gebied was een deel van het
 uitgestrekte "Scheldeholt" of Karolingisch koningsforeest van Gent tot

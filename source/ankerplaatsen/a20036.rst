@@ -20,13 +20,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * heuvel
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -36,7 +36,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -47,7 +47,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * kasteel
  * hovenierswoning
 
- 
+
 + jachtpaviljoen
 
 **Bouwkundig erfgoed:**
@@ -57,12 +57,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * herberg
  * afspanning
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 **Andere:**
 brouwerijen, maalderij
 
@@ -74,7 +74,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -84,12 +84,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Kunstmatige waters:**
 
  * vijver
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,7 +103,7 @@ serres
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Een dorp met een rijk verleden dat één van de bakermatten was van de
 Belgische serredruiventeelt.
 Historische waarde:
@@ -128,14 +128,14 @@ rijke verleden. De dorpsstructuur met haar kleine wegeltjes en steegjes
 doet stedelijk aan.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Overijse is een uitgestrekte gemeente gelegen tussen de Brusselse
+Overijse is een uitgestrekte gemeente gelegen tussen de Brusselse
 agglomeratie en de taalgrens. De dorpsstructuur met zijn kleine
 wegeltjes en steegjes doet stedelijk aan. De dorpskern is ingeplant op
 een steile helling met een halverwege gelegen kerk en gemeenteplein. Het

@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 bij groeves
 
 **Macroreliëf:**
@@ -30,18 +30,18 @@ bij groeves
  * heuvel
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 twee zandsteengroeven
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -58,7 +58,7 @@ driehoekig dorpsplein van Meldert, Meisberg
 
  * hoeve
 
- 
+
 Hof te Putte
 
 **Kerkelijk erfgoed:**
@@ -66,7 +66,7 @@ Hof te Putte
  * kerk
  * kapel
 
- 
+
 kerk van Meldert
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -77,7 +77,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -87,7 +87,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -97,18 +97,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * blokvormig
  * onregelmatig
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -116,7 +116,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -128,7 +128,7 @@ De verbouwde Kiekenvilla ligt midden in het gebied.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 In vochtige delen van het bos vindt men veenmos, aan de rand van het
 bos heiderelicten. Er is een klein brongebied aanwezig. Dit bos maakte
 deel uit van het Kolenwoud.
@@ -159,7 +159,7 @@ voor.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het overgrote deel van het Kravaalbos, op grondgebied van Aalst,
+Het overgrote deel van het Kravaalbos, op grondgebied van Aalst,
 Opwijk en Asse, maakte sinds de 14e eeuw deel uit van het domein van de
 benedictinessenabdij van Vorst, een stichting van de abdij van Affligem.
 De boscomplexen Kravaalbos en Affligembos waren eens delen van eenzelfde

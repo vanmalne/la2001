@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 langs valleiranden (steilrand) van Poperingse Vaart
 
 **Macroreliëf:**
@@ -29,14 +29,14 @@ langs valleiranden (steilrand) van Poperingse Vaart
 
 valleiranden van Ijzer
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
  * vallei
  * oude rivierarm
 
- 
+
 Ijzer en Poperingse Vaart, Dode Ijzer bij Roesbrugge-Haringe
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -46,7 +46,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 Tempeliershof
 
 **Landbouwkundig erfgoed:**
@@ -54,7 +54,7 @@ Tempeliershof
  * hoeve
  * schuur
 
- 
+
 Eversamhoeve: enkel oorspronkelijke schuur rest
 
 **Kerkelijk erfgoed:**
@@ -62,20 +62,20 @@ Eversamhoeve: enkel oorspronkelijke schuur rest
  * kerk
  * abdij
 
- 
+
 Eversamhoeve bij verdwenen abdij; kerken aan de rand van vallei
 (Beveren, Stavele, Roesbrugge)
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * brug
 
- 
+
 dijk op linkeroever Ijzer; Poperingse Vaart; brug te Roesbrugge en
 bij Vleteren
 
@@ -92,7 +92,7 @@ Poperingse Vaart
 
 **Topografie:**
 
- 
+
 loodrecht op Ijzer of zijbeken
 
 **Historisch stabiel landgebruik:**
@@ -100,7 +100,7 @@ loodrecht op Ijzer of zijbeken
  * permanent grasland
  * meersen
 
- 
+
 in valleien
 
 OPMERKINGEN EN KNELPUNTEN
@@ -132,7 +132,7 @@ authentieke percelering.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Ijzer kent een vrij natuurlijk bochtig verloop soms geaccentueerd
 door een bomenrij met natuurlijke oeverprofielen. De grens van de vallei
 en vooral de steilranden benadrukken de overgang van polder/vallei naar
@@ -170,7 +170,7 @@ begrenzing door steilranden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats strekt zich uit langs de Ijzer tussen Elzendamme
+Deze ankerplaats strekt zich uit langs de Ijzer tussen Elzendamme
 (gem. Vleteren), Stavele (gem. Alveringem), Beveren (idem) en de
 Frans-Belgische grens nabij Roesbrugge-Haringe (gem. Poperinge). De weg
 tussen Elzendamme - Stavele - Haringe en die tusen Elzendamme-Beveren en

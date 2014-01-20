@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 valleiranden; uitgebakken terrein
 
 **Macroreliëf:**
@@ -29,12 +29,12 @@ valleiranden; uitgebakken terrein
 
 interfluviale kam
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Zandbeek; droge vallei tussen boscomplexen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -44,14 +44,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 hoeve Driehoven (met ast), Labroye
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Archeologische elementen:**
 archeologische sporen van Ijzertijd en Gallo-Romeinse periode
 
@@ -72,7 +72,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ vanwege hun inpassing in landelijk karakter.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De ankerplaats bevindt zich op een beboste topzone van de
 interfluviale kam tussen Leie- en Scheldebekken. De bebossing
 reflecteert de bodemkundige gesteldheid en is reeds lang aanwezig. De
@@ -120,7 +120,7 @@ naar de Scheldevallei.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats bevindt zich tussen de dorpskernen van Kooigem (gem.
+Deze ankerplaats bevindt zich tussen de dorpskernen van Kooigem (gem.
 Kortrijk) en St-Denijs (gem. Zwevegem). Ze ligt op een zuidelijke
 uitloper van de interfluviale kam tussen Schelde- en Leiebekken die
 begint rond Molen Ter klare en verder loopt over St-Denijs tot het

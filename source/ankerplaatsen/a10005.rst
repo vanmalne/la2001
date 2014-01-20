@@ -16,11 +16,11 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 GEOMORFOLOGIE/HYDROGRAFIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Miksebeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -30,7 +30,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Engelse parkstijl
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -38,23 +38,23 @@ Engelse parkstijl
  * kasteel
  * kasteelgracht
 
- 
+
 Brug en poort
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -72,14 +72,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * hooghout
 
- 
+
 **Andere:**
 Arboretum
 
@@ -97,7 +97,7 @@ probleem, maar verdere uitbreiding moet worden vermeden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De natuurwetenschappelijke waarde van deze ankerplaats wordt
 voornamelijk bepaald door het rijke en oude bomenbestand dat ook voor
 avifauna en vleermuizen potenties inhoudt.
@@ -125,7 +125,7 @@ door in domein 'De Inslag'.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Domein 'Ter Mik' is gelegen in de gemeente Brasschaat in de Antwerpse
+Domein 'Ter Mik' is gelegen in de gemeente Brasschaat in de Antwerpse
 Noorderkempen. De begrenzing van deze ankerplaats wordt gevormd door
 domein 'De Inslag' in het westen, de bebouwing van Marie-ter-Heide in
 het noorden, de Miksebaan in het oosten en de E19 in het zuiden. De

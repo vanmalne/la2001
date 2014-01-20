@@ -21,20 +21,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * steilrand
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,7 +43,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -54,7 +54,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * hovenierswoning
  * muur
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -62,17 +62,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * stal
  * wagenhuis
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * abdij
 
- 
+
 **Archeologische elementen:**
 funderingen van vroegere abdijgebouwen
 
@@ -84,7 +84,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -93,7 +93,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -102,13 +102,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -121,7 +121,7 @@ Het beschermingsbesluit uit 1947 maakte deze bebouwing mogelijk!)
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 In het gebied Zevenborren, vooral in de bronzones en langs de
 vijverboorden, komen interessante vegetaties voor. Het park bij het
 kasteel van Zevenbronnen heeft grote dendrologische waarde.
@@ -135,14 +135,14 @@ voormalige abdijhoeve en watermolen, de vijvers omringd door bos en het
 in de 19de eeuw gebouwde kasteel.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Zevenborren is gelegen tussen het Hallerbos en het kasteeldomein van
+Zevenborren is gelegen tussen het Hallerbos en het kasteeldomein van
 Revelingen, ten zuiden van Dworp en Alsemberg. Het is een gebied met
 sterke en steile hoogteverschillen, holle wegen en taluds, talrijke
 bronnen en vijvers. Zevenborren of Zevenbronnen is, zoals de naam het

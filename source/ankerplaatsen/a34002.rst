@@ -23,13 +23,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 steilrand langs grens van de Scheldevallei
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * oude rivierarm
 
- 
+
 Schelde; La Rhosnesbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -39,7 +39,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kerk
 
- 
+
 kerk als bouwkundig erfgoed en omwille van de typische ligging
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -49,12 +49,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * verlaten spoorweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
- 
+
 rijtgracht; "Brug van de Waterhoek"
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -72,14 +72,14 @@ langs perceelsgrenzen en langs oude schelde-armen
 
  * repelvormig
 
- 
+
 vlakbij steilrand, tussen Oude en Nieuwe Rijtgracht
 
 **Historisch stabiel landgebruik:**
 
  * meersen
 
- 
+
 No
 
 OPMERKINGEN EN KNELPUNTEN
@@ -110,7 +110,7 @@ landschap.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De afgesneden meanders getuigen van de vroegere natuurlijke loop van
 de Schelde en vormen een waardevol biotoop voor flora en fauna. In de
 lanen, grachten en laagste delen van de weilanden staat ook waardevolle
@@ -142,7 +142,7 @@ typisch zijn.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten oosten van de dorpskern van Avelgem en loopt
+Deze ankerplaats ligt ten oosten van de dorpskern van Avelgem en loopt
 tot de weilanden aan de rechteroever van de huidige Schelde. Het talud
 langs de westelijke grens van de ankerplaats, niet overal even
 uitgesproken, dateert waarschijnlijk van de laatglaciale erosiefase en

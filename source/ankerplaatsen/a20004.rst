@@ -20,13 +20,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -36,7 +36,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -46,7 +46,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * kasteel
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -54,12 +54,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * stal
  * wagenhuis
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -69,12 +69,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,7 +83,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -93,12 +93,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -110,7 +110,7 @@ In het gebied liggen verspreid een aantal hoeven.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het park rond het kasteel herbergt een aantal zeldzame en/of oude
 bomen.
 Historische waarde:
@@ -124,14 +124,14 @@ bomen, dreven, vista's, vijvers en grachten, vormt een schilderachtig
 decor voor het omwalde kasteel.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het kasteel van Houtem ligt ten westen van Kapelle-op-den-Bos in de
+Het kasteel van Houtem ligt ten westen van Kapelle-op-den-Bos in de
 relictzone van de Klein-Brabantse Molenbeken. Als waterlopen vermelden
 we de Plasbeek en de Hagelboombeek, naast een aantal grachten. De
 omgeving van het kasteel onderging weinig wijzigingen gedurende de

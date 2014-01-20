@@ -20,18 +20,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -41,7 +41,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
@@ -49,19 +49,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * muur
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -71,13 +71,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -90,12 +90,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * meersen
 
- 
+
 No
 
 **Bos:**
@@ -103,7 +103,7 @@ No
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -119,7 +119,7 @@ het grondgebied van de provincie Antwerpen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 In de omgevende bosjes komen interessante bosvegetaties voor.
 Historische waarde:
 Het idomein rond het waterkasteel werd heraangelegd in
@@ -137,7 +137,7 @@ Het 18de-eeuws perceelspatroon is nog goed herkenbaar.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats strekt zich uit ten noorden van Zemst tot in de
+Deze ankerplaats strekt zich uit ten noorden van Zemst tot in de
 nabijheid van Hombeek. De oostelijke grens wordt grotendeels gevormd
 door de plaats van de vroegere Zennebedding en de autoweg E19
 Brussel-Antwerpen. Het gebied maakt deel uit van de Zennevallei met haar

@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 Zwarte Nete
 
 **Moerassige gronden:**
@@ -35,7 +35,7 @@ Zwarte Nete
  * rietland
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 abdijtuin, kasteelpark
 
 **Nederzettingspatronen:**
@@ -58,7 +58,7 @@ Postel
 
  * kasteel
 
- 
+
 'Kasteel van Postel + toegangspoort
 
 **Bouwkundig erfgoed:**
@@ -66,7 +66,7 @@ Postel
  * (heren)woning
  * huis
 
- 
+
 portierswoning, rentmeesterswoning
 
 **Landbouwkundig erfgoed:**
@@ -76,7 +76,7 @@ portierswoning, rentmeesterswoning
  * stal
  * wagenhuis
 
- 
+
 tiendschuur
 
 **Kerkelijk erfgoed:**
@@ -86,7 +86,7 @@ tiendschuur
  * abdij
  * pastorie
 
- 
+
 Norbertijnerabdij + ringmuur,St. - Nikolaaskerk
 
 **Klein historisch erfgoed:**
@@ -94,7 +94,7 @@ Norbertijnerabdij + ringmuur,St. - Nikolaaskerk
  * kruis
  * grenspaal
 
- 
+
 **Andere:**
 beiaardtoren, brouwerij, kaasmakerij
 
@@ -105,14 +105,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 oud wegenpatroon
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,7 +122,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -134,17 +134,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 **Bos:**
 
  * naald
@@ -153,7 +153,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -168,7 +168,7 @@ uitbreiding van infrastructuur voor recreatie vermeden worden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Ronde Put en omgeving betreft op natuurwetenschappelijk gebied één
 van de interessantste gebieden van de Kempen. Gelegen in het brongebied
 van de Kleine Nete en rijk aan open water en moerassen, vinden we hier
@@ -221,7 +221,7 @@ haar omgeving.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Abdij van Postel en de Ronde Put is gelegen in het
+De ankerplaats 'Abdij van Postel en de Ronde Put is gelegen in het
 noorden van de gemeente Mol, tegen de grens met Nederland. De begrenzing
 wordt gevormd door de autostrade E34 Turnhout-Eindhoven in het noorden,
 de grens met Nederland en de Eerselseweg in het oosten, de Steenovens,

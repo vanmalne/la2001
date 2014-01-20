@@ -20,19 +20,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
 
- 
+
 grotendeels rechtgetrokken Dommel
 
 **Moerassige gronden:**
@@ -41,7 +41,7 @@ grotendeels rechtgetrokken Dommel
  * rietland
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,13 +50,13 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 **Klein historisch erfgoed:**
 
  * kruis
  * grenspaal
 
- 
+
 Verkeerde Lieveheer, oude grenssteen in blauwe arduin naast recentere
 metalen grenspalen
 
@@ -67,15 +67,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
+
 knuppelpad
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 Bergeikse dijk
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -85,7 +85,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -96,25 +96,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
 
- 
+
 **Bos:**
 
  * loof
  * broek
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -134,7 +134,7 @@ de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De grote verscheidenheid in de textuur van de bodem (dekzanden,
 stuifzanden, maasgrind), de grote verscheidenheid aan bodems (regosolen,
 plaggenbodems, veen, alluviale gronden enz.), extreme vochtgradiënten
@@ -163,7 +163,7 @@ De Dommel is bepalend voor de opbouw van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Hageven is gelegen aan de Dommel, tussen de gemeenten Lommel en
+Het Hageven is gelegen aan de Dommel, tussen de gemeenten Lommel en
 Neerpelt en tegen de Nederlandse grens. Grind, afgezet tijdens het
 kwartair (Mindel) door de Maas en gedurende de Würmijstijd bedekt met
 een niveo-eolische laag dekzanden, vormt het materiaal waaruit de

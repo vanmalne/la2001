@@ -20,18 +20,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 Heuvelse loop
 
 **Moerassige gronden:**
 
- 
+
 kunstmatig aangelegde, vochtige weiden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -48,14 +48,14 @@ voormalige Rijkslandbouwkolonie (huidige Koloniestraat)
 
  * (heren)woning
 
- 
+
 wateringhuis
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 hoeve Corens
 
 **Kerkelijk erfgoed:**
@@ -63,12 +63,12 @@ hoeve Corens
  * kerk
  * pastorie
 
- 
+
 **Klein historisch erfgoed:**
 
  * grenspaal
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -79,10 +79,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Oostenrijkse periode
 
- 
+
 steenweg 's Hertogenbosch-Luik, verbindingswegen en -paden
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -90,7 +90,7 @@ steenweg 's Hertogenbosch-Luik, verbindingswegen en -paden
  * grachtenstelsel
  * stuw
 
- 
+
 bevloeiingssysteem met kunstwerken, spijssloten e.a., gevoed door
 kanaal Bocholt-Herentals
 
@@ -102,7 +102,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 o.a. paardekastanjes als voormalige erfbeplanting in de Kolonie
 
 **Lijnvormige elementen:**
@@ -117,17 +117,17 @@ o.a. bomenrijen op de dijken
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 kunstmatig aangelegde, vochtige weiden
 
 **Bos:**
@@ -137,13 +137,13 @@ kunstmatig aangelegde, vochtige weiden
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -166,7 +166,7 @@ evenals het gebruik van de maaibalk.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wisselwerking tussen de oorspronkelijke zure Kempense zandbodem en
 de bevloeiing met het kalkrijke kanaalwater resulteerde in een grote
 diversiteit in plantensoorten en een uitzonderlijke vegetatie met o.a.
@@ -218,7 +218,7 @@ ingegrepen in het voordien traditioneel Kempense landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Midden 19de eeuw werden grootschalige vloeiweiden aangelegd om de
+Midden 19de eeuw werden grootschalige vloeiweiden aangelegd om de
 onvruchtbare heidegebieden in de Limburgse en Antwerpse Kempen
 landbouwkundig te valoriseren. De realisatie van deze projecten was
 mogelijk dank zij de sedert 1825 in gebruik genomen Zuid-Willemsvaart en

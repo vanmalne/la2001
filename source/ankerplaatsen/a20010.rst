@@ -20,19 +20,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,7 +43,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -56,14 +56,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * muur
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -73,12 +73,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -87,7 +87,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -97,19 +97,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * loof
  * broek
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -119,7 +119,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Floordambos ligt in een oud alluvium dat deel uit maakt van een
 fossiele oost-west gerichte riviervallei die momenteel via een aantal
 beken naar het bekken van de Zenne (westelijk deel) en van de Dijle
@@ -154,14 +154,14 @@ een prachtig ensemble met het kasteelpark. Het 100 ha grote park omvat
 vijvers en monumentale bomen.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats is gelegen nabij de dorpskernen van Melsbroek en Perk
+Deze ankerplaats is gelegen nabij de dorpskernen van Melsbroek en Perk
 op het grondgebied van de gemeenten Steenokkerzeel, Kampenhout,
 Vilvoorde en Machelen. Het westelijk deel van dit landschap wordt
 ingenomen door het Floordambos dat gelegen is op de waterscheidingslijn

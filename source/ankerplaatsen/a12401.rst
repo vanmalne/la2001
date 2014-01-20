@@ -21,14 +21,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 Molenbeek, Paasheideloop, Waterloop van de Molenheide
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -38,7 +38,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * tuin
 
- 
+
 tuin bij kasteel
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -48,31 +48,31 @@ tuin bij kasteel
  * ijskelder
  * kasteelgracht
 
- 
+
 Hof te Melis + bijgebouwen, traptorens
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 Site Wolfputhoeve
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 Kapel 'O. - L. -Vrouw Van Meesen'
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 ringgracht
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -83,7 +83,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 400 jaar oude eik
 
 **Lijnvormige elementen:**
@@ -96,15 +96,15 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
- 
+
 historisch stabiel bos
 
 **Bos:**
@@ -114,7 +114,7 @@ historisch stabiel bos
  * broek
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,7 +126,7 @@ Geen opmerkingen of knelpunten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Lippelobos ligt in de overgangszone tussen de Zandstreek en de
 Kleistreek en behoort daarmee tot de gemengde of samengestelde streek.
 Het reliëf, de voedselrijkdom, het grondprofiel, alsook de watertafel
@@ -175,7 +175,7 @@ staat in contrast tot de open weilanden langs de westzijde.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Hof te Melis' is gelegen op grondgebied van de
+De ankerplaats 'Hof te Melis' is gelegen op grondgebied van de
 gemeenten Sint-Amands en Londerzeel, op de overgang tussen de Zandstreek
 en de Kleistreek, en behoort daarmee gedeeltelijk tot de provincie
 Vlaams-Brabant. De begrenzing wordt gevormd door de Provinciale weg en

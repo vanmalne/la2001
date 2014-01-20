@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,11 +30,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 sterk heuvelend reliëf op waterscheidingskam
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Fonteinbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelpark van Beto
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -55,7 +55,7 @@ kasteelpark van Beto
  * landgoed
  * kasteelgracht
 
- 
+
 kasteel van Beto
 
 **Landbouwkundig erfgoed:**
@@ -64,7 +64,7 @@ kasteel van Beto
  * schuur
  * stal
 
- 
+
 kasteelhoeve van Beto
 
  **Archeologische elementen:**
@@ -83,13 +83,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * kerkwegel
  * Romeinse weg
 
- 
+
 Romeinse weg Tongeren-Kassel, geometrische patronen van paden en
 wegen
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
- 
+
 relict Romeins aquaduct
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -100,7 +100,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -112,31 +112,31 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 weilanden nabij kasteel en bebouwing, onder boomgaarden of populieren
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -155,7 +155,7 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Beukenberg situeert zich op de zuidwest-noordoost georiënteerde
 waterscheidingskam tussen het Maas- en het Scheldebekken. Zulke
 interfluviumpositie tussen twee concurrerende rivierbekkens is
@@ -193,7 +193,7 @@ steenwegen naar Hasselt en Sint-Truiden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het kasteel van Betho ligt even buiten het stadscentrum van Tongeren
+Het kasteel van Betho ligt even buiten het stadscentrum van Tongeren
 in het gehucht Mulken, gevat in een vrij gaaf bewaard landschap tussen
 de steenwegen naar Hasselt en Sint-Truiden. Het is een imposant,
 gedeeltelijk omgracht complex aan de bovenloop van de Fonteinbeek. Het

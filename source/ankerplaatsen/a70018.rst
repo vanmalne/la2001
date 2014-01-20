@@ -22,7 +22,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * graft
  * talud
 
- 
+
 ook dassenburchten
 
 **Macroreliëf:**
@@ -34,11 +34,11 @@ ook dassenburchten
 diepe insnijding van Jeker, Maas (Nederland en Wallonië) en het
 uitgegraven Albertkanaal
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
 
- 
+
 Jeker, in Kanne grotendeels gekanaliseerd
 
 **Geologie:**
@@ -46,7 +46,7 @@ Jeker, in Kanne grotendeels gekanaliseerd
  * ontsluitingen
  * karsten
 
- 
+
 mergelgroeven w.o. Tiendenberg, Slingerberg, Muizenberg, Caestert,
 Ternaaien-Boven en -Beneden
 
@@ -66,7 +66,7 @@ valleisite
 
  * kasteel
 
- 
+
 terrassenkasteel van Neerkanne, echter gelegen in
 
 **Bouwkundig erfgoed:**
@@ -74,7 +74,7 @@ terrassenkasteel van Neerkanne, echter gelegen in
  * (heren)woning
  * huis
 
- 
+
 o.a. notarishuis Rendorp, panden in de Kleine Molenstraat en het
 Avergat
 
@@ -84,7 +84,7 @@ Avergat
  * schuur
  * stal
 
- 
+
 o.a. Avergat, Cilissen, Vrancken, Vrijens, Caesterhoeve op plateau
 (Wallonië) met vermelding 1686
 
@@ -92,14 +92,14 @@ o.a. Avergat, Cilissen, Vrancken, Vrijens, Caesterhoeve op plateau
 
  * watermolen
 
- 
+
 molen van Neerkanne (Kleine molen, Smokkelmolen), molen van Opkanne
 
 **Militair erfgoed:**
 
  * bunker
 
- 
+
 bunker nabij Albertkanaal te Vroenhoven, onderdeel van
 verdedigingslinie
 
@@ -110,7 +110,7 @@ verdedigingslinie
  * klooster
  * pastorie
 
- 
+
 o.a. Sint-Hubertuskerk, H.-Grafkapel, voormalig rectorshuis van de
 kanunniken van Hoogcruts-Noorbeek
 
@@ -119,7 +119,7 @@ kanunniken van Hoogcruts-Noorbeek
  * gedenkteken
  * grenspaal
 
- 
+
 oorlogsgedenkteken nabij Albertkanaal te Vroenhoven
 
  **Archeologische elementen:**
@@ -132,12 +132,12 @@ oud gemeentehuis, oude rijkswachtkazerne
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * brug
 
- 
+
 bruggen over Albertkanaal te Kanne en Vroenhoven
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -148,7 +148,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * houtkant
@@ -158,12 +158,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 open akkerbouwgebied en bos op het hoger gelegen leemplateau,
 graslanden in vallei en op hellingen
 
@@ -171,7 +171,7 @@ graslanden in vallei en op hellingen
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -179,7 +179,7 @@ graslanden in vallei en op hellingen
  * hooghout
  * struweel
 
- 
+
 o.a. Carrébos, Overbos
 
 OPMERKINGEN EN KNELPUNTEN
@@ -197,7 +197,7 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Jeker is diep in het krijtsubstraat ingesneden, de oostelijke
 dalhelling doorsneden met droge valleien. De Sint-Pietersberg is het
 langgerekte en smalle interfluvium tussen Jeker en Maas, tijdens het
@@ -248,7 +248,7 @@ oriënterend voor het traditionele krijtland van Millen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Kanne is gelegen aan de benedenloop van de Jeker, die enkele
+Kanne is gelegen aan de benedenloop van de Jeker, die enkele
 kilometers verder in de Maas uitmondt. Het Jekerdal, evenals het in
 1930-34 aangelegde Albertkanaal, is er ca. 40 tot 50 meter diep in het
 substraat ingesneden, waardoor zeer steile hellingen voorkomen. De
@@ -297,7 +297,7 @@ traditioneel bepaald door landbouw en mergelwinning. Opmerkelijk zijn
 o.a. de woningen in het Avergat, de hoeves Cilissen, Vrancken en
 Vrijens, de huizen Collijn en Rendorp, maar evenzeer ook de twee
 watermolens, de Heilig-Grafkapel en het voormalig rectorshuis, de toren
-van de Sint\_Hubertuskerk. Het terrassenkasteel van Neerkanne werd door
+van de Sint Hubertuskerk. Het terrassenkasteel van Neerkanne werd door
 de scheiding van Belgisch en Nederlands Limburg in 1843 met de
 omliggende goederen bij de Nederlandse gemeente Wolder gevoegd. Kanne,
 veruit de meest toeristische deelgemeente van Riemst, is vooral ook

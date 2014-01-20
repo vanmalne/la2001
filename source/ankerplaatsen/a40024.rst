@@ -18,14 +18,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * markante terreinovergang
 
 rand van de Cuesta van het Waasland
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -33,7 +33,7 @@ rand van de Cuesta van het Waasland
  * meander
  * kreek
 
- 
+
 Rupelmondse Kreek, Barbierbeek, Kapelbeek, Kruibeekse Kreek, Bazelse
 kreek, Twissels
 
@@ -42,7 +42,7 @@ kreek, Twissels
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -51,7 +51,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * plein
@@ -66,26 +66,26 @@ Bazel
  * muur
  * kasteelgracht
 
- 
+
 Kasteel van Wissekerke, Graventoren, Altena
 
 **Bouwkundig erfgoed:**
 
  * herberg
 
- 
+
 herberg de Eenhoorn
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 getijdewatermolen
 
 **Kerkelijk erfgoed:**
@@ -94,7 +94,7 @@ getijdewatermolen
  * kapel
  * pastorie
 
- 
+
 Kerk van Bazel
 
  **Andere:**
@@ -109,15 +109,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Romeinse weg
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
  * sluis
  * pompgemaal
 
- 
+
 stoompompgemaal
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -127,7 +127,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 linden op wegensplitsingen (met kapelletjes)
 
 **Lijnvormige elementen:**
@@ -144,18 +144,18 @@ linden op wegensplitsingen (met kapelletjes)
  * weel
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
  * historisch stabiel
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -164,13 +164,13 @@ linden op wegensplitsingen (met kapelletjes)
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
  * buitendijks
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -191,7 +191,7 @@ aspecten verloren gaan.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deel van de Scheldevallei, westelijke grens wordt gevormd door de
 steile helling van cuesta van het land van Waas. Alluviale gronden,
 rivierkleiafzetting, veen aanwezig onder het alluviaal materiaal.
@@ -232,7 +232,7 @@ vooral op het cuestafront.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- In Bazel is er slechts sprake van een inpoldering in een geschreven
+In Bazel is er slechts sprake van een inpoldering in een geschreven
 bron in het midden van de 13e eeuw. Vermoedelijk was er reeds voordien
 een inpoldering geweest omdat historische bronnen ervan gewag maken. De
 onderverdeling van de polders in "Broekwijken" zijn reeds in de 13e eeuw

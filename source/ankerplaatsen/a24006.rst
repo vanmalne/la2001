@@ -21,31 +21,31 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,7 +54,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteel van Neigem
 
 **Nederzettingspatronen:**
@@ -71,7 +71,7 @@ dries van Neigem
  * toren
  * kasteelgracht
 
- 
+
 koetshuis, portierswoning, duiventoren,poortgebouw
 
 **Bouwkundig erfgoed:**
@@ -79,7 +79,7 @@ koetshuis, portierswoning, duiventoren,poortgebouw
  * huis
  * herberg
 
- 
+
 "Nieuw Balleke" herberg
 
 **Landbouwkundig erfgoed:**
@@ -88,26 +88,26 @@ koetshuis, portierswoning, duiventoren,poortgebouw
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 "Fonteintjesmolen"
 
 **Militair erfgoed:**
 
  * verdedingingslinie
 
- 
+
 loopgraven uit WO I
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 Kruiskapel, Kapel O-L-V van Bevingen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -118,7 +118,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -128,7 +128,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -142,18 +142,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * loof
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -165,7 +165,7 @@ Lintvormige bewoning dringt het bos binnen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Neigembos is gelegen op een zuidwest- noordoost gerichte
 heuvelrug die de waterscheiding vormt tussen het Dender en het
 Zennebekken. Door het dagzomen van geologisch lagen komen talrijke
@@ -207,7 +207,7 @@ de kleine dries van Neigem verbonden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Neigembos ligt op de grens van Oost- Vlaanderen en Brabant, ten
+Het Neigembos ligt op de grens van Oost- Vlaanderen en Brabant, ten
 zuidoosten van Ninove, op het grondgebied van de Ninoofse deelgemeenten
 Neigem en Meerbeke. Ooit was het Neigembos een stuk van het grote
 Kolenwoud, waarvan de noordgrens ongeveer tot de Schelde reikte en de

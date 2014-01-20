@@ -19,8 +19,8 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -28,14 +28,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,7 +44,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 Katteneie, Schalieveld
 
 **Landbouwkundig erfgoed:**
@@ -53,14 +53,14 @@ Katteneie, Schalieveld
  * schuur
  * stal
 
- 
+
 Schalieveld, Katteneie, omwalling
 
 **Molens:**
 
  * windmolen
 
- 
+
 Aumansmolen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -72,7 +72,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
+
 Koewegel
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -82,7 +82,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -95,18 +95,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * turfput
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
- 
+
 **Bos:**
 
  * naald
@@ -116,7 +116,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,7 +130,7 @@ de Damvallei elkaar in een klaverbladstructuur snijden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Damvallei is een moerassige vlakte in het midden door een iets
 hogere preholocene zandrug doorbroken. Waarschijnlijk bevondt zich reeds
 in het Pleistoceen een depressie op deze plaats. Bepaalde geulen zouden
@@ -173,7 +173,7 @@ een bosperceeltje, dat hoofdzakelijk uit hooghout bestaat.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats bevindt zich op het grondgebied van de gemeenten
+Deze ankerplaats bevindt zich op het grondgebied van de gemeenten
 Destelbergen en Laarne. De zuidoostelijke hoek van de Damvallei (dat
 door de autosnelwegen van de rest is afgesneden) ligt in de afbaking.
 Een moerassige strook toont de voormalige ligging van de Schelde aan. In

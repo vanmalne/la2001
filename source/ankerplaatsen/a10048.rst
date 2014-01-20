@@ -21,14 +21,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 Grote Kaliebeek, Kleine Kaliebeek, Roeikensloop, Echelsgracht
 
 **Moerassige gronden:**
@@ -36,7 +36,7 @@ Grote Kaliebeek, Kleine Kaliebeek, Roeikensloop, Echelsgracht
  * veen
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,7 +49,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 aarden wegen en paden
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -59,7 +59,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -72,18 +72,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -94,7 +94,7 @@ heiderelicten
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -109,7 +109,7 @@ landschap.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De vallei van de Kaliebeek vormt een lokale depressie en fungeert
 daardoor lokaal als putgebied voor grondwaterstromingen vanuit
 nabijgelegen hogere gronden; dit kan aanleiding geven tot waardevolle
@@ -151,7 +151,7 @@ hoofdstructuur.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Vallei van de Kleine Kaliebeek' is gelegen op
+De ankerplaats 'Vallei van de Kleine Kaliebeek' is gelegen op
 grondgebied van de gemeenten Turnhout en Kasterlee in de Centrale
 Antwerpse Kempen. De begrenzing van dit landschap wordt gevormd door
 Zevendonk in het noorden, Kleine Winkel en Lage Rielen in het oosten en

@@ -19,18 +19,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 bronnen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -41,7 +41,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * kerk
  * kapel
 
- 
+
 kerk van Bovenkwartier
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -53,7 +53,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,14 +68,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * onregelmatig
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -85,7 +85,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 In het zuiden van het gebied ontspringen verschillende bronnen die de
 Molenbeek vormen. Het bos is een hellings- en bronbos.
 Historische waarde:
@@ -112,7 +112,7 @@ staat aan de rand ervan ingeplant.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt op grondgebied van Everbeek (gemeente Brakel).
+Deze ankerplaats ligt op grondgebied van Everbeek (gemeente Brakel).
 In de Vlaamse Ardennen komt een twaalftal heuvels voor die sterk
 opvallen in het reliëf omdat ze niet alleen allemaal ongeveer een hoogte
 van rond de 150 meter bereiken, maar ook doordat ze op één enkele west-

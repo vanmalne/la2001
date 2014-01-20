@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -29,7 +29,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 3 parken
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -39,23 +39,23 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * muur
  * kasteelgracht
 
- 
+
 **Militair erfgoed:**
 
  * bunker
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
  * standbeeld
  * gedenkteken
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,7 +68,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -77,12 +77,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,7 +97,7 @@ geldt voor de percelen, ingenomen door de Antwerpse groendienst.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 In alledrie de parken komt een behoorlijk loofbomenbestand voor.
 Binnen de sterk verstedelijkte rand van Antwerpen, voorziet dit gebied
 nog in een restant geschikt habitat voor avifauna en knaagdieren.
@@ -123,7 +123,7 @@ dicht bebouwde omgeving van de stedelijke Antwerpse rand.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats Middelheim-Vogelzang is gelegen in de Antwerpse
+De ankerplaats Middelheim-Vogelzang is gelegen in de Antwerpse
 deelgemeenten Berchem en Wilrijk. De begrenzing van dit landschap wordt
 gevormd door de ring rond Antwerpen in het noorden, de Craeybeckxtunnel
 en de infrastructuur van Ziekenhuis Middelheim en de Universiteit

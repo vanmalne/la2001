@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -26,11 +26,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 cuesta van Lotenhulle- Hertsberge
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Zoutersbeek
 
 **Moerassige gronden:**
@@ -38,14 +38,14 @@ Zoutersbeek
  * moeras
  * rietland
 
- 
+
 moerassige zones op de plaatsen van de voormalige veldvijvers
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 Tertiaire Eocene zanden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -55,7 +55,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Kasteel van Schuurlo, koetshuis
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -63,7 +63,7 @@ Kasteel van Schuurlo, koetshuis
  * kasteel
  * orangerie
 
- 
+
 Kasteel van Schuurlo, koetshuis
 
 **Landbouwkundig erfgoed:**
@@ -73,7 +73,7 @@ Kasteel van Schuurlo, koetshuis
  * stal
  * wagenhuis
 
- 
+
 verschillende hoeves rond Schuurlokasteel
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -85,13 +85,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Oostenrijkse periode
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
- 
+
 kleine walbrug met ijzeren leuningen over vijver van kasteel Schuurlo
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -108,7 +108,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 aan autosnelweg en aan het Kasteel van Schuurlo
 
 **Topografie:**
@@ -116,7 +116,7 @@ aan autosnelweg en aan het Kasteel van Schuurlo
  * blokvormig
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * naald
@@ -126,7 +126,7 @@ aan autosnelweg en aan het Kasteel van Schuurlo
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -139,7 +139,7 @@ talrijk in de streek gevestigd is.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied maakt deel uit van de cuesta van Lotenhulle- Hertsberge.
 De kwartaire mantel is erg dun en niet continue, de bodem is weinig
 geschikt voor landbouw. Het gebied sluit aan bij het Bulskampveld in
@@ -172,7 +172,7 @@ landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats situeert zich ten westen van Maria- Aalter, op
+Deze ankerplaats situeert zich ten westen van Maria- Aalter, op
 grondgebied van de gemeente Aalter. Goed Schuurlo, ressorterend onder de
 heerlijkheid van Woestijne, is één van de vroegst vermelde plaatsnamen
 (1375) en vermoedelijk ook één der eerste woonplaatsen (tussen 1772 en

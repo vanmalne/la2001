@@ -20,13 +20,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Dode of Luikse Beek, Gerhoevenloop, Kleine Beek
 
 **Moerassige gronden:**
@@ -35,7 +35,7 @@ Dode of Luikse Beek, Gerhoevenloop, Kleine Beek
  * veen
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,12 +43,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * sluis
  * grachtenstelsel
 
- 
+
 afwateringsgrachten, sluis met zgn. moederzoeg
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -65,19 +65,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * turfput
 
- 
+
 winning van turf en ijzererts
 
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
- 
+
 beperkt tot de oostrand van het gebied
 
 **Bos:**
@@ -88,14 +88,14 @@ beperkt tot de oostrand van het gebied
  * hooghout
  * struweel
 
- 
+
 elzen- en wilgenbroekstruweel
 
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -111,7 +111,7 @@ landschap aan een schaalvergroting kan ontsnappen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Grote delen van het gebied zijn bedekt met een dikke veenlaag van
 gemiddeld 1m dikte. Het continue beheer van het gebied resulteerde
 tevens in een grote diversiteit.
@@ -138,7 +138,7 @@ z.g. coulissenlandschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het gebied ligt in de noordwesthoek van de gemeente Ham, op de grens
+Het gebied ligt in de noordwesthoek van de gemeente Ham, op de grens
 van de provincies Limburg en Antwerpen. In het oosten wordt het gebied
 begrensd door het kanaal Dessel - Kwaadmechelen, in het zuiden door het
 Albertkanaal. Het gebied wordt doorsneden door de Dode - of Luikse Beek

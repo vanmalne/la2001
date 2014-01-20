@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -27,14 +27,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 pastorietuin, Hof te Cattebeke
 
 **Nederzettingspatronen:**
@@ -57,7 +57,7 @@ pastorietuin, Hof te Cattebeke
 
  * ijskelder
 
- 
+
 druivenserre
 
 **Bouwkundig erfgoed:**
@@ -65,7 +65,7 @@ druivenserre
  * (heren)woning
  * villa
 
- 
+
 villa Tynlon
 
 **Landbouwkundig erfgoed:**
@@ -74,12 +74,12 @@ villa Tynlon
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * windmolen
 
- 
+
 Bossenaremolen
 
 **Kerkelijk erfgoed:**
@@ -87,7 +87,7 @@ Bossenaremolen
  * kerk
  * pastorie
 
- 
+
 Kerkem
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -100,7 +100,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * kerkwegel
  * Romeinse weg
 
- 
+
 Aatse Heerweg
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -110,7 +110,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 Drievuldigheidsboom
 
 **Lijnvormige elementen:**
@@ -127,13 +127,13 @@ Drievuldigheidsboom
  * permanent grasland
  * kouters
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -147,7 +147,7 @@ historisch over een open gebied gaat, is het zicht niet veranderd.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De vallei van de Nederaalbeek heeft haar brongebied ter hoogte van
 Spichterberg, Ronse. Het is een vrij asymmetrische vallei, typisch voor
 de Vlaamse Ardennen, de steilere helling bevindt zich op de
@@ -194,7 +194,7 @@ parallel aan de beek.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats bevindt zich ten oosten van Etikhove. Etikhove is een
+Deze ankerplaats bevindt zich ten oosten van Etikhove. Etikhove is een
 straatdorp dat parallel aan de Nederaalbeek gelegen is. Dit valleitje is
 te herkennen aan de natte graslanden met knotbomen, enkele kleine
 percelen bos en beekbegeleidende vegetatie. Er komen ook enkele akkers

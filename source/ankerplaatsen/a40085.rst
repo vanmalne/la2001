@@ -19,17 +19,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -38,7 +38,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 park van Baudries
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -46,7 +46,7 @@ park van Baudries
  * kasteel
  * kasteelgracht
 
- 
+
 dienstgebouwen, stallen, koetshuis, paardestallen
 
 **Landbouwkundig erfgoed:**
@@ -55,12 +55,12 @@ dienstgebouwen, stallen, koetshuis, paardestallen
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 kerk van Dikkelvenne
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -71,7 +71,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,7 +81,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -93,7 +93,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hakhout
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,8 +103,8 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 Het "Goed te Baudries" werd in de 14e eeuw reeds vermeld als leen van
 de heerlijkheid Gavere. In de jaren 1820 werd op de grond van het domein
@@ -127,7 +127,7 @@ staat de kerk van Dikkelvenne.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het kasteeldomein Baudries ligt ten noordoosten van het dorp
+Het kasteeldomein Baudries ligt ten noordoosten van het dorp
 Dikkelvenne, bij Gavere. Het "Goed te Baudries" werd in de 14e eeuw
 reeds vermeld als leen van de heerlijkheid Gavere. Als oudste
 vertegenwoordiger van de heerlijkheid "Baudry" vinden wij Jan Sloeve,

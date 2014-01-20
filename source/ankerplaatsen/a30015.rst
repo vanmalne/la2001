@@ -22,16 +22,16 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 ter hoogte van Diksmuide overgang vallei en nederzetting Diksmuide
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
 
- 
+
 Ijzer
 
 **Moerassige gronden:**
 
- 
+
 ter hoogte van kleiputten (natuurreservaat) bij Stuivekenskerke
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -47,7 +47,7 @@ Stuivekenskerke
 
  * hoeve
 
- 
+
 omwalde kasteelhoeve op motte
 
 **Militair erfgoed:**
@@ -55,7 +55,7 @@ omwalde kasteelhoeve op motte
  * bunker
  * verdedingingslinie
 
- 
+
 resten van loopgraven in Dodengang
 
 **Kerkelijk erfgoed:**
@@ -63,7 +63,7 @@ resten van loopgraven in Dodengang
  * kerk
  * kapel
 
- 
+
 kerk Stuivekenskerke en kapel bij kasteelhoeve (beide in
 Stuivekenskerke)
 
@@ -71,7 +71,7 @@ Stuivekenskerke)
 
  * gedenkteken
 
- 
+
 oorlogsmonumenten
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -92,24 +92,24 @@ perceelsrandbegroeiing
 
  * vijver
 
- 
+
 in natuurreservaat Kleiputten door uitgraving
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 broeken
 
 **Bijzondere waterhuishouding:**
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,7 +130,7 @@ faunistische samenstelling.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De ondergrond bestaat uit de sedimenten van de zee-inbraken
 (Duinkerke-transgressies) vlakbij de Ijzer. Ten noorden van Diksmuide
 mondt de Handzamevaart, één van de belangrijkste gekanaliseerde
@@ -160,7 +160,7 @@ o.a. Diksmuide ligt) heeft een ander landgebruik dan de beide valleien.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats bevat de Ijzer tussen Diksmuide en Stuivekenskerke
+Deze ankerplaats bevat de Ijzer tussen Diksmuide en Stuivekenskerke
 (gem. Diksmuide) met aansluitend waardevolle en gave graslandcomplexen,
 de dijken en de historische kern van Stuivekenskerke. De Handzamevaart
 is één van de grotere zijbeken en mondt ter hoogte van Diksmuide in de

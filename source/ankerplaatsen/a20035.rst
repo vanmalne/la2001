@@ -21,19 +21,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,7 +44,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
@@ -53,7 +53,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * boswachterswoning
  * muur
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -61,12 +61,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * stal
  * wagenhuis
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Archeologische elementen:**
 neolithische vondsten
 
@@ -78,7 +78,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -88,7 +88,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -98,18 +98,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,7 +122,7 @@ oostelijk deel.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het kasteeldomein van Revelingen heeft een grote dendrologische
 waarde; sommige gedeelten van het Revelingen domein en de vallei van de
 Kwede Beek zijn eveneens botanisch waardevol.
@@ -142,14 +142,14 @@ kasteel en de kasteelhoeve van Revelingen vormen een stijlvol geheel in
 een bospark met diep ingesneden dalen en mooie vista's.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats is gelegen ten zuiden van Sint-Genesius-Rode, tussen
+Deze ankerplaats is gelegen ten zuiden van Sint-Genesius-Rode, tussen
 Zevenborren en het Zoniënwoud. Het gebied is langs alle kanten door
 bewoning ingesloten, ten zuiden ligt de residentiële zone van Waterloo.
 Het domein van het kasteel van Revelingen ligt in het westelijk deel van

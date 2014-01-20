@@ -20,19 +20,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
- 
+
 o.a. Roosterbeek, Slangebeek, Zonderikbeek
 
 **Moerassige gronden:**
@@ -42,7 +42,7 @@ o.a. Roosterbeek, Slangebeek, Zonderikbeek
  * rietland
  * ven
 
- 
+
 vochtig grasland
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -52,21 +52,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 Olmenwinning
 
 **Militair erfgoed:**
 
  * schans
 
- 
+
 Donckse of Vranckenschans
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -76,10 +76,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 fiets- en wandelroutes
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -87,7 +87,7 @@ fiets- en wandelroutes
  * grachtenstelsel
  * stuw
 
- 
+
 Albertkanaal, vijvercomplex
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -98,7 +98,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -111,19 +111,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
 
- 
+
 vochtige beemden en weilanden
 
 **Bos:**
@@ -135,13 +135,13 @@ vochtige beemden en weilanden
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
 
- 
+
 kleinschalige waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -157,7 +157,7 @@ geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Waardevol is het voorkomen in een aaneensluitend logisch geheel van
 voor de Kempen typische en steeds zeldzamer wordende landschapselementen
 zoals vijvers met verlandingszones, vochtige en droge heiderelicten,
@@ -189,7 +189,7 @@ voor de organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Tot midden 19de eeuw was een groot deel van Zonhoven heidegebied. In
+Tot midden 19de eeuw was een groot deel van Zonhoven heidegebied. In
 het westen van de gemeente lagen de Kuringerheide en Wijvenheide. Deze
 laatste waren een deel van de moerassige zone die zich uitstrekt
 langsheen de zuidwestelijke rand van het Kempens plateau en langzaam

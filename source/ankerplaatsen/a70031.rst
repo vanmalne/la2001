@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -34,11 +34,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 mijnterrils, steilrand van het Kempens plateau met droge dalen, dekzand-
 en duinreliëfs e.a.
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * vallei
 
- 
+
 veelal droge valleien
 
 **Moerassige gronden:**
@@ -46,14 +46,14 @@ veelal droge valleien
  * veen
  * ven
 
- 
+
 vennen op het plateau
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 ontsluitingen op de hellingen van de steilrand en valleien, in de
 groeves en andere uitgravingen
 
@@ -65,7 +65,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 o.a. Koninginnepark
 
 **Nederzettingspatronen:**
@@ -80,7 +80,7 @@ tuinwijken (Oude cité, Nieuwe Cité) van Eisden-Mijn
 
  * kasteel
 
- 
+
 directeurswoning 't Kasteeltje
 
 **Bouwkundig erfgoed:**
@@ -89,7 +89,7 @@ directeurswoning 't Kasteeltje
  * huis
  * villa
 
- 
+
 tuinwijken met mijnwerkershuizen, villa's, directeurswoning,
 logementshuizen
 
@@ -99,7 +99,7 @@ logementshuizen
  * schuur
  * stal
 
- 
+
 o.a. Saanhoeve, kasteelhoeve Litzberg
 
 **Kerkelijk erfgoed:**
@@ -108,12 +108,12 @@ o.a. Saanhoeve, kasteelhoeve Litzberg
  * klooster
  * pastorie
 
- 
+
 o.a. Sint-Barbarakerk
 
 **Klein historisch erfgoed:**
 
- 
+
 windelstenen
 
  **Archeologische elementen:**
@@ -131,7 +131,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 o.a. Hoeveweg, Koninginnelaan, Zetellaan, lanen en wegen van de
 tuinwijken
 
@@ -141,11 +141,11 @@ tuinwijken
 
 kolenspoor Genk (Waterschei) - As - Maasmechelen (Eisden)
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
 
- 
+
 Zuid-Willemsvaart
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -156,7 +156,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -169,14 +169,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * blokvormig
  * opstrekkend
 
- 
+
 bos- en landbouwontginningen
 
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 heiderestanten
 
 **Bos:**
@@ -186,7 +186,7 @@ heiderestanten
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -201,7 +201,7 @@ landschapswaarden, verdergezet worden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De overgangszone tussen het Kempens Plateau en de Maasvallei wordt
 gekenmerkt door een eigen dynamiek met een uitgesproken reliëf en
 opeenvolgende gradiënten. De omgeving, die hier onderhevig is aan
@@ -257,7 +257,7 @@ oriënterend als mijngebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Tot in de 19de eeuw vertoonde Eisden het traditionele patroon van een
+Tot in de 19de eeuw vertoonde Eisden het traditionele patroon van een
 Maaslands dorp: ten oosten de dorpskern en de vruchtbare
 landbouwgronden, ten westen de heide en bossen, grosso modo van elkaar
 gescheiden door de begin die eeuw aangelegde Zuid-Willemsvaart. Door

@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 boswal in Slangebossen
 
 **Macroreliëf:**
@@ -29,12 +29,12 @@ boswal in Slangebossen
 
 cuestafront
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 vallei van de Wantebeek rond brongebied
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -44,7 +44,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 Akspoelehoeve, Schoonberg
 
  **Archeologische elementen:**
@@ -66,13 +66,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * repelvormig
  * historisch stabiel
 
- 
+
 geometrisch patroon uit 18e eeuw; repelvormig in natte bosbestanden
 
 **Bos:**
@@ -83,7 +83,7 @@ geometrisch patroon uit 18e eeuw; repelvormig in natte bosbestanden
  * middelhout
  * struweel
 
- 
+
 Vorte Bossen, Schoonbergbos, bronbos Wantebeek
 
 OPMERKINGEN EN KNELPUNTEN
@@ -105,7 +105,7 @@ om de herkenbaarheid te garanderen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De situering van de ankerplaats langs het cuestafront van de cuesta
 van Lotenhulle-Hertsberghe met het brongebied van de Wantebeek vormt het
 fysich kader voor het landgebruik. De graduele bodemkundige overgang
@@ -143,7 +143,7 @@ ontginningspatroon en het verschil in openheid van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats strekt zich uit langs de Wantebeek op grondgebied van
+Deze ankerplaats strekt zich uit langs de Wantebeek op grondgebied van
 gem. Ruiselede (W.-Vlaanderen) en gem. Aalter (O.-Vlaanderen). Ze loopt
 van gehucht Doomkerke (Ruiselede) tot vóór de kaarsrechte weg tussen
 Ruiselede en Aalter. De ankerplaats ligt op de zuidelijke steile helling

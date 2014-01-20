@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 o.a. dekzandreliëfs, depressies
 
 **Macroreliëf:**
@@ -35,14 +35,14 @@ o.a. dekzandreliëfs, depressies
 o.a. oostelijke rand van het Kempens Plateau, Feldbissbreuk aan De
 Warre, Maasterrassen, duinreliëfs
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
  * oude rivierarm
 
- 
+
 o.a. Broekbeek, De Beek, Zanderbeek, meanderbocht van Bergerven
 
 **Moerassige gronden:**
@@ -51,14 +51,14 @@ o.a. Broekbeek, De Beek, Zanderbeek, meanderbocht van Bergerven
  * rietland
  * ven
 
- 
+
 vochtige weiden
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 groeve te Berg
 
  **Andere:**
@@ -73,7 +73,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 kasteel Sipernau, Rubensgoed
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -82,7 +82,7 @@ kasteel Sipernau, Rubensgoed
  * landgoed
  * kasteelgracht
 
- 
+
 kasteel Sipernau
 
 **Bouwkundig erfgoed:**
@@ -91,7 +91,7 @@ kasteel Sipernau
  * huis
  * villa
 
- 
+
 Luikerhuis in de Heide, rentmeesterswoning Sipernau, Rubensgoed
 
 **Landbouwkundig erfgoed:**
@@ -101,26 +101,26 @@ Luikerhuis in de Heide, rentmeesterswoning Sipernau, Rubensgoed
  * stal
  * wagenhuis
 
- 
+
 o.a. kasteelhoeve Sipernau, Rubensgoed, Luikerhuis in de Heide
 
 **Molens:**
 
  * watermolen
 
- 
+
 Klaaskensmolen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 o.a. kapel van de Weerstand, kapel H. Rita
 
 **Klein historisch erfgoed:**
 
- 
+
 oorspronkelijke tapsluizen aan de Zuid-Willemsvaart
 
  **Archeologische elementen:**
@@ -133,7 +133,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 landwegen
 
 **Spoorweg:**
@@ -142,7 +142,7 @@ landwegen
 
 As-Maaseik
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -152,7 +152,7 @@ As-Maaseik
  * stuw
  * lijnpad
 
- 
+
 o.a. Zuid-Willemsvaart met voetgangersbrug, tapsluizen, Losbeek
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -163,7 +163,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -177,7 +177,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 o.a. De Broeken, kasteelvijver
 
 **Topografie:**
@@ -185,7 +185,7 @@ o.a. De Broeken, kasteelvijver
  * blokvormig
  * onregelmatig
 
- 
+
 verschillende ontginningspatronen
 
 **Historisch stabiel landgebruik:**
@@ -193,14 +193,14 @@ verschillende ontginningspatronen
  * permanent grasland
  * heide
 
- 
+
 vochtige weiden
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -210,7 +210,7 @@ vochtige weiden
  * hooghout
  * struweel
 
- 
+
 o.a. Armenbos, gemeentebos Schootsheide
 
 **Bijzondere waterhuishouding:**
@@ -219,7 +219,7 @@ o.a. Armenbos, gemeentebos Schootsheide
  * vloeiweide
  * watering
 
- 
+
 bevloeiing van de wateringen, ontwatering via Losbeek, Zanderbeek
 e.a.
 
@@ -242,7 +242,7 @@ visualisering van een aantal educatieve sites.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De overgangszone tussen het Kempens Plateau en de Maasvallei wordt
 gekenmerkt door een eigen dynamiek. Het reliëf werd gevormd door een
 complex geheel van factoren, dat hier in het landschap gevolgd kan
@@ -291,7 +291,7 @@ tussen Maaslandse Kempen en alluviale vlakte.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap bevindt zich in het grensgebied van Elen, Neeroeteren en
+Het landschap bevindt zich in het grensgebied van Elen, Neeroeteren en
 Rotem, in de overgangszone van het Kempens Plateau naar de Maasvallei.
 Dergelijk overgangsgebied wordt gekenmerkt door een eigen dynamiek.
 Omwille van het merkwaardige reliëf en het gevarieerde cultuurlandschap

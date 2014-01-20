@@ -20,13 +20,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Cicindria
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -37,7 +37,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelpark van Hasselbroek met moestuin
 
 **Nederzettingspatronen:**
@@ -57,7 +57,7 @@ straatgehucht Hasselbroek
  * ijskelder
  * kasteelgracht
 
- 
+
 kasteel van Hasselbroek
 
 **Landbouwkundig erfgoed:**
@@ -67,19 +67,19 @@ kasteel van Hasselbroek
  * stal
  * wagenhuis
 
- 
+
 o.a. kasteelhoeve, hoeve Stassens of Witte Hoeve
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 Sint-Jobkapel
 
 **Klein historisch erfgoed:**
 
- 
+
 hekwerk, muren
 
  **Andere:**
@@ -88,11 +88,11 @@ tuinmeubilair, -paviljoen en -ornamenten (hondenhok, zonnewijzer)
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
 
- 
+
 brug als toegang tot kasteelhoeve
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -103,7 +103,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -116,21 +116,21 @@ Lindedreef, meidoornhagen langs de straat
 
  * vijver
 
- 
+
 restant van voormalige omgrachting
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * hooghout
 
- 
+
 parkbossen
 
 OPMERKINGEN EN KNELPUNTEN
@@ -152,8 +152,8 @@ de gebouwen en het domein onherstelbare schade oplopen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 Het kasteel van Hasselbroek is in oorsprong een kasteel in Maaslandse
 renaissancestijl uit 1620, dat in 1770-1780 werd verbouwd en opnieuw
@@ -180,7 +180,7 @@ monumentaliteit beeldbepalend en ruimtelijk-structurend.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het kasteel van Hasselbroek ligt ten zuiden van de dorpskern van Jeuk
+Het kasteel van Hasselbroek ligt ten zuiden van de dorpskern van Jeuk
 (Gingelom), tegen de grens met de provincie Luik. De andere
 hoofdelementen in het omgevende Haspengouwse landschap zijn de
 kasteelhoeve, de Sint-Jobkapel, de Cicindria(beek) die hier ontspringt,

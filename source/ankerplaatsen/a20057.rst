@@ -21,19 +21,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +46,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -57,7 +57,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * loof
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -69,7 +69,7 @@ Beperkte bebouwing nabij het gehucht Akrenbos en in het uiterste zuiden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Akrenbos herbergt een waardevolle flora, vooral in de beekdalen
 en bronzones. Het heeft ook een groot dendrologische belang, m.n. oude
 grensbomen (haagbeuken).
@@ -83,14 +83,14 @@ oude bomen en de hellingen langs de bosranden maken dat het is het een
 schoon gebied is.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Akrenbos is gelegen tussen Lessines en Bever en maakt deel uit van een
+Akrenbos is gelegen tussen Lessines en Bever en maakt deel uit van een
 groter boscomplex Bois d’Acren op het grondgebied van de provincie
 Henegouwen. Het ligt op de flank van een beekdal, de Arenbergbeek ligt
 op de grens met de Henegouwen. Het beekdal herbergt een typische

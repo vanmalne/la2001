@@ -21,26 +21,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * rivier
  * beek
  * vallei
 
- 
+
 Maas, Langkeukelbeek, Molenbeek
 
 **Moerassige gronden:**
 
- 
+
 vochtige graslanden in de uiterwaarden
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 grindbanken
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -50,14 +50,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
  * muur
 
- 
+
 kasteel van Hocht, voormalige abdij
 
 **Landbouwkundig erfgoed:**
@@ -67,18 +67,18 @@ kasteel van Hocht, voormalige abdij
  * stal
  * wagenhuis
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
  * abdij
 
- 
+
 voormalige abdij van Hocht
 
  **Andere:**
@@ -92,10 +92,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 afgesneden weg naar Pietersheim, Hochter Wegelke
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -103,7 +103,7 @@ afgesneden weg naar Pietersheim, Hochter Wegelke
  * sluis
  * lijnpad
 
- 
+
 Verbindingskanaal Briegden-Neerharen, Zuid-Willemsvaart
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -114,7 +114,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -125,19 +125,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 kasteelparkvijvers, open water door grindwinning
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 vochtige beemden in de uiterwaarden
 
 **Bos:**
@@ -147,14 +147,14 @@ vochtige beemden in de uiterwaarden
  * middelhout
  * struweel
 
- 
+
 ooibos
 
 **Bijzondere waterhuishouding:**
 
  * uiterwaarden
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -168,7 +168,7 @@ akkerbouwteelten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Delen van het gebied zijn laag gelegen zodat ze regelmatig
 overstromen bij hoogwater van de Maas. De wisselende waterstanden gaan
 gepaard met sedimentatie- en erosieprocessen, zodat schrale grindbanken,
@@ -213,7 +213,7 @@ bomenrijen langs de jaagpaden de kanalen nog eens in het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het kasteel van Hocht en Hochterbampd zijn - enigszins geïsoleerd -
+Het kasteel van Hocht en Hochterbampd zijn - enigszins geïsoleerd -
 gelegen nabij de Maas, die de oostelijke grens van de gemeente Lanaken
 vormt en tevens de grens met Nederland. Begin 19de eeuw werd hier
 parallel met de Maas de Zuid-Willemsvaart getrokken. In de jaren 1930

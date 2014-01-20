@@ -21,12 +21,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 Gordinneloop
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -36,21 +36,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
- 
+
 Kasteel 'Steynehof' + bijgebouwen
 
 **Bouwkundig erfgoed:**
 
  * herberg
 
- 
+
 Prinsenhof
 
 **Landbouwkundig erfgoed:**
@@ -60,16 +60,16 @@ Prinsenhof
  * stal
  * wagenhuis
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,7 +78,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -87,12 +87,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -103,7 +103,7 @@ heiderelicten
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -118,7 +118,7 @@ knelpunt zijn de voetbalvelden in het oosten van de ankerplaats.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van deze ankerplaats wordt in de eerste
 plaats bepaald door het oude bomenbestand van bossen en dreven, dat een
 aanzienlijke dendrologische waarde vertegenwoordigt. Daarnaast biedt het
@@ -149,7 +149,7 @@ bossen een aaneensluitend geheel, grenzend aan vallei van de Grote Nete.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Merodese Bossen' is gelegen in de gemeenten Herenthout
+De ankerplaats 'Merodese Bossen' is gelegen in de gemeenten Herenthout
 en Bevel, net ten noorden van de vallei van de Grote Nete in de
 Zuiderkempen. De begrenzing wordt gevormd door de Nijlense Steenweg in
 het noorden, het centrum van Herenthout in het oosten, de Bevelse

@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,18 +29,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,7 +53,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,7 +62,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -72,7 +72,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -85,7 +85,7 @@ valleitjes en in het gehucht Keldergat.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het bos herbergt een rijke fauna en flora, voioral in debrongebieden
 en beekvalleitjes. Het heeft ook dendrologische waarde.
 Historische waarde:
@@ -104,14 +104,14 @@ heel wat variatie zorgt. Begin mei kleuren duizenden hyacinten de bodem
 van het Hallerbos blauw.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Hallerbos is gelegen ten zuiden van Dworp en ten zuidoosten van
+Het Hallerbos is gelegen ten zuiden van Dworp en ten zuidoosten van
 Halle. Het is een restant van het zogenaamde grote kolenwoud en vormde
 één geheel tesamen met het Lembeekbos en het Zoniënwoud, waarvan het
 twee eeuwen geleden afgesplitst werd. Het terrein is sterk heuvelend,

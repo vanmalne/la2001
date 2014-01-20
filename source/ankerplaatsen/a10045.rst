@@ -20,19 +20,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Kindernouwbeek
 
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,11 +40,11 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -58,18 +58,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * turfput
 
- 
+
 **Topografie:**
 
  * repelvormig
  * opstrekkend
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -79,7 +79,7 @@ heiderelicten
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -93,7 +93,7 @@ vermeden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Als intact gebleven valleigebied van een laaglandbeek
 vertegenwoordigt deze ankerplaats een belangrijke geomorfologische
 waarde. Door de sterk variërende milieuomstandigheden zoals
@@ -136,7 +136,7 @@ contrast met de monotone omgeving.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Kindernouwbeek is gelegen te Lille ten zuiden van de autosnelweg
+De Kindernouwbeek is gelegen te Lille ten zuiden van de autosnelweg
 E34. Verder wordt de ankerplaats begrensd door de Wechelsebaan en de
 Broekzijstraat in het oosten en de Roverstraat in het zuiden en westen.
 Het betreft een mooi voorbeeld van een oude landschapsstructuur en

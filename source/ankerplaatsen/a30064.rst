@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 wal van het fort
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Scheidingsbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -37,7 +37,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * fort
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,24 +54,24 @@ restanten van knotbomenrijen
 
 **Kunstmatige waters:**
 
- 
+
 gracht rond fort
 
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -88,7 +88,7 @@ storende invloed en dienen gebufferd te worden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De ligging van het fort nabij Brugge én nabij de fysische grens
 tussen polder en zandstreek bood enkel natuurlijke strategische
 voordelen.
@@ -114,7 +114,7 @@ dit fort op in het open landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt tussen de dorpskern van Koolkerke (gem. Brugge)
+Deze ankerplaats ligt tussen de dorpskern van Koolkerke (gem. Brugge)
 en de Damse Vaart. Ze grenst in het noordoosten aan de ankerplaats
 “Damme en omgevende polders” en in het noordwesten aan ankerplaats
 “polders van Dudzele”. Ze omvat de restanten van het fort van Beieren.

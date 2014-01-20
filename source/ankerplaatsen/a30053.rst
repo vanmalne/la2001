@@ -20,23 +20,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 valleirand en/of kunstmatig
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * oude rivierarm
 
- 
+
 Zuidleie; Borne-, Merle, Zuiddam- en Geuzenbeek
 
 **Moerassige gronden:**
 
  * veen
 
- 
+
 in Leiemeersen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -47,14 +47,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * toren
  * landgoed
 
- 
+
 hoeve Blauw Kasteel
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 Blauw Kasteel, Schotsgoed, Grote Linde, en andere
 
 **Militair erfgoed:**
@@ -62,24 +62,24 @@ Blauw Kasteel, Schotsgoed, Grote Linde, en andere
  * bunker
  * motte
 
- 
+
 restanten van mottestructuur en walgracht
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 bij hoeve Grote Linde
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
 
- 
+
 kanaal Oostende-Gent
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -89,7 +89,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 bij kapel Grote linde
 
 **Lijnvormige elementen:**
@@ -105,21 +105,21 @@ langs kanaal; langs perceelsranden, bij hoeves
 
  * poel
 
- 
+
 veedrinkpoel
 
 **Historisch stabiel landgebruik:**
 
  * meersen
 
- 
+
 No
 
 **Bos:**
 
  * struweel
 
- 
+
 rijshout/tuinbouw
 
 OPMERKINGEN EN KNELPUNTEN
@@ -139,7 +139,7 @@ oevers en verdient voldoende aandacht gezien de waardevolle flora.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het deels bewaard tracé van de Zuidleie waarin de bedding van het
 kanaal werd gegraven, verwijst naar het oorspronkelijk hydrografisch en
 afwateringsnet tussen Brugge en Gent. De onmiddellijke omgeving van deze
@@ -177,7 +177,7 @@ het zuiden vormt een visueel-ruimtelijke begrenzing van de ankerplaats.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt langs het kanaal Gent-Oostende ten oosten van
+Deze ankerplaats ligt langs het kanaal Gent-Oostende ten oosten van
 Moerbrugge in de gemeente Oostkamp met een stukje in de gemeente
 Beernem. In het zuiden wordt ze door de spoorlijn Brugge-Oostende
 begrensd. Het kanaal is gegraven tijdens de 17e eeuw in de loop van

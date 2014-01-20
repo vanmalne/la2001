@@ -21,19 +21,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,7 +43,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 tuin bij landhuis te Leeuwergem, park van kasteel van Leeuwergem
 
 **Nederzettingspatronen:**
@@ -60,20 +60,20 @@ Sint - Eligiusplein Leeuwergem
  * omheining
  * ijskelder
 
- 
+
 tour astronomique
 
 **Bouwkundig erfgoed:**
 
  * (heren)woning
 
- 
+
 **Molens:**
 
  * watermolen
  * windmolen
 
- 
+
 watermolen op Molenbeek (thans restaurant) en windmolen in Holleweg
 
 **Kerkelijk erfgoed:**
@@ -82,12 +82,12 @@ watermolen op Molenbeek (thans restaurant) en windmolen in Holleweg
  * kapel
  * pastorie
 
- 
+
 **Klein historisch erfgoed:**
 
  * kruis
 
- 
+
 graftombe, altaar in kasteelpark
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -99,15 +99,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
+
 **Spoorweg:**
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -117,7 +117,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -129,7 +129,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 vijvers rond Kasteel van Leeuwergem, bekken van voomalige watermolen
 
 **Bos:**
@@ -139,7 +139,7 @@ vijvers rond Kasteel van Leeuwergem, bekken van voomalige watermolen
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -152,7 +152,7 @@ ten noordoosten van het kasteeldomein bevindt zich een boomkwekerij.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit zwakgolvend landschap waar het kasteeldomein van Leeuwergem zich
 bevindt, is in zandlemig tot lemig gebied gelegen. Dit vormt de overgang
 van de Zwalmstreek met het brongebied van de Molenbeek. De Molenbeek
@@ -186,7 +186,7 @@ behoord.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het kasteeldomein van Leeuwergem, bij Zottegem gelegen, behoort tot de
+Het kasteeldomein van Leeuwergem, bij Zottegem gelegen, behoort tot de
 belangrijkste 18e eeuwse realisaties van Vlaanderen. Behalve om het
 kasteel is het domein vooral bekend om zijn park, waarin de klassieke
 'Franse' tuin, met een voor België uniek looftheater, overvloeit in een

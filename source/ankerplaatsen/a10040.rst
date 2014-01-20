@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 Tappelbeek, Risschotse Loop, Monnikenloop, Voorste Hoevenloop,
 Hulstenbeekje
 
@@ -36,7 +36,7 @@ Hulstenbeekje
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -53,14 +53,14 @@ kasteelpark
  * kasteel
  * orangerie
 
- 
+
 'Zoerselhof'
 
 **Bouwkundig erfgoed:**
 
  * (heren)woning
 
- 
+
 voormalige provisorwoning
 
 **Landbouwkundig erfgoed:**
@@ -70,14 +70,14 @@ voormalige provisorwoning
  * stal
  * wagenhuis
 
- 
+
 'Boshof' + bakhuisje, 'Boshuisje', Voorste Hoeven
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -87,10 +87,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 typisch voorbeeld van Kempische zandwegen, Bosstraatje, Boshuisweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
@@ -98,7 +98,7 @@ typisch voorbeeld van Kempische zandwegen, Bosstraatje, Boshuisweg
  * spui
  * grachtenstelsel
 
- 
+
 'Halse Sluis', 'Zoerselse Sluis'
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -109,7 +109,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -120,18 +120,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
 
- 
+
 deels historisch stabiel bos, heiderelicten
 
 **Bos:**
@@ -144,12 +144,12 @@ deels historisch stabiel bos, heiderelicten
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
 
- 
+
 voormalige vloeibeemden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -169,7 +169,7 @@ landschap.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De natuurwetenschappelijke waarde van dit divers landschap wordt
 bepaald door de uitgestrektheid van het gebied, de aanwezigheid van een
 afwisselend abiotisch milieu, alsook van spontane begroeiingen. Het
@@ -215,7 +215,7 @@ filterwerking.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Hooidonkse Beemden en Zoerselbos' is gelegen in de
+De ankerplaats 'Hooidonkse Beemden en Zoerselbos' is gelegen in de
 gemeente Zoersel in de Antwerpse Kempen. De begrenzing wordt gevormd
 door de autostrade E34 in het zuiden, de N14 Malle - Zandhoven in het
 oosten, de bewoning van Zoersel, de St.- Antoniusbaan en het gehucht

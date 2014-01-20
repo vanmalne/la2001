@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,13 +29,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Asberg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
 
- 
+
 Grote Nete, Oude Loop, De Laak, Zijptloop
 
 **Moerassige gronden:**
@@ -43,7 +43,7 @@ Grote Nete, Oude Loop, De Laak, Zijptloop
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -58,7 +58,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 Beeltjesndreef
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -68,7 +68,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -78,17 +78,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * naald
@@ -97,7 +97,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -112,7 +112,7 @@ ankerplaats is het voorkomen van storende recreatieve infrastructuur.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Gelegen in het Nete interfluvium, vertegenwoordigt deze ankerplaats
 een belangrijke geomorfologische waarde. Waar het macroreliëf ter hoogte
 van de Kwarekken, in de alluviale vlakte van de Grote Nete, vlak is, is
@@ -156,7 +156,7 @@ de lager gelegen Grote Nete mat haar vallei in het zuiden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap van de 'Bijltjes en de Kwarekken' is gelegen in de
+Het landschap van de 'Bijltjes en de Kwarekken' is gelegen in de
 gemeenten Westerlo en Herselt in het Neteland op de overgang van
 Centrale Kempen naar Zuiderkempen. De begrenzing van deze ankerplaats
 wordt gevormd door Overwijs en Gooreinde in het noorden, het centrum van

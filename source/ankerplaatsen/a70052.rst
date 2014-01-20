@@ -22,32 +22,32 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * graft
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Herk
 
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 natte hooilanden met riet- en zeggevegetaties
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 ontsluiting van de "mergels van Gelinden" in de groeven van Overbroek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -60,7 +60,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,30 +75,30 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 hooi- en kalkgraslanden, grasland onder boomgaarden
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -113,7 +113,7 @@ maïs in de vallei.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het gebied is het meest uitgesproken voorbeeld van een voor droog
 Haspengouw kenmerkend asymmetrisch rivierdal met steile oostelijke
 helling. De voormalige mergelgroeven van Overbroek zijn geologische
@@ -148,7 +148,7 @@ De Herk is bepalend voor de opbouw van het volledige landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Dit gebied ten zuidoosten van Sint-Truiden is het meest uitgesproken
+Dit gebied ten zuidoosten van Sint-Truiden is het meest uitgesproken
 voorbeeld van een voor de Haspengouwse leemstreek kenmerkend
 asymmetrisch zuid - noord gericht rivierdal met steile oostelijke
 helling. In het uitgestrekte akkerbouwgebied bieden de steile, ongeveer

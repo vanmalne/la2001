@@ -19,25 +19,25 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 bronnen
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,14 +46,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Hemsrode
 
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
- 
+
 Hemsrode
 
 **Landbouwkundig erfgoed:**
@@ -62,7 +62,7 @@ Hemsrode
  * schuur
  * stal
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,7 +72,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -88,23 +88,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -112,7 +112,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,7 +122,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Nu staat er enkel nog bos op de steile hellingen, waar een klei-
 zandsubstraat voorkomt op geringe diepte, en in de valleitjes, waar
 natte alluviale gronden voorkomen. Aan het begin van de valleitjes komen
@@ -159,7 +159,7 @@ omgeven. Vanuit het park vertrekken er verschillende dreven.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Bouvelobos bevindt zich op grondgebied van de gemeente Wortegem-
+Het Bouvelobos bevindt zich op grondgebied van de gemeente Wortegem-
 Petegem, het domein van Hemsrode bevindt zich op het West- Vlaamse
 Anzegem. Het Bouvelobos is een restant van het vroegere foreest Methela.
 Het bos is sterk gereduceerd en gefragmenteerd tov Ferraris

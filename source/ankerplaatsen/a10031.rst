@@ -20,17 +20,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,7 +40,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 Franse tuin, kasteelpark
 
 **Nederzettingspatronen:**
@@ -55,7 +55,7 @@ Buitenland
  * orangerie
  * kasteelgracht
 
- 
+
 Kasteel d' Ursel+Laathof+toegangsbrug en -poort
 
 **Bouwkundig erfgoed:**
@@ -63,14 +63,14 @@ Kasteel d' Ursel+Laathof+toegangsbrug en -poort
  * (heren)woning
  * huis
 
- 
+
 jachtpaviljoen+ conciërgewoning, schildershuis, wachthuisje
 
 **Landbouwkundig erfgoed:**
 
  * stal
 
- 
+
 oude paardenstalling
 
 **Kerkelijk erfgoed:**
@@ -78,20 +78,20 @@ oude paardenstalling
  * kerk
  * kapel
 
- 
+
 Parochiekerk St.-Stefaan
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
  * stuw
  * lijnpad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -112,13 +112,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * weel
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * loof
@@ -126,13 +126,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
  * buitendijks
 
- 
+
 **Andere:**
 slikken & schorren
 
@@ -150,7 +150,7 @@ het landelijke en typische karakter te bewaren.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van deze ankerplaats wordt bepaald door
 haar ligging in de alluviale vlakte van de Schelde en deels langs de
 rand van de zandrug die deze vallei afbakent. Als gevolg hiervan wordt
@@ -200,7 +200,7 @@ percelering, alsook de hoefijzervormige dreven.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Polder en kasteel van Hingene' is gelegen in de
+De ankerplaats 'Polder en kasteel van Hingene' is gelegen in de
 alluviale vlakte van de Schelde, op grondgebied van de gemeente Bornem.
 De begrenzing wordt gevormd door de Schelde in het noorden, de
 Nattendonkstraat in het oosten, de bewoning van Wintam, Hingene en

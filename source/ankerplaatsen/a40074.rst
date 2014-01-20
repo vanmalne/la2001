@@ -21,26 +21,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,7 +49,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -63,7 +63,7 @@ Dries, Aaigem
 
  * kasteel
 
- 
+
 dienstwoningen
 
 **Landbouwkundig erfgoed:**
@@ -72,19 +72,19 @@ dienstwoningen
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
  * windmolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -95,7 +95,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -105,7 +105,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -119,13 +119,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
- 
+
 **Bos:**
 
  * loof
@@ -133,7 +133,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -143,7 +143,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De vallei is asymmetrisch. Er komen plaatselijk bronzones en
 stuwwatertafels voor met daarbijhorende bronbossen en
 stuwwaterverschijnselen.
@@ -181,7 +181,7 @@ voor op de valleihellingen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De vallei van de Molenbeek tussen Herzele en Mere, met zijn vele
+De vallei van de Molenbeek tussen Herzele en Mere, met zijn vele
 molens op de waterloop, heeft een heuvelig karakter doordat de vallei
 zich in de onderliggende Tertiaire afzettingen heeft ingesneden. Rond de
 beek komen oeverwallen voor. Deze gronden zijn wat zandiger. De

@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 noordoosten ankerplaats
 
 **Macroreliëf:**
@@ -38,7 +38,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * hoeve
  * schuur
 
- 
+
 Ten Bogaerde (met schuur!), Belvédère, Kapelhof
 
 **Kerkelijk erfgoed:**
@@ -46,18 +46,18 @@ Ten Bogaerde (met schuur!), Belvédère, Kapelhof
  * kerk
  * abdij
 
- 
+
 Ten Bogaerde (voormalige kerk en abdij)
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * grachtenstelsel
 
- 
+
 Langgeleed
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -76,21 +76,21 @@ restanten van knotbomenrijen; struweel langs walgracht; overgang
 
  * hoogstam
 
- 
+
 boomgaard bij hoeve Te bogaerde
 
 **Bos:**
 
  * struweel
 
- 
+
 in duinen
 
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -113,7 +113,7 @@ kanaal.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De gave duin-polderovergang én, in het bijzonder, de actieve
 overstuiving van poldergronden maken van dit gebied een unicum in
 België. Deze actieve overgangszone heeft een zeer rijke en gevarieerde
@@ -149,7 +149,7 @@ boomgaard, vormt een dominante blikvanger in dit open polderlandschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt op het grondgebied van de gemeenten Veurne en
+Deze ankerplaats ligt op het grondgebied van de gemeenten Veurne en
 Koksijde, ten westen van het militair vliegveld van Koksijde. In de
 ankerplaats bevindt zich de bodemkundige grens en de graduele overgang
 tussen de polders en het duinfront. Het duinfront heeft zich tijdens de

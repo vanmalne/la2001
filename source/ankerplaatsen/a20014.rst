@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -34,7 +34,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 **Klein historisch erfgoed:**
 
- 
+
 monumentaal Heilig Hartbeeld op westelijke punt van de Wijngaardberg
 
  **Andere:**
@@ -48,7 +48,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -57,7 +57,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * houtkant
@@ -68,14 +68,14 @@ wijngaardmuur met begroeiing
 
  * hoogstam
 
- 
+
 recent aangeplante wijngaarden
 
 **Bos:**
 
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -89,7 +89,7 @@ en Benninksberg loopt de autosnelweg E314
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De zuidwest-noordoost georïenteerde heuvel van het Hageland zijn
 relicten van de Diestiaanzee; hun opbouw kan vergeleken worden met die
 van het huidige zandbankenstelsel voor de Vlaamse kust. Gezien de
@@ -110,14 +110,14 @@ laagstamboomgaarden op de kruin, uitzichten over de wijde omgeving,
 hebben deze heuvels een hoge esthetische waarde.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het noordelijke deel van het Hageland wordt gekenmerkt door
+Het noordelijke deel van het Hageland wordt gekenmerkt door
 zuidwest-noordoost georiënteerde Diestiaanruggen. Deze waren op het
 einde van de 18de eeuw nog grotendeels bebost. Op het grondgebied van
 Rotselaar, Wezemaal liggen aldus ongeveer evenwijdig: de Heikantberg, de

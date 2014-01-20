@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -27,14 +27,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 vallei van de Oossebeek, Spouwbeek en Borrebeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -60,20 +60,20 @@ Mater, Horebeke en Tissenhove
  * huis
  * herberg
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
  * windmolen
 
- 
+
 Tissenhovemolen (windmolen) en Zwadderkotmolen (watermolen)
 
 **Kerkelijk erfgoed:**
@@ -82,7 +82,7 @@ Tissenhovemolen (windmolen) en Zwadderkotmolen (watermolen)
  * kapel
  * pastorie
 
- 
+
 kerk en pastorie van Mater en Horebeke
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -93,7 +93,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 kasseiweg
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -104,7 +104,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -118,13 +118,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
- 
+
 **Bos:**
 
  * loof
@@ -132,7 +132,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -148,7 +148,7 @@ past.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De hoger gelegen kouterruggen zijn resistenter aan erosie vergeleken
 met de asymmetrisch ingesneden beekvalleien. Deze beekvalleien vormen
 hier een min of meer parallel hydrografisch net van waterlopen die in de
@@ -190,7 +190,7 @@ bebouwing situeert zich op de overgang van de kouters naar de valleien.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats is tussen de dorpjes Mater en Horebeke gelegen. Rond
+Deze ankerplaats is tussen de dorpjes Mater en Horebeke gelegen. Rond
 de Tissenhovemolen ligt de kouter van Horebeke. Ten westen daarvan ligt
 de vallei van de Oossebeek, deze mondt ter hoogte van Welden in de
 Schelde. Rond Mater monden de Spouwwaterbeek en de Borrekenbeek in de

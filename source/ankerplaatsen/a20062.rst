@@ -21,18 +21,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,7 +42,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * kapel
  * klooster
 
- 
+
 enkel ruïne
 
  **Archeologische elementen:**
@@ -56,14 +56,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,7 +72,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -84,7 +84,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,7 +97,7 @@ Radio-Elektrisch Centrum.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Sommige gedeelten van het bos en de graslanden in de omgeving van het
 Liedekerkebos zijn biologisch waardevol.
 Historische waarde:
@@ -107,14 +107,14 @@ Esthetische waarde: De sterk versneden bosranden met talrijke
 weide-enclaves geven het gebied een hoge belevingswaarde.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Liedekerkebos is gelegen op het grondgebied van de gemeenten
+Liedekerkebos is gelegen op het grondgebied van de gemeenten
 Liedekerke, Sint-Katharina-Lombeek, Borchtlombeek en Wambeek. In het
 gebied stromen van noord naar zuid stromen de Hollebeek (ook Bellebeek
 genoemd) en de Kruisbeek, naast talrijke grachten. In het zuidelijk deel

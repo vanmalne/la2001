@@ -16,13 +16,13 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 GEOMORFOLOGIE/HYDROGRAFIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
- 
+
 Warmbeek, Beverbeekloop, de Vliet
 
 **Moerassige gronden:**
@@ -31,7 +31,7 @@ Warmbeek, Beverbeekloop, de Vliet
  * rietland
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,7 +40,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * landgoed
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -56,21 +56,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * stal
  * wagenhuis
 
- 
+
 Jagerhof, Beverbeekhoeve
 
 **Molens:**
 
  * watermolen
 
- 
+
 Het Mulke
 
 **Militair erfgoed:**
 
  * motte
 
- 
+
 woontoren de Tomp
 
 **Kerkelijk erfgoed:**
@@ -80,7 +80,7 @@ woontoren de Tomp
  * abdij
  * klooster
 
- 
+
 Kluis, Catharinadal, Kapel Onze-Lieve-Vrouw in de Nood
 
  **Archeologische elementen:**
@@ -93,11 +93,11 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * verlaten spoorweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -107,7 +107,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -119,20 +119,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 oude vijvers Lange Els, Tompwijer, oude molenvijver
 
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
 
- 
+
 heiderelicten, plaggenbodems in de omgeving van bebouwingskernen
 
 **Bos:**
@@ -142,13 +142,13 @@ heiderelicten, plaggenbodems in de omgeving van bebouwingskernen
  * broek
  * hooghout
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,7 +161,7 @@ knelpunt is ook het beheer van de Watering.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 In het gebied liggen meerdere archeologische zones zoals de
 archeologische zone van de Grote Haart met o.a. grafheuvels uit de
 IJzertijd, de Tomp en de Waag.
@@ -204,7 +204,7 @@ Hamont.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het gebied ligt in de vallei van de Warmbeek, ten oosten van de
+Het gebied ligt in de vallei van de Warmbeek, ten oosten van de
 dorpskern van Achel. Het is een vlak landschap dat zich uitstrekt vanaf
 de Belgische -Nederlandse grens tot aan de het kanaal Bocholt -
 Herentals. Belangrijke erfgoedelementen zijn o.a. het domein van de

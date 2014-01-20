@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -35,7 +35,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -45,14 +45,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * (heren)woning
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * klooster
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,7 +62,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -71,7 +71,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,8 +83,8 @@ Het gaat hier specifiek om een bebouwde historische stadskern.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 Het bedevaartsoord illustreert op treffende wijze verschillende
 historische lagen: 1° de vóórchristelijke verering van natuurfenomenen,
@@ -101,14 +101,14 @@ groen omgeven basiliek, een bescheiden maar kwalitatief hoogstand
 voorbeeld van kerkelmijke barokarchitectuur.
 Sociaal-culturele waarde : Populair bedevaartsoord.
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Scherpenheuvel is gelegen op een heuvelrug in het noordelijke Hageland
+Scherpenheuvel is gelegen op een heuvelrug in het noordelijke Hageland
 tussen Aarschot en Diest. Het is een "nieuwe stad", gesticht door de
 aartshertogen Albrecht en Isabella, met een stervormige, heptagonale
 plattegrond, oorspronkelijk verdedigd door zeven bastions en voorzien

@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * steilrand
@@ -28,11 +28,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 cuesta Lotenhulle-Hertsberghe
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * vallei
 
- 
+
 valleien van de Blauwhuis-, Wante- en Bornebeek
 
 **Moerassige gronden:**
@@ -40,10 +40,10 @@ valleien van de Blauwhuis-, Wante- en Bornebeek
  * moeras
  * veen
 
- 
+
 **Geologie:**
 
- 
+
 polygoonstructuren rond St-Pietersveld
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -54,7 +54,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 park bij kast. Driekoningen en Bulskampveld(ook kruidentuin); tuin
 bij woningen
 
@@ -65,7 +65,7 @@ bij woningen
  * landgoed
  * muur
 
- 
+
 bij kast. Bulskampveld en Driekoningen; Galgetoren
 
 **Bouwkundig erfgoed:**
@@ -73,7 +73,7 @@ bij kast. Bulskampveld en Driekoningen; Galgetoren
  * huis
  * villa
 
- 
+
 villa's en dienstwoningen bij het centrum voor jeugdbijstand en bij
 het radiozendstation
 
@@ -81,27 +81,27 @@ het radiozendstation
 
  * hoeve
 
- 
+
 Colpaertshoeve; penitentiair landbouwcentrum in hoeve bij de
 voormalige suikerfabriek
 
 **Militair erfgoed:**
 
- 
+
 zeilschip bij marineschool en vijver
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 veldkapelleke; vagevuurkapel, herdenkingskapel lippensgoed
 
 **Klein historisch erfgoed:**
 
  * schandpaal
 
- 
+
 kerkhof nabij Veldkapelleke
 
  **Archeologische elementen:**
@@ -118,7 +118,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 Brugse Heerweg of Diksmuidse Boterweg
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -132,21 +132,21 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 bij de kastelen
 
 **Topografie:**
 
  * blokvormig
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * hakhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -176,7 +176,7 @@ verantwoord zijn.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Kwartaire laag is hier zeer dun/ afwezig waardoor de Tertiaire
 lagen bijna dagzomen. Deze bdoemgesteldheid was bepalend voor de
 landschappelijke gescheidenis van het gebied. De ankerplaats ligt op de
@@ -207,7 +207,7 @@ ankerplaats ook voor een drevenstructuur.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats strekt zich uit van de bossen rond kasteel
+Deze ankerplaats strekt zich uit van de bossen rond kasteel
 Driekoningen van het provinciaal domein Bulskampveld in het noorden
 (gem. Beernem en Hertsberge, gem. Oostkamp), over het kasteel
 Bulskampveld (Hertsberge, gem. Oostkamp), naar het St-Pietersveld (gem.

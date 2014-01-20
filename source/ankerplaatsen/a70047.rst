@@ -20,19 +20,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
 vlak tot zachtgolvend
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 o.a. Elsterbeek, Meersbeek, Molenbeek, Wilderbeek
 
 **Moerassige gronden:**
@@ -40,7 +40,7 @@ o.a. Elsterbeek, Meersbeek, Molenbeek, Wilderbeek
  * moeras
  * rietland
 
- 
+
 vochtige graslanden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -50,7 +50,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelparken Groenendaal en Zangerhei
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -59,38 +59,38 @@ kasteelparken Groenendaal en Zangerhei
  * landgoed
  * kasteelgracht
 
- 
+
 kastelen Groenendaal en Zangerhei
 
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 o.a. hoeven Hommelen en Klein Hommelen, kasteelhoeve Groenendaal
 
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 o.a. Sint-Rochuskapel
 
 **Klein historisch erfgoed:**
 
- 
+
 gietijzeren pomp met waterbekken
 
  **Andere:**
@@ -113,7 +113,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -125,17 +125,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 vochtige hooi- en graslanden, al dan niet beplant of begrensd met
 populieren
 
@@ -147,7 +147,7 @@ populieren
  * hooghout
  * struweel
 
- 
+
 o.a. Bonijtersbos, Groenendaal, Zangerheide (deels
 
 OPMERKINGEN EN KNELPUNTEN
@@ -163,7 +163,7 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het landschap strekt zich uit in de (natte) zandleemstreek, een
 overgangsgebied tussen de Haspengouwse Leemstreek in het zuiden en het
 Kempens Hoogplateau (zandstreek) in het noorden. Dergelijke
@@ -201,7 +201,7 @@ Zangerheide met hun toegangswegen en dreven zijn structuurbepalend.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap behoort tot het grondgebied van de deelgemeenten
+Het landschap behoort tot het grondgebied van de deelgemeenten
 Munsterbilzen, Waltwilder, Hoelbeek en Eigenbilzen. Het ligt enigszins
 geïsoleerd tussen de bebouwing van Munsterbilzen en het Albertkanaal en
 wordt doorkruist door de verlaten spoorlijn Hasselt-Maastricht. Het

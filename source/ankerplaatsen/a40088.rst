@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,18 +29,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,14 +49,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteel van Onkerzeke
 
 **Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
- 
+
 paardenstallen,dienstgebouwen
 
 **Bouwkundig erfgoed:**
@@ -64,18 +64,18 @@ paardenstallen,dienstgebouwen
  * huis
  * herberg
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
  * standbeeld
  * kruis
 
- 
+
 oriëntatietafel, kolom van poort
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -86,12 +86,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * pompgemaal
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -110,14 +110,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * loof
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -127,7 +127,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Oudenberg is gelegen langs de rand van de Dendervallei op een
 hoger gelegen heuvelkam, uitloper van de heuvelrug van de Vlaamse
 Ardennen. De steile helling ligt naar de Dendervallei toe. Deze heuvel
@@ -170,7 +170,7 @@ op een steile helling.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats bevindt zicht ten oosten van Geraardsbergen. De
+Deze ankerplaats bevindt zicht ten oosten van Geraardsbergen. De
 omgeving van Geraardsbergen is heuvelachtig, met, naar Vlaamse normen,
 steile en hoge hellingen. De 'Muur' is er een bekend voorbeeld van, deze
 ligt op de Oudenberg (110 meter). Deze 'berg' is in feite niets meer dan

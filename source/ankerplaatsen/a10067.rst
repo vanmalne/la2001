@@ -20,21 +20,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * markante terreinovergang
 
 donk
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
  * vallei
  * meander
 
- 
+
 Grote Nete, Molenbeek, Oude Molenbeek, Steenkensbeek
 
 **Moerassige gronden:**
@@ -42,7 +42,7 @@ Grote Nete, Molenbeek, Oude Molenbeek, Steenkensbeek
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -51,7 +51,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 landschapspark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -62,13 +62,13 @@ landschapspark
  * ijskelder
  * kasteelgracht
 
- 
+
 **Bouwkundig erfgoed:**
 
  * huis
  * herberg
 
- 
+
 brugwachtershuisje, 'Mac Adam'
 
 **Landbouwkundig erfgoed:**
@@ -77,31 +77,31 @@ brugwachtershuisje, 'Mac Adam'
  * schuur
  * stal
 
- 
+
 Kasteelhoeve 't Bergske + bakhuis
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 'Boskapel'
 
 **Klein historisch erfgoed:**
 
- 
+
 mijlpaal
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -111,7 +111,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -122,17 +122,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * naald
@@ -141,12 +141,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,7 +161,7 @@ infiltreert.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van dit landschap wordt in de eerste
 plaats bepaald door de relatief gaaf bewaarde relatie tussen vooral de
 Steenkensbeek, maar ook de Grote Nete, enerzijds en hun respectievelijke
@@ -214,7 +214,7 @@ landschap ontstaan.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap 'Vallei van de Grote Nete rond de Herenbossen' is
+Het landschap 'Vallei van de Grote Nete rond de Herenbossen' is
 gelegen op grondgebied van de gemeenten Hulshout en Heist op den Berg in
 de Zuiderkempen. De begrenzing van deze ankerplaats wordt gevormd door
 de bewoning van Hulshout in het noorden, het Fietspad Herentals-Aarschot

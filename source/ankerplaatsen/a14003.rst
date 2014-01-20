@@ -18,22 +18,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
  * meander
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,17 +42,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * herberg
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Klein historisch erfgoed:**
 
  * standbeeld
 
- 
+
 Het Pillecijn monument
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -62,12 +62,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * sluis
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,10 +83,10 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * turfput
 
- 
+
 **Typische landbouwteelten:**
 
- 
+
 riet en wilgen
 
 **Bos:**
@@ -96,13 +96,13 @@ riet en wilgen
  * hakhout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * uiterwaarden
  * buitendijks
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -115,7 +115,7 @@ staan er vissershuisjes en weekendverblijven.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied ligt aan de Durmemonding. De monding lag voorheen op een
 andere plaats zodat dit stuk van de Schelde de historische Durme is. De
 Durmeschorren zijn uiterst waardevol als rivierschor en
@@ -131,14 +131,14 @@ een contrast met de achterliggende meer open gebieden en de rivieren.
 Sociaal-culturele waarde : Aan de Durmemondig staat een monument ter
 ere van de schrijver De Pillecijn.
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats situeert zich op grondgebied van de gemeenten Hamme,
+Deze ankerplaats situeert zich op grondgebied van de gemeenten Hamme,
 Oost- Vlaanderen, en Bornem op de provincie Antwerpen. De Durmevallei
 kenmerkt zich door een steile noord- en een zachthellende zuidkant. Deze
 asymmetrische vallei houdt verband met de monoklinale bouw van de

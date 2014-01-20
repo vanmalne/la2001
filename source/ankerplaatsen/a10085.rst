@@ -20,24 +20,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Schaggelenbeek
 
 **Moerassige gronden:**
 
  * ven
 
- 
+
 Marbelenven, Moffenven, Muizeven, Kelderven
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -47,7 +47,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * tuin
 
- 
+
 tuin bij abdij
 
 **Landbouwkundig erfgoed:**
@@ -56,18 +56,18 @@ tuin bij abdij
  * schuur
  * stal
 
- 
+
 **Militair erfgoed:**
 
  * schans
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
  * abdij
 
- 
+
 Onze-Lieve-Vrouw van Nazareth abdij
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -77,16 +77,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 aarden wegen, Tilburgse weg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * sluis
  * grachtenstelsel
 
- 
+
 Kanaal Schoten-Turnhout-Dessel
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -97,7 +97,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -109,14 +109,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 oude kleiputten
 
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 **Bos:**
 
  * naald
@@ -124,7 +124,7 @@ oude kleiputten
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -144,7 +144,7 @@ alsook hier en daar atypische bewoning.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Brechtse Heide is een halfnatuurlijk- en op sommige plaats
 cultuurlandschap, dat door de verschillende menselijke invloeden,
 aangevuld met stukjes spontane natuur, een hele variatie aan
@@ -188,7 +188,7 @@ Antwerpen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Brechtse Heide is een uitgestrekt en gevarieerd Noordkempisch
+De Brechtse Heide is een uitgestrekt en gevarieerd Noordkempisch
 landschap, gelegen op grondgebied van de gemeenten Brecht, St.-Lenaerts,
 Westmalle, Schilde en St.-Job-in-'t-Goor, centraal op het
 waterscheidingsvlak tussen het Schelde- en Maasbekken. De begrenzing van

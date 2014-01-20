@@ -22,11 +22,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 heuvelrug
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Korverbeek en Zanddambeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -36,19 +36,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * landgoed
 
- 
+
 kasteel De Groote
 
 **Bouwkundig erfgoed:**
 
  * herberg
 
- 
+
 munneke herberg in zuidwesten
 
 **Militair erfgoed:**
 
- 
+
 bomkraters WOI; militair kerkhof
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -71,7 +71,7 @@ dreven in Vrijbos, restanten ervan in het bos van Houthulst
 
  * vijver
 
- 
+
 oude bomkraters
 
 **Bos:**
@@ -81,7 +81,7 @@ oude bomkraters
  * hakhout
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ bebouwing in een herklenbaar landschapspatroon dient men te vermijden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De ankerplaats ligt op een uitloper van de rug van Westrozebeke en
 vormt het brongebied voor de Zanddambeek.
 Historische waarde:
@@ -131,7 +131,7 @@ grootte.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten zuiden van de kern van Houthulst. De grenzen
+Deze ankerplaats ligt ten zuiden van de kern van Houthulst. De grenzen
 vallen samen met de wegen die het bos van Houthulst en enkele
 aansluitende landbouwpercelen omgeven. Deze ankerplaats ligt op een
 uitloper van de rug van Westrozebeke die zich van Westrozebeke over

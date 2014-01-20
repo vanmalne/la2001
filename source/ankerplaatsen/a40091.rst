@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 park bij kasteel Crombrugghe
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -42,14 +42,14 @@ park bij kasteel Crombrugghe
  * hovenierswoning
  * muur
 
- 
+
 koetshuizen, diensthuizen, moestuin
 
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 boerenarbeidershuisjes
 
 **Landbouwkundig erfgoed:**
@@ -59,7 +59,7 @@ boerenarbeidershuisjes
  * stal
  * wagenhuis
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -69,7 +69,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -79,7 +79,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -92,17 +92,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * kouters
 
- 
+
 bulken
 
 **Bos:**
@@ -112,7 +112,7 @@ bulken
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,7 +122,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De kouter ligt op open, drogere gebieden terwijl de bulken op lagere
 en nattere stukken gelegen zijn. Het landschap is er meer gesloten door
 het voorkomen van knotwilgen langs de percelen en populieren langs de
@@ -160,7 +160,7 @@ een gehucht in het bulkengebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Centraal in deze ankerplaats ligt het kasteeldomein van Sint- Martens-
+Centraal in deze ankerplaats ligt het kasteeldomein van Sint- Martens-
 Leerne. Het kasteel ligt in een bosrijk park. Rond het kasteel staan
 vele historische hoevetjes die een relatie met het domein hebben. Ten
 zuidoosten van het kasteeldomein ligt een kouter, de andere zijden zijn

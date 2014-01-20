@@ -19,25 +19,25 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 zandgroeve - ijzerzandsteen- Diestiaan
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * gehucht
@@ -59,7 +59,7 @@ Louise- Marie
 
  * kasteel
 
- 
+
 Kasteel Gauthier, dienstwoningen, hondenhok
 
 **Landbouwkundig erfgoed:**
@@ -68,14 +68,14 @@ Kasteel Gauthier, dienstwoningen, hondenhok
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
- 
+
 kerk van Louise- Marie en Lorettekapel
 
  **Andere:**
@@ -90,13 +90,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * sluis
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -106,7 +106,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -120,12 +120,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Bos:**
 
  * naald
@@ -133,7 +133,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -143,7 +143,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats is gelegen op de Muziekberg, een getuigenheuvel die
 gekenmerkt wordt door steile hellingen die op veel plaatsen zeer diep
 ingesneden zijn doorbreekdalletjes. Het Koekamerbos is in zo een
@@ -186,7 +186,7 @@ akkers en weiden voor.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats situeert zich grotendeels op grondgebied van de
+Deze ankerplaats situeert zich grotendeels op grondgebied van de
 gemeente Ronse. De Muziekberg, ook wel Kanarieberg genoemd, is een
 getuigenheuvel, die behoort tot de keten getuigenheuvels van de Vlaamse
 Ardennen. Zoals de andere heuvels is ook deze altijd met bos bedekt

@@ -21,20 +21,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * vallei
  * meander
  * oude rivierarm
 
- 
+
 Jekervallei
 
 **Moerassige gronden:**
@@ -43,7 +43,7 @@ Jekervallei
  * veen
  * rietland
 
- 
+
 vochtige beemden
 
  **Andere:**
@@ -57,7 +57,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelpark
 
 **Nederzettingspatronen:**
@@ -71,7 +71,7 @@ Blaar
  * kasteel
  * landgoed
 
- 
+
 Scherpenberg
 
 **Landbouwkundig erfgoed:**
@@ -80,19 +80,19 @@ Scherpenberg
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 Blaarmolen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Archeologische elementen:**
 prehistorische en Gallo-Romeinse vondsten
 
@@ -108,11 +108,11 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Tongeren-Aken
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,7 +122,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -137,24 +137,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * meersen
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 rondom de bewoning
 
 **Bos:**
@@ -164,12 +164,12 @@ rondom de bewoning
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -183,7 +183,7 @@ recente bebouwing levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het gebied heeft een opmerkelijke waarde op hydrografisch vlak. In
 tegenstelling tot de Herk en de Demer, die hun dalen verder eroderen,
 hoogt de Jeker haar dal aan. Dat opvullingsstadium is hier duidelijk
@@ -220,7 +220,7 @@ organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Aan de zijde van Tongeren en in het zuiden wordt het gebied begrensd
+Aan de zijde van Tongeren en in het zuiden wordt het gebied begrensd
 door de huidige spoorweg naar Luik, langs de oostzijde door het gehucht
 Klein Mal en aan de noordkant door de Blaarstraat in het gehucht Blaar.
 Dat laatste is één van de stedelijke buitingen die in de 12de eeuw met

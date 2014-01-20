@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -32,13 +32,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,14 +47,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * watermolen
 
- 
+
 Driscartmolen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,15 +64,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * stuw
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -89,23 +89,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * opstrekkend
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * meersen
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -113,7 +113,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hakhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -131,7 +131,7 @@ een beperkte landschapsverminking.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit is een deel van de Markvallei, bestaande uit alluviale gronden.De
 vallei stroomafwaarts Galmaarden is vrij breed en een mooi voorbeeld van
 de zg. palleovallei. In ditzelfde deel van de vallei is de ovegan van
@@ -164,7 +164,7 @@ bossen met een hoge biologische waarde.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Markvallei situeert zicht ten zuiden van Geraardsbergen, op de
+De Markvallei situeert zicht ten zuiden van Geraardsbergen, op de
 grens van drie provincies: Oost- Vlaanderen, Brabant en Henegouwen. De
 Mark ontspringt in het Henegouwse Silly en mondt ter hoogte van
 Geraardsbergen in de Dender uit. Het stuk van de Mark dat zich in deze

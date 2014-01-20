@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,17 +29,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * steilrand
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,7 +50,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -61,26 +61,26 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * kasteel
  * kasteelgracht
 
- 
+
 **Bouwkundig erfgoed:**
 
  * (heren)woning
  * herberg
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -90,7 +90,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -100,7 +100,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -109,17 +109,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -132,8 +132,8 @@ de Rutting.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 De Sint-Annakerk en haar omgeving is een vertrouwd beeld, zelfs in
 haar huidig uitzicht, dankzij het schilderij 'De parabel der blinden'van
@@ -142,14 +142,14 @@ Esthetische waarde: Een zeer landelijk gehucht in de directe omgeving
 van Brusselse agglomeratie.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Sint-Anna-Pede is een zeer landelijk gehucht in de directe omgeving
+Sint-Anna-Pede is een zeer landelijk gehucht in de directe omgeving
 van Brusselse agglomeratie, gelegen in Itterbeek, een deelgemeente van
 Dilbeek. Het afgebakende gebied ligt tussen de steenweg Brussel-Ninove
 en de rechtstreekse spoorlijn Brussel-Gent, met het in 1929 gebouwde

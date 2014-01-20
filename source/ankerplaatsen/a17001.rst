@@ -20,8 +20,8 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -29,7 +29,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * vallei
  * meander
 
- 
+
 Grote Nete, Visbeek, Hanske Selsloop, Heiloop
 
 **Moerassige gronden:**
@@ -38,7 +38,7 @@ Grote Nete, Visbeek, Hanske Selsloop, Heiloop
  * rietland
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,14 +47,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * watermolen
 
- 
+
 Topmolen, Hoolstmolen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 St.-Odrada kapel
 
  **Archeologische elementen:**
@@ -68,15 +68,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 zandwegen
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -86,7 +86,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -99,20 +99,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * loof
  * broek
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -127,7 +127,7 @@ gevolgen hebben voor de vochtminnende flora.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van deze ankerplaats wordt in de eerste
 plaats bepaald door haar ligging in een uitgestrekte alluviale vlakte
 van de Grote Nete en een aantal van haar zijlopen. Dit maakt dat vooral
@@ -178,7 +178,7 @@ coulisselandschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap 'Netevallei Balen en de Most' is gelegen in de gemeente
+Het landschap 'Netevallei Balen en de Most' is gelegen in de gemeente
 Balen in de Antwerpse Zuiderkempen en behoort tot het bekken van de
 Grote Nete. De begrenzing van deze ankerplaats wordt gevormd door de
 bebouwing van Balen, Gerheide en Wezel in het noorden, het Kanaal van

@@ -20,19 +20,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
- 
+
 o.a. Bosbeek
 
 **Moerassige gronden:**
@@ -40,7 +40,7 @@ o.a. Bosbeek
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,7 +50,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteel Wurfeld
 
 **Nederzettingspatronen:**
@@ -65,7 +65,7 @@ Wurfeld
  * kasteel
  * landgoed
 
- 
+
 kasteel Wurfeld
 
 **Landbouwkundig erfgoed:**
@@ -74,19 +74,19 @@ kasteel Wurfeld
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 Langerenmolen, Wurfeldermolen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 o.a. grot Onze-Lieve-Vrouw van Lourdes
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -96,17 +96,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
+
 **Spoorweg:**
 
  * verlaten spoorweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -116,7 +116,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -130,24 +130,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
- 
+
 **Bos:**
 
  * loof
  * broek
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -162,7 +162,7 @@ het doorsijpelen van water langs de Bosbeek.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het beoogde landschap maakt de studie van vroegere menselijke
 beïnvloeding (o.a. het graven van de Bosbeek) op geomorfologische
 processen mogelijk. De grote verscheidenheid aan landschapstypen heeft
@@ -198,7 +198,7 @@ De Bosbeek is bepalend voor de structuur van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het gebied strekt zich uit langs de Bosbeek tussen Neeroeteren en
+Het gebied strekt zich uit langs de Bosbeek tussen Neeroeteren en
 Maaseik. In het noorden wordt het begrensd door de Diestersteenweg en in
 het zuiden grosso modo door de gemeentegrens met Elen. Het dekzandgebied
 van Maaseik, waartoe het landschap grotendeels behoort, wordt gekenmerkt

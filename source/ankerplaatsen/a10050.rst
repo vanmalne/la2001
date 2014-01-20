@@ -20,20 +20,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
- 
+
 laagveen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -43,20 +43,20 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * windmolen
 
- 
+
 Elsummolen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * pompgemaal
  * grachtenstelsel
  * stuw
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,27 +72,27 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * turfput
 
- 
+
 **Topografie:**
 
  * repelvormig
  * opstrekkend
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
 
- 
+
 **Bos:**
 
  * loof
  * broek
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -109,7 +109,7 @@ vegetaties.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het landschap 'De Zegge' is een relict van een typisch Kempens
 beekdallandschap met turfkuilen, trilvenen, rietvelden,
 schraalgraslanden, elzenbroekbossen en eiken-berkenbossen. Deze variatie
@@ -151,7 +151,7 @@ verstoorde omgeving.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap 'De Zegge' situeert zich in de zuidelijke Antwerpse
+Het landschap 'De Zegge' situeert zich in de zuidelijke Antwerpse
 Kempen op grondgebied van Geel. De begrenzing van de ankerplaats wordt
 gevormd door de Zeggeloop in het oosten, het Kempens Kanaal in het
 zuiden, Mosselgoren in het westen en de Roerdompstraat in het noorden.

@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -32,7 +32,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * ontsluitingen
  * karsten
 
- 
+
 mergelgroeven w.o. Lacroixberg, Roosburgh, Koegat, Pitjesberg, In de
 Coolen
 
@@ -44,7 +44,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 o.a. kasteeltje Sint-Pieter
 
 **Nederzettingspatronen:**
@@ -58,7 +58,7 @@ aaneengroeien van oorspronkelijke hoopdorpen
  * (heren)woning
  * huis
 
- 
+
 o.a. kasteeltje Sint-Pieter
 
 **Landbouwkundig erfgoed:**
@@ -68,7 +68,7 @@ o.a. kasteeltje Sint-Pieter
  * stal
  * wagenhuis
 
- 
+
 o.a. Burrefetwinning (met duiventil), Coenegrachts (met duifhuis),
 Liesens
 
@@ -78,7 +78,7 @@ Liesens
  * kapel
  * pastorie
 
- 
+
 o.a. Sint-Stefanuskerk, Sint-Pieterskerk, Sint-Genovevakerk,
 Banneux-kapel
 
@@ -87,7 +87,7 @@ Banneux-kapel
  * kruis
  * gedenkteken
 
- 
+
 o.a. gietijzeren kruis, monument van de Roosburg
 
  **Archeologische elementen:**
@@ -108,7 +108,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -121,14 +121,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * onregelmatig
  * historisch stabiel
 
- 
+
 in het algemeen onregelmatig, op enkele gedeelten historisch stabiel
 
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 traditioneel open akkerbouwgebied op de hoger gelegen delen,
 permanent grasland rond de dorpskommen
 
@@ -136,14 +136,14 @@ permanent grasland rond de dorpskommen
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 enkele, kleine hellingbosjes
 
 OPMERKINGEN EN KNELPUNTEN
@@ -165,7 +165,7 @@ overschilderen of inkerven van oude inscripties, vuur stoken) of wordt
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Op de hellingen dagzomen de krijtlagen van het Maastrichtiaan, vaak
 ontsloten door ondergrondse groeves. Zij zijn rijk aan fossielen
 (paleontologisch belang). De krijtformaties met vuursteenbanken in de
@@ -212,7 +212,7 @@ Zussen een woonuitbreidingszone gereserveerd, die niet is ondergraven.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Van oudsher zijn de Haspengouwse dorpen landbouwnederzettingen met een
+Van oudsher zijn de Haspengouwse dorpen landbouwnederzettingen met een
 concentratie van woningen en boerderijen rondom een kerk. Oorspronkelijk
 twee gescheiden dorpen groeiden Val en Meer echter aaneen tot één
 straatdorp Val-Meer. Ook Zichen-Zussen-Bolder bestaat uit drie

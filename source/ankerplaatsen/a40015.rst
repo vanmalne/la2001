@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 rabattenstructuur + natuurlijk microreliëf
 
 **Macroreliëf:**
@@ -30,17 +30,17 @@ rabattenstructuur + natuurlijk microreliëf
 
 Grote Dekzandrug
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 Luisbeek, Voorhoutbeek, Hulst, Linie
 
 **Geologie:**
 
- 
+
 Grote Dekzandrug
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -51,14 +51,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * fort
  * verdedingingslinie
 
- 
+
 voormalig Fort Sint- Jan
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,7 +68,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
  * verlaten spoorweg
@@ -87,21 +87,21 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 wal rond Fort- site, Linie
 
 **Topografie:**
 
  * blokvormig
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * hakhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -119,7 +119,7 @@ Sint- Jansteen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit boscomplex is op de dekzandrug Maldegem- Stekene aanwezig. Er is
 gedeeltelijk een kleilaag in de ondergrond aanwezig. De spoorlijn
 Mechelen- Terneuzen is bothanisch van groot belang.
@@ -165,7 +165,7 @@ begrenst.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats bevindt te noordoosten van Stekene. In de vroege
+Deze ankerplaats bevindt te noordoosten van Stekene. In de vroege
 middeleeuwen was dit gebied bedekt door het Koningsforeest. Naderhand
 door initiatieven van de graaf van Vlaanderen is dit gebied ontgonnen
 door abdijen, plaatselijke heren en particulieren. Reeds in 1117 toen de

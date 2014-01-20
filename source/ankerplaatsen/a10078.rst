@@ -21,12 +21,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 Zeeploop
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -42,7 +42,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -53,13 +53,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -68,7 +68,7 @@ heiderelicten
  * loof
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ het behoud van het typische landschappelijke karakter van het geheel.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van dit landschap wordt bepaald door de
 afwisseling in bodemgebruik, de kleinschaligheid en de talrijke kleine
 landschapselementen, die samen resulteren in een rijkdom aan
@@ -115,7 +115,7 @@ benadrukken de kleinschaligheid van dit gebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap 'Verloren Schaap' is gelegen op grondgebied van de
+Het landschap 'Verloren Schaap' is gelegen op grondgebied van de
 gemeenten Meerhout en Mol in de Centrale Kempen. De begrenzing van deze
 ankerplaats wordt gevormd door de Volmolenbaan in het noorden, de
 Borgerhoutsendijk en Lil in het oosten, de bewoning van Lil en Meerhout

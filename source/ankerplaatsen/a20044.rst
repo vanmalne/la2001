@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,18 +29,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,7 +49,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -60,19 +60,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * muur
  * kasteelgracht
 
- 
+
 **Molens:**
 
  * watermolen
  * windmolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
  * klooster
 
- 
+
 **Archeologische elementen:**
 vondsten uit Neolithicum en Romeinse periode
 
@@ -84,7 +84,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -98,7 +98,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
@@ -106,7 +106,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * broek
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -120,7 +120,7 @@ onbruik geraakt militair domein.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het gebied heeft een hoge botanische waarde, vooral de bronzones
 (o.m. 't Zoet Water), maar ook in de heideachte vegetaties op de
 tertiaire opduikingen en zelfs (tijdelijk) in sterk gestoorde milieus
@@ -144,14 +144,14 @@ enkele mooie historische gebouwen zoals de barokke O.L.V. van
 Steenbergenkapel en het 19de eeuwse kasteel de Harcourt.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het complex Heverleebos-Meerdaalwoud strekt zich uit ten zuiden van
+Het complex Heverleebos-Meerdaalwoud strekt zich uit ten zuiden van
 Leuven vanaf Heverlee tot aan de grens met Waals-Brabant. Dit grote
 boscomplex was eertijds het bezit van de hertogen van Arenberg, na
 Wereldoorlog I werden deze goederen verbeurd verklaard en aangeslagen.

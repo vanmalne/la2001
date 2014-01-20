@@ -21,18 +21,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
 zacht glooiend reliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Langebeek, Molenbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -42,7 +42,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark Duras
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -56,21 +56,21 @@ kasteelpark Duras
  * omheining
  * kasteelgracht
 
- 
+
 kasteeldomein Duras
 
 **Molens:**
 
  * watermolen
 
- 
+
 o.a. Grevensmolen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 kluiskapel van de Osseweg (Zoutleeuw)
 
  **Andere:**
@@ -84,7 +84,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 ontsluitende wandelpaden en (rond)wegen
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -95,7 +95,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -106,32 +106,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 weiden van de Molenbeek
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 o.a. parkbos, Zwartaardebos
 
 OPMERKINGEN EN KNELPUNTEN
@@ -146,8 +146,8 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 Door zijn ontstaan, evolutie en bestanddelen is het kasteeldomein van
 Duras uitzonderlijk. In oorsprong een feodale burchtsite werd eind 18de
@@ -177,7 +177,7 @@ Duras bepalend voor de inrichting en organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het kasteeldomein van Duras is een uitgestrekt landgoed van circa 134
+Het kasteeldomein van Duras is een uitgestrekt landgoed van circa 134
 ha in het zachtglooiende Vochtig-Haspengouw ten noordwesten van
 Sint-Truiden. Door zijn ontstaan, evolutie en bestanddelen is het
 uitzonderlijk en bepalend voor de inrichting en organisatie van het

@@ -22,11 +22,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 dekzandrug Gistel- Maldegem-Stekene-Verrebroek
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Meersbeek en Maleleie
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -36,7 +36,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 park bij beide kasteeldomeinen
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -45,14 +45,14 @@ park bij beide kasteeldomeinen
  * toren
  * kasteelgracht
 
- 
+
 Welke geboouwen nog?
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 hoeve Ter Leiden
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -78,7 +78,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * historisch stabiel
 
- 
+
 in loweiden zeer kleine graslandpercelen die zeer goed bewaard zijn
 gebleven
 
@@ -87,7 +87,7 @@ gebleven
  * permanent grasland
  * meersen
 
- 
+
 loweiden; meersen bij Meersbeek
 
 **Bos:**
@@ -96,7 +96,7 @@ loweiden; meersen bij Meersbeek
  * loof
  * hakhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -116,7 +116,7 @@ echter nauwelijks opvallen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats ligt op de Pleistocene dekzandrug van
 Gistel-Maldegem-Stekene-Verrebroek; de zandgrond vormde de basis voor de
 ontwikkeling tot veldgebied. De aanwezigheid van heischrale en
@@ -159,7 +159,7 @@ percelerings- en wegenpatroon eraan vasthangen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt in de driehoek gevormd door St-Kruis (gem.
+Deze ankerplaats ligt in de driehoek gevormd door St-Kruis (gem.
 Brugge), Assebroek (gem. Brugge), en Sijsele (gem. Damme), met een
 zuidelijke uitloper tot de vallei van de Bergbeek (ten noorden van
 Oedelemberg). De Loweiden en omgeving liggen in de gemeente Beernem.

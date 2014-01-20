@@ -21,17 +21,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Kleine werijsbeek
 
 **Moerassige gronden:**
@@ -40,7 +40,7 @@ Kleine werijsbeek
  * rietland
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -55,7 +55,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -64,12 +64,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 No
 
 **Bos:**
@@ -80,7 +80,7 @@ No
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -94,7 +94,7 @@ domein en wordt gebruikt als oefenterrein.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De afwisseling in topografie en pedologie resulteert in een
 verscheidenheid aan vegetatietypes, gaande van vennen en heide tot
 broekbossen. Deze afwisseling heeft een aanzienlijke landschappelijke
@@ -129,7 +129,7 @@ opvallende ruimtelijk structurerende elementen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het 'Groot Schietveld' is gelegen op grondgebied van de gemeenten
+Het 'Groot Schietveld' is gelegen op grondgebied van de gemeenten
 Brecht, Brasschaat en Wuustwezel in de Antwerpse Noorderkempen. De
 begrenzing van deze ankerplaats wordt gevormd door de bewoning van
 Wuustwezel en Loenhout in het noorden, de autoweg E19 Antwerpen-Breda en

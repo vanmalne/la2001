@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,13 +30,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +46,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * hof
 
- 
+
 Torreken te Walle
 
 **Nederzettingspatronen:**
@@ -63,14 +63,14 @@ Volkegem
  * landgoed
  * kasteelgracht
 
- 
+
 **Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
  * herberg
 
- 
+
 dorpskern Ename, Schuifelbeen
 
 **Landbouwkundig erfgoed:**
@@ -79,14 +79,14 @@ dorpskern Ename, Schuifelbeen
  * schuur
  * stal
 
- 
+
 dorpskern Volkegem
 
 **Molens:**
 
  * watermolen
 
- 
+
 Toysschemolen
 
 **Kerkelijk erfgoed:**
@@ -96,12 +96,12 @@ Toysschemolen
  * abdij
  * pastorie
 
- 
+
 **Klein historisch erfgoed:**
 
  * schandpaal
 
- 
+
 waterpomp
 
  **Archeologische elementen:**
@@ -116,7 +116,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
+
 kasseiweg tussen bos en dorp
 
 **Spoorweg:**
@@ -129,7 +129,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -145,7 +145,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * loof
@@ -153,7 +153,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -163,7 +163,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De archeologische site bevindt zich op een verheven punt in de
 Scheldevallei, top van een zandige rug. Het Bos t'Ename is op een steile
 oostelijke dalwand van de Boven- Schelde nabij Oudenaarde gelegen. 1/5
@@ -207,7 +207,7 @@ richting Bos t'Ename loopt.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Bos t'Ename, ten oosten van Ename (dat ten noorden van Oudenaarde,
+Bos t'Ename, ten oosten van Ename (dat ten noorden van Oudenaarde,
 langs de Schelde, gesitueerd is) ligt voor één vierde in de brede geul
 van het laagterras van de Scheldevallei en voor drie vierden bekleedt
 het bos de steile valleiwand, inclusief het talud bovenaan. De kwaliteit

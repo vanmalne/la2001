@@ -20,18 +20,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * kustduin
 
 kopjesduinen
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 o.a. Schuddebeurzebeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -42,25 +42,25 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * hoeve
  * schuur
 
- 
+
 Kleine Bamburghoeve: enorme schuur (blikvanger door rode poorten)
 
 **Militair erfgoed:**
 
  * bunker
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * grachtenstelsel
 
- 
+
 kanaal Plassendale-Nieuwpoort met boterdijk
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -77,12 +77,12 @@ rietkragen in grachten; bomenrij langs kanaal begrenst gebied
 
  * poel
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,7 +103,7 @@ Bamburghoeve dient gevrijwaard evenals de hoeve zelf.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Open binnenduinlandschap met golvende graslanden. Relicten van oude
 heidevegetatie aanwezig, vrijwel uniek aan de Belgische kust.
 Historische waarde:
@@ -127,7 +127,7 @@ grootte van de schuur bij de kleine Bamburghoeve.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten oosten van Lombardsijde (gem. Middelkerke)
+Deze ankerplaats ligt ten oosten van Lombardsijde (gem. Middelkerke)
 en ten zuiden van Westende (gem. Middelkerke). Het knaal
 Plassendale-Nieuwpoort vormt de zuidelijke grens. In deze ankerplaats
 ligt een overgangszone tussen duinen en polders die echter

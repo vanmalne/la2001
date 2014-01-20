@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,7 +30,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 donk
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -38,17 +38,17 @@ donk
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
- 
+
 **Geologie:**
 
- 
+
 Vlaamse Vallei
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -60,14 +60,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 Valkenhuis
 
 **Molens:**
 
  * watermolen
 
- 
+
 Hoosmolen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -78,16 +78,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
  * verlaten spoorweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,7 +97,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -110,23 +110,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * meersen
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 populier
 
 **Bos:**
@@ -138,12 +138,12 @@ populier
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -159,7 +159,7 @@ aanwezig, oa een grootwarenhuis.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 In de Bourgoyen- Ossemeersen kunnen we de volgende gebieden
 onderscheiden. Vooreerst is er de grote, opgevulde geul van een
 laatglaciale Leie-arm. Hiervan is het gedeelte met de Grijtgracht,
@@ -206,7 +206,7 @@ door de spoorwegdijk gevormd.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De vlakte van de Leie is ten westen van Gent opvallend breed en strekt
+De vlakte van de Leie is ten westen van Gent opvallend breed en strekt
 zich uit van Mariakerke in het noorden tot Sint- Denijs- Westrem in het
 zuiden. In dit oorspronkelijke aaneengesloten gebied meandert vanaf de
 Drie Leien te Drongen een noordelijke rivierarm naar de Bourgoyen-

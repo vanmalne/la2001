@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Moerassige gronden:**
 
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -34,20 +34,20 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * boswachterswoning
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 Louisa-hoeve
 
  **Andere:**
@@ -63,7 +63,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -75,7 +75,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Bos:**
 
  * naald
@@ -83,7 +83,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -96,7 +96,7 @@ meer typische woningen langs de randen van het gebied.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De aanwezigheid van verschillende biotopen zoals bos, dreven, natte
 weilanden en vennen resulteert in een ecologisch waardevol geheel. Deze
 variatie aan biotopen heeft als landschap immers met een belangrijke
@@ -141,7 +141,7 @@ functionele structuur.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het domein 'De Hees' betreft een van oudsher bestaand herengoed, dat
+Het domein 'De Hees' betreft een van oudsher bestaand herengoed, dat
 toebehoorde aan de heer die de streek bezat en bestuurde. Het landschap
 bestaat uit een centraal bebost gebied rond het jachtkasteel 'de Hees',
 gelegen binnen een open agrarische omgeving in de gemeente Rijkevorsel.

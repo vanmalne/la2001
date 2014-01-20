@@ -20,18 +20,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
 
- 
+
 Aa, Lieremansloop, Rooise loop, Molengoorloop
 
 **Moerassige gronden:**
@@ -41,7 +41,7 @@ Aa, Lieremansloop, Rooise loop, Molengoorloop
  * rietland
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,14 +50,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * huis
 
- 
+
 landhuis, jachthuis
 
 **Landbouwkundig erfgoed:**
 
  * schuur
 
- 
+
 **Archeologische elementen:**
 gebruiksvoorwerpen uit het Neolithicum
 
@@ -68,15 +68,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
+
 oude padenstructuur
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
  * stuw
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -85,7 +85,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -96,14 +96,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
  * heide
 
- 
+
 **Bos:**
 
  * naald
@@ -111,7 +111,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * broek
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -131,7 +131,7 @@ zijn huidige verschijningsvorm behouden blijven.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De vrij grote reliëfverschillen in het landschap en de aanwezigheid
 van een gaaf landduincomplex geven deze ankerplaats een belangrijke
 geomorfologische waarde. In dit gebied komen over nog relatief grote
@@ -168,7 +168,7 @@ geven het een belangrijke ruimtelijk-structurerende waarde.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap 'de Liereman' is gelegen op grondgebied van Oud-Turnhout
+Het landschap 'de Liereman' is gelegen op grondgebied van Oud-Turnhout
 en Arendonk in het zuiden van de Noorderkempen. Het betreft een
 oud-kempisch landschap dat wordt begrensd door de bewoning van Oosthoven
 en Oud-Turnhout in het oosten en zuidoosten, de Bergstraat en de

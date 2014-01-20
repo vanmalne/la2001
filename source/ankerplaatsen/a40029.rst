@@ -19,13 +19,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * heuvel
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -34,15 +34,15 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * veen
 
- 
+
 **Geologie:**
 
- 
+
 Vlaamse Vallei
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -54,7 +54,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 Kasteelpark van Wieze, Spaans Hof, pastorietuin Mespelare
 
 **Nederzettingspatronen:**
@@ -71,13 +71,13 @@ kerkplein van Wieze en Mespelare
  * ijskelder
  * kasteelgracht
 
- 
+
 **Bouwkundig erfgoed:**
 
  * (heren)woning
  * afspanning
 
- 
+
 Spaans Hof
 
 **Landbouwkundig erfgoed:**
@@ -86,7 +86,7 @@ Spaans Hof
  * schuur
  * stal
 
- 
+
 Neerhof
 
 **Kerkelijk erfgoed:**
@@ -95,12 +95,12 @@ Neerhof
  * kapel
  * pastorie
 
- 
+
 **Klein historisch erfgoed:**
 
  * schandpaal
 
- 
+
 voor de kerk van Mespelare
 
  **Andere:**
@@ -114,15 +114,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * sluis
  * lijnpad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -132,7 +132,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -145,24 +145,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * meersen
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -175,7 +175,7 @@ er meer bossen in de plaats.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied maakt deel uit van de Dendervallei. De oude loop van de
 Dender herkenbaar in het zuidwestelijke deel van de ankerplaats.
 Centraal in het gebied, dat deel uitmaakt van de Vlaamse Vallei, loopt
@@ -211,7 +211,7 @@ liggen op een Tertiaire opduiking aan de rand van de vallei.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De afbakening omvat de Dendermeersen tussen Wieze en Mespelare. Wieze
+De afbakening omvat de Dendermeersen tussen Wieze en Mespelare. Wieze
 is van de omliggende dorpen de enige plaatsnaam die reeds in de 5e eeuw
 vermeld wordt. Dit is toe te schrijven aan de Heer van Wise, die een
 rechter was in de Brabantgouw. De ouderdom van de kerk gaat vermoedelijk

@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,7 +30,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 stuifzandduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -39,7 +39,7 @@ stuifzandduin
  * meander
  * oude rivierarm
 
- 
+
 Kleine Nete, Aa, Oorlandse Loop, Gravenweide beek, Tweede beek,
 Schupleerloop
 
@@ -48,7 +48,7 @@ Schupleerloop
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -57,32 +57,32 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * landgoed
 
- 
+
 Voormalig voorgebouw v/h kasteel van Grobbendonk
 
 **Bouwkundig erfgoed:**
 
  * (heren)woning
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
  * abdij
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,17 +91,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 plaatselijk oud wegenpatroon
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
  * sluis
  * grachtenstelsel
 
- 
+
 + voormalige zwaaikom
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -112,7 +112,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -125,7 +125,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * plaggenbodems
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -136,7 +136,7 @@ heiderelicten
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -149,7 +149,7 @@ serrecomplex, alsook verspreid voorkomende recreatieve infrastructuur.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats vertegenwoordigt met het alluvium van de Kleine Nete
 en de Aa en de heuvel- en duinenrug die de waterscheiding vormt tussen
 beide rivieren, in de eerste plaats een belangrijke geomorfologische
@@ -216,7 +216,7 @@ van een groter aaneengesloten gebied met stuifduinen en valleien.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Kasteel en Kleine Netebeemden van Grobbendonk' is
+De ankerplaats 'Kasteel en Kleine Netebeemden van Grobbendonk' is
 gelegen op grondgebied van de gemeenten Grobbendonk, Vorselaar en
 Herentals. De begrenzing van dit landschap wordt gevormd door het
 centrum van Grobbendonk in het westen, de bewoning van Vorselaar in het

@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,23 +29,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,7 +54,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -64,7 +64,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * kasteel
  * muur
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -72,17 +72,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * stal
  * wagenhuis
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Archeologische elementen:**
 neolithische en Romeinse vondsten
 
@@ -94,7 +94,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,7 +103,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -114,14 +114,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * broek
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -134,7 +134,7 @@ van het Brugmanninstituut, in de omgeving van Meigemheide en Dworp.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Op verschillende plaatsen, vooral rond de Cluts, komen bosvegetaties
 voor met zeer zeldzame soorten.
 Historische waarde:
@@ -152,14 +152,14 @@ gecompartimenteerde landbouwgebieden heeft. Ook zijn er plaatsen met
 weidse zichten op o.m. de skyline de Zenne en Halle.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het omschreven gebied ligt ten oosten van Halle, op het grondgebied
+Het omschreven gebied ligt ten oosten van Halle, op het grondgebied
 van de fusiegemeente Beersel, met de deelgemeenten Alsemberg, Dworp en
 Beersel. Het is een zone met enorme variaties: drassige gebieden,
 valleigebieden, boomgaarden, brongebieden, holle wegen, kleine

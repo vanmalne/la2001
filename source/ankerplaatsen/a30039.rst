@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 geologisch bepaald;
 
 **Macroreliëf:**
@@ -31,17 +31,17 @@ geologisch bepaald;
 
 vidaigne- en rodeberg; interlfuviumgrens
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Douvevallei; talrijke beken
 
 **Geologie:**
 
- 
+
 zgn. Diestiaanafzettingen op toppen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -51,21 +51,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 bij kasteel Behaeghel
 
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
- 
+
 kasteel Behaeghel
 
 **Molens:**
 
  * windmolen
 
- 
+
 Lijstermolen
 
  **Archeologische elementen:**
@@ -89,7 +89,7 @@ langs beken, op taluds, langs steilranden van beken
 
  * vijver
 
- 
+
 bij kasteel Behaeghel
 
 **Bos:**
@@ -99,7 +99,7 @@ bij kasteel Behaeghel
  * hakhout
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -134,7 +134,7 @@ de natuur.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Vlaamse heuvelrij van Vidaigne- en Rodeberg sluit in westen aan op
 de Zwarte berg (Frankrijk) en in oosten op Scherpenberg en Kemmelberg.
 Ze vormt de waterscheidingskam tussen twee grote rivierbekkens in
@@ -198,7 +198,7 @@ bodemkundige en hydrografische eenheden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats wordt in het westen begrensd door de Frans-Belgische
+Deze ankerplaats wordt in het westen begrensd door de Frans-Belgische
 grens en loopt van de Douvevallei nabij Dranouter over de heuvels van
 Rode-, Bane- en Vidaigneberg naar Westouter en stopt aan de weg van
 Franse grens naar Reningelst. Deze ankerplaats bevat een deel van de

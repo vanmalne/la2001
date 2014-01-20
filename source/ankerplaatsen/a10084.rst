@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Laarse Beek, Zeurtbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -36,7 +36,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 Kasteelpark, Hof ter List
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -45,7 +45,7 @@ Kasteelpark, Hof ter List
  * hovenierswoning
  * ijskelder
 
- 
+
 Kasteel van Brasschaat, Hof ter List
 
 **Landbouwkundig erfgoed:**
@@ -54,7 +54,7 @@ Kasteel van Brasschaat, Hof ter List
  * schuur
  * wagenhuis
 
- 
+
 Melkerij + bakhuis, Hemelhoeve
 
 **Kerkelijk erfgoed:**
@@ -62,17 +62,17 @@ Melkerij + bakhuis, Hemelhoeve
  * kerk
  * pastorie
 
- 
+
 Parochiekerk St.-Antonius
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -92,19 +92,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -119,7 +119,7 @@ HST-lijn langs de zuidelijke rand.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Peerdsbos betreft een complex van redelijk structuurrijke bossen,
 met geleidelijke overgangen naar meer beekbegeleidende bostypen. Dit
 laatste dankzij de aanwezigheid van de Laarse Beek die zorgt voor een
@@ -165,7 +165,7 @@ structuur van de ankerplaats.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Het Peerdsbos' is gelegen in de Antwerpse Kempen op
+De ankerplaats 'Het Peerdsbos' is gelegen in de Antwerpse Kempen op
 grondgebied van de gemeenten Schoten en Brasschaat, aan beide kanten van
 de Laarsebeek. De begrenzing wordt gevormd door de Miksebaan in het
 noorden, de Elshoutbaan en de bewoning langs de Hertendreef in het

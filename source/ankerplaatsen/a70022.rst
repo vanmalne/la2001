@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -32,14 +32,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 belangrijke dalbodem met pediment
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 o.a. Bosbeek, Kleine Beek, Berkeinderzijp
 
 **Moerassige gronden:**
@@ -49,14 +49,14 @@ o.a. Bosbeek, Kleine Beek, Berkeinderzijp
  * rietland
  * ven
 
- 
+
 vochtige beemden
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,7 +65,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteeldomein De Schans
 
 **Nederzettingspatronen:**
@@ -81,7 +81,7 @@ gehuchten Aartshouw en De Houw
  * landgoed
  * kasteelgracht
 
- 
+
 kasteel De Schans
 
 **Landbouwkundig erfgoed:**
@@ -90,32 +90,32 @@ kasteel De Schans
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 Oude Molen, Slagmolen, Dorpermolen
 
 **Militair erfgoed:**
 
  * schans
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
 
- 
+
 o.a. Sint-Dyonisiuskerk
 
 **Klein historisch erfgoed:**
 
  * kruis
 
- 
+
 **Archeologische elementen:**
 o.a. Gallo-Romeinse vondsten, industrieel-archeologisch erfgoed
 (watermolens)
@@ -129,18 +129,18 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Romeinse weg
 
- 
+
 o.a. opstrekkend wegenpatroon tussen vallei, nederzettingen en
 plateau, evenals achter De Houw
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
  * stuw
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -150,7 +150,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -166,27 +166,27 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * opstrekkend
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
  * heide
 
- 
+
 o.a. akkers, heiderelicten, vochtige hooi- en weilanden
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -196,14 +196,14 @@ o.a. akkers, heiderelicten, vochtige hooi- en weilanden
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide
  * watering
 
- 
+
 o.a. kleinschalige waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -221,7 +221,7 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het landschap strekt zich uit in de Bosbeekvallei, diep ingesneden in
 het Kempens Plateau. De Bosbeekvallei is er grotendeels uitgesproken
 asymmetrisch en heeft een hoge geomorfologische waarde. Zij wordt
@@ -271,7 +271,7 @@ voor de opbouw en organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap situeert zich langs de Bosbeek tussen As en Opoeteren.
+Het landschap situeert zich langs de Bosbeek tussen As en Opoeteren.
 Het omvat grosso modo de vallei en aansluitend het gehucht De Houw. De
 Bosbeekvallei is ingesneden in het Kempens plateau. Zij is plaatselijk
 tot 30 meter diep, ZW-NO geöriënteerde en uitgesproken asymmetrisch. Zij

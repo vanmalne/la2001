@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -28,13 +28,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 dekzand- en duinreliëfs
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 o.a. Abeek, Zuurbeek
 
 **Moerassige gronden:**
@@ -44,7 +44,7 @@ o.a. Abeek, Zuurbeek
  * rietland
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,13 +53,13 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * boswachterswoning
 
- 
+
 kasteel Grootbroek
 
 **Landbouwkundig erfgoed:**
@@ -67,21 +67,21 @@ kasteel Grootbroek
  * hoeve
  * schuur
 
- 
+
 o.a. Woutershof, Mariahof
 
 **Molens:**
 
  * watermolen
 
- 
+
 Cloots- of Damburgse molen, Voorste Luysmolen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,8 +91,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -100,7 +100,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * grachtenstelsel
  * stuw
 
- 
+
 o.a. Lossing met grachtenstelsel, Zuid-Willemsvaart
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -111,7 +111,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -125,19 +125,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
  * heide
 
- 
+
 **Bos:**
 
  * naald
@@ -148,12 +148,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -167,7 +167,7 @@ bedreigingen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De kleinschalige, sterk gedifferentieerde, menselijke beïnvloeding
 van dit zeer uitgestrekte, overwegend natte gebied, resulteerde in een
 grote verscheidenheid aan biotopen. Landschapsecologisch is het
@@ -198,7 +198,7 @@ het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap is gelegen in het grensgebied van de gemeenten Bocholt,
+Het landschap is gelegen in het grensgebied van de gemeenten Bocholt,
 Bree en Kinrooi. Het strekt zich uit in een brede strook langs de Abeek
 tussen de Zuid-Willemsvaart in het westen en de steenweg Molenbeersel -
 Kinrooi in het oosten. Het gebied behoort grotendeels tot de vlakte van

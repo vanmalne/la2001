@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -28,7 +28,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * steilrand
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -37,17 +37,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
- 
+
 **Geologie:**
 
- 
+
 Vlaamse Vallei
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -65,13 +65,13 @@ Dries van Schellebelle, half bebouwd
 
  * herberg
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * pastorie
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,15 +81,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * sluis
  * grachtenstelsel
 
- 
+
 veer
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -100,7 +100,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -112,23 +112,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * turfput
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * voormalige communautaire akker
  * meersen
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -137,13 +137,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -156,7 +156,7 @@ weekendverblijven met visvijvers en tuinen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied maakt deel uit van de Scheldevallei. Het is een
 "natuurlijk" periodisch overstromingsgebied, lager gelegen dan
 omliggende gebied. Gedeelte van een oude Scheldemeander is bewaard
@@ -210,7 +210,7 @@ schaal aan akkerbouw en horticultuur gedaan.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats bevindt zich tussen Kalken en Schellebelle.
+Deze ankerplaats bevindt zich tussen Kalken en Schellebelle.
 Waarschijnlijk vond in het begin van het Laatglaciaal (15 500 tot 11 500
 jaar geleden) de overgang plaats van een verwilderd naar een meanderend
 rivierpatroon. De oorzaak van de overgang was het milder wordende

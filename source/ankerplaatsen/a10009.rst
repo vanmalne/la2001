@@ -21,21 +21,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
 
- 
+
 de Mark
 
 **Moerassige gronden:**
 
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 Franse tuin
 
 **Bouwkundig erfgoed:**
 
- 
+
 landhuis, aalmoezeniershuis, jachtwachterwsoning
 
 **Landbouwkundig erfgoed:**
@@ -58,19 +58,19 @@ landhuis, aalmoezeniershuis, jachtwachterwsoning
  * hoeve
  * schuur
 
- 
+
 + hokken voormalige kippenkwekerij
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
  * standbeeld
 
- 
+
 **Archeologische elementen:**
 prehistorische vondsten
 
@@ -81,7 +81,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 oud wegenpatroon
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -91,7 +91,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -103,19 +103,19 @@ oud drevenpatroon
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,7 +130,7 @@ atypische bewoning en weekendverblijven.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De relicten van de oude bosaanplanten, alsook de dreven,
 vertegenwoordigen een belangrijke dendrologische waarde. Aansluitend op
 het landschap van het Turnhouts Vennengebied in het oosten en de
@@ -166,7 +166,7 @@ landgoed.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Zwart Goor - Rondpunt' is gelegen in de gemeente
+De ankerplaats 'Zwart Goor - Rondpunt' is gelegen in de gemeente
 Merksplas in de Antwerpse Noorderkempen en betreft een voormalig bebost
 landgoed binnen een open landelijke omgeving. De begrenzing wordt
 gevormd door de Strikkeweg in het noorden, Lipseinde en het Geheul in

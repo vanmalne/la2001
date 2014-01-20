@@ -22,7 +22,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * graft
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -31,12 +31,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -52,12 +52,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,7 +67,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -88,17 +88,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * kouters
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -111,7 +111,7 @@ omgeving van Boterdaal.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Verspreid op de flanken komen enkele interessante vegetaties voor.
 Aaan de voet van de heuvel komen ook enkele brongebieden met
 interessante vegetaties voor.
@@ -124,14 +124,14 @@ Pajottenland, met o.m. prachtige vergezichten over de Dendervallei en
 het Hof te Leisbroek.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Kongoberg ligt ten zuiden van Nieuwenhove en ten westen van de weg
+De Kongoberg ligt ten zuiden van Nieuwenhove en ten westen van de weg
 Denderwindeke-Vollezele. Het gebied ligt deels in de provincie
 Oost-Vlaanderen, deels in Vlaams-Brabant. Tussen de Dender- en
 Markvallei liggen een aantal heuvelruggen die tevens als waterscheiding

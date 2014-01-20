@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * markante terreinovergang
@@ -30,7 +30,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,19 +42,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * bunker
  * verdedingingslinie
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * sluis
  * grachtenstelsel
  * lijnpad
 
- 
+
 Antitankgracht, grachten rondom de forten en schansen
 
  **Andere:**
@@ -68,7 +68,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -78,12 +78,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * heide
 
- 
+
 **Bos:**
 
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -102,7 +102,7 @@ het duwvaartkanaal door de Vlaamse Regering tot het verleden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Langsheen de antitankgracht vindt men een rijk gevarieerde begroeiing
 terug daar zij voor een groot deel van de in het Kempens district
 voorkomende begroeiingtypes een toevluchtsoord betekent. Tegelijkertijd
@@ -146,7 +146,7 @@ andere plaatsen gaat ze dan weer helemaal op in de omgeving.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De antitankgracht situeert zich ter hoogte van de tweede fortengordel
+De antitankgracht situeert zich ter hoogte van de tweede fortengordel
 rond de stad Antwerpen en loopt van de Antwerpse Baan te Stabroek via de
 gemeenten Kapellen, Brecht en Schilde tot aan het Albertkanaal te Ranst.
 Daarmee volgt het traject in grote lijnen de voormalige

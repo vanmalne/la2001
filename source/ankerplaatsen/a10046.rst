@@ -20,13 +20,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Bosbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -37,7 +37,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 pastorietuin, kasteelpark, moestuin, Franse tuin
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -48,14 +48,14 @@ pastorietuin, kasteelpark, moestuin, Franse tuin
  * muur
  * kasteelgracht
 
- 
+
 Kasteel de Borrekens + toegangspoort en brug
 
 **Bouwkundig erfgoed:**
 
  * (heren)woning
 
- 
+
 dienstwoningen
 
 **Landbouwkundig erfgoed:**
@@ -64,14 +64,14 @@ dienstwoningen
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
- 
+
 Parochiekerk St.- Pieter
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -81,7 +81,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 oud wegenpatroon
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -92,7 +92,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -104,19 +104,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -131,7 +131,7 @@ dezelfde reden landschappelijk ingepast blijven.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats wordt voor een belangrijk gedeelte gekenmerkt door
 goed ontwikkelde bossen. De oorspronkelijke loop van de Bosbeek (die
 verlegd is rondom het kasteelpark) en de vallei is nog herkenbaar in het
@@ -188,7 +188,7 @@ poort van stedelijk naar landelijk gebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het 'Kasteel van Vorselaar' is gelegen in de vallei van de Bosbeek in
+Het 'Kasteel van Vorselaar' is gelegen in de vallei van de Bosbeek in
 het 'Land van Herentals-Kasterlee' in de Centrale Kempen. De begrenzing
 van deze ankerplaats wordt gevormd door de bewoningskern van Vorselaar
 in het zuiden en westen, de Vispluk in het noorden en de Proosthoevebaan

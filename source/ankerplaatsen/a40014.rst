@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -27,14 +27,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Grote Dekzandrug
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 **Geologie:**
 
- 
+
 Vlaamse Vallei
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -44,13 +44,13 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 **Militair erfgoed:**
 
  * fort
  * verdedingingslinie
 
- 
+
 resten van "Fort Francipanie", Spaans fort uit de 80-jarige oorlog
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -61,15 +61,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * pompgemaal
 
- 
+
 Parmavaart: vermoedelijk oude turfvaart
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -83,7 +83,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Kunstmatige waters:**
 
- 
+
 wal rond fort
 
 **Topografie:**
@@ -92,10 +92,10 @@ wal rond fort
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
- 
+
 Door bebossing is heide sterk gereduceerd
 
 **Bos:**
@@ -104,7 +104,7 @@ Door bebossing is heide sterk gereduceerd
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -121,7 +121,7 @@ bevindt.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit bossencomplex is op de dekzandrug Maldegem-Stekene gelegen. Dit
 gebied heeft een zandige bodem. Dit is nog een typische heidevegetatie
 op een beperkte oppervlakte.
@@ -153,7 +153,7 @@ bos.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Heidebos bevindt zich op de grote dekzandrug die zich tussen
+Het Heidebos bevindt zich op de grote dekzandrug die zich tussen
 Maldegem en Stekene uitstrekt, tussen Moerbeke en Wachtebeke. Het reliëf
 wordt er gekenmerkt door de aanwezigheid van een duintopografie met
 hoogten bestaande uit stuifzanden. De niveauverschillen met de

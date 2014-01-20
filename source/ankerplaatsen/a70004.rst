@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,17 +29,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 diep ingesneden, asymmetrische beekvallei van de Herkebeek
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Fonteinbeek, Herk, Herkebeek of Molenbeek, Motbeek
 
 **Moerassige gronden:**
 
- 
+
 vochtige beemden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -49,7 +49,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark de Tornaco, kasteelpark van Hulsberg
 
 **Nederzettingspatronen:**
@@ -65,7 +65,7 @@ gehucht Helshoven (hoopdorp)
  * landgoed
  * omheining
 
- 
+
 kasteel de Tornaco (Voort), Fonteinhof, kasteel va
 
 **Bouwkundig erfgoed:**
@@ -73,19 +73,19 @@ kasteel de Tornaco (Voort), Fonteinhof, kasteel va
  * (heren)woning
  * huis
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 Engelingenmolen (Hoepertingen), Wijngaardmolen (Broekom)
 
 **Kerkelijk erfgoed:**
@@ -93,7 +93,7 @@ Engelingenmolen (Hoepertingen), Wijngaardmolen (Broekom)
  * kapel
  * pastorie
 
- 
+
 o.a. Christus-Koningkapel, kapel van Loretto, Sint-Dionysiuskerk,
 kluiskapel van Helshoven
 
@@ -101,7 +101,7 @@ kluiskapel van Helshoven
 
  * gedenkteken
 
- 
+
 **Archeologische elementen:**
 Gallo-Romeinse vondsten (o.a. tumulus)
 
@@ -115,7 +115,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * Romeinse weg
 
- 
+
 Tongeren-Kassel, Tongeren-Herentals
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -126,7 +126,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 Jenneboom
 
 **Lijnvormige elementen:**
@@ -140,20 +140,20 @@ Jenneboom
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 verschillende delen historisch stabiel
 
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 grasland onder boomgaarden, traditioneel open akkergebied, vochtige
 valleibeemden
 
@@ -161,13 +161,13 @@ valleibeemden
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -187,7 +187,7 @@ de Romeinse weg.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Voort, en ook Hendrieken, is gelegen in Droog-Haspengouw op de
 reliëfrijke zuidwestrand van het massief van Borgloon, dat zich ruim 30
 m verheft boven de schiervlakte ten zuiden van de lijn Heks,
@@ -238,7 +238,7 @@ bakenfunctie in de omgeving.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Voort, en ook Hendrieken, is gelegen in Droog-Haspengouw op de
+Voort, en ook Hendrieken, is gelegen in Droog-Haspengouw op de
 zuidwestrand van het massief van Borgloon, dat zich ruim 30 m verheft
 boven de schiervlakte ten zuiden van de lijn Heks, Bommershoven,
 Jesseren en Piringen. De Herkebeek of Molenbeek, één van de bovenlopen

@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -32,23 +32,23 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * (heren)woning
 
- 
+
 dorpswoning in leem
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -57,7 +57,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -68,7 +68,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,7 +81,7 @@ bewoning en recreatieve infrastructuur.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van dit bosrijke gebied wordt in
 belangrijke mate bepaald door de geomorfologische kenmerken. Hertberg
 (30m) en de Steenheuvels (27,5m) zijn tertiaire heuvels. Als groot,
@@ -118,7 +118,7 @@ uiterste zuiden van de provincie Antwerpen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Hertberg' is legen op grondgebied van de gemeenten
+De ankerplaats 'Hertberg' is legen op grondgebied van de gemeenten
 Herselt en Laakdal en vormt de overgang tussen de vallei van de Grote
 Nete en de eerste hellingen van het Hageland. De begrenzing van dit
 landschap wordt gevormd door het gehucht Bergom in het noorden, de

@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,7 +29,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -37,12 +37,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * vallei
  * meander
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,7 +53,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -64,31 +64,31 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * toren
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Militair erfgoed:**
 
  * bunker
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * klooster
 
- 
+
 **Archeologische elementen:**
 Romeinse relicten
 
@@ -100,17 +100,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
  * verlaten spoorweg
  * oude tramroute
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -124,19 +124,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * broek
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -151,7 +151,7 @@ Neerijse, Sint-Agatha-Rode en Tombeek.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De valleien van Dijle en Laan zijn door de aanwezigheid van water en
 een grote variatie van vaak waardevolle vegetaties van groot
 ornithologisch belang. De botanische waarde is vooral merkbaar in het
@@ -181,14 +181,14 @@ bosjes en struwelen, een spaarzame maar vaak waardevolle bebouwing
 zorgen voor een hoge esthetische waarde.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De vallei van de Dijle ten zuiden van Leuven doorsnijdt de typische
+De vallei van de Dijle ten zuiden van Leuven doorsnijdt de typische
 leemplateaus van midden-België. De Dijlebedding en -vallei hebben nog
 een oorspronkelijke opbouw en een strukuur die in beperkte mate
 aangepast is door de mens. Dit is in tegenstelling tot de valleien van

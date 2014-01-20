@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * steilrand
@@ -29,7 +29,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 steilrand aan Schelderode
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -38,17 +38,17 @@ steilrand aan Schelderode
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
- 
+
 **Geologie:**
 
- 
+
 Vlaamse Vallei
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -58,7 +58,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteel avn Schelderode en van Welden
 
 **Nederzettingspatronen:**
@@ -73,7 +73,7 @@ kasteel avn Schelderode en van Welden
  * hovenierswoning
  * kasteelgracht
 
- 
+
 kasteel van Schelderode en Welden, neerhof
 
 **Bouwkundig erfgoed:**
@@ -81,21 +81,21 @@ kasteel van Schelderode en Welden, neerhof
  * (heren)woning
  * herberg
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
- 
+
 kerk van Schelderode en Zevergem, Sint- Elooiskapel
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -107,13 +107,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,7 +123,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -137,18 +137,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * blokvormig
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * meersen
 
- 
+
 **Bos:**
 
  * loof
@@ -157,7 +157,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 bosje rond Melsenbeek
 
 OPMERKINGEN EN KNELPUNTEN
@@ -182,7 +182,7 @@ van een oud voetbalterrein.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied maakt deel uit van de Scheldevallei ten zuiden van Gent.
 In de brede alluviale vlakte domineren de kleigronden. De breedte van de
 vlakke vallei varieert van 500 tot 1500 m. De kleine niveauverschillen
@@ -227,7 +227,7 @@ en het kasteel op.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats situeert zich tussen Zevergem en Schelderode, langs
+Deze ankerplaats situeert zich tussen Zevergem en Schelderode, langs
 beide zijden van de Schelde gelegen. Dit deel van de Schelde maakt deel
 uit van de Vlaamse Vallei. De rechttrekkingen van de Schelde gaven
 ontstaan aan verschillende oude rivierarmen. De Ham was een van de

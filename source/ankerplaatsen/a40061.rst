@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 ontginningen in Geitebos
 
 **Macroreliëf:**
@@ -34,7 +34,7 @@ ontginningen in Geitebos
 
 ontginningen in Geitebos
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -42,14 +42,14 @@ ontginningen in Geitebos
  * vallei
  * meander
 
- 
+
 bronniveau's
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -58,14 +58,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
  * kasteelgracht
 
- 
+
 Hof van Lier, dienstgebouwen
 
 **Bouwkundig erfgoed:**
@@ -74,7 +74,7 @@ Hof van Lier, dienstgebouwen
  * huis
  * villa
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
@@ -82,14 +82,14 @@ Hof van Lier, dienstgebouwen
  * abdij
  * pastorie
 
- 
+
 Grimminge en Idegem
 
 **Klein historisch erfgoed:**
 
  * schandpaal
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -99,10 +99,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
@@ -110,7 +110,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * grachtenstelsel
  * lijnpad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -120,7 +120,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -135,24 +135,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
  * opstrekkend
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -160,12 +160,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -175,7 +175,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Dendervallei ligt op alluviale gronden, het Geitebos ligt op een
 steile helling waar Tertiaire lagen dagzomen.
 Historische waarde:
@@ -226,7 +226,7 @@ juist buiten het alluvium.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats beslaat de Dendervallei tussen Idegem en Ninove. De
+Deze ankerplaats beslaat de Dendervallei tussen Idegem en Ninove. De
 Dender heeft hier rond haar oevers een vrij breed meersengebied. Ter
 hoogte van Zandbergen staat juist op de grens van het alluvium het
 kasteeldomein van de Lalaing. De grachten rond het kasteel worden gevoed

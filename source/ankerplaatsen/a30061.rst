@@ -20,11 +20,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 interfluviale kam
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 zijbeek Marsbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -34,7 +34,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Engelse landschapsstijl
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -44,7 +44,7 @@ Engelse landschapsstijl
  * ijskelder
  * kasteelgracht
 
- 
+
 kast. Nieuwburg en Breidels
 
 **Bouwkundig erfgoed:**
@@ -52,7 +52,7 @@ kast. Nieuwburg en Breidels
  * (heren)woning
  * huis
 
- 
+
 de gebouwen nabij kasteeldomein Nieuwburg door hun uniform kleur
 
 **Landbouwkundig erfgoed:**
@@ -61,7 +61,7 @@ de gebouwen nabij kasteeldomein Nieuwburg door hun uniform kleur
  * stal
  * wagenhuis
 
- 
+
 landgoed bij kast. Nieuwburg en omliggende hoeves
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -74,7 +74,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 in de parken
 
 **Lijnvormige elementen:**
@@ -89,21 +89,21 @@ gave knot/bomenrijen bij Nieuwburg
 
  * vijver
 
- 
+
 bij kastelen
 
 **Topografie:**
 
  * blokvormig
 
- 
+
 geaccentueerd door dreven
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 bij kast Nieuwburg
 
 **Bos:**
@@ -113,7 +113,7 @@ bij kast Nieuwburg
  * hakhout
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,7 +130,7 @@ landschap en doen afbreuk aan de lage bebouwingsdichtheid in het gebied.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De zeldzame florasoorten en de speciale variëteiten die in de
 kasteelparken voorkomen, hebben een belangrijke wetenschappelijke
 waarde.
@@ -161,7 +161,7 @@ worden vista's gecreëerd naar opvallende elementen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt in de gemeente Oostkamp, ten westen van de
+Deze ankerplaats ligt in de gemeente Oostkamp, ten westen van de
 Kortrijkse steenweg tussen Waardamme en Oostkamp. Deze weg volgt min of
 meer de interfluviale kamlijn tussen de Rivier- en Hertsberghebeek, én
 de Marsbeek. Ten westen van kasteeldomeinen Breidels en Nieuwburg

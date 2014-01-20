@@ -21,16 +21,16 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * heuvel
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Langdonkse beek, Herseltse beek
 
 **Moerassige gronden:**
@@ -38,7 +38,7 @@ Langdonkse beek, Herseltse beek
  * rietland
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,11 +46,11 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,12 +63,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -79,7 +79,7 @@ heiderelicten
  * hakhout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -92,7 +92,7 @@ weekendverblijven, alsook de hoge dichtheid aan visputten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dankzij de aanwezigheid van onontgonnen alluviale gronden,
 driesgronden, meerdalbodems en gradiënten van voedselarm naar
 voedselrijk en matig nat tot zeer nat, vertoont dit landschap een grote
@@ -122,7 +122,7 @@ Herseltse Beek en het valleigebied in Vlaams-Brabant.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Langdonken' is gelegen in de gemeente Herselt op de
+De ankerplaats 'Langdonken' is gelegen in de gemeente Herselt op de
 overgang Kempen-Hageland. De begrenzing wordt gevormd door de
 Aarschotsesteenweg in het westen, Achter de Wereld en Molenvloed in het
 noorden, de Broekstraat, de Dooiewerf en de Langdonksestraat in het

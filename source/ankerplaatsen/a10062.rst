@@ -20,25 +20,25 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * landduin
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,21 +47,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,7 +70,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 Kastanjeboom
 
 **Lijnvormige elementen:**
@@ -82,7 +82,7 @@ Kastanjeboom
  * turfput
  * vijver
 
- 
+
 **Bos:**
 
  * loof
@@ -90,7 +90,7 @@ Kastanjeboom
  * hakhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,7 +103,7 @@ steilrand een onherstelbare landschapswonde.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Gelegen in de alluviale vlakte van de Rupel, 2 à 3 meter boven de
 zeespiegel, uitgezonderd een aantal hoge zandduinen, gaat het hier om
 een vochtig tot nat gebied met specifieke flora en fauna. Het geheel van
@@ -132,7 +132,7 @@ Geen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap van 'Blaasveldbroek met omgeving' is gelegen in de
+Het landschap van 'Blaasveldbroek met omgeving' is gelegen in de
 gemeente Willebroek, net ten zuiden van de Rupel.Ten noorden wordt deze
 ankerplaats begrensd door de Hazewinkelvijver, ten westen door de
 spoorweg en ten zuiden en oosten door bebouwing en wegeninfrastructuur.

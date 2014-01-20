@@ -21,8 +21,8 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -31,14 +31,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 Grote Nete, Gestelse Beek, Kiekensloop
 
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelpark, landschapspark, moestuin
 
 **Nederzettingspatronen:**
@@ -64,14 +64,14 @@ Gestel
  * hovenierswoning
  * kasteelgracht
 
- 
+
 Gestelhof, Rameienhof, Kesselhof, Berlaarhof
 
 **Bouwkundig erfgoed:**
 
  * herberg
 
- 
+
 Herberg 'De Boekt'
 
 **Landbouwkundig erfgoed:**
@@ -81,7 +81,7 @@ Herberg 'De Boekt'
  * stal
  * wagenhuis
 
- 
+
 Gasthuishoeve, Karthuizerhoeve, Witte Hoeve, Hoeve 'De Hel'
 
 **Kerkelijk erfgoed:**
@@ -90,7 +90,7 @@ Gasthuishoeve, Karthuizerhoeve, Witte Hoeve, Hoeve 'De Hel'
  * kapel
  * pastorie
 
- 
+
 St.-Lambertuskerk, 'Kapel van O.L.- Vrouw Troost der Bedrukten'
 
 **Klein historisch erfgoed:**
@@ -99,7 +99,7 @@ St.-Lambertuskerk, 'Kapel van O.L.- Vrouw Troost der Bedrukten'
  * gedenkteken
  * schandpaal
 
- 
+
 **Andere:**
 Kerkhof met grafmonumenten, bakhuis, waterput
 
@@ -111,15 +111,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * kerkwegel
 
- 
+
 aarden weg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -129,7 +129,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -142,18 +142,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * loof
@@ -161,7 +161,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -178,7 +178,7 @@ rivier en haar vallei verloren is gegaan.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Gelegen in de alluviale vlakte van de sterk meanderende Grote Nete en
 gekenmerkt door een schakering van verschillende bodemtypes en
 vochtigheidsklassen, vertoont het landschap in de omgeving van Gestel
@@ -235,7 +235,7 @@ geïsoleerd karakter behouden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- 'Het landschap in de omgeving van Gestel' is gelegen op grondgebied
+'Het landschap in de omgeving van Gestel' is gelegen op grondgebied
 van de gemeenten Berlaar en Nijlen in de vallei van de Grote Nete. De
 begrenzing wordt gevormd door de bewoning van Kessel en Bevel in het
 noorden, de Kruiskensbaan in het oosten, Berlaar in het zuiden en de

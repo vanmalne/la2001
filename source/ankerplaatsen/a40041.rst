@@ -21,21 +21,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 vallei van de Munkbosbeek en Schaapsveldbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteeldomein van Beerlegem
 
 **Nederzettingspatronen:**
@@ -63,14 +63,14 @@ relatie kasteel- dorp
  * ijskelder
  * kasteelgracht
 
- 
+
 **Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
  * herberg
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -78,7 +78,7 @@ relatie kasteel- dorp
  * stal
  * wagenhuis
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
@@ -86,12 +86,12 @@ relatie kasteel- dorp
  * klooster
  * pastorie
 
- 
+
 **Klein historisch erfgoed:**
 
  * schandpaal
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,13 +101,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
- 
+
 in kasteelpark
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -118,7 +118,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -132,12 +132,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Bos:**
 
  * loof
@@ -146,7 +146,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -159,7 +159,7 @@ uitbreiding.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De vallei van de Munkbosbeek heeft een licht golvende topografie en
 is gelegen boven de steilrand van de Scheldevallei.
 Historische waarde:
@@ -198,7 +198,7 @@ tussen de Munkbosbeek en de Schaapsveldbeek.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Beerlegem is een nederzettingsdorp op een Z.W.-helling met grote
+Beerlegem is een nederzettingsdorp op een Z.W.-helling met grote
 kouters op het versneden Z.-Vlaams plateau in zandleemgebied. Het zacht
 golvend reliëf bereikt 50 m. Er zijn steile hellingen aan de depressie
 van de Munkbosbeek. De gronden zijn goed gedraineerd. De kerk van

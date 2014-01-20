@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 langs hellingen Poelberg
 
 **Macroreliëf:**
@@ -28,11 +28,11 @@ langs hellingen Poelberg
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 bronnen aan de voet van de Poelberg; Elsbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -46,14 +46,14 @@ opeenvolging van historische bebouwing langs kamlijn poelberg
 
  * hoeve
 
- 
+
 meeste hoeves nog authentiek en weinig verstoord
 
 **Molens:**
 
  * windmolen
 
- 
+
 Poelbergmolen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -97,7 +97,7 @@ zou doen aan de esthetische waarde.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De poelberg vormt een alleenstaande heuvel aansluitend bij het
 Plateau van Tielt. Aan de voet ervan komen talrijke bronniveaus voor.
 Historische waarde:
@@ -124,7 +124,7 @@ vormen een blikvanger voor de omgeving.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten zuidoosten van Tielt en ten oosten van de
+Deze ankerplaats ligt ten zuidoosten van Tielt en ten oosten van de
 weg (met bomenrij) Tielt - Wakken (gem. Dentergem) die tevens de grens
 vormt. De weg tussen de herberg Bellevue en Meike vormt de zuidelijke
 grens, de weg van het Prinselijk Leenhof Gruuthuse naar de hoeve Goed te

@@ -21,14 +21,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 Handzamevaart en -vallei; Zijdelinggeleed; Zarrenbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -38,21 +38,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 Barisdamhoeve
 
 **Militair erfgoed:**
 
  * motte
 
- 
+
 Barsidamhoeve; Hoge Andjoen (Werken)
 
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 kerk, kerkhof en ommegang in Werken
 
  **Archeologische elementen:**
@@ -65,16 +65,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * Romeinse weg
 
- 
+
 Steenstraat tussen Werken en Zarren(gem. Kortemark)
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * grachtenstelsel
 
- 
+
 Handzamevaart; Oude gracht
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -94,24 +94,24 @@ restanten van
  * repelvormig
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 bosje tussen Vladslo en Esen
 
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -133,7 +133,7 @@ hun hogere ligging nabij de rand van de vallei.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De vallei van de Handzame vormt een polderintrusie die ver
 landinwaarts binnendringt en die de bodemkundige grens vormt tussen
 zandig en zandlemig Vlaanderen. De vallei zelf wordt visueel afgebakend
@@ -176,7 +176,7 @@ een visueel contrasterende structuur tov de omgeving.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats strekt zich uit langs de Handzamevaart van Handzame
+Deze ankerplaats strekt zich uit langs de Handzamevaart van Handzame
 (gem. Kortemark) over Werken en Zarren (idem), tot de lijn
 Diksmuide-Beerst (gem. Diksmuide). In het zuiden wordt ze voor een groot
 deel begrensd door de spoorweg Diksmuide – Lichtervelde. De

@@ -20,19 +20,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * kreek
 
- 
+
 Grote Geule, Konijnenpijpen, Kieldrechtse Watergang
 
 **Moerassige gronden:**
@@ -41,7 +41,7 @@ Grote Geule, Konijnenpijpen, Kieldrechtse Watergang
  * veen
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,7 +50,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 Riethoeve
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -61,14 +61,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,7 +83,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * weel
 
- 
+
 Kieldrechtse welen: Grote Weel, Klein Weel, Panneweel
 
 **Topografie:**
@@ -91,10 +91,10 @@ Kieldrechtse welen: Grote Weel, Klein Weel, Panneweel
  * repelvormig
  * blokvormig
 
- 
+
 **Typische landbouwteelten:**
 
- 
+
 laagstamboomgaard
 
 **Bos:**
@@ -104,12 +104,12 @@ laagstamboomgaard
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -125,7 +125,7 @@ voor.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Grote Geule en Welen van Kieldrecht zijn van mariene oorsprong,
 dit is merkbaar door de zoutminnende planten. De Grote Geule van
 Meerdonk, het Sint- Jacobsgat, het Panneweel en het Rietland liggen aan
@@ -156,7 +156,7 @@ beplant.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het krekengebied van Kieldrecht en Meerdonk strekt zich uit tussen de
+Het krekengebied van Kieldrecht en Meerdonk strekt zich uit tussen de
 dorpen Kieldrecht- Nieuw Namen in het noorden, tot aan de grens van de
 zandstreek Sint- Gillis- Waas en Vrasene in het zuiden, De Klinge in het
 westen. Hoog-Verrebroek behoort er niet toe, dit moet als een

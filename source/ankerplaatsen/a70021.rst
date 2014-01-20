@@ -20,20 +20,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
 Kempens Plateau
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
- 
+
 Abeek
 
 **Moerassige gronden:**
@@ -43,7 +43,7 @@ Abeek
  * rietland
  * ven
 
- 
+
 vochtige beemden
 
  **Andere:**
@@ -65,19 +65,19 @@ straatgehucht Plokrooi
  * schuur
  * stal
 
- 
+
 langgevelhoeven
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
  * kruis
 
- 
+
 **Archeologische elementen:**
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -88,17 +88,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 opstrekkend patroon van paden en wegen achter Plokrooi
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
  * stuw
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -108,7 +108,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -120,20 +120,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * opstrekkend
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
  * heide
 
- 
+
 **Bos:**
 
  * naald
@@ -143,14 +143,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide
  * watering
 
- 
+
 o.a. kleinschalige waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -169,7 +169,7 @@ bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het gebied bezit een verscheidenheid aan reliëfelementen en
 gradiënten (bodem, vochtigheid), die elk op zich weinig opvallend zijn,
 maar niettemin de basis voor landschappelijke diversiteit vormen.
@@ -206,7 +206,7 @@ organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap is gelegen tussen Zwartberg en Meeuwen en situeert zich
+Het landschap is gelegen tussen Zwartberg en Meeuwen en situeert zich
 rond de bovenloop van de Abeek, op het Kempens Plateau. Landschappelijk
 situeert het zich op de overgang tussen het zuidelijke heide- en
 bosgebied en het landbouwlandschap rond Meeuwen ten noorden. Het

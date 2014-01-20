@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 o.a. wallen, windribbels
 
 **Macroreliëf:**
@@ -32,19 +32,19 @@ o.a. wallen, windribbels
 
 o.a. duinreliëfs, stuifzandwallen, valhellingen, windkuilen
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 o.a. Busselzijp, Kattebeek, vallei van de Bosbeek
 
 **Moerassige gronden:**
 
  * ven
 
- 
+
 **Andere:**
 stuifzand
 
@@ -55,7 +55,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kapel
 
- 
+
 Boskapel of kapel van Onze-Lieve-Vrouw van Rust, Mariabeeldje op de
 Zandberg
 
@@ -69,7 +69,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 Geuzenbaan
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -80,7 +80,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -93,7 +93,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 veedrinkputten
 
 **Topografie:**
@@ -101,12 +101,12 @@ veedrinkputten
  * blokvormig
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 restanten van heide en kleinschalige landbouwpercelen
 
 **Bos:**
@@ -116,7 +116,7 @@ restanten van heide en kleinschalige landbouwpercelen
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -135,7 +135,7 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Landduinen zijn één van de meest uitgesproken reliëfvormen in
 Vlaanderen. De laat-historische duinen zijn, naast rivierbeddingen,
 bovendien de meest dynamische landschapseenheden. Zij hebben
@@ -176,7 +176,7 @@ landschapseenheden, was hier bepalend voor de landschapsopbouw en
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Nabij de grens tussen Gruitrode en Opglabbeek strekt zich een
+Nabij de grens tussen Gruitrode en Opglabbeek strekt zich een
 langgerekte duinengordel uit, die ooit als nagenoeg enige element de
 wijdse openheid van het stuivende heidelandschap onderbrak. Het is één
 van de grootste duinencomplexen van de Limburgse Kempen, 5 à 6 km lang

@@ -20,20 +20,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Tappelbeek
 
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,7 +42,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -53,14 +53,14 @@ kasteelpark
  * muur
  * kasteelgracht
 
- 
+
 'Hof van Liere' + paviljoen, 'Kasteel Montens'
 
 **Bouwkundig erfgoed:**
 
  * (heren)woning
 
- 
+
 dienstwoningen
 
 **Landbouwkundig erfgoed:**
@@ -68,7 +68,7 @@ dienstwoningen
  * hoeve
  * stal
 
- 
+
 Bogaardehoeve
 
  **Archeologische elementen:**
@@ -82,7 +82,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 oude kasseiweg
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -92,7 +92,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -104,7 +104,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
@@ -113,7 +113,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -128,7 +128,7 @@ tegelijkertijd visueel verstorend werkt en geluidshinder meebrengt.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Tappelbeekvallei behoort tot de mooiste beekvalleien van de Kempen
 en men treft er nog verschillende typen beekbegeleidende bossen aan, die
 in stand worden gehouden door regelmatige overstromingen van de beek.
@@ -169,7 +169,7 @@ gesloten indruk die het centrale meer open gedeelte als het ware omarmt.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap van de 'Kasteeldomeinen in de vallei van de Tappelbeek'
+Het landschap van de 'Kasteeldomeinen in de vallei van de Tappelbeek'
 is gelegen op grondgebeid van de gemeenten Massenhoven (Zandhoven) en
 Oelegem (Ranst) in de Centrale Kempen. De begrenzing van deze
 ankerplaats wordt gevormd door de Hallebaan in het noorden, de

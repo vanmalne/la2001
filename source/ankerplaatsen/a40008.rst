@@ -20,24 +20,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 Paniseliaan
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -47,7 +47,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Park Maria Hove
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -59,14 +59,14 @@ Park Maria Hove
  * ijskelder
  * kasteelgracht
 
- 
+
 Maria Hove, duiventoren, dienstgebouwen
 
 **Bouwkundig erfgoed:**
 
  * villa
 
- 
+
 Villa Kraenepoel
 
 **Landbouwkundig erfgoed:**
@@ -75,7 +75,7 @@ Villa Kraenepoel
  * schuur
  * stal
 
- 
+
 Hoeve Van Wanseele, Hof de Warande
 
 **Kerkelijk erfgoed:**
@@ -83,7 +83,7 @@ Hoeve Van Wanseele, Hof de Warande
  * kerk
  * kapel
 
- 
+
 Kerk van Bellem
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -95,18 +95,18 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Romeinse weg
 
- 
+
 Heirweg Gent- Brugge
 
 **Spoorweg:**
 
 spoorweg Gent- Brugge
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
 
- 
+
 overloop aan Kranepoel, dam in Kranepoel
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -127,7 +127,7 @@ achtsterrig drevenpatroon in Markettebos, dreef van Bellem naar Hansbeke
 
  * vijver
 
- 
+
 Kranepoel (met eilandjes), vijvers in park Maria Hove
 
 **Bos:**
@@ -139,7 +139,7 @@ Kranepoel (met eilandjes), vijvers in park Maria Hove
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -158,7 +158,7 @@ rond de oever gekapt.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Kraenepoel was oorspronkelijk een voedselarm milieu waar een
 specifieke vegetatie bij voorkomt. Ondanks de teloorgang van dat milieu
 kon de zaadvoorraad toch bewaard blijven en zijn er kansen op herstel.
@@ -195,7 +195,7 @@ Kraenepoel, (22 ha), ligt in het voormalig veldgebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats situeert zich op grondgebied van de gemeente Aalter.
+Deze ankerplaats situeert zich op grondgebied van de gemeente Aalter.
 Het gebied van de Kraenepoel behoord tot het grote Bulskampveld, een in
 de middeleeuwen tot heide gedegradeerd boslandschap. In deze heidevelden
 lagen verschillende vijvers. Een van die vijvers was de Kraenepoel. Deze

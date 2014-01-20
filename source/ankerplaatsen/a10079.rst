@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -29,7 +29,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -39,7 +39,7 @@ kasteelpark
  * ijskelder
  * kasteelgracht
 
- 
+
 + cirkelvormig dienstgebouw, knechtenwoningen
 
 **Landbouwkundig erfgoed:**
@@ -49,12 +49,12 @@ kasteelpark
  * stal
  * wagenhuis
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,7 +67,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -80,14 +80,14 @@ haag rond kasteelpark
 
  * vijver
 
- 
+
 **Bos:**
 
  * loof
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -99,7 +99,7 @@ Geen opmerkingen of knelpunten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van deze ankerplaats wordt
 vertegenwoordigd door de boskernen en de dendrologische waarde van de
 dreven, die samen met het omliggende landelijke gebied belangrijke
@@ -142,7 +142,7 @@ karakter door de aanwezigheid van dreven en bospercelen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'kasteel van Westmalle' situeert zich in de centrale
+De ankerplaats 'kasteel van Westmalle' situeert zich in de centrale
 Kempen, ten noordoosten van de bewoningskern van Westmalle. De
 begrenzing van deze ankerplaats wordt in grote lijnen gevormd door de
 Kleistraat in het noorden, de Steenhovenstraat in het oosten, de

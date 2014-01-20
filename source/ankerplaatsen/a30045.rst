@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 langs opgespoten terrein en langs kanaal
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 langs taluds kanaal tertiaire formaties Tielt en Ieper
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -37,7 +37,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 o.a. St-Pietershof, hoeve ten westen van Kraaibos
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -49,12 +49,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Zwevegem-Heestert
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * brug
 
- 
+
 St-pietersbrug op oude kanaalarm
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -71,7 +71,7 @@ struweelbegroeiing langs talud
 
  * struweel
 
- 
+
 Kraaibos
 
 OPMERKINGEN EN KNELPUNTEN
@@ -85,7 +85,7 @@ kanaal, evenals de brug over het kanaal.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Langs de taluds van het kanaal dagzomen enkele tertiaire formaties
 die zeldzame bodemcondities bieden omdat ze elders in Vlaanderen heel
 weinig dagzomen. Het Kraaibos vormt een floristisch rijk gebied met
@@ -114,7 +114,7 @@ opgespoten terrein.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt in de gemeente Zwevegem ten noorden van Moen en
+Deze ankerplaats ligt in de gemeente Zwevegem ten noorden van Moen en
 ten westen van Heestert. Ze wordt in het zuiden begrensd door een weg,
 in het oosten door een spoorwegtracé en door het kanaal zelf, én in het
 westen door de weg langs de rand van het Kraaibos. Deze ankerplaats ligt

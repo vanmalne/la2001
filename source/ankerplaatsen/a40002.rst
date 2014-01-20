@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,23 +29,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 cuesta van Oedelem
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Wagenmakersbeek, Driesbeek,,,,
 
 **Moerassige gronden:**
 
- 
+
 stuwgronden
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 Bartooncuesta van Oedelem
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -55,7 +55,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kasteel
 
- 
+
 Kasteel van Prinseveld
 
 **Landbouwkundig erfgoed:**
@@ -64,12 +64,12 @@ Kasteel van Prinseveld
  * schuur
  * stal
 
- 
+
 Drongengoedhoeve, Porcelijnegoed, Papinglohoeve
 
 **Militair erfgoed:**
 
- 
+
 militair domein
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -81,7 +81,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Oostenrijkse periode
 
- 
+
 oude Gentweg
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -99,18 +99,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * blokvormig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 enkele kleine stukjes op het militair domein, zaadbank nog in de
 bossen aanwezig
 
@@ -123,7 +123,7 @@ bossen aanwezig
  * hooghout
  * struweel
 
- 
+
 **Andere:**
 militair domein
 
@@ -141,7 +141,7 @@ zonevreemde bedrijven.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied maakt deel uit van de cuesta van Oedelem - Zomergem. Vijf
 beken stromen door het gebied, in de winter zijn er stuwwatertafels,
 door de Bartoonklei veroorzaakt. Een Kwartaire mantel ontbreekt. Dit
@@ -176,7 +176,7 @@ een brede strook uit het bos snijdt.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Drongengoedbos situeert zich op de cuesta van Oedelem-Zomergem.
+Het Drongengoedbos situeert zich op de cuesta van Oedelem-Zomergem.
 Hier dagzoomt het Tertiair, meerbepaald de klei van Asse deeluitmakend
 van het Bartoon. De asymmetrische reliëfvorm vertoont een steilrand naar
 het zuiden (cuestafront) en een zacht afhellend gedeelte in noordelijke

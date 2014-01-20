@@ -19,24 +19,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Keibergkasteel
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -56,7 +56,7 @@ Keibergkasteel
  * ijskelder
  * kasteelgracht
 
- 
+
 Kasteel Keiberg
 
 **Bouwkundig erfgoed:**
@@ -64,21 +64,21 @@ Kasteel Keiberg
  * (heren)woning
  * villa
 
- 
+
 Windekekouter nr. 31 en 47 te Oosterzele
 
 **Molens:**
 
  * windmolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
- 
+
 kerk en pastorie van Oosterzele, Duivelskapel
 
  **Andere:**
@@ -92,7 +92,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -102,7 +102,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -114,26 +114,26 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 bij kasteel Keiberg
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * kouters
 
- 
+
 **Bos:**
 
  * loof
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -146,7 +146,7 @@ omgeven.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied is gelegen in de zandleemstreek, het heeft een zacht
 golvende topografie met verschillende beekvalleien. Een kleine beek
 loopt door het bos.
@@ -180,7 +180,7 @@ waterkasteel.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Dit gebied situeert zich tussen Oosterzele en Balegem. Op het
+Dit gebied situeert zich tussen Oosterzele en Balegem. Op het
 kasteelpark van Keiberg sluit het Ettingebos aan dat in de vallei van de
 Ettingebeek gelegen is. Ten zuiden van het Ettingebos bevindt zich de
 stokerij 'Van Damme' en ten westen en zuiden daarvan liggen twee kouters

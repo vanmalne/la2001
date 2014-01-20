@@ -16,13 +16,13 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 GEOMORFOLOGIE/HYDROGRAFIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * meander
  * oude rivierarm
 
- 
+
 oude Maasmeanders, Groenstraatbeek, Zijpbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -34,7 +34,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 o.a. Engelse hof
 
 **Nederzettingspatronen:**
@@ -52,7 +52,7 @@ omwalde stad met markplein
  * omheining
  * kasteelgracht
 
- 
+
 kasteel d'Aspremont-Lynden
 
 **Bouwkundig erfgoed:**
@@ -62,7 +62,7 @@ kasteel d'Aspremont-Lynden
  * herberg
  * afspanning
 
- 
+
 o.a. De Hoek, De Roomse Keizer, Het Posthuis, Gerechtshof
 
 **Landbouwkundig erfgoed:**
@@ -72,7 +72,7 @@ o.a. De Hoek, De Roomse Keizer, Het Posthuis, Gerechtshof
  * stal
  * wagenhuis
 
- 
+
 o.a. stadshoeven
 
 **Molens:**
@@ -80,7 +80,7 @@ o.a. stadshoeven
  * watermolen
  * windmolen
 
- 
+
 watermolen fragmentarisch bewaard, windmolen De Stormvogel (Boorsem)
 
 **Kerkelijk erfgoed:**
@@ -90,7 +90,7 @@ watermolen fragmentarisch bewaard, windmolen De Stormvogel (Boorsem)
  * klooster
  * pastorie
 
- 
+
 minderbroedersklooster en kerk, Sint-Pieterskerk
 
 **Klein historisch erfgoed:**
@@ -98,7 +98,7 @@ minderbroedersklooster en kerk, Sint-Pieterskerk
  * kruis
  * gedenkteken
 
- 
+
 o.a. perron
 
  **Archeologische elementen:**
@@ -116,14 +116,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * grachtenstelsel
  * lijnpad
 
- 
+
 restanten van het grachtenstelsel bij de omwalling, Zuid-Willemsvaart
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -134,7 +134,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -145,31 +145,31 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 grasland onder boomgaarden
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -183,7 +183,7 @@ Recente bebouwing levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Restanten van de vroegere Maasmeanders zijn herkenbaar zowel in de
 bedding van de Zijpbeek ten noorden, als ook in het landschap ten
 zuiden.
@@ -229,7 +229,7 @@ voor de opbouw van het landschap en de ligging en structuur van Rekem.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De vruchtbare Maasvallei heeft in de loop der tijden het ontstaan
+De vruchtbare Maasvallei heeft in de loop der tijden het ontstaan
 bewerkstelligd van talrijke nederzettingen, waarvan enkele uitgegroeid
 zijn tot een stedelijke kern, zoals Rekem. Restanten van de vroegere
 Maasmeanders zijn er herkenbaar zowel in de bedding van de Zijpbeek ten

@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -30,7 +30,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelpark, tuin bij de kerk
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -41,25 +41,25 @@ kasteelpark, tuin bij de kerk
  * omheining
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * stal
  * wagenhuis
 
- 
+
 **Militair erfgoed:**
 
  * fort
 
- 
+
 fort 5
 
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 kapel St.-Antonius de Eremijt
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -73,7 +73,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -82,7 +82,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 T-vormige kasteelvijver
 
 OPMERKINGEN EN KNELPUNTEN
@@ -97,7 +97,7 @@ verloren gegaan.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het bomenbestand van het domein 'Hof ter Linden' heeft een
 dendrologische waarde.
 Historische waarde:
@@ -130,7 +130,7 @@ de gemeente Edegem.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Domein hof ter Linden en fort V zijn gelegen op grondgebied van de
+Domein hof ter Linden en fort V zijn gelegen op grondgebied van de
 gemeente Edegem, in de rand van de stedelijke agglomeratie Antwerpen. De
 ankerplaats wordt begrensd door de J. De Roorestraat en Vestinglaan in
 het noorden, de Patronaatstraat, het rusthuis 'Immaculata, de R.

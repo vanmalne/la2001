@@ -21,14 +21,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
 
- 
+
 Grote Nete, Goorbeekloop, Varendonkse Loop
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -38,7 +38,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -47,7 +47,7 @@ Kasteelpark
  * toren
  * kasteelgracht
 
- 
+
 waterburcht, donjon, dienstgebouwen, kapel, brug
 
 **Landbouwkundig erfgoed:**
@@ -57,12 +57,12 @@ waterburcht, donjon, dienstgebouwen, kapel, brug
  * stal
  * wagenhuis
 
- 
+
 Kaaibeekhoeve
 
 **Kerkelijk erfgoed:**
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -74,7 +74,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -85,7 +85,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
@@ -93,7 +93,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * broek
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -106,7 +106,7 @@ typische bewoning naar eigentijdse en atypische bewoning.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De variatie in bodemklassen en reliëf binnen de beperkte oppervlakte
 van dit eerder smalle valleigebied, geven ontstaan aan een rijke flora.
 Het kasteeldomein vertegenwoordigt een aanzienlijke dendrologische
@@ -141,7 +141,7 @@ apart karakter.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Domein 'de Merode' situeert zich ten zuiden van het centrum van
+Domein 'de Merode' situeert zich ten zuiden van het centrum van
 Westerlo, in de vallei van de Grote Nete. Het wordt begrensd door de
 bebouwing van Westerlo in het noordwesten, de Grote Nete in het
 noordoosten, de Gooibeek in het oosten, de Varendonkse Steenweg in het

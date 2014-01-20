@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -27,19 +27,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 Hof ter Bruggen
 
 **Landbouwkundig erfgoed:**
@@ -57,14 +57,14 @@ Hof ter Bruggen
  * schuur
  * stal
 
- 
+
 Hof ter Bruggen
 
 **Molens:**
 
  * windmolen
 
- 
+
 Verrebeekmolen
 
 **Kerkelijk erfgoed:**
@@ -72,7 +72,7 @@ Verrebeekmolen
  * kapel
  * pastorie
 
- 
+
 Oude Pastorie
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -83,7 +83,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
  * verlaten spoorweg
@@ -96,7 +96,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -108,14 +108,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * onregelmatig
 
- 
+
 **Bos:**
 
  * loof
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -125,7 +125,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats is gelegen in de Vlaamse Ardennen op een uitloper
 van de getuigenheuvelrug. De bossen zijn voornamelijk in de diep
 ingesneden valleitjes aanwezig. Het is het brongebied van verschillende
@@ -160,7 +160,7 @@ Ronse- Zottegem loopt door het gebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats situeert zich op grondgebied van de gemeente Brakel.
+Deze ankerplaats situeert zich op grondgebied van de gemeente Brakel.
 De zuidelijke en westelijke grens wordt deels door de gewestgrens
 gevormd. Het is logisch dat de taalgrens gevormd wordt door de
 heuvelkammen met hun bossen. Ze waren immers een soort natuurlijke

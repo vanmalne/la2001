@@ -18,23 +18,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * kreek
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,14 +43,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 molenhof
 
 **Klein historisch erfgoed:**
 
  * grenspaal
 
- 
+
 **Archeologische elementen:**
 grafheuvel uit bronstijd in Nicasiuspolder
 
@@ -62,13 +62,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,7 +78,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -87,7 +87,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * weel
 
- 
+
 Bodemloze Put, Verzelesput
 
 **Topografie:**
@@ -95,19 +95,19 @@ Bodemloze Put, Verzelesput
  * blokvormig
  * onregelmatig
 
- 
+
 **Bos:**
 
  * loof
  * middelhout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -124,7 +124,7 @@ rioolwater.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze kreken zijn gelegen in het krekengebied van Zeeuws-Vlaanderen.
 Het zijn restanten van een oud krekenstelsel. Als gevolg van zware
 zeeoverstromingen schuurde het water de diepe geulen in de laaggelegen
@@ -154,7 +154,7 @@ bewoning is, op enkele hoeves na, aan de dijken gebonden (dijkhuisjes).
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het krekengebied van Assenede, in het noorden van de provincie
+Het krekengebied van Assenede, in het noorden van de provincie
 Oost-Vlaanderen, strekt zich uit tussen de Graaf- Jansdijk in het westen
 (hier Kapelledijk genoemd), de woonkern Assenede in het zuiden en de
 Nederlandse kernen Sas van Gent en Philippine respectievelijk ten oosten

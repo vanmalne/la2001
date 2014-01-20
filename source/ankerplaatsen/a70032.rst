@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,20 +29,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 getuigenheuvels
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
- 
+
 o.a. Zwarte Beek, Laarbeek, Gestel-Geeneikenbeek
 
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 beemden, hier broeken genoemd, verruigde hooilanden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -59,7 +59,7 @@ straatgehucht Gestelse Heide op interfluvium
 
  * watermolen
 
- 
+
 Gestelse molen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -70,17 +70,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 opstrekkend patroon van paden en wegen naar en door de vallei
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
  * stuw
 
- 
+
 stelsel van grachten en zijbeken in de broeken van de Zwarte
 Beekvallei
 
@@ -92,7 +92,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -107,18 +107,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * opstrekkend
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 beemden, hier broeken genoemd, akkers aan de valleirand
 
 **Bos:**
@@ -128,14 +128,14 @@ beemden, hier broeken genoemd, akkers aan de valleirand
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide
  * watering
 
- 
+
 voormalige, bevloeide waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -151,7 +151,7 @@ recente bebouwing levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het landschap strekt zich uit aan de rand van de Lage Kempen, tegen
 de getuigenheuvels die hier de overgang naar het Hageland aankondigen.
 Dergelijk overgangsgebied wordt gekenmerkt door een eigen dynamiek en is
@@ -186,7 +186,7 @@ de opbouw en organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Tussen Paal (Beringen) en Meldert (Lummen) ligt de brede middenloop
+Tussen Paal (Beringen) en Meldert (Lummen) ligt de brede middenloop
 van de Zwarte Beek. De vallei wordt hier eerst zeer breed om
 stroomafwaarts opnieuw smaller te worden, afhankelijk van de ruimte die
 de ijzersterke Diestiaan-zandsteenheuvels de beek laten. Hier liggen

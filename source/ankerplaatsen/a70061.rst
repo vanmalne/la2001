@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -36,7 +36,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark met arboretum, belvedère, Engelse tuin, Franse tuin,
 rozentuin
 
@@ -51,14 +51,14 @@ kasteeldorp
  * kasteel
  * muur
 
- 
+
 kasteel met dienstgebouwen, staatsieplein, hek en
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 o.a. kasteelhoeve, hoeves in Sint-Maartensstraat
 
 **Kerkelijk erfgoed:**
@@ -67,7 +67,7 @@ o.a. kasteelhoeve, hoeves in Sint-Maartensstraat
  * kapel
  * pastorie
 
- 
+
 Sint-Martinuskerk, Sint-Apolloniakapel, Sint-Jozefkapel
 
  **Archeologische elementen:**
@@ -83,7 +83,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -94,12 +94,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 historisch stabiel in omgeving van dorpskom en kasteeldomein,
 ruilverkaveling in ruimere omgeving
 
@@ -107,14 +107,14 @@ ruilverkaveling in ruimere omgeving
 
  * permanent grasland
 
- 
+
 graslanden nabij dorpssite, open akkerbouwgebied op leemplateau
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 wijnbouw
 
 **Bos:**
@@ -123,7 +123,7 @@ wijnbouw
  * hooghout
  * struweel
 
- 
+
 o.a. Grootbos, Heidebos, Kiezelingenbos
 
 OPMERKINGEN EN KNELPUNTEN
@@ -138,8 +138,8 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 De onmiddellijke omgeving van het kasteel met staatsieplein,
 trappartijen, erf van de hoeve en inkomdreef stamt uit de 18de eeuw,
@@ -169,7 +169,7 @@ verbindingsdreef met het Grootbos de voornaamste getuigen zijn.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Genoelselderen is een straatdorpje in het brongebied van de Demer. De
+Genoelselderen is een straatdorpje in het brongebied van de Demer. De
 oudste bewoningssporen van Genoelselderen dateren uit de Gallo-Romeinse
 tijd. In de vroege middeleeuwen vormde het met 's Herenelderen één
 domein, dat omstreeks 1200 in twee heerlijkheden werd gesplitst. Het

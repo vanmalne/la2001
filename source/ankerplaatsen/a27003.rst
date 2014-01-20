@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,13 +30,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 getuigenheuvels en ten zuiden van de vallei enkele depressies
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
- 
+
 o.a. Zwarte Beek, Bakelsbeek
 
 **Moerassige gronden:**
@@ -44,7 +44,7 @@ o.a. Zwarte Beek, Bakelsbeek
  * moeras
  * rietland
 
- 
+
 natte depressies, moeras, beemden, hier broeken genoemd, verruigde
 hooilanden
 
@@ -56,7 +56,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 o.a. kasteel Lobos, Geesthuis
 
 **Nederzettingspatronen:**
@@ -72,7 +72,7 @@ driehoekig plein in het straatdorp Zelem
  * landgoed
  * kasteelgracht
 
- 
+
 kasteel Lobos
 
 **Bouwkundig erfgoed:**
@@ -80,7 +80,7 @@ kasteel Lobos
  * (heren)woning
  * huis
 
- 
+
 o.a. Geesthuis
 
 **Landbouwkundig erfgoed:**
@@ -89,14 +89,14 @@ o.a. Geesthuis
  * schuur
  * stal
 
- 
+
 o.a. Eksterhoek, kasteelhoeve Lobos, Oude Pastorij
 
 **Militair erfgoed:**
 
  * schans
 
- 
+
 Oude Schans
 
 **Kerkelijk erfgoed:**
@@ -105,21 +105,21 @@ Oude Schans
  * klooster
  * pastorie
 
- 
+
 o.a. klooster Sint-Jansberg, Sint-Willibrorduskerk,
 Sint-Lambertuskerk met kerkhof
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
  * stuw
 
- 
+
 stelsel van grachten en zijbeken in de broeken van Demer en Zwarte
 Beek
 
@@ -131,7 +131,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -143,18 +143,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
 
- 
+
 beemden, hier broeken genoemd, akkers aan de valleirand,
 heiderelicten
 
@@ -162,7 +162,7 @@ heiderelicten
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -172,12 +172,12 @@ heiderelicten
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -194,7 +194,7 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het landschap strekt zich uit tussen de getuigenheuvels die hier als
 uitlopers van het Hageland aanwezig zijn, en ten zuiden van de vallei
 afwisselen met een aantal depressies. Het voorkomen van verschillende
@@ -238,7 +238,7 @@ en organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De benedenloop van de Zwarte Beek vloeit vanaf Meldert (Lummen) in
+De benedenloop van de Zwarte Beek vloeit vanaf Meldert (Lummen) in
 zuidwestelijke richting om voorbij Zelem (Halen) op te gaan in de vallei
 van de Demer. Ze vloeit daarmee pas samen nabij Diest. De beek kronkelt
 hier tussen steeds hogere getuigenheuvels, enkele malen inkrimpend tot

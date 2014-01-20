@@ -19,27 +19,27 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 bronnen
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -58,7 +58,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,14 +72,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * permanent grasland
  * kouters
 
- 
+
 **Bos:**
 
  * loof
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -89,7 +89,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Binnen het bos komen een aantal bronnen en kwelzones voor: men vindt
 er onder meer de typische soorten van de klasse van de
 brongemeenschappen. De bronniveaus vallen vermoedelijk samen met de
@@ -116,7 +116,7 @@ akkerland voor.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Steenbergse bossen zijn ten zuiden van Zottegem gelegen, op het
+De Steenbergse bossen zijn ten zuiden van Zottegem gelegen, op het
 grondgebied van de deelgemeenten Erwetegem en Sint- Goriks- Oudenhove.
 Dit gemengd bos- en landbouwgebied strekt zich uit langs de
 valleihellingen van de Erwetegemse beek (Traveinsbeek) en de

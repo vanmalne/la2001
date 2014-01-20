@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * rivier
  * beek
  * meander
 
- 
+
 o.a. Demer, Voortbeek en verschillende zijbeken
 
 **Moerassige gronden:**
@@ -37,7 +37,7 @@ o.a. Demer, Voortbeek en verschillende zijbeken
  * rietland
  * ven
 
- 
+
 valleibeemden van de Demer
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelpark 't Looi
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -59,7 +59,7 @@ kasteelpark 't Looi
  * kasteelgracht
  * waterput
 
- 
+
 kasteel 't Looi
 
 **Landbouwkundig erfgoed:**
@@ -69,14 +69,14 @@ kasteel 't Looi
  * stal
  * wagenhuis
 
- 
+
 o.a. kasteelhoeve 't Looi
 
 **Molens:**
 
  * watermolen
 
- 
+
 Grote Molen, Veldekemolen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -87,10 +87,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 tuinpaden, dreven en wegen van kasteeldomein 't Looi
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -99,7 +99,7 @@ tuinpaden, dreven en wegen van kasteeldomein 't Looi
  * grachtenstelsel
  * stuw
 
- 
+
 gekanaliseerde Demer, vijvercomplex, molens, stelsel van beken en
 grachten
 
@@ -111,7 +111,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -124,17 +124,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 hooi- en weiland van de Demerbroeken, graspartijen in het park
 
 **Bos:**
@@ -146,14 +146,14 @@ hooi- en weiland van de Demerbroeken, graspartijen in het park
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide
  * watering
 
- 
+
 beemden en bevloeiingen in de Demervallei
 
 OPMERKINGEN EN KNELPUNTEN
@@ -166,7 +166,7 @@ De recente bebouwing levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het kasteeldomein bezit een dendrologische waarde omwille van zijn
 omhaagde lanen, uitzonderlijke solitairen en tunnels.
 Historische waarde:
@@ -196,7 +196,7 @@ vallei van de Demer.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Kasteeldomein ‘t Looi is gelegen ten zuiden van de dorpskern van
+Kasteeldomein ‘t Looi is gelegen ten zuiden van de dorpskern van
 Lummen, op de noordelijke oever van de Demer. Morfologie noch
 bodemgebruik ondergingen tijdens de laatste eeuwen veel verandering en
 blijven in de huidige toestand duidelijk herkenbaar. Zoals voorheen is

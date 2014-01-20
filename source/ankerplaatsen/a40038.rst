@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * steilrand
@@ -27,21 +27,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 steilrand van de Schelde
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * vallei
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,7 +50,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * tuin
 
- 
+
 tuin van villa 'Het Kasteelke' en bij pastorie
 
 **Nederzettingspatronen:**
@@ -63,7 +63,7 @@ bewoning is parallel aan steilrand van de Schelde
 
  * villa
 
- 
+
 'het Kasteelke'
 
 **Landbouwkundig erfgoed:**
@@ -73,7 +73,7 @@ bewoning is parallel aan steilrand van de Schelde
  * stal
  * wagenhuis
 
- 
+
 Torenhoeve
 
 **Kerkelijk erfgoed:**
@@ -82,14 +82,14 @@ Torenhoeve
  * kapel
  * pastorie
 
- 
+
 kerk en pastorie van Heurne
 
 **Klein historisch erfgoed:**
 
  * kruis
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -99,14 +99,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -116,7 +116,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -129,12 +129,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * meersen
 
- 
+
 **Bos:**
 
  * loof
@@ -144,7 +144,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -158,7 +158,7 @@ worden (oxydatie van organisch materiaal).
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied is een deel van de Boven- Schelde dat uit brede alluviale
 vlakten bestaat.. Langs de rand van het Scheldealluvium komen zandige
 ruggen voor die het resultaat zijn van lokale verstuivingen tijdens
@@ -191,7 +191,7 @@ kleinschalig landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Schelde vallei van Heurne bevindt zich op de linkeroever van de
+De Schelde vallei van Heurne bevindt zich op de linkeroever van de
 Schelde, juist stroomafwaarts van Oudenaarde. Het historisch karakter
 van de Schelde vallei is goed bewaard. Het meersenlandschap is hier
 eerder gesloten door de aanwezigheid van perceelsrandbegroeiing. Het

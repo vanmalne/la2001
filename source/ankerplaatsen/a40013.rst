@@ -18,22 +18,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 **Geologie:**
 
- 
+
 moeraskalk
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -43,14 +43,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * waterput
 
- 
+
 waterput bij Kruiskapel
 
 **Militair erfgoed:**
 
  * verdedingingslinie
 
- 
+
 enkel een pad; ten oosten van de Kruiskapel ook een dijk. Linie
 dateert van 1702 (successieoorlog).
 
@@ -58,7 +58,7 @@ dateert van 1702 (successieoorlog).
 
  * kapel
 
- 
+
 Kruiskapel en 14 kruiswegkapelletjes
 
 **Klein historisch erfgoed:**
@@ -66,7 +66,7 @@ Kruiskapel en 14 kruiswegkapelletjes
  * kruis
  * eendenkooi
 
- 
+
 voor de Kruiskapel staat een kruis, resten van eendenkooi
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -77,8 +77,8 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -86,7 +86,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pompgemaal
  * grachtenstelsel
 
- 
+
 Koebrug (in1948 herbouwd na vernieling tijdens WOII)
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -97,7 +97,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -110,14 +110,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * blokvormig
  * onregelmatig
  * historisch stabiel
 
- 
+
 aan Kruiskapel: onregelmatige percelering/ Enkel Vettemeers en
 Heernisse historisch stabiel
 
@@ -125,7 +125,7 @@ Heernisse historisch stabiel
 
  * hoogstam
 
- 
+
 wijmen, populier
 
 **Bos:**
@@ -138,12 +138,12 @@ wijmen, populier
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -166,7 +166,7 @@ Kruiskapel bevindt zich in een ruilverkaveling.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied is in de Moervaartdepressie gelegen.In het laatglaciaal
 lag hier een erg groot meer.De moeraskalk (gyttja) is daar een restant
 van. Op de moeraskalk ligt een laag gliede (zeepklei).
@@ -211,7 +211,7 @@ akkers en weiden omgezet.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Waasland is een belangrijke natuurlandschappelijke eenheid in het
+Het Waasland is een belangrijke natuurlandschappelijke eenheid in het
 noordelijk zandig Vlaanderen tijdens de vroege Middeleeuwen. Meer dan de
 helft ervan werd bedekt door het zogenaamde Koningsforeest, dat door de
 Graaf van Vlaanderen beheerd werd. De grenzen van dit woud komen goed

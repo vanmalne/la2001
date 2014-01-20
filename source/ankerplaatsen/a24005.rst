@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,25 +29,25 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 bronnen
 
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,7 +56,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 Hof ten Steenborre
 
 **Nederzettingspatronen:**
@@ -73,7 +73,7 @@ nederzettingspatroon
  * schuur
  * stal
 
- 
+
 Verschillende (vierkant) hoeves die zich op plaatsen bevinden waar er
 tijdens Ferraris bos was.
 
@@ -81,7 +81,7 @@ tijdens Ferraris bos was.
 
  * kapel
 
- 
+
 Juffrouwkapel, Sint- Pauluskapel, Atembekekapel,…
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -93,7 +93,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
+
 Kasseiweg (Bosberg), Keltische weg
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -103,7 +103,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -116,22 +116,22 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 oud bos
 
 **Typische landbouwteelten:**
 
- 
+
 medische planten
 
 **Bos:**
@@ -140,7 +140,7 @@ medische planten
  * hakhout
  * middelhout
 
- 
+
 Bronbos
 
 OPMERKINGEN EN KNELPUNTEN
@@ -154,7 +154,7 @@ en verstoring van de rust.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze bossen zijn gelegen op de Moerbekeberg. Deze heuvel ligt in het
 overgangsgebied tussen de Vlaamse Ardennen en het Pajottenland.
 Dalletjes op de heuvel hebben een amfitheatervormig dalhoofd. Er zijn
@@ -198,7 +198,7 @@ amfitheatervormige dalhoofden; in of aan de rand van het bos.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Dit bossencomplex ten oosten van Onkerzele, en nog op Vlaams- Brabant
+Dit bossencomplex ten oosten van Onkerzele, en nog op Vlaams- Brabant
 op grondgebied van Galmaarden doorlopend, bestaat uit het Raspaillebos,
 Moerbekebos en het Karkoolbos. Deze bossen staan op de Ferrariskaarten
 iets uitgebreider naar het noorden en oosten toe. Het boscomplex maakte

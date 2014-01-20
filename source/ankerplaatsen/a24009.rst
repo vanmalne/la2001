@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -27,13 +27,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 Steense Meersbeek, Geerbeek, Molenbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -43,7 +43,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Waterkasteel van Moorsel
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -51,7 +51,7 @@ Waterkasteel van Moorsel
  * kasteel
  * kasteelgracht
 
- 
+
 Waterkasteel
 
 **Landbouwkundig erfgoed:**
@@ -60,13 +60,13 @@ Waterkasteel
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
  * abdij
 
- 
+
 Kluiskapel, Maria Mediatrix abdij, abdij van Affligem
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -77,7 +77,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Andere:**
 voormalig vliegveld
 
@@ -89,7 +89,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -100,17 +100,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Typische landbouwteelten:**
 
  * hop
 
- 
+
 **Bos:**
 
  * naald
@@ -118,7 +118,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -128,8 +128,8 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 De Sint-Pieters en Paulusabdij van Affligem werd in 1081 gesticht en
 werd gedurende haar geschiedenis verschillende malen vernield, de
@@ -174,7 +174,7 @@ Waterkasteel.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats situeert zich op grondgebied van de gemeenten Aalst
+Deze ankerplaats situeert zich op grondgebied van de gemeenten Aalst
 en Affligem. Op de grens van de provincies Oost- Vlaanderen en Brabant
 ligt de benedictijnerabdij van Affligem, weliswaar terug van weggeweest.
 Tot haar afschaffing in 1796 was ze eigenaar van een omvangrijk

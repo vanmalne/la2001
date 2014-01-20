@@ -20,17 +20,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
 
- 
+**Hydrografische Elementen:**
+
+
 poldergeleed, Zwaanhoekgeleed
 
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -39,7 +39,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 hoeve nabij Zandvoorde; kleinere hoeves
 
 **Militair erfgoed:**
@@ -47,17 +47,17 @@ hoeve nabij Zandvoorde; kleinere hoeves
  * bunker
  * verdedingingslinie
 
- 
+
 zgn. antitankgracht
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 grachten en poldergeleed
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -67,24 +67,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 veedrinkpoelen
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -107,7 +107,7 @@ wordt als storend ervaren in dit open landschap.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De oude polderafzettingen vormen het fysisch kader voor het
 landgebruik en de openheidsgraad van het landschap. Het gebied herbergt
 een rijke flora en (avi)fauna in het aaneengesloten graslandcomplex
@@ -135,7 +135,7 @@ wegen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten oosten van de weg tussen Zandvoorde (gem.
+Deze ankerplaats ligt ten oosten van de weg tussen Zandvoorde (gem.
 Oostende) en Oudenburg (gem. Oudenburg), ten westen van het kanaal
 Plassendale – Nieuwpoort en ten zuiden van de spoorlijn Oostende-Brugge.
 De ondergrond bestaat uit oude kleiplaatgronden en zandige sedimenten

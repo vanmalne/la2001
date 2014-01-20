@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 trappenprofiel
 
 **Macroreliëf:**
@@ -32,25 +32,25 @@ trappenprofiel
 
 Maasterrassen, steile dalhellingen, historische holle wegen
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * vallei
  * meander
 
- 
+
 Berwijn
 
 **Moerassige gronden:**
 
- 
+
 vochtig grasland
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 o.a. primaire gesteenten (harde kalksteen uit het Onder Carboon)
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -60,12 +60,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -74,15 +74,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 historische holle wegen
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
  * stuw
 
- 
+
 molensloot met stuw en zalmtrap
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -93,7 +93,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -104,31 +104,31 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 hellings- en valleigraslanden
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -143,7 +143,7 @@ geregeld afval gestort.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Berwijn is de enige vrij meanderende waterloop met zulk een groot
 debiet en met kenmerken van een bergrivier in Vlaanderen. Het dal van de
 Berwijn vormt de scheidingslijn tussen twee Maasterrassenmassieven. De
@@ -187,7 +187,7 @@ van het volledige gebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Berwijn, met zijn sterk meanderende bedding, ontspringt in de
+De Berwijn, met zijn sterk meanderende bedding, ontspringt in de
 omgeving van Aubel en mondt uit in de Maas bij de Belgisch-Nederlandse
 grens in Moelingen (Voeren). Het gemiddelde debiet bedraagt te Moelingen
 1 m³ per seconde, maar kan na hevige regen of tijdens dooiperioden

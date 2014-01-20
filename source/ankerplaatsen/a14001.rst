@@ -20,26 +20,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * kreek
 
- 
+
 de Schelde
 
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,7 +54,7 @@ Prosperdorp
 
  * (heren)woning
 
- 
+
 Enkele karakteristieke woningen te Lillofort.
 
 **Landbouwkundig erfgoed:**
@@ -62,19 +62,19 @@ Enkele karakteristieke woningen te Lillofort.
  * hoeve
  * schuur
 
- 
+
 Anoniushoeve, Prosperhoeve
 
 **Molens:**
 
  * windmolen
 
- 
+
 **Militair erfgoed:**
 
  * fort
 
- 
+
 Fort Lillo, Fort Liefkenshoek
 
 **Kerkelijk erfgoed:**
@@ -83,7 +83,7 @@ Fort Lillo, Fort Liefkenshoek
  * kapel
  * pastorie
 
- 
+
 St. -Engelbertus
 
 **Klein historisch erfgoed:**
@@ -91,7 +91,7 @@ St. -Engelbertus
  * gedenkteken
  * grenspaal
 
- 
+
 dorpspomp
 
  **Archeologische elementen:**
@@ -101,11 +101,11 @@ préhistorische werktuigen
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
 
- 
+
 **Andere:**
 greppelpatroon, overzet
 
@@ -116,7 +116,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 aanplantingen Lillofort
 
 **Lijnvormige elementen:**
@@ -129,19 +129,19 @@ aanplantingen Lillofort
 
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
  * uiterwaarden
  * buitendijks
 
- 
+
 Prosperpolder
 
  **Andere:**
@@ -161,7 +161,7 @@ buitendijkse gebieden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De slikken en schorren langsheen de schelde betreffen een
 onvervangbaar landschap- en vegetatietype gezien hun zeer specifieke
 milieuomstandigheden en trage ontwikkelingsproces. In vergelijking met
@@ -228,7 +228,7 @@ een in cultuur gebracht rivierlandschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats betreft het schorrengebied (Galgenschoor, Groot
+Deze ankerplaats betreft het schorrengebied (Galgenschoor, Groot
 Buitenschoor en Schorren van Doel) langsheen beide oevers van de Schelde
 ten noorden van Antwerpen tussen de grens met Nederland en het
 voormalige polderdorp Lillo. Daarnaast werd eveneens een gedeelte van

@@ -19,28 +19,28 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 bronnen
 
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,7 +49,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 Hof van Ransbeke, Hof Tortelboom
 
 **Landbouwkundig erfgoed:**
@@ -58,7 +58,7 @@ Hof van Ransbeke, Hof Tortelboom
  * schuur
  * stal
 
- 
+
 Hof te Ransbeke, Hof Tortelboom
 
 **Kerkelijk erfgoed:**
@@ -66,7 +66,7 @@ Hof te Ransbeke, Hof Tortelboom
  * kerk
  * pastorie
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -86,7 +86,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -99,13 +99,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
- 
+
 **Bos:**
 
  * loof
@@ -113,7 +113,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,7 +123,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Duivenbos, dat ten noordoosten van de dorpskern van Sint-
 Antelinks ligt, is bodemkundig in de leemstreek te situeren.
 Geomorfologisch betreft het een smal, diep ingesneden v- vormig,
@@ -154,7 +154,7 @@ Tortelboom. Het dorp Sint- Antelinks ligt bovenaan de heuvel.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats bevindt zich op grondgebied van Herzele, tussen Sint-
+Deze ankerplaats bevindt zich op grondgebied van Herzele, tussen Sint-
 Lievens- Essen en Sint- Antelinks. Door de ankerplaats stroomt de
 Ransbeek en Beverbeek. In de vallei, waar de percelen als grasland
 gebruikt worden, komen heel wat taluds voor. Op verschillende plaatsen

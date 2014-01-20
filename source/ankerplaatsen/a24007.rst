@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,24 +29,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * steilrand
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
  * meander
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
- 
+
 **Geologie:**
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -55,7 +55,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kapel
 
- 
+
 Sint- Amanduskapel
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -66,18 +66,18 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 autosnelweg
 
 **Spoorweg:**
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
  * lijnpad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -86,7 +86,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -97,36 +97,36 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 vijver ontstaan bij aanleg autosnelweg
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * meersen
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * watering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -143,7 +143,7 @@ spoordijken gehaald.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit is het laatste intacte overstromingsgebied van de Dender. De
 natuurlijke grens van de Wellemeersen worden door een talud van 2 meter
 hoog gevormd. Het gebied omvat een erosiewal, de ondoorlaatbare kleikom
@@ -196,7 +196,7 @@ loopt de autosnelweg.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Wellemeersen- Kapellemeersen situeren zich op grondgebied van Welle
+De Wellemeersen- Kapellemeersen situeren zich op grondgebied van Welle
 en Erembodegem. De Wellemeersen liggen op de linkeroever van de Dender,
 en worden in het noorden begrensd door de autosnelweg E 40, in het
 zuiden door de spoorlijn Brussel-Oostende, in het westen door de

@@ -20,13 +20,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 Vlemincksloop, Beemdenloop, peerloop, Waterstraatloop
 
 **Moerassige gronden:**
@@ -35,7 +35,7 @@ Vlemincksloop, Beemdenloop, peerloop, Waterstraatloop
  * veen
  * ven
 
- 
+
 slenken-bultenmoeras
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -44,12 +44,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * stuw
 
- 
+
 kanaal Dessel-Kwaadmechelen
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -67,19 +67,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
  * heide
 
- 
+
 **Bos:**
 
  * naald
@@ -87,7 +87,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * broek
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,7 +103,7 @@ de verlaten zandwinningsputten brengt verstoring in het gebied.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Buitengoor-Sluismeer betreft een gebied met een complexe structuur.
 De vegetatie is typisch voor een gradiëntmilieu, ontstaan door een
 contact van voedselarm en voedselrijk water. Deze specifieke situatie
@@ -151,7 +151,7 @@ daar door bomenrijen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats Buitengoor-Sluismeer is gelegen ten oosten van het
+De ankerplaats Buitengoor-Sluismeer is gelegen ten oosten van het
 centrum van de gemeente Mol, op de noordwestelijke flank van het
 Kempisch plateau. Aan de oostgrens wordt het gebied begrensd door de weg
 Balen-Postel, in het noordoosten door het 'Provinciaal domein

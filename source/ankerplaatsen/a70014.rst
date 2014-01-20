@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,17 +29,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 zacht glooiend reliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * vallei
 
- 
+
 Demer
 
 **Moerassige gronden:**
 
- 
+
 vochtige beemden
 
  **Andere:**
@@ -54,7 +54,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 Engels park, Franse tuin, voorhof van de landcommanderij
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -66,14 +66,14 @@ Engels park, Franse tuin, voorhof van de landcommanderij
  * omheining
  * kasteelgracht
 
- 
+
 Landcommanderij Alden Biezen
 
 **Bouwkundig erfgoed:**
 
  * (heren)woning
 
- 
+
 pachterswoning, rentmeesterswoning van de landcommanderij
 
 **Landbouwkundig erfgoed:**
@@ -82,28 +82,28 @@ pachterswoning, rentmeesterswoning van de landcommanderij
  * schuur
  * stal
 
- 
+
 neerhof, rentmeesterswoning van de landcommanderij
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 o.a. kapel van de landcommanderij
 
 **Klein historisch erfgoed:**
 
  * kruis
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
 
- 
+
 straalvormig drevenpatroon
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -114,7 +114,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -127,18 +127,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 grasland (onder boomgaarden), open akkers op hogere leemplateaus,
 vochtige beemden in vallei
 
@@ -146,14 +146,14 @@ vochtige beemden in vallei
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 o.a. parkbos, Winterbergbos
 
 OPMERKINGEN EN KNELPUNTEN
@@ -170,7 +170,7 @@ De recente bebouwing levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het uitgesproken reliëf met een kleinschalig bronnengebied en
 talrijke gradiënten is het gevolg van de zuidoost-noordwest verlopende
 scheiding tussen twee Haspengouwse leemplateaus.
@@ -216,7 +216,7 @@ factor.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Alden Biesen is gelegen aan de Kasteelstraat te Rijkhoven (Bilzen),
+Alden Biesen is gelegen aan de Kasteelstraat te Rijkhoven (Bilzen),
 een voormalig landbouwdorp. In 1220 werd door de abdis van Munsterbilzen
 en de graaf van Loon een kerkje met afhankelijkheden en akkers
 geschonken aan de Duitse orde, die er een commanderij oprichtte. De

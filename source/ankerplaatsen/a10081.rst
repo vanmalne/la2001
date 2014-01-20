@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -38,7 +38,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kapel
 
- 
+
 St.-Jozefkapel
 
  **Andere:**
@@ -54,7 +54,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -65,13 +65,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * plaggenbodems
  * heide
 
- 
+
 **Bos:**
 
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,7 +83,7 @@ Geen opmerkingen of knelpunten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats vertegenwoordigt een belangrijke geomorfologische
 waarde, die eveneens resulteert in een aanzienlijke biotische waarde. De
 stuifduinen geven immers een variatie aan bodemstructuren en
@@ -119,7 +119,7 @@ is bedekt met stuifzandduinen, waarvan de Hoge Mouw de opvallendste is.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Heuvelrug Kasterlee' situeert zich tussen de
+De ankerplaats 'Heuvelrug Kasterlee' situeert zich tussen de
 bewoningskernen van Lichtaart en Kasterlee in de centrale Antwerpse
 Kempen. Het wordt begrensd door de Olmenlaan, Kasterleesteenweg en
 Lichtaartsebaan in het noorden, de bebouwing van Kasterlee en de

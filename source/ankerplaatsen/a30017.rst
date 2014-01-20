@@ -22,18 +22,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 dekzandrug Gistel-Maldegem-Stekene-Verrebroek
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Veldbeek
 
 **Moerassige gronden:**
 
  * veen
 
- 
+
 zuidwesten rond voormalige pompstation
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -44,7 +44,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 bij de meeste kastelen nog vrij gaaf
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -58,12 +58,12 @@ bij de meeste kastelen nog vrij gaaf
  * kasteelgracht
  * waterput
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 hoeve St-Anna Ter Woestijn; hoeve Godts; hoeve Aandekooi
 
 **Kerkelijk erfgoed:**
@@ -72,7 +72,7 @@ hoeve St-Anna Ter Woestijn; hoeve Godts; hoeve Aandekooi
  * abdij
  * klooster
 
- 
+
 abdij van Zevenkerke met school en kapel
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -87,19 +87,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Kunstmatige waters:**
 
- 
+
 kasteelgrachten
 
 **Topografie:**
 
- 
+
 geometrisch
 
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 door beheer onderhouden nabij kast. Beisbroek
 
 **Bos:**
@@ -108,10 +108,10 @@ door beheer onderhouden nabij kast. Beisbroek
  * loof
  * hakhout
 
- 
+
 **Bijzondere waterhuishouding:**
 
- 
+
 voormalig pompstation voor drinkwater
 
 OPMERKINGEN EN KNELPUNTEN
@@ -133,7 +133,7 @@ de florarijkdom vaststelt.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De droge en arme zandgronden lagen aan de basis van dit veldgebied
 dat later bebost werd. Het bos accentueert het voormalige veldgebied en
 vormt door zijn grootte en omvang een waardevol biotoop rijk aan flora.
@@ -173,7 +173,7 @@ visuele begrenzing vormt van het zicht vanuit gebieden ten zuiden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt voor het grootste deel in de zuidwestelijke hoek
+Deze ankerplaats ligt voor het grootste deel in de zuidwestelijke hoek
 van Brugge en nog een klein stukje in de gemeente Zedelgem. In het
 zuiden valt de grens van de ankerplaats ongeveer samen met de
 gemeentegrens. In het oosten is de N32 Brugge-Torhout de grens die

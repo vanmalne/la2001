@@ -20,21 +20,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,33 +43,33 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 Kapel van Kolem
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,7 +78,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -87,24 +87,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 No
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -113,7 +113,7 @@ No
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,7 +126,7 @@ Antwerpen-Dendermonde.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Door de grote structurele diversiteit, de ongereptheid van een
 behoorlijke oppervlakte en de zuivere milieuomstandigheden,
 vertegenwoordigt dit gebied een hoge diversiteit aan fauna en flora. Een
@@ -161,7 +161,7 @@ Willebroek.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Kasteel van Kolem en de Moeren zijn gelegen in de gemeente Puurs
+Het Kasteel van Kolem en de Moeren zijn gelegen in de gemeente Puurs
 in Klein Brabant. De ankerplaats wordt in het noorden begrensd door de
 bebouwing van Sauvegarde, langs het oosten eveneens door bebouwing en
 een gracht, langs het zuiden door de spoorweg St.-Niklaas-Mechelen en

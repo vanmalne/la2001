@@ -20,23 +20,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 Hoge Vijversloop, Kijkverdrietloop, Mierdseloop, Molengoorloop0
 
 **Moerassige gronden:**
 
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -54,43 +54,43 @@ kasteelpark
  * boswachterswoning
  * waterput
 
- 
+
 Kasteel 'Den Tip'
 
 **Bouwkundig erfgoed:**
 
  * villa
 
- 
+
 Villa Meerhoef, portiershuis
 
 **Landbouwkundig erfgoed:**
 
  * wagenhuis
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 O.-L.-Vrouw-van -Lourdes kapel, Kapel ter Hoge Heide
 
 **Klein historisch erfgoed:**
 
  * standbeeld
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * brug
 
- 
+
 Kanaal Dessel-Schoten, Brug 6
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -106,7 +106,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 kasteelvijvers
 
 **Topografie:**
@@ -114,10 +114,10 @@ kasteelvijvers
  * blokvormig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -128,7 +128,7 @@ heiderelicten
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -141,7 +141,7 @@ ingepast te blijven.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Gedomineerd door naaldbossen, is het vooral de uitgestrektheid en het
 onbebouwde karakter van dit landschap dat het een aanzienlijke
 wetenschappelijke waarde geeft. Het is belangrijk als infiltratiegebied
@@ -193,7 +193,7 @@ rijksweg op Ravels.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Kwade Putten' is gelegen in de gemeente Arendonk in de
+De ankerplaats 'Kwade Putten' is gelegen in de gemeente Arendonk in de
 Antwerpse Noorderkempen. De begrenzing wordt gevormd door weg De
 Lusthoven, die samenvalt met de bosgrens in het noorden, de rijksgrens
 met Nederland in het oosten, de bewoning van Arendonk in het zuidoosten

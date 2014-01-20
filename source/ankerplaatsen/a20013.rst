@@ -20,13 +20,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * rivierduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -35,13 +35,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -51,7 +51,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -61,7 +61,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * kasteel
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -69,17 +69,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * stal
  * wagenhuis
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Militair erfgoed:**
 
  * verdedingingslinie
 
- 
+
 anti-tankgracht
 
  **Archeologische elementen:**
@@ -93,14 +93,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
  * grachtenstelsel
 
- 
+
 Oude Hansbrug
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -111,7 +111,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -124,24 +124,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * meersen
 
- 
+
 **Bos:**
 
  * loof
  * broek
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -154,7 +154,7 @@ en Rotselaar en tussen Betekom en Gelrode.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 In de Dijlebeemden liggen, naast talrijke sporen van afgesneden vrije
 meanders, een aantal fossiele meanders van de Dijle die dateren uit het
 Laatglaciaal. De oeverwallen langsheen de huidige Dijle zijn nadien
@@ -181,14 +181,14 @@ bomenrijen, houtkanten en hagen op de kavelgrenzen, de bloemrijke
 graslanden en laagveenvegetaties en een aantal monumentale gebouwen.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Dit gebied strekt zich in het noorden uit van Haacht tot Betekom bij
+Dit gebied strekt zich in het noorden uit van Haacht tot Betekom bij
 Aarschot en in het zuiden tot Wijgmaal bij Leuven. De Dijlebeemden
 bevatten nog sporen van meerdere paleomeanders. Langs de benedenlopen
 van Dijle, Demer en Laak (een oude Demerbedding) en langs de Leibeek

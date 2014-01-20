@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 valleigrenzen; langs hellingen bepaald door geologische gesteldheid
 
 **Macroreliëf:**
@@ -31,12 +31,12 @@ valleigrenzen; langs hellingen bepaald door geologische gesteldheid
 
 steilrand westelijke helling Mesen -Wijtschate
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Douvevallei; Haring-, Wijtschate-, Diependale, Stuiver-, Steen-,
 bollaert-, Rozebeek
 
@@ -44,7 +44,7 @@ bollaert-, Rozebeek
 
  * graften
 
- 
+
 bepaald door geologische gesteldheid
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -55,7 +55,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * bunker
  * verdedingingslinie
 
- 
+
 kraterlijn; ondergrondse gangen; kerkhoven
 
 **Kerkelijk erfgoed:**
@@ -63,7 +63,7 @@ kraterlijn; ondergrondse gangen; kerkhoven
  * kerk
  * kapel
 
- 
+
 Mesen en Wijtschate (!)
 
 **Klein historisch erfgoed:**
@@ -71,7 +71,7 @@ Mesen en Wijtschate (!)
  * kruis
  * gedenkteken
 
- 
+
 gedenktekens voor WOI (talrijke oorlogsmonumenten)
 
  **Archeologische elementen:**
@@ -84,7 +84,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * Romeinse weg
 
- 
+
 Cassel-kortrijk
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -104,7 +104,7 @@ begroeiing bij beken
 
  * vijver
 
- 
+
 kraterlijn
 
 **Bos:**
@@ -113,7 +113,7 @@ kraterlijn
  * loof
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -140,7 +140,7 @@ enkel sportvelden van de gemeente die niet passen binnen het landschap.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het reliëf en het hydrografisch net bepalen in belangrijke mate het
 landgebruik en hebben nog een grote gaaf- en natuurlijkheid. De heuvel
 van Wijtschate vormt een deel van het interfluvium tussen Ijzer- en
@@ -190,7 +190,7 @@ installaties en door de hoge ligging van dit complex.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats grenst in het zuiden aan Wallonië. De weg tussen
+Deze ankerplaats grenst in het zuiden aan Wallonië. De weg tussen
 Warneton, Mesen, Wijtschate (alle drie op grondgebied van gem.
 Heuvelland) en Hollebeke (gem. Ieper) vormt de oostelijke grens; in het
 westen valt de grens samen met de rand van de vallei van de Stuiverbeek

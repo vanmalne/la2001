@@ -20,19 +20,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * meander
 
- 
+
 Molenbeek, Dorebeek, Zwartengracht
 
 **Moerassige gronden:**
@@ -40,7 +40,7 @@ Molenbeek, Dorebeek, Zwartengracht
  * moeras
  * veen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -51,19 +51,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 Cottenmolen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -73,15 +73,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * sluis
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -104,24 +104,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
  * meersen
 
- 
+
 **Typische landbouwteelten:**
 
  * vlas
 
- 
+
 rooiputten aanwezig
 
 **Bos:**
@@ -132,7 +132,7 @@ rooiputten aanwezig
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -149,7 +149,7 @@ Apolloniabos van de rest van het gebied af.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het betreft hier een zwakgolvend reliëf op natte, alluviale gronden.
 Het gebied is op de overgangszone van de Leemstreek naar de
 Zandleemstreek gelegen. De Honegemdepressie is ontstaan door laterale
@@ -188,7 +188,7 @@ staan nog enkele gesloten hoeves is het gebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats bevindt zich tussen Lede en Aalst. Binnen deze
+Deze ankerplaats bevindt zich tussen Lede en Aalst. Binnen deze
 afbakening kan men drie delen onderscheiden: het gebied met als centrum
 het Honegemmoeras, het Solegembos en omgeving en het bosje en de
 omliggende gronden nabij de wijk Sint- Apollonia. Het landschap wordt

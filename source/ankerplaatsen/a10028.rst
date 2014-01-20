@@ -21,17 +21,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Bovenvliet, Hollebeek en Grote Struisbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -42,7 +42,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 Monnikenhof
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -55,7 +55,7 @@ Monnikenhof
  * ijskelder
  * kasteelgracht
 
- 
+
 dienstwoningen, serres, omheiningsmuur, brug
 
 **Landbouwkundig erfgoed:**
@@ -64,19 +64,19 @@ dienstwoningen, serres, omheiningsmuur, brug
  * stal
  * wagenhuis
 
- 
+
 **Militair erfgoed:**
 
  * schans
 
- 
+
 2 schansen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 Kapel bij Monnikenhof
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -86,14 +86,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 Geplaveide weg naar kasteel Cleydael
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -109,13 +109,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -139,7 +139,7 @@ inheemse boomsoorten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van deze ankerplaats wordt in de eerste
 plaats bepaald door de aanwezigheid van heel wat microreliëf, het
 voorkomen van talrijke kleine landschapselementen, alsook door de
@@ -182,7 +182,7 @@ kasteel Cleydael, op een eiland gevormd door de splitsing van de Vliet.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap gevormd door de domeinen 'Klaverblad' en 'Cleydael 'en
+Het landschap gevormd door de domeinen 'Klaverblad' en 'Cleydael 'en
 het 'Kasteel van Hemiksem' is gelegen op grondgebied van de gemeenten
 Aartselaar, Hemiksem en Wilrijk, net ten zuiden van de stedelijke
 agglomeratie Antwerpen. De begrenzing van deze ankerplaats wordt gevormd

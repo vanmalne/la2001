@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 houtwallen
 
 **Macroreliëf:**
@@ -29,19 +29,19 @@ houtwallen
 
 convexe interfluvia en asymmetrische dalen
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Dommel, Bollisserbeek, Peerderloop
 
 **Moerassige gronden:**
 
  * veen
 
- 
+
 laag- en hoogveen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -59,7 +59,7 @@ Frankische landname
  * (heren)woning
  * huis
 
- 
+
 Teutenhuizen
 
 **Landbouwkundig erfgoed:**
@@ -68,24 +68,24 @@ Teutenhuizen
  * schuur
  * stal
 
- 
+
 langgevelhoeves
 
 **Molens:**
 
  * watermolen
 
- 
+
 **Militair erfgoed:**
 
  * schans
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 talrijke veldkapellen
 
  **Archeologische elementen:**
@@ -98,16 +98,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
+
 **Spoorweg:**
 
  * verlaten spoorweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 diepe sloten als perceelsscheiding
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -118,7 +118,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -130,20 +130,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 vijvers, oorspronkelijk veenuitgravingen
 
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * voormalige communautaire akker
  * plaggenbodems
 
- 
+
 **Bos:**
 
  * naald
@@ -154,7 +154,7 @@ vijvers, oorspronkelijk veenuitgravingen
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -177,7 +177,7 @@ bepaalde perioden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het interfluvium tussen de Dommel en de Bollisserbeek enerzijds en
 tussen de Dommel en de Peerderloop anderzijds vertoont een convex
 relief. Samen met de asymmetrische dalvorming verleent dit de streek,
@@ -223,7 +223,7 @@ determinerend voor de opbouw van het omringende landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Rondom de samenvloeiing van de Dommel en de Bollisserbeek tussen Peer,
+Rondom de samenvloeiing van de Dommel en de Bollisserbeek tussen Peer,
 Wijchmaal en Kleine Brogel strekt zich een landschap uit dat in
 verschillende opzichten opmerkelijk is. Het gebied bevindt zich midden
 in de kwartaire overstromingsvlakte van de Maas. De Mindelafzettingen

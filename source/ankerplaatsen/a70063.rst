@@ -24,13 +24,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * steilrand
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
- 
+
 **Moerassige gronden:**
 
  * moeras
@@ -38,7 +38,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * rietland
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
@@ -58,12 +58,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * omheining
  * kasteelgracht
 
- 
+
 **Bouwkundig erfgoed:**
 
  * (heren)woning
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -71,17 +71,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * stal
  * wagenhuis
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Andere:**
 kluis op de Bolderberg
 
@@ -92,15 +92,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
  * stuw
 
- 
+
 vijvercomplex
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -111,7 +111,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -125,22 +125,22 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -149,7 +149,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -166,7 +166,7 @@ verstoring.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De getuigenheuvel van Bolderberg is een overblijfsel van een groot
 duinengebied. De ondergrond bestaat er o.a. uit de bruine Diestiaanse
 ijzerzandsteen. In combinatie met de natte laagtes in de beekvalleien
@@ -218,7 +218,7 @@ kasteeldomeinen van Vogelsanck en Terlaemen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het gebied is gelegen in het zuiden van de gemeente Heusden-Zolder en
+Het gebied is gelegen in het zuiden van de gemeente Heusden-Zolder en
 omvat grosso modo de getuigenheuvel van Bolderberg en de kasteeldomeinen
 van Vogelsanck en Terlaemen. De kasteeldomeinen liggen ten noordoosten
 en ten noorden van de heuvel in de vallei van de Laambeek en worden in

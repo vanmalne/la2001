@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Kopstraatbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -36,7 +36,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * orangerie
@@ -45,27 +45,27 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * muur
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * stal
  * wagenhuis
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,7 +75,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -85,14 +85,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -107,7 +107,7 @@ toeneemt.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Domein vordenstein omvat een zeer waardevol bomenbestand door de
 aanwezigheid van verschillende zeer oude solitaire exemplaren, alsook
 enkele merkwaardige exotische soorten. De oude bomen en het staand en
@@ -157,7 +157,7 @@ indrukwekkende boomgroepen en een vijver.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Domein Vordenstein is gelegen in de gemeente Schoten ten noordoosten
+Domein Vordenstein is gelegen in de gemeente Schoten ten noordoosten
 van de Antwerpse stedelijke agglomeratie. Eertijds behorende tot een
 uitgestrekt en ononderbroken groengebied, wordt het nu door de
 autosnelweg E19 Antwerpen-Breda, die de noordelijke grens uitmaakt,

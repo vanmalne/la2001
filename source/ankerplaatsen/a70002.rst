@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,18 +29,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 golvend reliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 kleinschalige vallei rond de Heerse of Veulense Beek, bovenloop van
 de Herk
 
 **Moerassige gronden:**
 
- 
+
 vochtige beemden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -51,7 +51,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelparken van Heers en Veulen
 
 **Nederzettingspatronen:**
@@ -66,7 +66,7 @@ hoopdorp Heers, kerndorp Veulen
  * landgoed
  * omheining
 
- 
+
 kastelen van Heers en Veulen
 
 **Bouwkundig erfgoed:**
@@ -74,7 +74,7 @@ kastelen van Heers en Veulen
  * (heren)woning
  * huis
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -82,7 +82,7 @@ kastelen van Heers en Veulen
  * stal
  * wagenhuis
 
- 
+
 o.a. de Heusch, kasteelhoeves
 
 **Kerkelijk erfgoed:**
@@ -92,7 +92,7 @@ o.a. de Heusch, kasteelhoeves
  * klooster
  * pastorie
 
- 
+
 o.a. St-Martinus, de Houten Lieve Heer, de Heusch, OLV, de Donnea,
 OLV Tenhemelopneming, St-Rochus
 
@@ -110,7 +110,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -124,29 +124,29 @@ gevlochten haag van Gele Kornoelje
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
- 
+
 vochtige beemden (veelal aangeplant met populieren)
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
 
- 
+
 kleine loofbosjes, aangrenzend populierenbossen
 
 OPMERKINGEN EN KNELPUNTEN
@@ -160,8 +160,8 @@ Noordwestelijk zijn serres gelegen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 Heers en Veulen situeren zich in de vallei van de Heerse of Veulense
 Beek, waarvan de beemden van oudsher als gemene weiden werden benut. De
@@ -200,7 +200,7 @@ Droog-Haspengouw.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Heers en Veulen ontstonden nabij de Heerse of Veulense Beek - één van
+Heers en Veulen ontstonden nabij de Heerse of Veulense Beek - één van
 de bovenlopen van de Herk -, die er het golvend open-field landschap van
 Droog-Haspengouw insnijdt. De oudste archeologica zijn van
 Gallo-Romeinse oorsprong. De Sint-Martinuskerk van Heers is een zeer

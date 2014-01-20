@@ -19,18 +19,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,18 +49,18 @@ protestantse gemeenschap
  * villa
  * herberg
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * klooster
 
- 
+
 tempel
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -74,7 +74,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -85,12 +85,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * kouters
 
- 
+
 **Andere:**
 kleine boomgaarden
 
@@ -105,7 +105,7 @@ gehucht aan.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De ankerplaats ligt in een sterk golvend landschap dat uit parallele
 ruggetjes bestaat. De tussengelegen valleitjes ontwateren in de
 Perlinckbeek.
@@ -139,7 +139,7 @@ parallel aan elkaar.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Korsele is een gehucht op grondgebied van Horebeke gelegen. Korsele is
+Korsele is een gehucht op grondgebied van Horebeke gelegen. Korsele is
 een Romaans toponiem uit de Merovingische periode afgeleid uit het
 latijn curticella (kleine hoeve). In het gehucht Corseele of Korsele, nu
 gevormd door Korsele, Koning Willemdreef en Abraham Hansstraat, bevindt

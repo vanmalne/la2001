@@ -21,20 +21,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -59,7 +59,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * muur
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -67,24 +67,24 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * stal
  * wagenhuis
 
- 
+
 **Militair erfgoed:**
 
  * motte
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
- 
+
 **Klein historisch erfgoed:**
 
  * schandpaal
 
- 
+
 **Archeologische elementen:**
 streek reeds ontgonnen in Gallo-Romeinse periode
 
@@ -97,7 +97,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Romeinse weg
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -107,7 +107,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -119,19 +119,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
  * bolle akkers
 
- 
+
 **Bos:**
 
  * loof
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -146,7 +146,7 @@ hoevecomplexen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De kasteekparken van Groenenberg, Gaasbeek en Budingen hebben een
 bijzondere dendrologische en, gezien hun voorjaarflora, ook floristische
 waarde.
@@ -173,14 +173,14 @@ staan open voor het publiek en op die manier een uitstekend idee kunnen
 krijgen over de 19 de eeuwse levenswijze van de adel. Een deel van de
 tuin is ingericht als educatieve moes- en fruittuin.
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het afgebakende gebied ligt ten oosten van Sint-Kwintens-Lennik en
+Het afgebakende gebied ligt ten oosten van Sint-Kwintens-Lennik en
 omvat de dorpskernen van Gaasbeek, Sint-Laureins-Berchem, Elingen en
 Oudenaken. De streek werd reeds ontgonnen in de Gallo-Romeinse periode.
 De vlakbij gelegen steenweg Asse - Edingen, ten westen van

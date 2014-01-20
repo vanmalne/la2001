@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -27,7 +27,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 bij kasteeldomein van Beervelde
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -37,7 +37,7 @@ bij kasteeldomein van Beervelde
  * omheining
  * ijskelder
 
- 
+
 **Andere:**
 stationsgebouw Beervelde
 
@@ -49,12 +49,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * brug
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,7 +64,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -74,13 +74,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * loof
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -90,8 +90,8 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 Het kasteeldomein gaat terug op een middeleeuws goed met omwalde
 motte met opperhof, neerhof en dreef, en bijhorende, verpachte gronden.
@@ -119,7 +119,7 @@ plantencollecties komen in het park voor.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- In de buurt van Lochristi ligt het kasteeldomein van Beervelde. Het
+In de buurt van Lochristi ligt het kasteeldomein van Beervelde. Het
 domein wordt in het noorden door de spoorlijn begrensd, in het zuiden
 door het dorp Beervelde, in het oosten door de Beerveldse Baan en in het
 westen grenst het domein aan akkers. Op de Ferrariskaart (ca. 1775)

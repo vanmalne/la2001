@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * kreek
 
- 
+
 Grote en Kleine Keignaert, Sluis- en Zoute kreek; geleden, Oude
 Straatkreek
 
@@ -33,7 +33,7 @@ Straatkreek
 
  * rietland
 
- 
+
 langs oevers van kreken en geleden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -43,10 +43,10 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 **Militair erfgoed:**
 
- 
+
 antitankgracht en restanten van verdedigingssites
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -58,14 +58,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 spoorlijn Oostende-Torhout; nu fiets- en wandelpad
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * sluis
  * grachtenstelsel
 
- 
+
 kan. Plassendale-Nieuwpoort
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -81,7 +81,7 @@ bomenrijen langs kanaal en dijken
 
  * onregelmatig
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ polderlandschap.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Brakwaterkreken met rietoevers met een grotendeels bewaard natuurlijk
 profiel en aanliggende rietgraslanden. Het voorkomen van zeldzame
 plantensoorten wijst op een hoge floristische waarde. Het open water en
@@ -125,7 +125,7 @@ begrenzing van de open ruimte door de begeleidende bomenrij.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats grenst aan ankerplaats A300N Zwaanhoek en bevat twee
+Deze ankerplaats grenst aan ankerplaats A300N Zwaanhoek en bevat twee
 krekenstelsels: de Keignaertkreek én de Zoute- en Sluiskreek. Ze ligt
 ten westen van de bebouwing van Zandvoorde (gem. Oostende), ten noorden
 van het kanaal Plassendale-Nieuwpoort en ten oosten van de dijk tussen

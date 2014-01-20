@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * landduin
@@ -30,7 +30,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -39,7 +39,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * (heren)woning
 
- 
+
 personeelswoningen met tuin
 
 **Landbouwkundig erfgoed:**
@@ -47,19 +47,19 @@ personeelswoningen met tuin
  * hoeve
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 kerkhof
 
 **Klein historisch erfgoed:**
 
  * grenspaal
 
- 
+
 **Archeologische elementen:**
 archeologische vondsten in de nabije omgeving
 
@@ -73,7 +73,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 rationeel, symmetrisch wegenpatroon
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -89,14 +89,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * heide
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -108,7 +108,7 @@ Geen opmerkingen of knelpunten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van Kolonie Wortel wordt voornamelijk
 bepaald door de afwisseling aan biotooptypes, de uitgestrektheid van het
 gebied, alsook de relatieve rust die er nog heerst. De dreven en
@@ -157,7 +157,7 @@ verschillende omgeving.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Kolonie Wortel is gelegen in de gemeente Hoogstraten in de Antwerpse
+Kolonie Wortel is gelegen in de gemeente Hoogstraten in de Antwerpse
 Noorderkempen. De voorgestelde ankerplaats grenst in het zuiden aan het
 landschap van de Kolonie van Merksplas en wordt verder ten noorden
 begrensd door de Nederlandse grens, ten westen door de gemeentegrens

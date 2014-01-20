@@ -21,20 +21,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -63,7 +63,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * omheining
  * kasteelgracht
 
- 
+
 moestuin, hondekennel (Lozer)
 
 **Bouwkundig erfgoed:**
@@ -73,7 +73,7 @@ moestuin, hondekennel (Lozer)
  * villa
  * herberg
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -81,13 +81,13 @@ moestuin, hondekennel (Lozer)
  * stal
  * wagenhuis
 
- 
+
 **Molens:**
 
  * watermolen
  * windmolen
 
- 
+
 Bekemolen
 
 **Kerkelijk erfgoed:**
@@ -96,7 +96,7 @@ Bekemolen
  * kapel
  * pastorie
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -106,7 +106,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -116,7 +116,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 Sint- Hilariuslinde
 
 **Lijnvormige elementen:**
@@ -133,19 +133,19 @@ Sint- Hilariuslinde
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * blokvormig
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
- 
+
 **Bos:**
 
  * naald
@@ -155,7 +155,7 @@ Sint- Hilariuslinde
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -171,7 +171,7 @@ momenteel afgeschermd door een haag op het kasteeldomein.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit complex van kouters en dorpjes is gelegen op de overgang van het
 zandig (Vlaamse Vallei) naar het lemig Leie-Scheldeinterfluvium, in een
 licht golvend landschap. De bossen van Lozer zijn nog in de zandstreek
@@ -219,7 +219,7 @@ kasteeldomeinen en de gave dorpjes is duidelijk te zien.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats is op grondgebied van de gemeente Kruishoutem
+Deze ankerplaats is op grondgebied van de gemeente Kruishoutem
 gesitueert. Het gebied heeft een zeer lange occupatiegeschiedenis met
 sporen vanaf het Neolithicum en belangrijke Gallo-Romeinse vestigingen.
 Talrijke Germaanse toponiemen wijzen op vroegmiddeleeuwse nederzettingen

@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 **Macroreliëf:**
 
  * heuvel
@@ -28,11 +28,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 interfluvium Vleterbeek - Heidebeek
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Bommelaarsbeek, Pokhanebeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -42,7 +42,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kapel
 
- 
+
 verspreid langs de wegen; Mariakapel bij Helleketelweg
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -65,13 +65,13 @@ dreef zuidoostelijke grens van de ankerplaats
 
  * hop
 
- 
+
 **Bos:**
 
  * naald
  * loof
 
- 
+
 bronbos
 
 OPMERKINGEN EN KNELPUNTEN
@@ -91,7 +91,7 @@ in deze beken met een gave natuurlijke loop.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De verscheidenheid van de geologische lagen geeft het onstaan aan
 bronnen rond deze asymmetrische heuvel die het interfluvium vormt tussen
 bekken van de Vleterbeek en de Heidebeek/Ijzer. De bronnen veroorzaken
@@ -127,7 +127,7 @@ die op hun beurt grotendeels van de geologische gesteldheid afhangen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt binnen de vierhoek gevormd door de dorpskern van
+Deze ankerplaats ligt binnen de vierhoek gevormd door de dorpskern van
 Abeele (Frankrijk), de Helhoek langs de weg tussen Abeele en Poperinge,
 Wolfshulle en de St-Bernardusbrouwerij (die niet tot de ankerplaats
 behoort). Ze ligt op de interfluviale kam tussen het bekken van de

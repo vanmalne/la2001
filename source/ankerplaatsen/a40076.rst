@@ -21,21 +21,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 bronnen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -47,12 +47,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,7 +62,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,7 +72,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -86,7 +86,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * permanent grasland
  * kouters
 
- 
+
 Beekbegeleidende bossen
 
 **Bos:**
@@ -95,7 +95,7 @@ Beekbegeleidende bossen
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -108,8 +108,8 @@ Hasseltbos in.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 Op de Ferrariskaart (ca. 1775) is het bos beperkt tot de vallei van
 de Parkbosbeek, er komen ook enkele weilanden voor. Vanaf Vandermaelen
@@ -135,7 +135,7 @@ graslanden komt wat perceelsrandbegroeiing voor.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt op het grondgebied van de gemeenten Ophasselt
+Deze ankerplaats ligt op het grondgebied van de gemeenten Ophasselt
 (Geraardsbergen) en Steenhuize- Wijnhuize (Herzele). Het gebied wordt
 sinds enkele jaren in twee gesneden door de aanleg van de autoweg N42.
 De vallei van de Parkbosbeek loopt centraal door het gebied. Het is een

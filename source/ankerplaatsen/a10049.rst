@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,14 +30,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 stuifzandduinen
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
  * oude rivierarm
 
- 
+
 Kleine Nete, Boterpottenloop, Langendonkloop, Kneutersloop
 
 **Moerassige gronden:**
@@ -46,7 +46,7 @@ Kleine Nete, Boterpottenloop, Langendonkloop, Kneutersloop
  * rietland
  * ven
 
- 
+
 Zwart Water, Lavendelven
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -56,7 +56,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kapel
 
- 
+
 kruisweg van 14 staties en 7 kapellen
 
  **Andere:**
@@ -65,11 +65,11 @@ ruïne van een bakstenen toren
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,7 +78,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -89,19 +89,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 Snepkesvijver
 
 **Topografie:**
 
  * opstrekkend
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 **Bos:**
 
  * naald
@@ -109,7 +109,7 @@ Snepkesvijver
  * broek
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -127,7 +127,7 @@ van de zandwegen is nog intact en moet dan ook worden behouden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats heeft een belangrijke geologische waarde als schakel
 in de duinenketen tussen Nijlen en Kasterlee, met een duidelijke
 steilrand naar de vallei van de Kleine Nete. De afwisseling van
@@ -173,7 +173,7 @@ waterlopen die uitmonden in de Aa.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Heuvelrug Herentals-Lichtaart met Netevallei' situeert
+De ankerplaats 'Heuvelrug Herentals-Lichtaart met Netevallei' situeert
 zich in de centrale kempen of het Neteland op grondgebied van de
 gemeenten Herentals en Kasterlee (Lichtaart). De begrenzing van het
 gebied wordt gevormd door de Poederleeseweg in het westen, Watervoort,

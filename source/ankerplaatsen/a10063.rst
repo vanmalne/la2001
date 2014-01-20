@@ -21,14 +21,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * heuvel
  * rivierduin
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -36,7 +36,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * vallei
  * oude rivierarm
 
- 
+
 Zenne, dijle, Nete, Langendonkbeek, Knopbeek, Tongkensloop, Heibeek,
 Driebroekloop
 
@@ -44,7 +44,7 @@ Driebroekloop
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,7 +54,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 moestuin, kasteelpark
 
 **Nederzettingspatronen:**
@@ -71,14 +71,14 @@ Zennegat
  * muur
  * kasteelgracht
 
- 
+
 Kasteel Tibur, Kasteel Battenbroek
 
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 sluiswachtershuis, rijhuisjes
 
 **Landbouwkundig erfgoed:**
@@ -88,26 +88,26 @@ sluiswachtershuis, rijhuisjes
  * stal
  * wagenhuis
 
- 
+
 Polderhoeve
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 Kapel van O.-L.-Vrouw
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
 
- 
+
 **Andere:**
 Leuvense Vaart
 
@@ -119,7 +119,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -131,7 +131,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 zandwinningsput
 
 **Topografie:**
@@ -139,21 +139,21 @@ zandwinningsput
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * loof
  * broek
  * struweel
 
- 
+
 vloedbossen
 
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -170,7 +170,7 @@ karakteristieke woningen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats vertoont een zeer grote verscheidenheid aan reliëf
 en bodemgesteldheid. Ten gevolge van de geleidelijke overgang van
 kleigronden, over drassige veenbodems naar droge zandgronden, heeft men
@@ -215,7 +215,7 @@ aan de verstedelijkte zone.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Zennegat en Battenbroek' is gelegen op grondgebied van
+De ankerplaats 'Zennegat en Battenbroek' is gelegen op grondgebied van
 de gemeenten Mechelen en Rumst aan de samenvloeiing van Zenne, Dijle en
 Nete in de Vlaamse Vallei. De begrenzing wordt gevormd door de
 Tiburstraat en de Nete in het noorden, de autosnelweg E19

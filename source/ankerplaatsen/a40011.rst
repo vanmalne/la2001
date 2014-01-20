@@ -18,24 +18,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * kreek
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
- 
+
 kwel
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -45,14 +45,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 Hoeve St- Elooi (1799)
 
 **Klein historisch erfgoed:**
 
  * grenspaal
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,13 +62,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
 
- 
+
 Sluis voorzien van steen met jaartal 1784
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -79,7 +79,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -90,7 +90,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * blokvormig
  * onregelmatig
 
- 
+
 **Bos:**
 
  * naald
@@ -99,12 +99,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -119,7 +119,7 @@ kreekhabitat. Gronden worden over een grote oppervlakte opgehoogd.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Sint- Elooiskreek is gelegen in krekengebied ten oosten van het
 kanaal Gent-Terneuzen, te noorden van de overgang naar de dekzandrug
 Maldegem - Stekene. Een groot aantal zeldzame en bedreigde
@@ -153,7 +153,7 @@ Nederland omgeven.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Sint- Elooispolder, op grondgebied van Wachtebeke, aan de
+De Sint- Elooispolder, op grondgebied van Wachtebeke, aan de
 Nederlandse grens gelegen, is een complex bestaande uit akkers en weiden
 die in 1676 werd ontgonnen. Sporadisch werden de kavelgrenzen afgezoomd
 met knotbomenrijen en Canadapopulieren. De dijken die deze polder

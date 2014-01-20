@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,13 +30,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 zuidwestelijke steilrand van het Kempens Plateau
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
- 
+
 o.a. Laambeek, Roosterbeek en Slangebeek
 
 **Moerassige gronden:**
@@ -46,7 +46,7 @@ o.a. Laambeek, Roosterbeek en Slangebeek
  * rietland
  * ven
 
- 
+
 vochtige graslanden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -65,26 +65,26 @@ Tenhaagdoorn
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 Oude of Genaderse molen, Korenmolen
 
 **Militair erfgoed:**
 
  * schans
 
- 
+
 Brelaarschans, Molenschans
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Archeologische elementen:**
 Mesolithische vondsten en polijststeen
 
@@ -95,21 +95,21 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
+
 wandel- en fietspaden
 
 **Spoorweg:**
 
  * verlaten spoorweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
  * stuw
 
- 
+
 molensloot, vijvercomplex
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -120,7 +120,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -134,18 +134,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
 
- 
+
 o.a. Molenheide, de Teut, Tenhaagdoornheide
 
 **Bos:**
@@ -157,13 +157,13 @@ o.a. Molenheide, de Teut, Tenhaagdoornheide
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
 
- 
+
 kleinschalige waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -185,7 +185,7 @@ gehouden met de omwonenden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het landschap strekt zich uit in de overgangszone tussen het Kempens
 Plateau en de Lage Kempen. Dergelijke overgangsgebieden worden
 gekenmerkt door een eigen dynamiek en zijn bijgevolg in geografisch
@@ -229,7 +229,7 @@ voor de opbouw en organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- In de gemeenten Houthalen en Zonhoven strekt zich een aaneengesloten
+In de gemeenten Houthalen en Zonhoven strekt zich een aaneengesloten
 heide- en bosgebied uit in de overgangszone tussen de Hoge en de Lage
 Kempen. Dergelijk overgangsgebied wordt gekenmerkt door een eigen
 dynamiek. Het is opmerkelijk omwille van zijn reliëf en het gevarieerde

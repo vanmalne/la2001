@@ -20,17 +20,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * kreek
 
- 
+
 Watergang van de Moerbekepolder, Grote Kreek en Pereboomsgat
 
 **Moerassige gronden:**
@@ -39,7 +39,7 @@ Watergang van de Moerbekepolder, Grote Kreek en Pereboomsgat
  * veen
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * grenspaal
 
- 
+
 langs de grens met Nederland bevinden zich verschillende grenspalen
 
  **Andere:**
@@ -63,18 +63,18 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
  * oude tramroute
 
 nu een betonweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
 
- 
+
 Papdijk, Oude Zeedijk
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -88,10 +88,10 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
- 
+
 akkers in polder
 
 **Bos:**
@@ -101,12 +101,12 @@ akkers in polder
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -127,7 +127,7 @@ kreekrestant.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze kreken zijn gelegen in krekengebied ten oosten van het kanaal
 Gent-Terneuzen, op de overgang naar de dekzandrug Maldegem - Stekene.
 Het gebied wordt door een grote vogelrijkdom gekenmerkt. Het stukje
@@ -160,7 +160,7 @@ met de vegetatie op het dijklichaam, begrenzen het zicht in de polders.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Krekengebied van Overslag- Zuiddorpe situeert zich ten oosten van
+Het Krekengebied van Overslag- Zuiddorpe situeert zich ten oosten van
 het kanaal Gent- Terneuzen, meer bepaald tussen Zelzate en Koewacht. Het
 heeft als noordelijke grens de Axelse linie met de voormalige forten en
 langs de zuidzijde wordt het begrensd door de dekzandrug van Zelzate-

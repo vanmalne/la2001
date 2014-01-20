@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * graft
  * talud
 
- 
+
 langs valleiranden en hellingen
 
 **Macroreliëf:**
@@ -34,7 +34,7 @@ langs valleiranden en hellingen
 
  * graften
 
- 
+
 langs hellingen veroorzaaakt door de lithologische ondergrond
 
  **Andere:**
@@ -52,7 +52,7 @@ dorpen op toppen van heuvels gelegen
  * hoeve
  * schuur
 
- 
+
 Westhof, allen in wederopbouwarchitectuur
 
 **Militair erfgoed:**
@@ -60,7 +60,7 @@ Westhof, allen in wederopbouwarchitectuur
  * bunker
  * motte
 
- 
+
 bij Westhof en elders in ankerplaats
 
 **Kerkelijk erfgoed:**
@@ -68,7 +68,7 @@ bij Westhof en elders in ankerplaats
  * kerk
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
  * standbeeld
@@ -76,7 +76,7 @@ bij Westhof en elders in ankerplaats
  * gedenkteken
  * grenspaal
 
- 
+
 ter herinnering aan WOI
 
  **Archeologische elementen:**
@@ -90,15 +90,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * Romeinse weg
 
- 
+
 Bellestraat (gem. Heuvelland)
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * sluis
  * stuw
 
- 
+
 Dikkebusvijver afgedamd met sluis in Vaubantoren
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -120,7 +120,7 @@ resten van bocagelandschap; grote soortenrijkdom aan knotbomen
  * poel
  * vijver
 
- 
+
 poelen door geologische gesteldheid; Dikkebusvijver
 
 **Topografie:**
@@ -128,7 +128,7 @@ poelen door geologische gesteldheid; Dikkebusvijver
  * blokvormig
  * historisch stabiel
 
- 
+
 in Douvevallei
 
 **Bos:**
@@ -139,7 +139,7 @@ in Douvevallei
  * middelhout
  * struweel
 
- 
+
 broek rond elzenwallewijk;
 
 OPMERKINGEN EN KNELPUNTEN
@@ -150,7 +150,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Vlaamse heuvelrij van Kemmel-, Scherpen- en Monteberg vormt de
 waterscheidingskam tussen twee grote rivierbekkens in Vlaanderen én
 tevens de bodemkundige grens tussen zandlemig- (ten noorden) en
@@ -232,7 +232,7 @@ verschillende landschappelijke en hydrografische eenheden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats strekt zich over de gemeentes Heuvelland en Ieper. Ze
+Deze ankerplaats strekt zich over de gemeentes Heuvelland en Ieper. Ze
 wordt in het westen begrensd door de Franse grens en door de weg van
 Dranouter-Loker-Poperinge. In het oosten vormt de weg vanaf de Franse
 grens over Nieuwkerke-Kemmel-Ieper de grens. De Dikkebusvijver is in het

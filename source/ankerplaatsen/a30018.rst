@@ -20,19 +20,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 typisch voor Oudlandpolder
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * kreek
 
- 
+
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 in verlande stukken van kreek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -44,28 +44,28 @@ stad Damme
 
 **Bouwkundig erfgoed:**
 
- 
+
 St-Janshospitaal
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 St-Christoffelhoeve, Hoeve Bonem
 
 **Molens:**
 
  * windmolen
 
- 
+
 Schellemolen
 
 **Militair erfgoed:**
 
  * verdedingingslinie
 
- 
+
 Vaubanvestingswallen bewaard
 
 **Kerkelijk erfgoed:**
@@ -73,20 +73,20 @@ Vaubanvestingswallen bewaard
  * kerk
  * kapel
 
- 
+
 kerk te Damme: toren met plat dak; kapel Ter Mikkem
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * brug
  * sluis
 
- 
+
 Damse Vaart in oude Zwingeul; o.a. Romboutswervedijk;
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -104,26 +104,26 @@ rond hoeves: bomenrijen; af en toe resten van perceelsrandbegroeiing
 
  * poel
 
- 
+
 veedrinkput
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 in de komgronden
 
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -140,7 +140,7 @@ en zou een beperking vormen van deze open ruimte.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Grote floristische en faunistische waarde van nat graslandgebied in
 polder. Oude stadswallen goed herkenbaar in het reliëf. Floristische
 waarde van de oude wallen : zeer waardevolle moeras- en
@@ -177,7 +177,7 @@ Damse Vaart zorgt voor afwatering van gebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt rond de stadskern van Damme en grenst aan
+Deze ankerplaats ligt rond de stadskern van Damme en grenst aan
 ankerplaatsen "Polders van Dudzele" , "Fort van Beieren" en "kreken
 Lapscheure". Ze ligt nagenoeg volledig in zgn. Oudland en toont nog het
 typisch grondgebruik gerelateerd aan de fysische structuur van

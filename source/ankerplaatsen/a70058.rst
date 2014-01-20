@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Cicindria, Melsterbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -37,7 +37,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 begijnhof, kastelen Nonnen-Mielen, Speelhof, Spinneveld, kasteel en
 pastorie Melveren
 
@@ -56,7 +56,7 @@ Melveren
  * omheining
  * kasteelgracht
 
- 
+
 kastelen Melveren, Nonnen-Mielen, Speelhof, Spinne
 
 **Bouwkundig erfgoed:**
@@ -65,21 +65,21 @@ kastelen Melveren, Nonnen-Mielen, Speelhof, Spinne
  * huis
  * herberg
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 o.a. begijnhof, De Nonnentap, Nonnen-Mielen
 
 **Molens:**
 
  * watermolen
 
- 
+
 Hornemolen, Metsterenmolen
 
 **Kerkelijk erfgoed:**
@@ -87,12 +87,12 @@ Hornemolen, Metsterenmolen
  * kerk
  * pastorie
 
- 
+
 o.a. Salvator Mundikerk, pastorie Melveren
 
 **Klein historisch erfgoed:**
 
- 
+
 o.a. "barriers", bruggen, hekwerk, muren
 
  **Andere:**
@@ -106,7 +106,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 parkpaden, toegangs- en rondwegen
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -117,7 +117,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -129,34 +129,34 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 historisch stabiel rond Metsteren
 
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 grasland onder boomgaarden en weiden langs Cicindria en Melsterbeek
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 parkbossen
 
 OPMERKINGEN EN KNELPUNTEN
@@ -174,8 +174,8 @@ voorzieningen als stadsbanken, speeltuigen en verlichting.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 Verschillende gehuchten hebben van oudsher gefungeerd als landelijk
 gebied buiten en tegen de stad. Daarin vormde het begijnhof Sint-Agnes
@@ -215,7 +215,7 @@ buitengebied aan de noordelijke, oprukkende stadsrand.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Verschillende gehuchten hebben van oudsher gefungeerd als landelijk
+Verschillende gehuchten hebben van oudsher gefungeerd als landelijk
 gebied buiten en tegen de stad Sint-Truiden. Het beschreven
 landschappelijk geheel, aaneengeregen langs de Cicindria en de
 Melsterbeek, neemt nog steeds ruimtelijk een bijzondere positie in als

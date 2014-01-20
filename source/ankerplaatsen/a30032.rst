@@ -20,11 +20,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 interfluvium tussen bekken Proversbeek en Velddambeek
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Leugaartsbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -34,7 +34,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 bij drie kast.; Engelse landschapsstijl
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -43,38 +43,38 @@ bij drie kast.; Engelse landschapsstijl
  * ijskelder
  * kasteelgracht
 
- 
+
 Rapenburg met ijskelder; beiden gracht
 
 **Bouwkundig erfgoed:**
 
  * villa
 
- 
+
 Villa Zorgvliet; kleine boskanterswoningen
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 bij kast. Rapenburg
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 vlakbij kast. Rapenburg
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 in bossen nog resten van grachten en singels
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -91,14 +91,14 @@ knotbomen bij weilanden
 
  * poel
 
- 
+
 veedrinkput
 
 **Topografie:**
 
  * blokvormig
 
- 
+
 geaccentueerd door dreven; langwerpige geometrische vorm
 
 **Bos:**
@@ -106,7 +106,7 @@ geaccentueerd door dreven; langwerpige geometrische vorm
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -128,7 +128,7 @@ stukje bos te behouden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De ankerplaats ligt op een klein interfluvium met een zandige
 ondergrond. Het is een oud veldgebied met relictvegetatie.
 Historische waarde:
@@ -152,7 +152,7 @@ drevenpatroon heeft een visueel-ruimtelijke begrenzende invloed.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten zuiden van Ruddervoorde (gem. Oostkamp) en
+Deze ankerplaats ligt ten zuiden van Ruddervoorde (gem. Oostkamp) en
 ten noorden van Zwevezele (gem. Wingene). In het noorden grenst ze aan
 enkele bedrijven rond St-hubertus (Ruddervoorde); in het oosten vormen
 de wegen nabij of langs de bosrand de grens. De zuidelijke grens is een

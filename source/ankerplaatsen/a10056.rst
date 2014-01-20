@@ -21,21 +21,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * vallei
  * meander
 
- 
+
 Molse Nete, Millegemloop
 
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,24 +56,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
  * opstrekkend
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
- 
+
 **Bos:**
 
  * broek
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -86,7 +86,7 @@ talrijke visvijvers.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Gelegen in de vallei van de nog sterk meanderende Molse Nete, wordt
 dit landschap gekenmerkt door talrijke overgangssituaties van nat naar
 droog. Daarnaast is er een grote dichtheid aan -vooral lijnvormige-
@@ -128,7 +128,7 @@ overgang naar grootschaliger landbouwgebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap Selguis/ Kievermontbroek is gelegen net ten oosten van
+Het landschap Selguis/ Kievermontbroek is gelegen net ten oosten van
 het centrum van Geel, in de vallei van de Molse Nete en op grondgebied
 van de gemeenten Geel en Mol. De begrenzing wordt gevormd door de wegen
 Kievermont en Voort in het noorden, het gehucht Ezaart in het oosten, de

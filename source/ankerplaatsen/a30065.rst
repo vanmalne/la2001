@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 typisch voor oudlandpolders
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -30,19 +30,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 kleinschalige hoeves
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * grachtenstelsel
 
- 
+
 Graaf Jansader
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -52,19 +52,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 veedrinkput
 
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ contrasteert met de openheid van de omgeving.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De ankerplaats vormt een gaaf en herkenbaar relict van het
 Oudlandpoldertype grenzend aan de Evendijk. De Oudemaarspolder en het
 duinengebied van de Fonteintejs vormen een landschappelijke sequentie
@@ -100,14 +100,14 @@ natuurreservaat "de Fonteintjes" wat de fysische relatie van duinen en
 polder ook visueel herkenbaar houdt.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten westen van de haven van Zeebrugge en ten
+Deze ankerplaats ligt ten westen van de haven van Zeebrugge en ten
 zuiden van ankerplaats “de Fonteintjes”. In het noorden wordt ze
 begrensd door de Graaf Jansader en in het zuiden door de weg die langs
 de Isabellavaart loopt volgens het tracé van de Graaf Jansdijk

@@ -21,8 +21,8 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -31,13 +31,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sas
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -60,7 +60,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -72,7 +72,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * loof
@@ -80,7 +80,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -95,7 +95,7 @@ relatie tussen de waterloop en haar vallei verbroken is.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van deze ankerplaats wordt in de eerste
 plaats bepaald door de nog steeds aanwezige typische kenmerken van een
 vallei van een Kempische laaglandbeek met kwelsituaties, natte weilanden
@@ -132,7 +132,7 @@ cluster wordt gevormd van waardevolle landschappen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap 'Dal van de kleine Nete' tussen Nijlen en Grobbendonk is
+Het landschap 'Dal van de kleine Nete' tussen Nijlen en Grobbendonk is
 gelegen op grondgebied van de gemeenten Nijlen, Grobbendonk en Viersel
 (Zandhoven) op de overgang van Centrale Kempen naar Zuiderkempen. De
 begrenzing van deze ankerplaats wordt gevormd door het Netekanaal en de

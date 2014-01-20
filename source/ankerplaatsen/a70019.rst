@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,19 +30,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 mijnterrils, duinreliëfs
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Lietenbeek, valleirand van de Bosbeek
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 oude gemeentelijke grindgroeve
 
  **Andere:**
@@ -55,7 +55,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * tuin
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -69,7 +69,7 @@ tuinwijken van Waterschei
  * huis
  * villa
 
- 
+
 tuinwijken met mijnwerkershuizen en villa's voor ingenieurs en
 directieleden
 
@@ -78,14 +78,14 @@ directieleden
  * kerk
  * klooster
 
- 
+
 o.a. parochiekerk Chrtistus-Koning
 
 **Klein historisch erfgoed:**
 
  * gedenkteken
 
- 
+
 gedenkteken André Dumont
 
  **Archeologische elementen:**
@@ -103,7 +103,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 o.a. André Dumontlaan, Onderwijslaan, lanen en wegen van de
 tuinwijken
 
@@ -121,7 +121,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -133,19 +133,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * blokvormig
 
- 
+
 bos- en landbouwontginningen
 
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 o.a. Heiderbos
 
 **Bos:**
@@ -156,7 +156,7 @@ o.a. Heiderbos
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -171,7 +171,7 @@ landschapswaarden, verdergezet worden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het duinenveld van de Klaverberg is in geomorfolgisch en
 natuurhistorisch opzicht belangrijk. Naast een relatief grote
 paraboolduin domineren langgerekte duinvormen, zuidwest-noordoost
@@ -222,7 +222,7 @@ oriënterend als mijngebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Tot begin 20ste eeuw was Waterschei een straatvormig gehucht ten
+Tot begin 20ste eeuw was Waterschei een straatvormig gehucht ten
 noordoosten van Genk. Nadat André Dumont anno 1901 in het aangrenzende
 As de eerste steenkool van de Kempen aanboorde, verkreeg de door hem
 gestichte maatschappij de concessie onder de omliggende gemeenten. In

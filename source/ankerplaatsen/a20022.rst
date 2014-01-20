@@ -21,20 +21,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,7 +43,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -53,19 +53,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kasteel
 
- 
+
 **Bouwkundig erfgoed:**
 
  * herberg
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Archeologische elementen:**
 Romeinse relicten
 
@@ -78,7 +78,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Romeinse weg
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -87,7 +87,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * perceelsrandbegroeiing
@@ -96,17 +96,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -118,7 +118,7 @@ Verspreide bebouwing, vooral in de zone Putberg-Asbeek
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 . In oude steengroeve komt een interessante (bron)bosvegetatie voor.
 Historische waarde:
 In het gebied werden Romeinse vondsten gedaan, sporen gevonden van
@@ -128,14 +128,14 @@ Esthetische waarde: Een bebost gebied met heel wat variatie; bos,
 kasteeltuin, sterke reliëfverschillen en panorama's.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Putberg ligt ten westen van Asse, dat een rijk verleden heeft als
+Putberg ligt ten westen van Asse, dat een rijk verleden heeft als
 knooppunt van Romeinse verkeerswegen, waaronder de heerbaan naar Bavay.
 In het landschap zijn nog talrijke vergravingen en
 verdedigingsstrukturen terug te vinden. In het gehucht Kalkoven werden

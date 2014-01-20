@@ -16,11 +16,11 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 GEOMORFOLOGIE/HYDROGRAFIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -29,38 +29,38 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Engels landschapspark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
  * boswachterswoning
 
- 
+
 paviljoen, botenhuis
 
 **Bouwkundig erfgoed:**
 
  * (heren)woning
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Militair erfgoed:**
 
  * bunker
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -69,14 +69,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * verlaten spoorweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * brug
  * grachtenstelsel
  * stuw
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -86,7 +86,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -95,14 +95,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -118,7 +118,7 @@ patrimonium is uitermate gewenst en mag dan ook niet belemmerd worden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De geleidelijke overgang van zand- naar lemige zandgronden met
 verschillende vochtigheidsgradiënten heeft een grote vegetatiekundige
 diversiteit tot gevolg. Het gebied heeft bovendien een hoge
@@ -165,7 +165,7 @@ provincie Antwerpen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- 'Domein Oude Gracht' is gelegen op grondgebied van de gemeenten
+'Domein Oude Gracht' is gelegen op grondgebied van de gemeenten
 Brasschaat en Kapellen in de Antwerpse Noorderkempen. De begrenzing van
 deze ankerplaats komt overeen met de grenzen van het voormalige
 'Bunge-domein' (situatie begin 20ste eeuw) en wordt gevormd door de

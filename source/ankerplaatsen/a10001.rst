@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -32,7 +32,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * veen
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -41,16 +41,16 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * landgoed
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 Turfvaart
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -64,18 +64,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * turfput
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -90,7 +90,7 @@ inpassing in het landschap is gewenst.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het zuidelijke deel van 'De Nol' sluit aan bij de Kalmthoutse Heide
 en dit zowel wat betreft vegetatiestructuur als landschappelijk. Het
 geheel wordt gekarakteriseerd door een rijke diversiteit in structuur en
@@ -124,7 +124,7 @@ alsook de blokvormige perceelsstructuur van de naaldhoutcomplexen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap van 'De Nol' is gelegen op grondgebied van de gemeenten
+Het landschap van 'De Nol' is gelegen op grondgebied van de gemeenten
 Kalmthout en Essen in het noorden van de Antwerpse Kempen. De begrenzing
 van deze ankerplaats wordt gevormd door de Huybergsebaan in het noorden,
 Noordeind in het oosten, de Kalmthoutse Heide in het zuiden en de

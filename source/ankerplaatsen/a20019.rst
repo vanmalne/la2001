@@ -21,22 +21,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,7 +47,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -57,12 +57,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -71,7 +71,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -82,12 +82,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * historisch stabiel
  * bolle akkers
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * kouters
 
- 
+
 No
 
 **Bos:**
@@ -96,7 +96,7 @@ No
  * hakhout
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -109,7 +109,7 @@ Kloosterberg evenals in het zuiden vanuit Assent (Papenbroek).
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De beemden langs de Begijnenbeek en het Gasthuisbos herbergen een
 uitzonderlijke flora.
 Historische waarde:
@@ -120,14 +120,14 @@ laagstam boomgaarden, bos en holle wegen, met een wijds panorama op de
 omgeving waaronder Diest en de Begijnenbeek vanop de Kloosterberg.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Begijnenbeek behoort tot het Demerbekken. In deze ankerplaats wordt
+De Begijnenbeek behoort tot het Demerbekken. In deze ankerplaats wordt
 het deel van de vallei ten zuidwesten van Diest in aanmerking genomen.
 De Kloosterberg is een getuigeheuvel uit het Diestiaan. De Begijnenbeek
 maakt mogelijk deel uit van een voormalige fossiele vallei die zou

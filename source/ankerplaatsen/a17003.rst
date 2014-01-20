@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,26 +30,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 o.a. Houterenberg, Weefberg, Zandberg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 o.a. Gerhagenloop, Heideloop
 
 **Moerassige gronden:**
 
  * ven
 
- 
+
 o.a. Pinnekenswijer
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 **Andere:**
 stuifzand
 
@@ -61,7 +61,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 abdijtuin, Mariapark
 
 **Landbouwkundig erfgoed:**
@@ -71,21 +71,21 @@ abdijtuin, Mariapark
  * stal
  * wagenhuis
 
- 
+
 o.a. abdijhoeve, Bierhoeve, De Eik
 
 **Molens:**
 
  * windmolen
 
- 
+
 o.a. Oude Molen (Achterheide), restanten Oude Molen (Houterenberg)
 
 **Militair erfgoed:**
 
  * schans
 
- 
+
 Gerhagenschans
 
 **Kerkelijk erfgoed:**
@@ -96,13 +96,13 @@ Gerhagenschans
  * klooster
  * pastorie
 
- 
+
 o.a. abdij van Averbode, Mariapark, kapel Onze-Lieve-Vrouw van Zeven
 Weëen
 
 **Klein historisch erfgoed:**
 
- 
+
 o.a. graven van Ernest Claes en Armand Boni, muren, poorten
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -113,7 +113,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 straalvormig patroon rond centrale abdij
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -124,7 +124,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -136,23 +136,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -160,7 +160,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 o.a. Averbodebos, Averbodeheide, Houterenberg, Nac
 
 OPMERKINGEN EN KNELPUNTEN
@@ -175,7 +175,7 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het landschap strekt zich uit tussen de getuigenheuvels die hier als
 uitlopers van het Hageland aanwezig zijn, op de overgang naar de Kempen.
 Dergelijk overgangsgebied wordt gekenmerkt door een eigen dynamiek. Het
@@ -225,7 +225,7 @@ bossen zijn door hun uitgestrektheid uniek voor deze regio.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De abdij van Averbode ligt op het grondgebied van drie gemeenten en
+De abdij van Averbode ligt op het grondgebied van drie gemeenten en
 provincies: Scherpenheuvel-Zichem (Vlaams-Brabant), Tessenderlo
 (Limburg) en Laakdal (Antwerpen). Reeds in de middeleeuwen lag de abdij
 op de grens van twee vorstendommen: het hertogdom Brabant en het

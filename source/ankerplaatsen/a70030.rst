@@ -21,18 +21,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Cicindria of Molenbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -43,7 +43,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteel en pastorie van Kerkom, Wit kasteel
 
 **Nederzettingspatronen:**
@@ -60,7 +60,7 @@ kerndorp Kerkom, gehucht Straten
  * landgoed
  * omheining
 
- 
+
 kasteel van Kerkom (Alstergoed of Rood kasteel), W
 
 **Landbouwkundig erfgoed:**
@@ -70,25 +70,25 @@ kasteel van Kerkom (Alstergoed of Rood kasteel), W
  * stal
  * wagenhuis
 
- 
+
 o.a. hoeve Wit kasteel, Engelbos
 
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * pastorie
 
- 
+
 Sint-Martinuskerk, deels afgebrand in 1975
 
 **Klein historisch erfgoed:**
 
- 
+
 hekwerk aan toegangen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -99,7 +99,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 restanten van oude wegen en padenpatroon in kasteelpark Kerkom
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -110,7 +110,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -122,34 +122,34 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 historisch stabiel rond Cicindria tussen Bevingen en Kerkom
 
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 grasland onder boomgaarden, traditioneel open akkerbouwlandschap
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 bossen op de rand van Keelberg en Bosberg
 
 OPMERKINGEN EN KNELPUNTEN
@@ -169,8 +169,8 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 Het landgebruik is traditioneel Droog-Haspengouws: kernen en hoeven
 in de beekvallei, doorsneden door holle wegen, met errond boomgaarden,
@@ -203,7 +203,7 @@ was bepalend voor de traditionele landschapsopbouw.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Ten zuiden van Sint-Truiden ligt de Cicindria(beek) ingesneden in het
+Ten zuiden van Sint-Truiden ligt de Cicindria(beek) ingesneden in het
 Haspengouws leemplateau met zijn open-field landschap van vruchtbare
 akkers. De asymmetrische valleihellingen zijn doorsneden door holle
 wegen. De oorspronkelijke kerndorpen en traditioneel gesloten hoeven,

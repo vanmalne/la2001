@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 langs wegen en hellingen
 
 **Macroreliëf:**
@@ -30,11 +30,11 @@ langs wegen en hellingen
 
 interfluvium Ijzer en Schelde-Leie
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Bassevillebeek, Vijverbeek, Drieblotenbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -44,31 +44,31 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 Pollepelhof en Lindenhof met chicorei-ast
 
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
- 
+
 Godschalk en Catalunya
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 **Militair erfgoed:**
 
- 
+
 restanten loopgraven, kerkhoven, hill62
 
 **Klein historisch erfgoed:**
 
  * gedenkteken
 
- 
+
 oorlogsmonumenten
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -92,7 +92,7 @@ als perceelsrandbegroeiing, toegangsdreef kerkhof, dreven in bossen
  * loof
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -114,7 +114,7 @@ eigenheid en de esthetische waarde van de streek te versterken.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankeprlaats ligt rond het interfluvium tussen Ijzer- en
 Schelde-Leiebekken. Het reliëf en de hydrografie bepalen nog in grote
 mate het landgebruik. Deze kam wordt door talrijke bronnen aangesneden
@@ -149,7 +149,7 @@ de boscomplexen voor een viuseel-ruimtelijek compartimentering.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt tussen de Meense Weg van Ieper naar Menen, en de
+Deze ankerplaats ligt tussen de Meense Weg van Ieper naar Menen, en de
 Komense Weg van Ieper naar Komen. Ze ligt gedeeltelijk op grondgebied
 van Zillebeke (gem. Ieper) en Geluveld (gem. Zonnebeke). Het landschap
 in de ankerplaats wordt gestructureerd door de interfluviale kam tussen

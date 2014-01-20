@@ -20,13 +20,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Itterbeek
 
 **Moerassige gronden:**
@@ -34,7 +34,7 @@ Itterbeek
  * moeras
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,14 +46,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * muur
  * omheining
 
- 
+
 kasteel De Oude Kuil
 
 **Molens:**
 
  * watermolen
 
- 
+
 Keyaertmolen en Galdermansmolen.
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -64,17 +64,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 grotendeels historisch stabiel wegenpatroon
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
  * stuw
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -84,7 +84,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -98,19 +98,19 @@ spinnewebstructuur
 
  * poel
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
  * heide
 
- 
+
 vochtig hooi- en weiland
 
 **Bos:**
@@ -122,12 +122,12 @@ vochtig hooi- en weiland
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -150,7 +150,7 @@ bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het zwak tot zeer zwak golvend microreliëf is gevormd in een laag
 dekzand. Omwille van het zwak reliëf en de daarmee gepaard gaande
 gebrekkige ontwatering is het gebied van nature drassig. Bovendien komen
@@ -191,7 +191,7 @@ grens bleef De Brand al die tijd vrij gaaf behouden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De landelijke omgeving rond de Brand is gelegen in het grensgebied van
+De landelijke omgeving rond de Brand is gelegen in het grensgebied van
 de gemeenten Bree, Kinrooi en Maaseik. Ten noorden loopt de Itter- of
 Tongerlose Beek als een centrale as doorheen het gebied. In feite
 verdeelt zij het gebied in een noordelijk deel, behorend tot De Basdonk

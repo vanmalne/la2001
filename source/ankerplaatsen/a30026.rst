@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 deels aan ontvening te wijten, deels natuurlijk
 
 **Macroreliëf:**
@@ -29,14 +29,14 @@ deels aan ontvening te wijten, deels natuurlijk
 
 overgang polder/ijzerbroeken - zandleemgebied
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
  * vallei
  * oude rivierarm
 
- 
+
 Ijzer en met zijbeken, vaarten, kanalen; Dode Ijzer bij Elzendamme
 
 **Moerassige gronden:**
@@ -45,7 +45,7 @@ Ijzer en met zijbeken, vaarten, kanalen; Dode Ijzer bij Elzendamme
  * veen
  * rietland
 
- 
+
 Blankaart
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -55,7 +55,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 bij Blankaartkasteel
 
 **Nederzettingspatronen:**
@@ -69,28 +69,28 @@ fintele
  * kasteel
  * toren
 
- 
+
 kasteel Blankaart
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 Pollinkhof bij Pollinkhove
 
 **Militair erfgoed:**
 
  * fort
 
- 
+
 Vaubanvestingresten rond Knokkebrug; Ijzertoren
 
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 kerk Pollinkhove
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -100,10 +100,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * Oostenrijkse periode
 
- 
+
 vlakbij Elzendamme
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -111,7 +111,7 @@ vlakbij Elzendamme
  * sluis
  * grachtenstelsel
 
- 
+
 dijk bij Ijzer; sluizen op Lovaart en Ijzer ter hoogte van Fintele;
 grachten
 
@@ -129,7 +129,7 @@ bomenrij langs Lovaart en Ijzer; zeldzame resten van knotbomenrij
 
  * turfput
 
- 
+
 blankaart
 
 **Topografie:**
@@ -137,7 +137,7 @@ blankaart
  * repelvormig
  * historisch stabiel
 
- 
+
 repelvormig rond Blankaart tot Noordschote; elders geometrisch en
 historisch stabiel
 
@@ -145,20 +145,20 @@ historisch stabiel
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * loof
  * broek
 
- 
+
 rond Blankaart
 
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -182,7 +182,7 @@ die in dit vlakke en open landschap een belemmering vormt.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het geopatromonium van venige en kleiige afzettingen in de ondergrond
 herinnert aan de mariene/estuariene invloed in de Ijzervallei en de
 zijvalleien (zoals Kemmelbeek, Blankaart en Ieperlee). De Ijzervallei
@@ -272,7 +272,7 @@ open landschap een baken voor de omgeving ten noorden van Knokkebrug.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats strekt zich uit van de Ijzertoren in Diksmuide, naar
+Deze ankerplaats strekt zich uit van de Ijzertoren in Diksmuide, naar
 de Blankaart en naar de Ijzerbroeken , tot Elzendamme (gem. met een
 uitloper in noordelijke richting langs de Lovaart tot Pollinkhove. Ze
 ligt in de gemeenten Diksmuide, Houthulst en Lo-Reninge. De Ijzer vormt

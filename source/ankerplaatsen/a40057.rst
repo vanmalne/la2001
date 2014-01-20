@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 Molenvaardeke
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -37,7 +37,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -50,12 +50,12 @@ Doornzeledries
 
  * kasteel
 
- 
+
 **Molens:**
 
  * windmolen
 
- 
+
 Oude Molen van Doornzele
 
 **Kerkelijk erfgoed:**
@@ -63,7 +63,7 @@ Oude Molen van Doornzele
  * kerk
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -73,7 +73,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,7 +83,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -93,19 +93,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 vijver in kasteelpark
 
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * voormalige communautaire akker
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -125,8 +125,8 @@ dient goed beheerd te worden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 Het gehucht Doornzele is één der oudste nederzettingen van Evergem,
 en zou etymologisch wijzen op een Frankische hoeve (sala) in een
@@ -155,14 +155,14 @@ landelijke rust. Centraal domineert de Sint-Petrus en Pauluskerk. De
 westzijde wordt beheerst door de molenwal met bakstenen molenromp.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Doornzeledries vormt het centrum van Doornzele, bij Evergem.
+De Doornzeledries vormt het centrum van Doornzele, bij Evergem.
 Etymologisch zou Doornzele wijzen op een Frankische hoeve (sala) in een
 doornige streek. In het charter van 966, waarin koning Lotharius de
 bezittingen van de Sint-Baafsabdij erkende, werd Doornzele reeds

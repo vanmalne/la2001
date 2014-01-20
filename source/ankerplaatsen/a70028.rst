@@ -20,18 +20,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 o.a. Gortenloop, Gortenbuitenloop, Holvense Beek
 
 **Moerassige gronden:**
@@ -40,7 +40,7 @@ o.a. Gortenloop, Gortenbuitenloop, Holvense Beek
  * veen
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,7 +49,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * tuin
 
- 
+
 omhaagde tuin en moestuin op het domein Hobos
 
 **Bouwkundig erfgoed:**
@@ -59,7 +59,7 @@ omhaagde tuin en moestuin op het domein Hobos
  * herberg
  * afspanning
 
- 
+
 domein Hobos, barrierhuis De Trapkens
 
 **Landbouwkundig erfgoed:**
@@ -67,7 +67,7 @@ domein Hobos, barrierhuis De Trapkens
  * hoeve
  * stal
 
- 
+
 domein Hobos, De Grote Hof
 
  **Archeologische elementen:**
@@ -82,7 +82,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Oostenrijkse periode
 
- 
+
 Steenweg van Luik naar Den Bosch uit 1777, onverhard wegenpatroon
 domein Hobos
 
@@ -94,7 +94,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 o.a. monumentale esdoorn op het erf van domein Hobos
 
 **Lijnvormige elementen:**
@@ -113,26 +113,26 @@ perceelsgrenzen,
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 ter hoogte van Hobosdomein en 't Plat in de vallei van de Gortenloop
 
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 voormalig gemeen klodveld
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 gemengde fruitboomgaard en kastanjeboomgaard op het domein Hobos
 
 **Bos:**
@@ -143,7 +143,7 @@ gemengde fruitboomgaard en kastanjeboomgaard op het domein Hobos
  * hooghout
  * struweel
 
- 
+
 relicten van de eerste experimentele bosbouwcultuu
 
 OPMERKINGEN EN KNELPUNTEN
@@ -171,7 +171,7 @@ dit gebied niet gewenst.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde ligt o.a. vervat in de kleinschalige
 gebieden rondom het natuurgebied 't Plat en de beekvallei van de
 Gortenloop. Enkele naald- en loofhoutbestanden uit de eerste
@@ -218,7 +218,7 @@ mede oriënterend voor het Limburgs heide- en bosgebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het gebied ligt ten zuidwesten van de dorpskern van Overpelt, langs
+Het gebied ligt ten zuidwesten van de dorpskern van Overpelt, langs
 weerszijden van de N715 (Eindhoven-Hasselt). In het oosten wordt het
 gebied begrensd door de N74 en in het zuidwesten sluit het aan bij het
 boscomplex Pijnven. Het omvat o.a. het natuurgebied 't Plat en de

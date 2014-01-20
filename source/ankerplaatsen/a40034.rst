@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -27,14 +27,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
  * meander
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,12 +45,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * windmolen
 
- 
+
 Prinsenmolen
 
 **Militair erfgoed:**
@@ -58,14 +58,14 @@ Prinsenmolen
  * bunker
  * verdedingingslinie
 
- 
+
 op de Muntekouter
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,7 +75,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -85,7 +85,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -95,7 +95,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * onregelmatig
 
- 
+
 **Bos:**
 
  * naald
@@ -103,7 +103,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -115,7 +115,7 @@ In het bos staat wat storende residentiële bebouwing.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Merelbeekse bossen liggen op de overgang van het zandlemig gebied
 naar de Vlaamse Vallei (zandstreek). De topografie is zacht golvend, met
 verschillende beekvalleien.
@@ -146,7 +146,7 @@ wel in de gehuchten rond de bossen geconcentreerd.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Merelbeekse bossen vormen een boscomplex tussen de dorpen Melsen,
+De Merelbeekse bossen vormen een boscomplex tussen de dorpen Melsen,
 Baaigem, Munte, Bottelare en Schelderode. Deze bossen, die in elkaar
 overlopen, noemen het Makegembos, Harentbeekbos, H. Geestgoed, Bruinbos,
 Boswijk en Nerenbos. De oudst beschikbare kaart van dit gebied, nl. de

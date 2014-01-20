@@ -19,12 +19,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 Brakeleike, Eeklo's Leike
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -36,21 +36,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 Remondshof, Hoeve Altena, Ten Breebroek
 
 **Militair erfgoed:**
 
  * bunker
 
- 
+
 voormalig militair domein
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -60,7 +60,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,7 +70,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -81,13 +81,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
  * blokvormig
 
- 
+
 **Bos:**
 
  * naald
@@ -97,7 +97,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -109,8 +109,8 @@ Dwars over hoeve Altena loopt een hoogspanningsleiding.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 In de Middeleeuwen werd turf gestoken en werd in de Altenahoeve zout
 gewonnen. Halfweg de 18e eeuw werd het gebied bebost. Het huidige bos is
@@ -146,7 +146,7 @@ Rond hoeve Altena komen nog enkele dreefstructuren voor.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het provenciaal domein 'het Leen' bevindt zich op het grondgebied van
+Het provenciaal domein 'het Leen' bevindt zich op het grondgebied van
 de gemeenten Zomergem, Waarschoot en Eeklo, en het is grotendeels bebost
 met gemengd loofhout. In de middeleeuwen was er door de grote
 bevolkingsdruk meer hout nodig voor woningbouw, maar ook werd het hout,

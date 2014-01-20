@@ -20,17 +20,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * oude rivierarm
 
- 
+
 Oude Schelde
 
 **Moerassige gronden:**
@@ -38,7 +38,7 @@ Oude Schelde
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,18 +47,18 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * schuur
  * stal
 
- 
+
 **Klein historisch erfgoed:**
 
  * eendenkooi
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,16 +67,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 dijkweg, oude steenweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sas
  * grachtenstelsel
 
- 
+
 vaart
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -87,7 +87,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -98,7 +98,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * blokvormig
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * loof
@@ -106,12 +106,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hakhout
  * hooghout
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,7 +126,7 @@ niet karakteristieke bebouwing is gewenst.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dankzij een afwisseling van geomorfologie en bodemgesteldheid, alsook
 ten gevolge van een lange geschiedenis met talrijke natuurlijke en
 antropogene invloeden, omvat deze ankerplaats een grote verscheidenheid
@@ -165,7 +165,7 @@ blokvormige percelen van de polder die mede structuurbepalend zijn.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het 'Landschap van de Oude Schelde tussen Bornem en Weert' is volledig
+Het 'Landschap van de Oude Schelde tussen Bornem en Weert' is volledig
 gelegen op grondgebied van de gemeente Bornem in Klein Brabant. De
 begrenzing van deze ankerplaats wordt in grote lijnen gevormd door de
 dorpskernen van Temse in het noorden, Bornem in het oosten en

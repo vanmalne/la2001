@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Berkenbeek
 
 **Moerassige gronden:**
@@ -34,7 +34,7 @@ Berkenbeek
  * veen
  * rietland
 
- 
+
 laagveen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -44,18 +44,18 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * grenspaal
 
- 
+
 **Archeologische elementen:**
 vondsten van prehistorische werktuigen in de nabije omgeving
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,7 +64,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -74,18 +74,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * broek
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -98,7 +98,7 @@ heeft het gebied 'De Maatjes' te lijden onder verdroging.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De zeer specifieke waterhuishouding van het gebied 'De Maatjes' is
 bepalend voor het globale landschap en de ermee samenhangende biotische
 waarden. Hoewel de aan de natte situatie gebonden moerasvegetatie en de
@@ -135,7 +135,7 @@ microreliëf, doorkruist met lijnrechte greppels, grachten en
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'De Maatjes' is gelegen in de Antwerpse Noorderkempen,
+De ankerplaats 'De Maatjes' is gelegen in de Antwerpse Noorderkempen,
 langsheen de Nederlandse grens, op grondgebied van de gemeenten
 Kalmthout en Wuustwezel. Het gebied wordt in het noorden begrensd door
 de Vissersstraat, in het westen door de Wuustwezelsteenweg, in het

@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,18 +30,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 heuvelachtig, sterk ingesneden door erosie
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
  * vallei
 
- 
+
 Herk, Rullingenbeek met bronamfitheater
 
 **Moerassige gronden:**
 
- 
+
 vochtige beemden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -51,7 +51,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelparken De Klee en Rullingen
 
 **Nederzettingspatronen:**
@@ -67,21 +67,21 @@ hoopdorp Kuttekoven, straatdorp Berlingen
  * omheining
  * kasteelgracht
 
- 
+
 De Klee, Rullingen
 
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 o.a. De Klee, Pexters, restanten Hof van Herckenrode, 't Klein
 Kasteeltje
 
@@ -89,7 +89,7 @@ Kasteeltje
 
  * watermolen
 
- 
+
 Oude Molen, Nieuwe Molen
 
 **Kerkelijk erfgoed:**
@@ -98,7 +98,7 @@ Oude Molen, Nieuwe Molen
  * kapel
  * pastorie
 
- 
+
 o.a. OLV van Lourdes, Sint-Jan-de-Doper, Sint-Agatha
 
  **Archeologische elementen:**
@@ -111,7 +111,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * Romeinse weg
 
- 
+
 Tongeren-Herentals-Antwerpen
 
 **Spoorweg:**
@@ -128,7 +128,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -141,14 +141,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * blokvormig
  * historisch stabiel
 
- 
+
 zuidoost-noordwest georiënteerd patroon
 
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 vochtige beemden, grasland onder boomgaarden, akkers met traditioneel
 open karakter
 
@@ -156,14 +156,14 @@ open karakter
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -176,7 +176,7 @@ tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het beoogde landschap is gelegen aan de noordwestrand van het massief
 van Borgloon, dat zich ruim 30 m verheft boven de schiervlakte ten
 zuiden van de lijn Heks, Bommershoven, Jesseren en Piringen. Het
@@ -228,7 +228,7 @@ De Klee en de voormalige kasteelhoeve van Rullingen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het beoogde landschap is gelegen aan de noordwestrand van het massief
+Het beoogde landschap is gelegen aan de noordwestrand van het massief
 van Borgloon, dat zich ruim 30 m verheft boven de schiervlakte ten
 zuiden van de lijn Heks, Bommershoven, Jesseren en Piringen. Het is
 heuvelachtig en sterk ingesneden door erosie. Geografisch bevindt het

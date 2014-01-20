@@ -19,21 +19,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,7 +43,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 pastorietuin, park van kasteeldomein van Nokere
 
 **Nederzettingspatronen:**
@@ -60,27 +60,27 @@ pastorietuin, park van kasteeldomein van Nokere
  * ijskelder
  * kasteelgracht
 
- 
+
 **Bouwkundig erfgoed:**
 
  * huis
  * herberg
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 Vrijheidsboom op centrale plein van Nokere
 
 **Lijnvormige elementen:**
@@ -120,12 +120,12 @@ een 750m lange kasteeldreef verbindt het kasteel met het dorp
  * poel
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * naald
@@ -136,7 +136,7 @@ een 750m lange kasteeldreef verbindt het kasteel met het dorp
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -152,7 +152,7 @@ bewoning voor.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats is in het zandig Leie-Schelde interfluvium,
 grotendeels zandige tot licht- zandleem bodem. Door de ankerplaats loopt
 een vallei waar de Malebeek door een relatief breed alluvium loopt.
@@ -195,7 +195,7 @@ hoeves. Er zijn twee omgrachte hoeven in de vallei zelf gelegen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Binnen Kruishoutem is de dorpskom van Nokere één van de vier haast
+Binnen Kruishoutem is de dorpskom van Nokere één van de vier haast
 intact behouden voorbeelden van kasteeldorpen met tot de middeleeuwen
 teruggaande historische band tussen de kerk met kerkhof, de pastorie en
 het kasteel met tot op heden behouden tastbaar erfgoed van een

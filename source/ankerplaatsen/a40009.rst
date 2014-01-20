@@ -18,8 +18,8 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -28,12 +28,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,7 +43,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -64,7 +64,7 @@ relatie Kasteel- dorp- hoeves, gehucht Bachte
  * ijskelder
  * kasteelgracht
 
- 
+
 duiventoren
 
 **Bouwkundig erfgoed:**
@@ -74,7 +74,7 @@ duiventoren
  * herberg
  * afspanning
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -82,14 +82,14 @@ duiventoren
  * stal
  * wagenhuis
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
- 
+
 Raasboomkapel
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -100,14 +100,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * sluis
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -117,7 +117,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -131,20 +131,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * blokvormig
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
  * meersen
 
- 
+
 **Bos:**
 
  * naald
@@ -155,7 +155,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -169,7 +169,7 @@ die niet thuishoren in dit landschap.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied is in de vallei van de Leie gelegen. Vosselareput is een
 afgesneden meander van de Leie. Een nog actieve meander is de
 Otegemsham. In dit meersengebied ligt het kasteeldomein van Ooidonk op
@@ -212,7 +212,7 @@ Vanuit het bos is er via dreven een visuele relatie met het kasteel.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het kasteeldomein van Ooidonk te Deinze (Bachte-Maria-Leer-ne),
+Het kasteeldomein van Ooidonk te Deinze (Bachte-Maria-Leer-ne),
 gelegen binnen een grote meanderende Leiebocht en uitge-strekt
 meersengebied, is één der bekendste en integraal best bewaarde
 historische kasteeldomeinen van Vlaanderen waarvan, naast het kasteel

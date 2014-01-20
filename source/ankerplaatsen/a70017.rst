@@ -22,7 +22,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * graft
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,19 +30,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
  * vallei
  * meander
 
- 
+
 o.a. Gulp, bronnen
 
 **Moerassige gronden:**
 
- 
+
 vochtig grasland
 
 **Geologie:**
@@ -51,7 +51,7 @@ vochtig grasland
  * graften
  * karsten
 
- 
+
 **Andere:**
 Vaalser groenzand, krijt, dolines
 
@@ -62,35 +62,35 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * abdij
  * klooster
 
- 
+
 **Klein historisch erfgoed:**
 
  * kruis
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -99,14 +99,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
+
 **Spoorweg:**
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
 
- 
+
 aftakking watermolen, spoorwegbrug
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -117,7 +117,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -129,23 +129,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -154,7 +154,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 historisch stabiele bossen
 
 OPMERKINGEN EN KNELPUNTEN
@@ -171,7 +171,7 @@ levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Er komen landschapsvormen voor, typisch voor waterdoorlatende
 gesteenten (krijt en grind) zoals droge dalen, amfitheatervormige
 bronkommen, grubben, dolinen, , holle wegen enz. De kalkrijke bodems
@@ -215,7 +215,7 @@ het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap bevindt zich tussen de Nederlandse grens in het noorden
+Het landschap bevindt zich tussen de Nederlandse grens in het noorden
 en het oosten, de provinciegrens met Luik in het zuiden en een weg
 evenwijdig met de Gulp in het westen. Het gebied maakt deel uit van de
 geleidelijk in noordwestelijke richting afhellende hoogvlakte tussen

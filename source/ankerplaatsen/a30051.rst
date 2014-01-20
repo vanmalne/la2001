@@ -20,15 +20,15 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 langs oude kanaalarm
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
 
- 
+
 Bouvriebeek; monding kanaal in Schelde
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -38,7 +38,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -50,7 +50,7 @@ kasteelpark
  * muur
  * kasteelgracht
 
- 
+
 kasteel van Bossuit;
 
 **Landbouwkundig erfgoed:**
@@ -59,7 +59,7 @@ kasteel van Bossuit;
  * stal
  * wagenhuis
 
- 
+
 stal en wagenhuis bij kasteel; hoeve ten noordoosten van kasteel
 
  **Andere:**
@@ -68,13 +68,13 @@ pompgebouw bij kanaal
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * sluis
  * pompgemaal
 
- 
+
 oude kanaalarm; voormalig pompgebouw
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -92,21 +92,21 @@ struweel langs taluds kanaal; dreef op as kasteel
 
  * vijver
 
- 
+
 in kasteelpark
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 boomgaard bij kasteel en hoeve
 
 **Bos:**
 
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,7 +122,7 @@ het landbouwgebied rond het park.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 In het kasteelpark liggen enkele bronniveau's voor kleinere zijbeken
 van de Bouvriebeek.
 Historische waarde:
@@ -156,7 +156,7 @@ belangrijk lijnelement.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt rond Bossuit (gem. Avelgem) en strekt zich uit
+Deze ankerplaats ligt rond Bossuit (gem. Avelgem) en strekt zich uit
 van het kanaal van Bossuit, over het kasteel tot voorbij de Bouvriebeek.
 Ze ligt rond de monding van het kanaal Kortrijk –Bossuit in de Schelde.
 Het werd tussen 1857 en 1860 gegraven voor het transport van steenkool

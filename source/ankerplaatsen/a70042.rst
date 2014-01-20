@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 wallen aan de kavelranden, zacht glooiende grasvelden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -32,7 +32,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 o.a. Koninklijk Park, Nieuw Park
 
 **Nederzettingspatronen:**
@@ -49,12 +49,12 @@ ereplein
  * huis
  * villa
 
- 
+
 o.a. paviljoen van de Commandant van de Genie
 
 **Militair erfgoed:**
 
- 
+
 bestanddelen van het Kamp van Beverlo
 
 **Kerkelijk erfgoed:**
@@ -62,14 +62,14 @@ bestanddelen van het Kamp van Beverlo
  * kerk
  * kapel
 
- 
+
 o.a. Onze-Lieve-Vrouw-Hemelvaartkerk
 
 **Klein historisch erfgoed:**
 
  * gedenkteken
 
- 
+
 **Andere:**
 ijskelder, militaire begraafplaatsen, paviljoenen
 
@@ -81,7 +81,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 oorspronkelijk patroon van paden en wegen
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -92,7 +92,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -103,12 +103,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * blokvormig
 
- 
+
 dambordpatroon van het Kamp van Beverlo
 
 **Bos:**
@@ -118,7 +118,7 @@ dambordpatroon van het Kamp van Beverlo
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -132,7 +132,7 @@ bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De twee parken bevatten een dendrologisch waardevolle bomencollectie.
 Historische waarde:
 De parken met de bijhorende gebouwen en omgevende aanleg zijn
@@ -163,7 +163,7 @@ Park. De aanleg reflecteert de bestemming en de militaire hiërachie.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Kamp van Beverlo, ten zuidoosten van de dorpskern van
+Het Kamp van Beverlo, ten zuidoosten van de dorpskern van
 Leopoldsburg, omvat twee ruime parken: het Koninklijk Park en het Nieuw
 park. Het zijn parken in een landschappelijke stijl met riant karakter,
 die dateren uit de tweede helft van de 19de eeuw. Koning Leopold I liet

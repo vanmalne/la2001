@@ -20,13 +20,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Zalfense Beek, Lopende Beek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -42,7 +42,7 @@ Zalfen
 
  * kasteel
 
- 
+
 Kasteel Heihuizen
 
 **Landbouwkundig erfgoed:**
@@ -52,12 +52,12 @@ Kasteel Heihuizen
  * stal
  * wagenhuis
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 St.-Antoniuskapel van Zalfen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -67,7 +67,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 oude wegenstructuur
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -78,7 +78,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -88,15 +88,15 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
- 
+
 historisch stabiel bos
 
 **Bos:**
@@ -105,7 +105,7 @@ historisch stabiel bos
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -118,7 +118,7 @@ op de natuurwetenschappelijke waarde van dit gebied.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het voorkomen van verschillende bostypes en een opmerkelijke
 horizontale structuurdiversiteit geven het complex 's Herenbos-Heihuizen
 een belangrijke vegetatiekundige en floristische waarde. Bovendien vindt
@@ -160,7 +160,7 @@ waardevolle ruimte tussen Oostmalle, Zoersel en Wechelderzande.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats ''s Herenbos-Heihuizen-Zalfen is gelegen op grondgebied
+De ankerplaats ''s Herenbos-Heihuizen-Zalfen is gelegen op grondgebied
 van de gemeente Malle (Oostmalle) in de Antwerpse Noorderkempen. De
 begrenzing wordt gevormd door de bewoning van Oostmalle in het noorden,
 de Molenbeek en de gemeentegrens in het oosten, Salphen in het zuiden en

@@ -16,13 +16,13 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 GEOMORFOLOGIE/HYDROGRAFIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
  * vallei
 
- 
+
 Leie, Markebeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -33,7 +33,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 bij patersmote; park bij kasteel van Marke
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -42,14 +42,14 @@ bij patersmote; park bij kasteel van Marke
  * landgoed
  * muur
 
- 
+
 landgoed ten oosten kasteeldomein; ommuurde tuin
 
 **Militair erfgoed:**
 
  * motte
 
- 
+
 patersmote
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -70,19 +70,19 @@ restanten van knotbomenrijen
 
  * vijver
 
- 
+
 bij kasteel, op domein van Patersmote
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 park bij domein
 
 OPMERKINGEN EN KNELPUNTEN
@@ -100,7 +100,7 @@ gebufferd te worden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Leievallei vormt het fysisch kader voor het landgebruik en bepaalt
 het voorkomen van bebouwing. Het park bij de Patersmote herbergt een
 grote florale en dendrologische soortenrijkdom met stinsenplanten.
@@ -129,7 +129,7 @@ graslandgebruik,…).
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten westen van het centrum van Kortrijk langs de
+Deze ankerplaats ligt ten westen van het centrum van Kortrijk langs de
 Leie, ten zuiden van Bissegem (gem. Kortrijk). In het noorden vormt de
 Leie de grens van de ankerplaats. De percelen vlakbij de Leie kennen
 zeer vochtige bodemcondities en worden als grasland gebruikt. De

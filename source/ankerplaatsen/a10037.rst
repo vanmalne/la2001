@@ -21,22 +21,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * beek
  * vallei
 
- 
+
 Groot Schijn, Heidebeek
 
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +46,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelpark, moestuin
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -56,7 +56,7 @@ kasteelpark, moestuin
  * hovenierswoning
  * kasteelgracht
 
- 
+
 Vrieselhof, Bleekhof, Schildehof
 
 **Landbouwkundig erfgoed:**
@@ -66,7 +66,7 @@ Vrieselhof, Bleekhof, Schildehof
  * stal
  * wagenhuis
 
- 
+
 Dobbelhoeve + bakhuisje, Grote Hoeve + waterput, Rundvoorthoeve
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -76,14 +76,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 aarden weg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,24 +97,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
  * opstrekkend
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -127,7 +127,7 @@ het typische karakter van het geheel te bewaren.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde in dit gebied wordt voor een belangrijk
 deel bepaald door de structuur van de vallei, m.n. het reliëf, de
 hydrologische opbouw, de bodemgesteldheid, de voedselrijkdom, e.d. Het
@@ -176,7 +176,7 @@ t.h.v. het Bleekhof.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Vallei van het Schijn met de kastelen Schilde,
+De ankerplaats 'Vallei van het Schijn met de kastelen Schilde,
 Bleekhof en Vrieselhof' is gelegen op grondgebied van de gemeenten
 Schilde, Ranst (Oelegem) en Wommelgem, ten oosten van Antwerpen in het
 Land van Zoersel-Wijnegem en sluit langs de oostgrens aan op de

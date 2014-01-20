@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -26,23 +26,23 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 cuesta van Oedelem
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Waarschootbeek, Splenterbeek, Vijverbeek
 
 **Moerassige gronden:**
 
- 
+
 beekdalbos
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 Bartoonklei (cuesta van Oedelem)
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -52,14 +52,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Kasteel Wapenaar
 
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
- 
+
 Kasteel Wapenaar
 
 **Landbouwkundig erfgoed:**
@@ -68,7 +68,7 @@ Kasteel Wapenaar
  * schuur
  * stal
 
- 
+
 Burkelhoeve
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -80,7 +80,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Oostenrijkse periode
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,7 +97,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 vijver bij kasteel Wapenaar en bij Burkelhoeve
 
 **Topografie:**
@@ -105,12 +105,12 @@ vijver bij kasteel Wapenaar en bij Burkelhoeve
  * blokvormig
  * historisch stabiel
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 canadapopulier
 
 **Bos:**
@@ -122,10 +122,10 @@ canadapopulier
  * middelhout
  * hooghout
 
- 
+
 **Bijzondere waterhuishouding:**
 
- 
+
 stuwgronden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -145,7 +145,7 @@ thuishoort.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Gelegen op de cuesta van Zomergem - Oedelem, zandige bodem. De
 Kwartaire mantel is heel miniem en de bodem is weinig voor landbouw
 geschikt. In Burkel is het beekdalbos goed vertegenwoordigd. De
@@ -183,7 +183,7 @@ vertonen en afgezoomd zijn met dreven.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Burkel, Kallekensbos en het Koningsbos situeren zich op de cuesta van
+Burkel, Kallekensbos en het Koningsbos situeren zich op de cuesta van
 Oedelem-Zomergem. Hier dagzoomt het Tertiair, meerbepaald de klei van
 Asse deeluitmakend van het Bartoon. De asymmetrische reliëfvorm vertoont
 een steilrand naar het zuiden (cuestafront) en een zacht afhellend

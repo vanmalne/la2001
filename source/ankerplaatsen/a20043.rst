@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,13 +29,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * steilrand
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,19 +45,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * muur
  * kasteelgracht
 
- 
+
 **Bouwkundig erfgoed:**
 
  * villa
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -65,17 +65,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * stal
  * wagenhuis
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -85,7 +85,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -98,13 +98,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -116,7 +116,7 @@ Enkele geïsoleerde woningen aan de oostzijde van het gebied.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Margijsbos, inclusief de verboste voormalige vijvers van het
 kasteel, herbergt interessante vegetaties, ook heideachtige.
 Historische waarde:
@@ -130,14 +130,14 @@ Esthetische waarde: De site - beekdal met kasteel en beboste helling
  *  is zeer aantrekkelijk.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Margijsbos is gelegen tussen Neerijse en Overijse, ten zuiden van
+Het Margijsbos is gelegen tussen Neerijse en Overijse, ten zuiden van
 Loonbeek op de oostelijke flank van de IJsevallei. Een oudere benaming
 was Sergijsbos. Het Margijsbos is een historisch bos, het komt reeds
 voor op de Ferrariskaaren van het einde van de 18de eeuw. Een aantal

@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * steilrand
@@ -26,14 +26,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Vinderhoutse Bossen en Kastelensites
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 Merebeek, Oude Kale
 
 **Moerassige gronden:**
@@ -41,10 +41,10 @@ Merebeek, Oude Kale
  * moeras
  * veen
 
- 
+
 **Geologie:**
 
- 
+
 Vlaamse Vallei
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -54,7 +54,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Kasteelparken
 
 **Nederzettingspatronen:**
@@ -77,14 +77,14 @@ Drieselken, Slindonk
  * ijskelder
  * kasteelgracht
 
- 
+
 portierswoning, wagenhuis
 
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
@@ -92,12 +92,12 @@ portierswoning, wagenhuis
  * stal
  * wagenhuis
 
- 
+
 **Molens:**
 
  * windmolen
 
- 
+
 Van Vlaenderensmolen
 
 **Kerkelijk erfgoed:**
@@ -106,7 +106,7 @@ Van Vlaenderensmolen
  * kapel
  * pastorie
 
- 
+
 Sint- Annakapel, kerk en pastorie Vinderhoute
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -117,13 +117,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -133,7 +133,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -147,7 +147,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 bij kastelen
 
 **Topografie:**
@@ -157,20 +157,20 @@ bij kastelen
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * kouters
  * meersen
 
- 
+
 bulken
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -180,7 +180,7 @@ bulken
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -197,7 +197,7 @@ van de knotbomen noodzakelijk.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Vinderhoutse bossen zijn in een beekdepressie gelegen die aansluit
 bij de Merebeek. De vallei van de Oude Kale situeert zich op het
 zuidelijke deel van de Vlaamse Vallei op de overgang naar de zuidelijke
@@ -249,7 +249,7 @@ kasteeldomeinen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De vallei van de Oude Kale met het kouter en bulkenlandschap en de
+De vallei van de Oude Kale met het kouter en bulkenlandschap en de
 Vinderhoutse bossen met de omliggende kasteeldomeinen situeren zich op
 de grens van de gemeenten Nevele, Lovendegem en Gent. In het landschap
 kunnen verschillende componenten onderscheiden worden; de Molenkouter

@@ -21,27 +21,27 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,7 +50,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * tuin
 
- 
+
 Pastorietuin
 
 **Landbouwkundig erfgoed:**
@@ -60,14 +60,14 @@ Pastorietuin
  * stal
  * wagenhuis
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -79,12 +79,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * kerkwegel
  * Oostenrijkse periode
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -94,7 +94,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -107,17 +107,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * turfput
 
- 
+
 **Topografie:**
 
  * blokvormig
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -126,7 +126,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -142,7 +142,7 @@ afbakening liggen in de vallei enkele opgehoogde stukken.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De vallei van de Zeverenbeek is tussen de cuesta van Tielt en het
 zandig Leie- Schelde interfluvium gelegen. De beekvallei is me zandlemig
 materiaal opgevuld. Deze beek maakt deel uit van het Leiebekken. In de
@@ -174,7 +174,7 @@ verder oostwaarts mondt ze in de Leie uit.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Zeverenbeek, op grondgebied van Zeveren (Deinze) gelegen, behoort
+De Zeverenbeek, op grondgebied van Zeveren (Deinze) gelegen, behoort
 tot het stroomgebied van de Leie. De broeken zijn doorsneden door
 evenwijdige dwarssloten die gedurende de zomer voor het grootste deel
 droogstaan. Een belangrijke afwateringsgracht loopt evenwijdig met de

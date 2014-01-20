@@ -20,22 +20,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,7 +44,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,7 +54,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,12 +67,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * loof
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -84,7 +84,7 @@ Verdroging, aanwezigheid van een pompstation. Sporadische bebouwing.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het bos heeft een waardevolle flora.
 Historische waarde:
 Het Kastanjebos is een relict van het grote bosgebied, waarvan tot in
@@ -92,14 +92,14 @@ de 19de eeuw ook het Silsombos en het Kareelbos deeluitmaakten.
 Esthetische waarde:
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Kastanjebos ligt ten noorden van Veltem-Beisem en sluit aan bij de
+Het Kastanjebos ligt ten noorden van Veltem-Beisem en sluit aan bij de
 zogenaamde fossiele Vlaamse vallei. De bodem bestaat matig gleyige
 leemgronden met een hydromorfe grijsbruine podzolachtige bodem die vaak
 tijdens de winter en het voorjaar zeer nat is, ofwel gaat het om sterk

@@ -21,22 +21,22 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 **Geologie:**
 
- 
+
 cuesta van het Waasland
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -47,7 +47,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * hoeve
  * schuur
 
- 
+
 Hof ter Elst, Geelhof
 
  **Archeologische elementen:**
@@ -62,7 +62,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,7 +72,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -84,7 +84,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * blokvormig
@@ -92,7 +92,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * historisch stabiel
  * bolle akkers
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -117,7 +117,7 @@ is verwenen. De akkers sluiten zo dicht mogelijk aan bij de grachten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De fossiele loop van de Barbierbeek is tijdens het Laatglaciaal
 ontstaan. De huidige beek is ontstaan in het Atlanticum door stijging
 van het grondwaterpeil. De valleiwand van de nog sterk meanderende beek
@@ -150,7 +150,7 @@ perceelsrandbegroeiing zorgt voor een filterend landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het gaafste gebied met nog bolle akkers bevindt zich ten zuiden van de
+Het gaafste gebied met nog bolle akkers bevindt zich ten zuiden van de
 Barbierbeek. Deze ankerplaats ligt ten westen van de polder van
 Kruibeke-Bazel-Rupelmonde. De cuesta van de klei van Boom vormt een
 belangrijk interfluvium tussen de Demer-Dijle-Rupelas en de depressie

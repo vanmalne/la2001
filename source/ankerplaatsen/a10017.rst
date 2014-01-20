@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 Bosloop, Oude Dijkloop, Breemloop
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -35,14 +35,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * boswachterswoning
 
- 
+
 2 boswachtershuisjes
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 Verlaten boerderij
 
  **Archeologische elementen:**
@@ -53,14 +53,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Wegenis:**
 
- 
+
 Veldwegen
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,7 +75,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
@@ -84,7 +84,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -96,7 +96,7 @@ Geen knelpunten of opmerkingen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Als oud boscomplex herbergt het Grotenhoutbos waardevolle oude
 bosvegetaties en dankzij het voorkomen van een dicht slotenstelsel,
 verschillende bodemtypen en een uitgesproken microreliëf, worden vele
@@ -133,7 +133,7 @@ contrasterend element binnen het omliggende open landbouwgebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Grotenhoutbos betreft een restant van een historisch uitgestrekt
+Grotenhoutbos betreft een restant van een historisch uitgestrekt
 bosgebied van meer dan 2000 ha, gelegen tussen de dorpskernen van Gierle
 en Vosselaar in de Antwerpse Kempen. De begrenzing van de ankerplaats
 wordt hoofdzakelijk gevormd door wegeninfrastructuur met de autosnelweg

@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -27,19 +27,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 Diestiaanzand, zavel, ijzerzandsteen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -49,28 +49,28 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 Hof ten Bosse, Hof te Fransbeke
 
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 kerk van 0pbrakel
 
 **Klein historisch erfgoed:**
 
  * kruis
 
- 
+
 Ludwineskruis
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -83,14 +83,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * Romeinse weg
  * Oostenrijkse periode
 
- 
+
 Chaussée de Brunehaut
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -100,7 +100,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -114,13 +114,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -135,7 +135,7 @@ gewest, aan Waalse zijde ligt een grote zandontginningsput.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats is gelegen in de Vlaamse Ardennen op uitloper van de
 getuigenheuvelrug, op de helling van de Pottelberg. Er zijn
 verschillende valleitjes aanwezig in het bos. Het is het brongebied van
@@ -180,7 +180,7 @@ grasland met perceelsrandbegroeiing en enkele percelen bos.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Brakelbos is op grondgebied van de gemeente Brakel gelegen, ten
+Het Brakelbos is op grondgebied van de gemeente Brakel gelegen, ten
 zuidwesten van Opbrakel. Het was een groot boscomplex op de kaart van
 Ferraris en Vandermaelen, dat aansloot bij het Muziekbos dat meer
 westelijk gelegen is. Het werd op de Ferrariskaart 'Den Breckel Bosch'

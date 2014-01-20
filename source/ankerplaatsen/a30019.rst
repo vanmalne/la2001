@@ -22,11 +22,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 dekzandrug Gistel-Maldegem-Stekene-Verrebroek
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Maleleie
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -36,7 +36,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 bij abdij St-Trudo
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -46,28 +46,28 @@ bij abdij St-Trudo
  * ijskelder
  * kasteelgracht
 
- 
+
 oude donjon, kasteel wordt als abdij gebruikt
 
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 vroeger stadhuis in uiterste zuidwesten van ankerplaats
 
 **Kerkelijk erfgoed:**
 
  * abdij
 
- 
+
 kasteel deels verbouwd tot abdij
 
 **Klein historisch erfgoed:**
 
  * schandpaal
 
- 
+
 pelderijn vlakbij stadhuis
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -77,7 +77,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 kasseiweg rond kasteel en langs zuidkant Maleveld
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -94,13 +94,13 @@ dreven rond park en abdij; bomenrij langs Maleleie
 
  * blokvormig
 
- 
+
 **Bos:**
 
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,7 +123,7 @@ ruimtelijke verbinding is echter te klein om ze samen te voegen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Maleveld ligt op een droge, schrale zandbodem waar vroeger een
 veldgebied lag. De heischrale vegetatie getuigt van dit veldgebied. De
 bossen van Male liggen zich op enigszins lemige zandgrond. De Maleleie
@@ -155,7 +155,7 @@ Rijkevelde).
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt op grondgebied van de gemeenten Brugge en Damme
+Deze ankerplaats ligt op grondgebied van de gemeenten Brugge en Damme
 (klein deeltje). In het westen vormt de Maleleie (beek) de gresn , in
 het oosten de bebouwing rond Sijseleveld en in het zuiden de weg
 Brugge-Sijsele. Ze grenst in het zuiden aan de ankerplaats

@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Mandoerse beek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -35,7 +35,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 park bij kasteel
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -45,14 +45,14 @@ park bij kasteel
  * ijskelder
  * kasteelgracht
 
- 
+
 Groeningenhof +duiventoren, Solhof, Lillaarschrans
 
 **Bouwkundig erfgoed:**
 
  * (heren)woning
 
- 
+
 dienstwoningen bij kasteel
 
 **Landbouwkundig erfgoed:**
@@ -62,7 +62,7 @@ dienstwoningen bij kasteel
  * stal
  * wagenhuis
 
- 
+
 Kapittelhoeven
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -72,14 +72,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 kasseiweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * sluis
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -89,7 +89,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -101,17 +101,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 Pannebossen
 
 OPMERKINGEN EN KNELPUNTEN
@@ -127,7 +127,7 @@ rond de kasteeldomeinen te bewaren.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Pannebossen langs de zuidelijke rand van de ankerplaats
 vertegenwoordigen dankzij een natuurlijke kruid- en struiklaag een
 belangrijke waarde met betrekking tot de flora. Samen met de omliggende
@@ -158,7 +158,7 @@ in deze omgeving steeds meer aan belang.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De kasteeldomeinen Groeningenhof en Solhof zijn respectievelijk
+De kasteeldomeinen Groeningenhof en Solhof zijn respectievelijk
 gelegen op grondgebied van de gemeenten Kontich en Aartselaar ten zuiden
 van de stedelijke agglomeratie Antwerpen. Deze ankerplaats wordt
 begrensd door de Groeningenlei in het noorden, de autostrade E19

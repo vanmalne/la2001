@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 typisch voor Oudlandpolder
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 Bredewegzwin, Dorpzwin
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -43,14 +43,14 @@ lineaire polderdorpen op kreekruggen
 
  * hoeve
 
- 
+
 hoeve Otterput en 't Zwaluwnest
 
 **Molens:**
 
  * windmolen
 
- 
+
 Dorpsmolen te Klemskerke
 
 **Militair erfgoed:**
@@ -58,7 +58,7 @@ Dorpsmolen te Klemskerke
  * bunker
  * verdedingingslinie
 
- 
+
 WOII
 
  **Archeologische elementen:**
@@ -80,19 +80,19 @@ aansluitend bij hoeves
 
  * poel
 
- 
+
 veedrinkput
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 No
 
 OPMERKINGEN EN KNELPUNTEN
@@ -108,7 +108,7 @@ vergezicht binnen deze open ruimte.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Oudlandpolder waarbij de bodemgesteldhied nog het bodemgebruik
 bepaalt: bewoning, wegen en akkerland op kreekruggen; grasland op
 geulgronden .
@@ -134,7 +134,7 @@ vnl. graslandcomplexen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten zuiden van de bebouwing van De Haan. In het
+Deze ankerplaats ligt ten zuiden van de bebouwing van De Haan. In het
 zuiden vormt de N9 Brugge-Oostende de grens; in het westen wordt ze
 begrensd door de weg die De Haan met Klemskerke verbindt en in het
 oosten door de weg naar Vlissegem. De ankerplaats ligt volledig in

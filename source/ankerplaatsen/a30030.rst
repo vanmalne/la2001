@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 rond bronniveaus vaak taluds
 
 **Macroreliëf:**
@@ -32,16 +32,16 @@ rond bronniveaus vaak taluds
 steilrand van het plateau van Wijnendaele aangesneden door talrijke
 bronbeken
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 vooral brongebied; Wijnendaelebron
 
 **Moerassige gronden:**
 
- 
+
 rond bronniveaus
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -56,24 +56,24 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * ijskelder
  * kasteelgracht
 
- 
+
 kasteel van Wijnendaele:waterburcht (hoge toren)
 
 **Bouwkundig erfgoed:**
 
  * afspanning
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 OLV van Wijnendaele
 
  **Archeologische elementen:**
@@ -86,12 +86,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 dreven loodrecht op elkaar; as Torhout - Wijnendaele-kasteel
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
- 
+
 fontein bij kasteel en kasteelgracht; brongebouw rond bron
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -103,14 +103,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 **Kunstmatige waters:**
 
- 
+
 kasteelgracht
 
 **Topografie:**
 
  * blokvormig
 
- 
+
 zogenaamde "carrés"; oude bosindeling
 
 **Bos:**
@@ -119,7 +119,7 @@ zogenaamde "carrés"; oude bosindeling
  * loof
  * hakhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -136,7 +136,7 @@ landbouwbedrijf dat eerder storend overkomt.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het gebied bevindt zich op de grens tussen de zandstreek en de
 zandleemstreek waardoor flora van beide streken voorkomt. In het gebied
 is de kwartaire mantel zeer dun of lokaal afwezig waardoor het tertiair
@@ -177,7 +177,7 @@ een baken voor de omgeving.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt op de zuidelijke helling van het plateau van
+Deze ankerplaats ligt op de zuidelijke helling van het plateau van
 Wijnendale en vormt een overblijfsel van het Verloren Cost woud uit de
 18e eeuw. Het landschap wordt hier gestructureerd door het reliëf en de
 hydrografie. De zuidelijke helling van het plateau vertoont heel wat

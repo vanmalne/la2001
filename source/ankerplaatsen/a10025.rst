@@ -16,12 +16,12 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 GEOMORFOLOGIE/HYDROGRAFIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * meander
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 Sterckshof met gracht
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -40,25 +40,25 @@ Sterckshof met gracht
  * kasteel
  * orangerie
 
- 
+
 jachtwachterswoning, portierswoning, koetshuis
 
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 **Klein historisch erfgoed:**
 
  * standbeeld
  * gedenkteken
 
- 
+
 gedenksteen
 
  **Andere:**
@@ -71,15 +71,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
+
 geplaveid pad naar kasteel
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
- 
+
 Restant Herentalsevaart met brug
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -90,7 +90,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -101,7 +101,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 spiegelvijver
 
 **Bos:**
@@ -109,7 +109,7 @@ spiegelvijver
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,7 +123,7 @@ zijn verhard.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het park Rivierenhof omvat een behoorlijk bomenbestand dat binnen de
 stedelijke rand van Antwerpen dienst doet als geschikt resthabitat voor
 vogels en kleine knaagdieren.
@@ -158,7 +158,7 @@ zone penetreert.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het 'Rivierenhof' is gelegen op grondgebied van Deurne, deelgemeente
+Het 'Rivierenhof' is gelegen op grondgebied van Deurne, deelgemeente
 van Antwerpen. De begrenzing van deze ankerplaats wordt gevormd door de
 Turnhoutsebaan in het noorden, de Krijgsbaan in het oosten, de
 autosnelweg E313 Antwerpen-Eindhoven in het zuiden en de ring rond

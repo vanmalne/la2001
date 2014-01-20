@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,7 +29,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * rivierduin
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -37,16 +37,16 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * vallei
  * meander
 
- 
+
 **Moerassige gronden:**
 
  * veen
  * rietland
 
- 
+
 **Geologie:**
 
- 
+
 Vlaamse Vallei
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -56,7 +56,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kerk
 
- 
+
 Kerk van Daknam
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -67,20 +67,20 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
  * verlaten spoorweg
 
 geasfalteerd
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * pompgemaal
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -90,7 +90,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -101,7 +101,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * turfput
 
- 
+
 **Topografie:**
 
  * blokvormig
@@ -109,18 +109,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * meersen
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -130,14 +130,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 niet typisch voor een meersengebied
 
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
 
- 
+
 vermoedelijk voorheen vloeiweide
 
 OPMERKINGEN EN KNELPUNTEN
@@ -156,7 +156,7 @@ sportstadion is tot diep in de Daknamse meersen uitgebreid.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Daknamse meersen zijn in nat valleigebied gelegen. De
 getijdewerking is pas verdwenen in 1953, na het afdammen van de Durme in
 Lokeren. In het noorden en het oosten van het gebied zijn landduinen
@@ -189,7 +189,7 @@ zijn bijna volledig door bewoning ingepalmd.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Ten noorden van de bebouwde kern van Lokeren en ten oosten van de
+Ten noorden van de bebouwde kern van Lokeren en ten oosten van de
 Durme ligt het meersengebied van Daknam. De Daknamse Meersen zijn
 gelegen in een valleigebied van de Durme en hebben een vrij scherpe
 begrenzing met stuifzanden. Het zuiden en het oosten van die stuifzanden

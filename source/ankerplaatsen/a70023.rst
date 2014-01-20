@@ -20,13 +20,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * moeras
@@ -34,7 +34,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * rietland
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,7 +43,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
@@ -51,24 +51,24 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * landgoed
  * kasteelgracht
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * wagenhuis
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * brug
  * sluis
  * lijnpad
 
- 
+
 Zuid-Willemsvaart met sluizen en ophaalbruggen
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -79,7 +79,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -92,7 +92,7 @@ o.a. bomenrijen van Zomereik langs de Zuid-Willemsvaart
 
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -102,13 +102,13 @@ heiderelicten
  * broek
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,7 +126,7 @@ van een nieuw kanaalvak.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Watering heeft, als gevolg van de bevloeiing met kalkrijk
 Maaswater, een specifieke plantengroei die men normaal niet aantreft in
 het Kempens milieu.
@@ -151,7 +151,7 @@ de Watering zijn beeldbepalend voor de ruime omgeving.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het gebied ligt ten zuidoosten van de dorpskern van Hamont. Het omvat
+Het gebied ligt ten zuidoosten van de dorpskern van Hamont. Het omvat
 het kasteeldomein Het Lo en de Watering van St.Huibechts-Lille. Het
 Kempens kanaal vormt de zuidwestgrens, de Zuid-Willemsvaart de
 zuidoostgrens. Het kasteeldomein Het Lo ligt langs de Lozenweg. Het is

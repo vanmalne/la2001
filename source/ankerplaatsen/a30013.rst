@@ -23,11 +23,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 overgang binnenduinen naar Moeren en van Moeren naar plateau Izenberghe
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * kreek
 
- 
+
 Langgeleed
 
  **Andere:**
@@ -46,33 +46,33 @@ wijk Zwaantje langs de Bergenvaart
 
  * hoeve
 
- 
+
 hoeve 't Moerland en Moerhof
 
 **Molens:**
 
  * windmolen
 
- 
+
 St-Karelsmolen en Gustaafmolen beide bemalingsmolens
 
 **Militair erfgoed:**
 
  * bunker
 
- 
+
 in Cabourg duinen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
  * kruis
 
- 
+
 **Archeologische elementen:**
 oude bewoningspatronen in Wethoekduinen
 
@@ -82,14 +82,14 @@ de vele brugjes in De Moeren; douaneposten in de Moeren
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * sluis
  * grachtenstelsel
 
- 
+
 Ringslot en Bergenvaart rond Moeren met grachtenstelsel.
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -104,13 +104,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * repelvormig
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * droogmakerij
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -138,7 +138,7 @@ deze zijn behoorlijke blikvangers in dit vlakke en open landschap.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Oud duinmassief. Opeenvolging van parallelle en secundaire
 duinvormen. Bestaat uit noordelijke duinengordel (zeereep, voorduinen,
 noordelijke paraboolduingordel) en zuidelijke duinengordel met
@@ -179,7 +179,7 @@ geaccentueerd door de begeleidende dreven en bomenrijen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats omvat een landschappelijke sekwentie van zee-strand
+Deze ankerplaats omvat een landschappelijke sekwentie van zee-strand
 over de Jonge Duinen van het Westhoekreservaat - een stukje polder -
 Oude duinen van Cabourg - De Moeren tot de overgang naar het plateau van
 Izenberghe ter hoogte van Houtem. We zullen deze landschappelijke

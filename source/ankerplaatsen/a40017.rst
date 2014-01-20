@@ -19,19 +19,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
 donk
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
  * meander
 
- 
+
 Moervaartdepressie, Zuidlede
 
 **Moerassige gronden:**
@@ -39,10 +39,10 @@ Moervaartdepressie, Zuidlede
  * moeras
  * veen
 
- 
+
 **Geologie:**
 
- 
+
 moeraskalk (gyttja), Vlaamse Vallei
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -52,7 +52,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * landgoed
 
- 
+
 Kasteel Wulfsdonk, sinds 1962 vervangen door villa
 
 **Bouwkundig erfgoed:**
@@ -60,7 +60,7 @@ Kasteel Wulfsdonk, sinds 1962 vervangen door villa
  * villa
  * herberg
 
- 
+
 ijzeren toegangshek, wolfskop naast voordeur en gevelsteen van het
 vroeger kasteel Zamans
 
@@ -68,14 +68,14 @@ vroeger kasteel Zamans
 
  * hoeve
 
- 
+
 Etboshoeve
 
 **Klein historisch erfgoed:**
 
  * eendenkooi
 
- 
+
 restanten van een eendenkooi
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -86,21 +86,21 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 kasseiweg 'Etboswegel'
 
 **Spoorweg:**
 
  * verlaten spoorweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * brug
  * pompgemaal
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -117,7 +117,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
@@ -125,10 +125,10 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * opstrekkend
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
- 
+
 vroegere meersen
 
 **Bos:**
@@ -139,12 +139,12 @@ vroegere meersen
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -167,7 +167,7 @@ wegen bestaat uit kasseiwegen en onverharde wegen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Moervaartdepressie is ontstaan na het afsluiten van de Vlaamse
 Vallei met een dekzandrug. Er ontstonden grote meren, op de bodem werd
 moeraskalk (gyttja) gevormd. Wulfsdonk is gelegen op een zandige donk.
@@ -201,7 +201,7 @@ Moervaartdepressie, de opgaande percelering is strookvormig.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats situeert zich ten zuiden van Moerbeke. De depressie
+Deze ankerplaats situeert zich ten zuiden van Moerbeke. De depressie
 van Moervaart kan geologisch gesitueerd worden in het centrale gedeelte
 van de Vlaamse Vallei, een glaciale erosievallei die zich tijdens het
 Oud- en Midden- Pleistoceen (ca.2,2 miljoen tot gevormd heeft. Tijdens

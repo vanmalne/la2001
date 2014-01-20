@@ -20,18 +20,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * kreek
 
- 
+
 Bentillekreek, Boerekreek, Blokkreek, Roeselarekreek, Molenkreek,
 Vrouwkeshoekkreek, Haantjesgat
 
@@ -40,7 +40,7 @@ Vrouwkeshoekkreek, Haantjesgat
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,7 +49,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * herberg
 
- 
+
 Palinghuis
 
 **Landbouwkundig erfgoed:**
@@ -58,21 +58,21 @@ Palinghuis
  * schuur
  * stal
 
- 
+
 Torenhof, Hoeve Engelendaal
 
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 Sint-Jan- in- Eremo en Sint- Margriete
 
 **Klein historisch erfgoed:**
 
  * grenspaal
 
- 
+
 **Andere:**
 gemeentehuis Sint- Margriete
 
@@ -84,15 +84,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * brug
 
- 
-Graaf Jansdijk, Oostpolderdijk, Sint\_Lievenpolderdijk,
+
+Graaf Jansdijk, Oostpolderdijk, Sint Lievenpolderdijk,
 Brandkreekdijk, Zonnebrug, Leopoldkanaal
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -103,7 +103,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -116,18 +116,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * loof
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -148,7 +148,7 @@ op in het landschap: visuele pollutie.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De kreken hebben een zeer typische vegetatie door het weinige water
 (varenvegetatie op drijftillen) en de grote hoeveelheid zout. Doordat
 bij het onstaat van de kreken het wegen- en grachtenpatroon gevolgd
@@ -179,7 +179,7 @@ landschap aanwezig.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het krekengebied van Sint- Margriete en Sint-Jan-in-Eremo, in het
+Het krekengebied van Sint- Margriete en Sint-Jan-in-Eremo, in het
 noorden van de provincie Oost-Vlaanderen, strekt zich uit tussen de
 Graaf- Jansdijk en de woonkernen Bentille en Sint- Laureins in het
 zuiden, Sint- Margriete in het noorden en de Nederlandse kern Sint-Kruis

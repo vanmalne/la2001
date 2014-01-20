@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,19 +30,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 steilrand van Dender
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -51,14 +51,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 stadspark
 
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
- 
+
 Osbroekkasteel
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -69,12 +69,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -88,12 +88,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Bos:**
 
  * loof
@@ -102,12 +102,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -117,7 +117,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Door zijdelingse of laterale erosie kon de Dender hier gedurende het
 Laatglaciaal, een komvormige depressie uitschuren. De kronkelende rivier
 breidde zich breed uit en onder invloed van haar ondermijnende,
@@ -165,7 +165,7 @@ stadspark en bijhorende sportterreinen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Ter hoogte van Erembodegem en Aalst, zowat op de overgangszone van de
+Ter hoogte van Erembodegem en Aalst, zowat op de overgangszone van de
 middenloop naar de benedenloop van de Dender, vindt men de laatste
 hellingen van enige betekenis langs de linkeroever van de Dender: de tot
 24 m hoge, ruim 15 m boven het Osbroek torende dalflank, gevormd door de

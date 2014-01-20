@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 Kleine Wilborrebeek, Kleine Beek, Pulse Beek, Bosloop, Molenbeek
 
 **Moerassige gronden:**
@@ -35,7 +35,7 @@ Kleine Wilborrebeek, Kleine Beek, Pulse Beek, Bosloop, Molenbeek
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,7 +44,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -52,14 +52,14 @@ kasteelpark
  * kasteel
  * kasteelgracht
 
- 
+
 Kasteel Boutersemhof, Kasteel Hovorst
 
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 molenhuis, neoclassicistisch burgerhuis
 
 **Landbouwkundig erfgoed:**
@@ -68,22 +68,22 @@ molenhuis, neoclassicistisch burgerhuis
  * stal
  * wagenhuis
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
  * schandpaal
 
- 
+
 pomp met waterbak
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -93,14 +93,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
+
 oude paden; b.v. oude binnenpad naar Pulderbos
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -110,7 +110,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -123,18 +123,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 stabiel bos
 
 **Bos:**
@@ -144,7 +144,7 @@ stabiel bos
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -158,7 +158,7 @@ gebied manifesteren, niet verder in het landschap doordringen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van deze ankerplaats wordt in de eerste
 plaats bepaald door de geomorfologische opbouw van de valleien en hogere
 gronden met de bijhorende bodemtypen. Daarnaast is er de verscheidenheid
@@ -216,7 +216,7 @@ dit geheel.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Vallei van de Kleine Wilborrebeek met de
+De ankerplaats 'Vallei van de Kleine Wilborrebeek met de
 kasteeldomeinen Hovorst en Boutersem' is gelegen op grondgebied van de
 gemeente Zandhoven en wordt begrensd door de dorpskernen van Zandhoven
 en Pulderbos in het westen, noorden en oosten en het Albertkanaal in het

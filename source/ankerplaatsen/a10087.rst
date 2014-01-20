@@ -16,11 +16,11 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 GEOMORFOLOGIE/HYDROGRAFIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Spillebeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -31,19 +31,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 Domein Hemelrijk, muurtuin, Rhodotuin, seringentuin
 
 **Kastelen, landgoederen en aanhorigheden:**
 
  * boswachterswoning
 
- 
+
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 rentmeestershuis
 
 **Landbouwkundig erfgoed:**
@@ -53,7 +53,7 @@ rentmeestershuis
  * stal
  * wagenhuis
 
- 
+
 Klokhoeve + graanmolen & houtzagerij, Louishoef, Emeranshoef,
 Kiekenhoeve
 
@@ -61,7 +61,7 @@ Kiekenhoeve
 
  * grenspaal
 
- 
+
 **Andere:**
 Quarantainestallen
 
@@ -76,7 +76,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -86,7 +86,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 4 vijvers
 
  **Andere:**
@@ -102,7 +102,7 @@ Geen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het arboretum Hemelrijk vertegenwoordigt een belangrijke
 dendrologische waarde en is één van de meest complete arboreta van de
 provincie Antwerpen.
@@ -130,7 +130,7 @@ ook landelijke tafereel te creëren.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Hemelrijk' te Essen is gelegen tussen de Nederlandse
+De ankerplaats 'Hemelrijk' te Essen is gelegen tussen de Nederlandse
 grens in het noorden, (de straat) Hemelrijk in het oosten, de
 Moerkantsebaan in het zuiden en de Spillebeek in het westen. De naam
 Hemelrijk is afkomstig van een kasteel en bijhorend domein dat zich

@@ -21,14 +21,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -37,14 +37,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 o.a. Maas, Genootsbeek, Langbroekbeek, Kikbeek
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 kleinschalige grind- en leemputten, grindbanken
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -55,7 +55,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 o.a. kasteelpark Vilain XIV
 
 **Nederzettingspatronen:**
@@ -75,7 +75,7 @@ dorpsplein Leut, gehucht Mazenhoven
  * ijskelder
  * kasteelgracht
 
- 
+
 kasteel Vilain XIV
 
 **Bouwkundig erfgoed:**
@@ -84,7 +84,7 @@ kasteel Vilain XIV
  * huis
  * herberg
 
- 
+
 o.a. brouwerij en herberg Paenhuis
 
 **Landbouwkundig erfgoed:**
@@ -93,14 +93,14 @@ o.a. brouwerij en herberg Paenhuis
  * schuur
  * stal
 
- 
+
 o.a. kasteelhoeve, Oude Maashof, Palmenhof
 
 **Molens:**
 
  * windmolen
 
- 
+
 molen Nieuw Leven
 
 **Kerkelijk erfgoed:**
@@ -109,7 +109,7 @@ molen Nieuw Leven
  * kapel
  * pastorie
 
- 
+
 o.a. Sint-Pieterskerk met kerkhof, kapel Onze-Lieve-Vrouw van
 Overwinning
 
@@ -118,7 +118,7 @@ Overwinning
  * kruis
  * grenspaal
 
- 
+
 o.a. dorpspomp met drie lindebomen, Maaskruis, hekwerk
 
  **Archeologische elementen:**
@@ -135,15 +135,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 o.a. Klein Kampwegske
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * lijnpad
 
- 
+
 o.a. winterdijken, zomerdijken
 
  **Andere:**
@@ -157,7 +157,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -173,19 +173,19 @@ Maasheggen
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 weerden
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -193,13 +193,13 @@ weerden
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * uiterwaarden
  * buitendijks
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -221,7 +221,7 @@ bijdrage tot de landschapswaarden
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Rivierlandschappen hebben een dynamisch karakter. In geomorfologisch,
 bodemkundig en hydrografisch opzicht is de alluviale vlakte van de Maas
 een zeldzaam gegeven in Vlaanderen omdat een aantal natuurlijke
@@ -278,7 +278,7 @@ volledige gebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het beoogde landschap bevindt zich in de alluviale vlakte van de Maas,
+Het beoogde landschap bevindt zich in de alluviale vlakte van de Maas,
 tegen de Nederlandse grens, tussen Maasmechelen en Stokkem. Vrijwel
 nergens is een landschap en zijn bewoners zodanig bepaald geworden door
 het doen en laten van de Maas als in het smalle overstromingsgebied

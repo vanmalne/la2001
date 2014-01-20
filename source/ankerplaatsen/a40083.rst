@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -27,7 +27,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Kastelen Te Lande, Krabbenburg, Ter Meren, Succa en Notax
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -36,7 +36,7 @@ Kastelen Te Lande, Krabbenburg, Ter Meren, Succa en Notax
  * omheining
  * kasteelgracht
 
- 
+
 Te Lande, Krabbenburg, Ter Meren, Succa en Notax
 
 **Landbouwkundig erfgoed:**
@@ -44,7 +44,7 @@ Te Lande, Krabbenburg, Ter Meren, Succa en Notax
  * hoeve
  * wagenhuis
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,7 +54,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,7 +64,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -75,13 +75,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * loof
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Geomorfologisch bevindt het kasteelpark zich in de Vlaamse Vallei,
 een zandig gebied waar er een uitgesproken microreliëf voorkomt van
 westzuidwest- oostnoordoost geöriënteerde ruggen en depessies.
@@ -130,7 +130,7 @@ doorsneden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De kastelensite van Destelbergen bestaat uit een ensemble van de
+De kastelensite van Destelbergen bestaat uit een ensemble van de
 kastelen Te Lande, Krabbenburg, Ter Meren, Succa en Notax met hun
 bijhorende parken. Dit gebied ligt in de periferie van de Gentse
 agglomeratie, tussen de kern van Destelbergen en het Gentse.

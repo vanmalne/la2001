@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * graft
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -27,19 +27,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 diffuse waterbronnen
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kapel
 
- 
+
 **Andere:**
 spoorwegtunnel 'Overboelare'
 
@@ -60,7 +60,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 Schapenweg (Hoge Buizemontstraat), vermoedelijk Keltische ouderdom
 
 **Spoorweg:**
@@ -75,7 +75,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -87,19 +87,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 vijver bij villa
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 twee wastines (grasland met struiken) en drie kleinere bossen
 
 **Bos:**
@@ -110,7 +110,7 @@ twee wastines (grasland met struiken) en drie kleinere bossen
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -129,7 +129,7 @@ gebied wordt door de Vlaams-Waalse grens doorsneden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Gelegen langs de rand van de Dendervallei op een hoger gelegen
 heuvelkam, uitloper van de heuvelrug van de Vlaamse Ardennen. Steile
 helling naar de Dendervallei toe. Maakt deel uit van overgangsheuvels
@@ -160,7 +160,7 @@ bebost, de overige hellingen liggen onder akker.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het gebied van de Grote en Kleine Buizemont, ten zuiden van
+Het gebied van de Grote en Kleine Buizemont, ten zuiden van
 Geraardsbergen, tussen Overboelare en Twee- Akren, is nu nog herkenbaar
 als relictenlandschap. De omgeving van Geraardsbergen is een
 heuvelachtig land, met, naar Vlaamse normen, steile en hoge hellingen.

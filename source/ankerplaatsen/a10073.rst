@@ -21,13 +21,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 Ettenhovense Beek, 's Hertogendijkse Beek, Rode Beek, St.-Jacobsloop
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -37,7 +37,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -46,7 +46,7 @@ kasteelpark
  * toren
  * muur
 
- 
+
 'Starrenhof'
 
 **Bouwkundig erfgoed:**
@@ -54,20 +54,20 @@ kasteelpark
  * huis
  * villa
 
- 
+
 'Irishof', landhuis
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
 
- 
+
 Voormalige parochiekerk O.L.-Vrouw Geboorte
 
  **Andere:**
@@ -80,15 +80,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 's Hertogendijk: aarden weg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 's Hertogendijk
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -98,7 +98,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -107,24 +107,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * repelvormig
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -139,7 +139,7 @@ onherstelbare landschapswonde.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit poldergebied van Stabroek is gelegen op de overgang van Polders
 naar Kempen en is daarmee onderdeel van een belangrijke gradiënt. De
 grote variatie in bodemstructuur, een belangrijk hoogteverschil en het
@@ -194,7 +194,7 @@ noordwesten van de provincie Antwerpen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het 'Poldergebied van Stabroek met overgangszone naar de Kempen' is
+Het 'Poldergebied van Stabroek met overgangszone naar de Kempen' is
 gelegen op grondgebied van de gemeenten Stabroek en Kapellen en behoort
 tot de Scheldepolders. De begrenzing van deze ankerplaats wordt gevormd
 door de het centrum van Stabroek in het noorden, de Kapelsestraat

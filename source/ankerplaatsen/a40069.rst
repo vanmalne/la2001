@@ -19,26 +19,26 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
 
 dijken
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * kreek
 
- 
+
 grotendeels verlande kreek
 
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 verlande kreken
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -54,7 +54,7 @@ dijkhuisjes
 
  * huis
 
- 
+
 dijkhuisjes
 
 **Landbouwkundig erfgoed:**
@@ -63,7 +63,7 @@ dijkhuisjes
  * schuur
  * stal
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -73,15 +73,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
  * brug
  * grachtenstelsel
 
- 
+
 Leopoldskanaal
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -99,17 +99,17 @@ bomenrijen langs de dijken
  * blokvormig
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -119,7 +119,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De St -Jorispolder, een deel van de Isabellapolder, is met
 kreekrestanten doorsneden. De dekzanden zijn onder een dun marien dek
 bedolven en het pleistocene microreliëf is onvoldoende ontwikkeld om de
@@ -158,7 +158,7 @@ dikwijls moerassig.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats, op grondgebied van Boekhoute en Bentille gelegen,
+Deze ankerplaats, op grondgebied van Boekhoute en Bentille gelegen,
 ligt in het krekengebied. Volgens een wetenschappelijke indeling maakt
 deze zone deel uit van 'het overgangsgebied van Bentille- Watervliet'.
 Dit laatste gebied is een smalle west- oost gerichte strook, gelegen

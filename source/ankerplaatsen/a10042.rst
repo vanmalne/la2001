@@ -20,18 +20,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * landduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 Molenbeek, Visbeek, Vlimmerse Loop
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -47,14 +47,14 @@ Blommerschot
 
  * landgoed
 
- 
+
 'Heiligenaert'
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 Kapel van O.-L.-Vrouw van Lourdes
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -71,7 +71,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -83,17 +83,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -103,7 +103,7 @@ heiderelicten
  * broek
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -121,7 +121,7 @@ aanwezigheid van weekendverblijven en visvijvers.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Door de verscheidenheid in reliëf en vochtigheidsgraad van de bodem
 treffen we in dit gebied -met beekvalleien, stuifduinen, vennen, bossen
 en heide- een grote verscheidenheid aan biotooptypen aan, wat gepaard
@@ -159,7 +159,7 @@ Oostmalle, Zoersel en Wechelderzande.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Domein Blommerschot en Beulkbeemden' is gelegen in de
+De ankerplaats 'Domein Blommerschot en Beulkbeemden' is gelegen in de
 Antwerpse Noorderkempen op grondgebied van de gemeenten Malle,
 Vorselaar, Zandhoven en Lille. De begrenzing wordt gevormd door de
 autostrade E34 Antwerpen-Eindhoven in het zuiden, de Pulsebaan, de

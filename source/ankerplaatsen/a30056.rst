@@ -20,18 +20,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 steilranden langs valleigrens
 
 **Macroreliëf:**
 
 interfluvium Hertsberghe- en Rivierbeek
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Rivier- en Hertsberghebeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -42,7 +42,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelparken; moestuin
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -53,21 +53,21 @@ kasteelparken; moestuin
  * ijskelder
  * kasteelgracht
 
- 
+
 boothuis;obelisk in kast. Erkegem
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 hoeve op Kampveld
 
 **Klein historisch erfgoed:**
 
  * schandpaal
 
- 
+
 kasteeldomein Gruuthuyse
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -80,7 +80,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 in parken
 
 **Lijnvormige elementen:**
@@ -96,7 +96,7 @@ bij weilanden en langs beken
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
@@ -105,7 +105,7 @@ bij weilanden en langs beken
  * hakhout
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -125,7 +125,7 @@ natuurlijk karakter van de nabijgelegen Rivierbeek.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De meanderende loop van de Rivier- en de Hertsbergebeek heeft een
 grote wetenschappeliejk waarde vanwege de natuurlijkheid van de oevers
 en het beeksysteem en omdat de aangrenzende weilanden dienst doen als
@@ -167,7 +167,7 @@ structurerend voor het landgebruik.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats strekt zich uit langs de Rivier- en de Hertsbergebeek
+Deze ankerplaats strekt zich uit langs de Rivier- en de Hertsbergebeek
 inbegrepen het kasteeldomein van Gruuthuyse ten oosten van de dorpskern
 van Oostkamp, het kasteel Celles, het kasteel van Erkegem en
 Nieuwenhovebos tot het Kampveld ten noordoosten van Waardamme (gem.

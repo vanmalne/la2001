@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,17 +30,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 steilrand tussen Laag- en Midden-België
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Kleine Herk, Vilster- of Vilsteegbeek
 
 **Moerassige gronden:**
 
- 
+
 drassige beemden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -50,14 +50,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * tuin
 
- 
+
 ommuurde abdijtuin en boomgaard
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 voormalig neerhof van de abdij
 
 **Kerkelijk erfgoed:**
@@ -67,7 +67,7 @@ voormalig neerhof van de abdij
  * abdij
  * pastorie
 
- 
+
 abdij Mariënlof met kerk en kapel Sint-Jozef, kapel Sint-Anna
 
  **Andere:**
@@ -80,7 +80,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * kerkwegel
 
- 
+
 kerkwegel van abdij naar pastorie en kerk
 
 **Spoorweg:**
@@ -95,7 +95,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -107,12 +107,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 grasland onder boomgaarden, vochtige beemden, open akkers op hoger
 gelegen delen
 
@@ -120,7 +120,7 @@ gelegen delen
 
  * hoogstam
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -136,7 +136,7 @@ bebouwing levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Kerniel is gelegen op de noordoostrand van het massief van Borgloon,
 dat zich ruim 30 m verheft boven de schiervlakte ten zuiden van de lijn
 Heks, Bommershoven, Jesseren en Piringen. Het landschap is heuvelachtig
@@ -183,7 +183,7 @@ voor zoals de voormalige spoorweg.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De abdij van Kolen te Kerniel is gelegen in het heuvelachtige
+De abdij van Kolen te Kerniel is gelegen in het heuvelachtige
 landschap aan de noordoostrand van het massief van Borgloon, dat zich
 ruim 30 m verheft boven de ten zuiden van de lijn Heks, Bommershoven
 Jesseren en Piringen gelegen schiervlakte. Geografisch bevindt Kerniel

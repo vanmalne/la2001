@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -30,21 +30,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Kruiskensberg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
  * oude rivierarm
 
- 
+
 Grote Nete, Heiloop
 
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,21 +54,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * hoeve
  * stal
 
- 
+
 Blauwe Hoeve + bakhuis
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 kruisweg
 
 **Klein historisch erfgoed:**
 
  * kruis
 
- 
+
 ijzeren kruis
 
  **Archeologische elementen:**
@@ -77,11 +77,11 @@ waterputten
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -101,12 +101,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -115,7 +115,7 @@ heiderelicten
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -128,7 +128,7 @@ ter hoogte van de Kruiskensberg.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van deze ankerplaats wordt bepaald door
 de vrij grote reliëfverschillen en de talrijke gradiënten in de
 abiotische condities, zoals nat-droog en kleibodem-zandbodem. Dit alles
@@ -168,7 +168,7 @@ vorm van steilranden langsheen de afgesneden Nete-armen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Kruiskensberg' is gelegen op grondgebied van de
+De ankerplaats 'Kruiskensberg' is gelegen op grondgebied van de
 gemeenten Bevel, Nijlen en Itegem in de Zuiderkempen. De begrenzing
 wordt gevormd door de Herenthoutsesteenweg in het noorden, de Merodese
 bossen en Niemandshoek in het oosten, de Grote Nete in het zuiden en het

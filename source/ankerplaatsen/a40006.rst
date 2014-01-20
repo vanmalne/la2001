@@ -19,12 +19,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 Burggravenstroom
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -34,7 +34,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kapel
 
- 
+
 Kapel 'O-L-V van de Bevende Hazelaar'
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -45,12 +45,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * pompgemaal
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,13 +67,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * blokvormig
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * naald
@@ -82,7 +82,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,7 +97,7 @@ onderhouden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze bosgordel is op de dekzandrug Maldegem-Stekene gelegen. Deze
 zandige bodem is een restant van een oude stuifduin. Deze zandrug is
 grotendeels herkenbaar in het landschap door de licht hogere ligging.
@@ -139,7 +139,7 @@ landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze bossen maken deel uit van een bosgordel die voor het grootste
+Deze bossen maken deel uit van een bosgordel die voor het grootste
 gedeelte op Kaprijke en minder op Waarschoot, er is nog een uitloper
 naar Oosteeklo toe. Deze bosgordel is op de dekzandrug Maldegem-Stekene
 gelegen. Deze zandige bodem is een restant van een oude stuifduin. Deze

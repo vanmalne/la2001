@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Moerassige gronden:**
 
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -34,21 +34,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * tuin
 
- 
+
 abdijtuin
 
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 landhuis
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 hoeve bij abdij
 
 **Kerkelijk erfgoed:**
@@ -58,7 +58,7 @@ hoeve bij abdij
  * abdij
  * klooster
 
- 
+
 Trappistenabdij
 
  **Andere:**
@@ -71,14 +71,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 oud wegenpatroon
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 **Andere:**
 watertoren
 
@@ -89,7 +89,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -100,18 +100,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * blokvormig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 **Bos:**
 
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -129,7 +129,7 @@ van de structurele eenheid van het landschap.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van het gebied wordt voornamelijk bepaald
 door de aanwezige heiderestanten en de oude bosrelicten die een
 waardevolle flora herbergen. Deze laatste hebben ook een belangrijke
@@ -171,7 +171,7 @@ door een complex en imposant drevenstelsel.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Abdij van Westmalle' betreft de Trappistenabdij met
+De ankerplaats 'Abdij van Westmalle' betreft de Trappistenabdij met
 omgevend domein, gelegen ten westen van de dorpskom van Westmalle en in
 het noordoosten rakend aan de ankerplaats 'Brechtse Heide'. De
 begrenzing van het landschap wordt bepaald door de St. Jobbaan in het

@@ -20,15 +20,15 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * beek
  * vallei
 
- 
+
 Dijle, Boeimeerbeek, Molenbeek, Platte Beek
 
 **Moerassige gronden:**
@@ -36,7 +36,7 @@ Dijle, Boeimeerbeek, Molenbeek, Platte Beek
  * veen
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +46,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -54,13 +54,13 @@ kasteelpark
  * kasteel
  * kasteelgracht
 
- 
+
 **Bouwkundig erfgoed:**
 
  * huis
  * herberg
 
- 
+
 tolhuisje
 
 **Landbouwkundig erfgoed:**
@@ -70,18 +70,18 @@ tolhuisje
  * stal
  * wagenhuis
 
- 
+
 Hottentothoeve, Mispeldonkhoeve
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -105,7 +105,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 zandwinningsput, bomkrater
 
 **Topografie:**
@@ -113,13 +113,13 @@ zandwinningsput, bomkrater
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -130,7 +130,7 @@ heiderelicten
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -146,7 +146,7 @@ wooninfrastructuur of recreatie ten stelligste worden vermeden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De natuurwetenschappelijke waarde van dit gebied wordt in de eerste
 plaats bepaald door de geologische herkenbaarheid en het gaaf gebleven
 microreliëf. De geleidelijke overgang van alluviale en zware kleigrond,
@@ -209,7 +209,7 @@ en de Hottentothoeve.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Dijlevallei tussen Mechelen en Rijmenam' is gelegen op
+De ankerplaats 'Dijlevallei tussen Mechelen en Rijmenam' is gelegen op
 grondgebied van de gemeenten Mechelen, Bonheiden en Boortmeerbeek in
 Kerngebied Brabant. Het wordt begrensd door de bewoning van Mechelen in
 het westen, Bonheiden en Rijmenam in het noorden, Keerbergen in het

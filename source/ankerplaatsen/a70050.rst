@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,19 +29,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 sterk door erosie versneden heuvelend landschap
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Bollebeek
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 oude ambachtelijke zandgroeve
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -51,7 +51,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * tuin
 
- 
+
 Grote Mot
 
 **Nederzettingspatronen:**
@@ -65,7 +65,7 @@ langgerekt hoopdorp
  * (heren)woning
  * huis
 
- 
+
 o.a. Grote Mot
 
 **Landbouwkundig erfgoed:**
@@ -74,14 +74,14 @@ o.a. Grote Mot
  * schuur
  * stal
 
- 
+
 o.a. Servaeshoeve
 
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 o.a. Sint-Servatiuskerk
 
  **Archeologische elementen:**
@@ -97,7 +97,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * Romeinse weg
 
- 
+
 Tongeren-Kassel
 
 **Spoorweg:**
@@ -114,7 +114,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * houtkant
@@ -124,25 +124,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 grasland onder boomgaarden
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -158,7 +158,7 @@ de Romeinse weg.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Grootloon is gelegen op de zuidoostrand van het massief van Borgloon,
 dat zich ruim 30 m verheft boven de schiervlakte ten zuiden van de lijn
 Heks, Bommershoven, Jesseren en Piringen. Het situeert zich in het door
@@ -196,7 +196,7 @@ Tongeren-Borgloon.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Grootloon is gelegen op de zuidoostrand van het massief van Borgloon,
+Grootloon is gelegen op de zuidoostrand van het massief van Borgloon,
 dat zich ruim 30 m verheft boven de schiervlakte ten zuiden van de lijn
 Heks, Bommershoven, Jesseren en Piringen. Het situeert zich in het door
 erosie sterk versneden contactgebied Droog- en Vochtig-Haspengouw met

@@ -21,14 +21,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
 
- 
+
 Rodeloop, Rooise Loop, Wamp
 
 **Moerassige gronden:**
@@ -36,7 +36,7 @@ Rodeloop, Rooise Loop, Wamp
  * moeras
  * veen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +46,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 park en tuinen bij Priorij
 
 **Nederzettingspatronen:**
@@ -62,24 +62,24 @@ Corsendonk
  * stal
  * wagenhuis
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
  * klooster
 
- 
+
 Priorij Corsendonk + bijgebouwen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
  * stuw
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -95,24 +95,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * opstrekkend
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 **Bos:**
 
  * naald
  * broek
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -128,7 +128,7 @@ een aantal atypische woningen voor.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De natuurwetenschappelijke waarde van deze ankerplaats wordt in de
 eerste plaats bepaald door het valleigebied van de Rodeloop, waar men
 een typische beekdalvegetatie terugvindt. Een complex van natte
@@ -176,7 +176,7 @@ priorij benadrukt.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats gevormd door de Priorij van Corsendonk en de
+De ankerplaats gevormd door de Priorij van Corsendonk en de
 Tikkebroeken is gelegen in de gemeenten Kasterlee en Oud-Turnhout op de
 overgang van Centrale Kempen naar Noorderkempen. De begrenzing wordt
 gevormd door de Steenweg op Mol en Donk in het noordoosten, de

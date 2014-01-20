@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -34,7 +34,7 @@ Hazenduinen, Wilgenduinen, Kambuusduinen
  * veen
  * ven
 
- 
+
 Talrijke vennen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -44,18 +44,18 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * landgoed
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
 
- 
+
 **Klein historisch erfgoed:**
 
  * grenspaal
 
- 
+
 + oude molensteen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -65,14 +65,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 'Duitse weg'
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -92,18 +92,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * turfput
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
 
- 
+
 No
 
 **Bos:**
@@ -111,7 +111,7 @@ No
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -124,7 +124,7 @@ onder verdroging.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Kalmthoutse Heide heeft in de eerste plaats een aanzienlijke
 wetenschappelijke waarde door haar uitgestrektheid, ongeschondenheid en
 diversiteit in structuur en voorkomen. Hoewel de aan heide gebonden
@@ -165,7 +165,7 @@ uitgestrekter landschappelijk waardevol gebied.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De 'Kalmthoutse Heide' is volledig gelegen op grondgebied van de
+De 'Kalmthoutse Heide' is volledig gelegen op grondgebied van de
 gemeente Kalmthout in de Antwerpse Noorderkempen. De begrenzing van deze
 ankerplaats wordt gevormd door het landschap 'De Nol' in het noorden,
 het heidegebied 'De Zoom' op Nederlands grondgebied in het westen, de

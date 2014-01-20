@@ -21,20 +21,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
 
- 
+
 Nattenloop, Meergorenloop, Mark, Noordermark
 
 **Moerassige gronden:**
 
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,23 +43,23 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Bouwkundig erfgoed:**
 
  * villa
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,11 +68,11 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * verlaten spoorweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -93,20 +93,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,7 +123,7 @@ verdeelt en een harde barrière vormt.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Turnhouts Vennengebied is een mozaïek van aan natte condities
 gebonden vegetaties, die hier en daar worden doorbroken door
 vennencomplexen met een behoorlijke oppervlakte. Deze laatste zijn een
@@ -174,7 +174,7 @@ op deze manier zorgen voor extra openheid.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap 'Turnhouts Vennengebied' is gelegen in de gemeenten
+Het landschap 'Turnhouts Vennengebied' is gelegen in de gemeenten
 Turnhout en Merksplas op de waterscheiding tussen Maas en Schelde en
 behoort daarmee tot de Antwerpse Noorderkempen. Het wordt begrensd door
 Bloksgoor in het noorden, de Bremstraat, de Watertappingstraat en het

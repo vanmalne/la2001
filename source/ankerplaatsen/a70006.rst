@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 oeverwallen, stuifzandreliëfs
 
 **Macroreliëf:**
@@ -30,13 +30,13 @@ oeverwallen, stuifzandreliëfs
 
 duinreliëfs
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
- 
+
 o.a. Zwarte Beek, Oude Beek, Winterbeek
 
 **Moerassige gronden:**
@@ -46,7 +46,7 @@ o.a. Zwarte Beek, Oude Beek, Winterbeek
  * rietland
  * ven
 
- 
+
 beemden, hier broeken genoemd, verruigde hooilanden
 
  **Andere:**
@@ -67,26 +67,26 @@ Spiekelspade
 
  * hoeve
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 Stalse Molen
 
 **Militair erfgoed:**
 
  * schans
 
- 
+
 o.a. Vurtense schans
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 o.a. kapel van Onze-Lieve-Vrouw-aan-de-Staak
 
  **Archeologische elementen:**
@@ -100,17 +100,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 opstrekkend patroon van paden en wegen naar en door de vallei
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
  * stuw
 
- 
+
 stelsel van grachten en zijbeken in de broeken van de Zwarte
 Beekvallei
 
@@ -122,7 +122,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -133,13 +133,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * opstrekkend
  * historisch stabiel
 
- 
+
 in de Zwarte Beekvallei
 
 **Historisch stabiel landgebruik:**
@@ -148,7 +148,7 @@ in de Zwarte Beekvallei
  * plaggenbodems
  * heide
 
- 
+
 beemden, hier broeken genoemd
 
 **Bos:**
@@ -160,14 +160,14 @@ beemden, hier broeken genoemd
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide
  * watering
 
- 
+
 voormalige, bevloeide waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -186,7 +186,7 @@ gewenst.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het landschap strekt zich uit aan de rand van het Kempens Plateau.
 Dergelijk overgangsgebied wordt gekenmerkt door een eigen dynamiek en is
 bijgevolg in geografisch opzicht belangrijk. Het voorkomen van
@@ -246,7 +246,7 @@ landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Hechtel wordt ten zuiden begrensd door Helchteren, ten westen door
+Hechtel wordt ten zuiden begrensd door Helchteren, ten westen door
 Koersel. Uitgestrekte delen van de omgeving behoren tot het militair
 domein van Leopoldsburg, dat normaliter niet toegankelijk is. Het
 landschap wordt in grote lijnen beheerst door bossen en heide, een groot

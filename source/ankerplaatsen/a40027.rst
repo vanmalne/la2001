@@ -18,13 +18,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 Heusdensloot
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -35,7 +35,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * hof
 
- 
+
 Slot van Laarne
 
 **Nederzettingspatronen:**
@@ -54,22 +54,22 @@ relatie kasteel- kerk en dorp
  * kasteelgracht
  * waterput
 
- 
+
 **Bouwkundig erfgoed:**
 
- 
+
 gemeentehuis
 
 **Kerkelijk erfgoed:**
 
  * kerk
 
- 
+
 **Klein historisch erfgoed:**
 
  * schandpaal
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,14 +78,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 kasseiweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -94,7 +94,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -108,21 +108,21 @@ kasteeldreven
 
  * vijver
 
- 
+
 binnen- en buitengrachten
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Bos:**
 
  * loof
  * middelhout
  * hooghout
 
- 
+
 boomgaard
 
 OPMERKINGEN EN KNELPUNTEN
@@ -137,8 +137,8 @@ serrecomplexen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 De hof-kerkrelatie wordt de verbinding van de laan tussen de kerk en
 het kasteel. Deze is duidelijk herkenbaar en gaaf ten opzichte van
@@ -163,7 +163,7 @@ indrukwekkenst. Achter het kasteel liggen nog enkele dreven.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Kasteel of Slot van Laarne is architectuurhistorisch gezien één
+Het Kasteel of Slot van Laarne is architectuurhistorisch gezien één
 van de voornaamste uit het kastelenpatrimonium van het land. Het
 indrukwekkende kasteel vormt één van de zeldzame kenmerkende
 vertegenwoordigers van het laat- middeleeuwse feodaal slot, behorende

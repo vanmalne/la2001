@@ -21,20 +21,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,31 +44,31 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
- 
+
 'Krabbelshof' met bijgebouwen
 
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 landhuis 'Driehoekhof'
 
 **Landbouwkundig erfgoed:**
 
  * schuur
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -77,7 +77,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 aarden wegen
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -87,7 +87,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -101,13 +101,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -118,7 +118,7 @@ heiderelicten
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -133,7 +133,7 @@ van de landbouw.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Door de overgang van valleigebied naar hogere, drogere gronden, wordt
 de wetenschappelijke waarde van deze ankerplaats in de eerste plaats
 bepaald door de afwisseling in abiotische condities, wat resulteert in
@@ -178,7 +178,7 @@ uitgestrekter relatief gaaf gebied in de Antwerpse Kempen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Domein Krabbelshof, Lovenhoek en Krabbelsbroek' is
+De ankerplaats 'Domein Krabbelshof, Lovenhoek en Krabbelsbroek' is
 gelegen op grondgebied van de gemeenten Vorselaar, Zandhoven en
 Grobbendonk op de overgang van Centrale- naar Zuiderkempen. De
 begrenzing van dit landschap wordt gevormd door de autosnelweg E34

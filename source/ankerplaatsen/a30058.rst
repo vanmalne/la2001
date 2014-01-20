@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 langs valleigrens
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Vleterbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -37,7 +37,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hoeve
 
- 
+
 hoeves karakteristiek plaats aan rand vallei met toegangsweg
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -56,14 +56,14 @@ langs beek; en begroeide taluds
 
 **Topografie:**
 
- 
+
 langste perceelszijde loodrecht op loop Vleterbeek
 
 **Typische landbouwteelten:**
 
  * hop
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,7 +81,7 @@ Helleketelbos te vrijwaren.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het tertiair kleiig materiaal in de ondergrond is zeer bepalend voor
 het smal en diep ingesneden karakter van de beek en de steilranden. De
 steilranden en de valleigrens vormen de grens tussen de holocene en
@@ -114,7 +114,7 @@ de omgeving van Poperinge.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten zuidwesten van Poperinge en strekt zich uit
+Deze ankerplaats ligt ten zuidwesten van Poperinge en strekt zich uit
 langs de Vleterbeek tussen Abeele (aan de Frans-Belgische grens) en
 Poperinge. Ze wordt begrensd door twee wegen met dreven die min of meer
 parallel aan de beek lopen. De Vleterbeek heeft een zeer natuurlijke

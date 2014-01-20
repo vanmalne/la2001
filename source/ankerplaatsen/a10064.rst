@@ -21,12 +21,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -36,24 +36,24 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 Vrijbroekpark + rozentuin
 
 **Klein historisch erfgoed:**
 
  * standbeeld
 
- 
+
 bronzen buste van Albert Nobels
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -66,19 +66,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Bos:**
 
  * loof
  * broek
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -92,7 +92,7 @@ landbouwgebied verdrongen in een eilandpositie.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van deze ankerplaats wordt bepaald door
 het relict kleinschalig landbouwgebied tussen het park en de
 autosnelweg, dat dienst doet als refugium voor plant- en diersoorten die
@@ -123,7 +123,7 @@ van het stedelijk weefsel teruggedrongen in een eilandpositie.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het 'Vrijbroekpark' is gelegen tussen Dijle en Zenne, op grondgebied
+Het 'Vrijbroekpark' is gelegen tussen Dijle en Zenne, op grondgebied
 van de gemeente Mechelen in het Kerngebied Brabant. De begrenzing van
 deze ankerplaats wordt gevormd door de bewoning van de stad Mechelen in
 het oosten, de Hombeekse Steenweg in het zuiden, de Uilmolenweg

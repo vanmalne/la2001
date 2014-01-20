@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 o.a. oeverwallen, depressies
 
 **Macroreliëf:**
@@ -30,7 +30,7 @@ o.a. oeverwallen, depressies
  * steilrand
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -39,20 +39,20 @@ o.a. oeverwallen, depressies
  * meander
  * oude rivierarm
 
- 
+
 o.a. Maas, Genootsbeek, Vrietselbeek, Zanderbeek of Diepbeek,
 Kogbeek, De Sloot
 
 **Moerassige gronden:**
 
- 
+
 natte depressies
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 kleinschalige grind- en leemputten, grindbanken
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -63,7 +63,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 o.a. Sint-Gertrudiskerk, kasteeldomein Ommerstein, kasteel
 Karolinaberg
 
@@ -80,7 +80,7 @@ o.a. Boyen, Heppeneert, Oud-Dilsen
  * landgoed
  * kasteelgracht
 
- 
+
 kasteel Ommerstein, kasteel Karolinaberg
 
 **Bouwkundig erfgoed:**
@@ -90,7 +90,7 @@ kasteel Ommerstein, kasteel Karolinaberg
  * villa
  * herberg
 
- 
+
 o.a. kasteel Karolinaberg, Oud-Dilsen, Damiaan, Labaer, De Hoogte,
 Boyen en Heppeneert
 
@@ -101,7 +101,7 @@ Boyen en Heppeneert
  * stal
  * wagenhuis
 
- 
+
 o.a. kasteelhoeve Ommerstein, Kraaienbos, Damiaan, Kapelhof,
 Zanderhof, Boyen en Heppeneert
 
@@ -109,7 +109,7 @@ Zanderhof, Boyen en Heppeneert
 
  * windmolen
 
- 
+
 De Hoop
 
 **Kerkelijk erfgoed:**
@@ -119,7 +119,7 @@ De Hoop
  * klooster
  * pastorie
 
- 
+
 o.a. Sint-Gertrudiskerk, Sint-Maartenstoren, kapel Onze-Lieve-Vrouw
 van Rust
 
@@ -129,7 +129,7 @@ van Rust
  * gedenkteken
  * grenspaal
 
- 
+
 o.a. merktekens waterhoogte
 
  **Archeologische elementen:**
@@ -144,14 +144,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
  * lijnpad
 
- 
+
 o.a. Pastoorsdijk, winterdijken, zomerdijken, Sint-Geertruibrug,
 Duivelsbrugje
 
@@ -166,31 +166,31 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Kunstmatige waters:**
 
  * poel
  * weel
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 weerden
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -198,13 +198,13 @@ weerden
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * uiterwaarden
  * buitendijks
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -223,7 +223,7 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Rivierlandschappen hebben een dynamisch karakter. In geomorfologisch,
 bodemkundig en hydrografisch opzicht is de alluviale vlakte van de Maas
 een zeldzaam gegeven in Vlaanderen omdat een aantal natuurlijke
@@ -286,7 +286,7 @@ hebben tussen Maaslandse Kempen en alluviale vlakte.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het beoogde gebied bevindt zich in de alluviale vlakte van de Maas,
+Het beoogde gebied bevindt zich in de alluviale vlakte van de Maas,
 tegen de Nederlandse grens, tussen Maasmechelen en Stokkem. Vrijwel
 nergens is een landschap en zijn bewoners zodanig bepaald geworden door
 het doen en laten van de Maas als in het smalle overstromingsgebied

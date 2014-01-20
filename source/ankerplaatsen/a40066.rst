@@ -18,7 +18,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -35,14 +35,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * huis
  * herberg
 
- 
+
 gemeentehuis
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 'Balhoeve'
 
 **Kerkelijk erfgoed:**
@@ -51,12 +51,12 @@ gemeentehuis
  * klooster
  * pastorie
 
- 
+
 **Klein historisch erfgoed:**
 
  * gedenkteken
 
- 
+
 waterpomp, monument voor gesneuvelden uit beide WO
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -67,7 +67,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * kerkwegel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -76,7 +76,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 Vrijheidsboom
 
 **Lijnvormige elementen:**
@@ -87,12 +87,12 @@ Vrijheidsboom
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -102,7 +102,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Sinaai is het prototype van een centrumdorp dat zich centrifugaal
 vanuit het dorpsplein met kerk en schepenhuis heeft ontwikkeld. De
 dorpskom wordt bepaald door een rechthoekige struktuur van het kerkhof
@@ -146,7 +146,7 @@ plein. Aan de staatkant staan plantanen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Sinaai is het prototype van een centrumdorp dat zich centrifugaal
+Sinaai is het prototype van een centrumdorp dat zich centrifugaal
 vanuit het dorpsplein met kerk en schepenhuis heeft ontwikkeld. De
 dorpskom wordt bepaald door een rechthoekige structuur van het kerkhof
 en de dries, welke reeds in 1219 is aangelegd. Door de gebondenheid van

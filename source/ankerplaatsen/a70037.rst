@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,13 +29,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
- 
+
 Abeek
 
 **Moerassige gronden:**
@@ -44,7 +44,7 @@ Abeek
  * veen
  * rietland
 
- 
+
 vochtige beemden
 
  **Andere:**
@@ -66,14 +66,14 @@ valleisite Reppel en gehucht Over de Beek
  * schuur
  * stal
 
- 
+
 o.a. Het Ooievaarsnest
 
 **Molens:**
 
  * watermolen
 
- 
+
 o.a. Genamolen, Mariëndaal, Binkenmolen, Reppelmolen
 
 **Kerkelijk erfgoed:**
@@ -81,7 +81,7 @@ o.a. Genamolen, Mariëndaal, Binkenmolen, Reppelmolen
  * kerk
  * kapel
 
- 
+
 o.a. Sint-Willibrorduskerk
 
  **Archeologische elementen:**
@@ -95,10 +95,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 opstrekkend patroon vanuit Abeekvallei
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -107,7 +107,7 @@ opstrekkend patroon vanuit Abeekvallei
  * stuw
  * lijnpad
 
- 
+
 grachtenstelsel met o.a. Losbeek, oud kanaal Jan Van Abroek,
 Zuid-Willemsvaart, moleninfrastructuur
 
@@ -119,7 +119,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -132,18 +132,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
 
- 
+
 o.a. vochtige hooi- en weilanden
 
 **Bos:**
@@ -154,14 +154,14 @@ o.a. vochtige hooi- en weilanden
  * hakhout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide
  * watering
 
- 
+
 o.a. kleinschalige waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -176,7 +176,7 @@ bebouwing levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De vallei van de Abeek ligt in het overgangsgebied van het Kempens
 Plateau naar de Vlakte van Bocholt, gekenmerkt door een eigen dynamiek.
 De omgeving bezit een bijzonder reliëf en verscheiden gradiënten (bodem,
@@ -219,7 +219,7 @@ bepalend voor de opbouw en organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap is gelegen in de vallei van de Abeek stroomopwaarts van
+Het landschap is gelegen in de vallei van de Abeek stroomopwaarts van
 Bocholt, in het grensgebied met de gemeenten Bree, Meeuwen-Gruitrode en
 Peer. Het bevindt zich in de overgangzone tussen het Kempens Plateau en
 de Vlakte van Bocholt. Dergelijke overgangszone wordt gekenmerkt door

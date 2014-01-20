@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,17 +29,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 heuvelend met asymmetrische beekinsnijdingen
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Fonteinbeek, Molenbeek of Mombeek
 
 **Moerassige gronden:**
 
- 
+
 natte graslanden
 
  **Andere:**
@@ -53,7 +53,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelparken Kolmont en Rooi
 
 **Nederzettingspatronen:**
@@ -67,7 +67,7 @@ straatdorp Kolmont
  * kasteel
  * landgoed
 
- 
+
 kastelen van Kolmont en van Rooi
 
 **Landbouwkundig erfgoed:**
@@ -76,7 +76,7 @@ kastelen van Kolmont en van Rooi
  * schuur
  * stal
 
- 
+
 Herkwinning, kasteelhoeve Rooi
 
  **Archeologische elementen:**
@@ -93,7 +93,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * Romeinse weg
  * Oostenrijkse periode
 
- 
+
 Romeinse weg Bilzen-Waremme, steenweg Tongeren-Hasselt (1741)
 
 **Spoorweg:**
@@ -110,7 +110,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -124,24 +124,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
  * hooghout
  * struweel
 
- 
+
 historisch stabiele hellingbossen
 
 OPMERKINGEN EN KNELPUNTEN
@@ -154,7 +154,7 @@ De recente bebouwing levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De hier voorkomende hoogstamboomgaarden zijn van belang voor het
 behoud van oude en zeldzame fruitvariëteiten (dendrologische waarde).
 Historische waarde:
@@ -183,7 +183,7 @@ hier bepalend voor de opbouw en organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het heuvelend reliëf van Kolmont wordt ingesneden door de Fonteinbeek
+Het heuvelend reliëf van Kolmont wordt ingesneden door de Fonteinbeek
 en de Molenbeek of Mombeek. Het maakt hoofdzakelijk deel uit van het
 erosiemassief van Tongeren (100 tot 115 meter). De asymmetrische
 insnijdingen wisselen er af met vlakke plateaugebieden. Het landschap

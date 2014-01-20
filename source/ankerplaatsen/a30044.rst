@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * graft
  * talud
 
- 
+
 Wulfsberg en op westelijke helling
 
 **Macroreliëf:**
@@ -30,11 +30,11 @@ Wulfsberg en op westelijke helling
 
 topzones van interfluviale kam tussen Schelde en Leie
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,14 +43,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * boswachterswoning
  * landgoed
 
- 
+
 kasteel Banhout uit 1857
 
 **Landbouwkundig erfgoed:**
@@ -58,7 +58,7 @@ kasteel Banhout uit 1857
  * stal
  * wagenhuis
 
- 
+
 nabij kasteel Banhout
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -80,7 +80,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -99,7 +99,7 @@ aan de esthetische waarde
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Banhoutbos ligt op een topzone van de interfluviale kam tussen
 Schelde- en Leiebekken. Langs de hellingen veroorzaakt de geologische
 opbouw bronnen en dalhoofden, én ze is bepalend voor de bebossing op de
@@ -125,7 +125,7 @@ het omringende open landschap vormt de top een baken.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats ligt ten zuidoosten van de kern van Zwevegem. Ze wordt
+De ankerplaats ligt ten zuidoosten van de kern van Zwevegem. Ze wordt
 in het oosten begrensd door de weg tussen Heestert (gem. Zwevegem) en
 St-Lodewijk (idem), in het noorden door de bebouwing rond St-Lodewijk en
 in het zuiden en het westen door een smalle weg en aardeweg aan de voet

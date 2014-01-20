@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * heuvel
@@ -34,7 +34,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -43,21 +43,21 @@ kasteelpark
  * muur
  * kasteelgracht
 
- 
+
 kasteelremises; muur oude moestuin
 
 **Landbouwkundig erfgoed:**
 
  * wagenhuis
 
- 
+
 koetshuis bij het kasteel
 
 **Klein historisch erfgoed:**
 
  * grenspaal
 
- 
+
 rijksgrens met Nederland
 
  **Andere:**
@@ -79,7 +79,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 spiegelvijver bij kasteel
 
 **Bos:**
@@ -88,7 +88,7 @@ spiegelvijver bij kasteel
  * loof
  * hooghout
 
- 
+
 deels historisch stabiel
 
 OPMERKINGEN EN KNELPUNTEN
@@ -103,7 +103,7 @@ de afbakening om de blokstructuur van de ankerplaats niet te doorbreken.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van dit landschap wordt bepaald door de
 deels historisch stabiele, hoogstammige bossen van afwisselend loof- en
 naaldhout. Langs de zuidrand vormen bomenrijen van eik en knotwilg een
@@ -134,7 +134,7 @@ cluster van waardevolle landschappen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Domein Ravenhof is gelegen in de gemeente Stabroek in het noorden van
+Domein Ravenhof is gelegen in de gemeente Stabroek in het noorden van
 de provincie Antwerpen. De begrenzing van deze ankerplaats wordt gevormd
 door de grens met Nederland in het westen en noorden, de bewoning van
 Putte in het oosten en de Antitankgracht in het zuiden. 'Domein

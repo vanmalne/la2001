@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 Marelse Loop, Witvenloop
 
 **Moerassige gronden:**
@@ -33,7 +33,7 @@ Marelse Loop, Witvenloop
  * moeras
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,21 +42,21 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
  * grenspaal
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,7 +65,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -75,13 +75,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -91,7 +91,7 @@ heiderelicten
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -111,7 +111,7 @@ cultuurhistorisch en ruimtelijk oogpunt ten zeerste gewenst.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Staatsbossen van Ravels zijn gesitueerd op voormalige heide met
 vennen in de Antwerpse Noorderkempen. Het is een uitgestrekt en rustig
 gebied met een grote landschappelijke en abiotische diversiteit die
@@ -160,7 +160,7 @@ het deel is van een veel uitgestrekter complex.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Staatsbossen van Ravels zijn gelegen in het noorden van de
+De Staatsbossen van Ravels zijn gelegen in het noorden van de
 provincie Antwerpen, tegen de Nederlandse grens. De begrenzing wordt
 gevormd door de gemeentegrens met Weelde in het noorden, de landbouwzone
 'Kijkverdriet', de gemeentegrens met Arendonk en de rijksgrens met

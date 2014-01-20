@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,13 +29,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * steilrand
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -55,20 +55,20 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * kasteel
  * muur
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
  * abdij
 
- 
+
 **Archeologische elementen:**
 sporen uit Neolithicum, Karolingische ijzersmeltovens
 
@@ -80,14 +80,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 **Spoorweg:**
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * stuw
 
- 
+
 Opstuwing Ijse om vijvers te realiseren
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -102,13 +102,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -121,7 +121,7 @@ aantal grote verkeersaders doorkruisen het woud.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Zoniënwoud heeft een waardevolle fauna en flora en sommige
 gedeelten hebben ook een grote dendrlogische waarde, inzonderheid het
 bosarboretum van Groenendaal.
@@ -143,14 +143,14 @@ Educatief Bosbouwcentrum gevestigd. In de buurt bevindt zich het
 arboretum van Groenendaal. Een deel van het woud doet dienst als
 bosreservaat.
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het Zoniënwoud is een restant van het historische "Kolenwoud" dat zich
+Het Zoniënwoud is een restant van het historische "Kolenwoud" dat zich
 in de vierde eeuw nog uitstrekte van Thuin tot Brussel. Samen met zijn
 uitgestrektheid geeft dit voortbestaan aan het bos een op biologisch
 vlak een hoge potentiële waarde. Geomorfologisch is het eveneens van

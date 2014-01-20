@@ -20,7 +20,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -29,15 +29,15 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * motte
 
- 
+
 site ten doele
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
- 
+
 Zwinnevaart en Kalsijdeader
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -47,12 +47,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * permanent grasland
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,7 +70,7 @@ motte zelf.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De hoge grondwaterstand gedurende het gehele jaar vormt de fysische
 omkadering van de site in deze polder.
 Historische waarde:
@@ -92,7 +92,7 @@ De motte vormt een opvallende ophoging in het open polderlandschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt in Hoeke (gem. Damme) tussen de Zwinnevaart en
+Deze ankerplaats ligt in Hoeke (gem. Damme) tussen de Zwinnevaart en
 de Kalsijdeader. Centraal ligt een zeer goed bewaarde mottesite in de
 middellandpolders. Tijdens de 13e en 14e eeuw was op deze motte
 bebouwing aanwezig met errond een walgracht die nog herkenbaar is aan

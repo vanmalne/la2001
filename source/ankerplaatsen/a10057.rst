@@ -21,21 +21,21 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * landduin
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * beek
  * vallei
 
- 
+
 Grote Nete, Zeeploop, Belseheideloop, Scherpenbergloop
 
 **Moerassige gronden:**
@@ -45,7 +45,7 @@ Grote Nete, Zeeploop, Belseheideloop, Scherpenbergloop
  * rietland
  * ven
 
- 
+
 laagveen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -58,7 +58,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * stal
  * wagenhuis
 
- 
+
 Kretkenshoeve, Monnikenhoeve of Grote Hoeve
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -68,14 +68,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 dambordvormig wegenpatroon
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -85,7 +85,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -97,14 +97,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * turfput
 
- 
+
 Malesbroek
 
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 dambordvormig
 
 **Historisch stabiel landgebruik:**
@@ -113,7 +113,7 @@ dambordvormig
  * permanent grasland
  * heide
 
- 
+
 relicten van natte heide
 
 **Bos:**
@@ -124,7 +124,7 @@ relicten van natte heide
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -139,7 +139,7 @@ verspreid over het gebied voorkomt.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit landschap omvat vele verschillende biotopen, gepaard gaande met
 evenzoveel verschillende overgangszones. Deze diversiteit uit zich in
 een belangrijke floristische waarde met pioniers- en heidevegetaties op
@@ -198,7 +198,7 @@ geheel.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap 'Stuifduincomplex bij de Molse en de Grote Nete' is
+Het landschap 'Stuifduincomplex bij de Molse en de Grote Nete' is
 gelegen in de Antwerpse Kempen tussen Geel en Meerhout. De ankerplaats
 wordt begrensd door het straatdorp van Bel en de Malose Waver in het
 noorden, de grens met Mol in het oosten, de bewoning van Meerhout in het

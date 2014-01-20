@@ -20,18 +20,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * markante terreinovergang
 
 overgang polder- zandstreek
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
 
- 
+
 Blankenbergevaart watert gebied af; zwinnen en geleden waarop
 grachten aangesloten zijn
 
@@ -39,7 +39,7 @@ grachten aangesloten zijn
 
  * veen
 
- 
+
 op sommige plaatsen nabij het oppervlak
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -49,7 +49,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 bij kastelen Bloemendale en Ter Lucht
 
 **Nederzettingspatronen:**
@@ -63,7 +63,7 @@ Meetkerke
  * kasteel
  * landgoed
 
- 
+
 Bloemendale, Ter Lucht
 
 **Landbouwkundig erfgoed:**
@@ -71,7 +71,7 @@ Bloemendale, Ter Lucht
  * hoeve
  * schuur
 
- 
+
 Rode Poort Hoeve; hoeve rond Kapellebrug met boomgaard; Ter Mere en
 Ter Zale
 
@@ -79,7 +79,7 @@ Ter Zale
 
  * windmolen
 
- 
+
 Poldermolen voor bemaling van de Moeren
 
 **Kerkelijk erfgoed:**
@@ -88,14 +88,14 @@ Poldermolen voor bemaling van de Moeren
  * kapel
  * pastorie
 
- 
+
 kerk van Meetkerke met Romaanse resten
 
 **Klein historisch erfgoed:**
 
  * eendenkooi
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,16 +104,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 kasseiweg door Meetkerke
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * sluis
  * grachtenstelsel
 
- 
+
 kan. Gent-Oostende met begeleidende bomenrij; kleine sluizen
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -135,7 +135,7 @@ Moere
 
  * poel
 
- 
+
 veedrinkput
 
 **Topografie:**
@@ -143,14 +143,14 @@ veedrinkput
  * repelvormig
  * opstrekkend
 
- 
+
 repelvormig in laagste deel; percelen opstrekkend op dekzandrug
 
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 No
 
 **Bos:**
@@ -158,12 +158,12 @@ No
  * naald
  * loof
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * droogmakerij
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -181,7 +181,7 @@ glasteelt) doen afbreuk aan de esthetische waarde van het landschap.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De natuurlijke graduele overgang tussen polder- en zandstreek heeft
 een grote wetenschappelijke waarde door zijn gaafheid en herkenbaarheid
 in het landschap (o.a. verschillen in de openheid van het landschap en
@@ -231,7 +231,7 @@ structureert het wegen- en perceleringspatroon in de zandstreek.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt in de gemeenten Brugge, Zuienkerke (grootste
+Deze ankerplaats ligt in de gemeenten Brugge, Zuienkerke (grootste
 deel), en Jabbeke (zuidwestelijke hoek). De spoorlijn Brugge-Oostende
 vormt de zuidelijke grens, de N31 St-Andries(gem. Brugge)-Zeebrugge de
 oostelijke , de N9 Brugge-Wenduine de noordelijke ,én de weg van

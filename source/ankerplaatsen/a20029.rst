@@ -21,18 +21,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -41,7 +41,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * tuin
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -51,19 +51,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * muur
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * windmolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
@@ -72,7 +72,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * klooster
  * pastorie
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,7 +91,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -101,12 +101,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * kouters
 
- 
+
 **Bos:**
 
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -120,7 +120,7 @@ begrepen
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De beboste delen van de beekvalleien (in het bijzonder het
 Moulliebos) herbergen waardevolle vegetaties. Het kasteelpark Den Daal
 heeft dendrologische waarde.
@@ -136,14 +136,14 @@ beekdalen en bosjes en de kleine dorpskernen met talrijke oude gebouwen
 geven het gebied een hoge esthetische waarde.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het omschreven gebied ligt ten zuiden van Pepingen, in de vork gevormd
+Het omschreven gebied ligt ten zuiden van Pepingen, in de vork gevormd
 door de wegen Asse-Leerbeek-Edingen en Ninove-Leerbeek-Halle.
 Leemgronden zijn kenmerkend in dit sterk heuvelend landschap, met holle
 wegen en ruggen tot 70 meter hoog en meer, met de Roskambeek, de

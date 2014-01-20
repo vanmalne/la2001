@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -27,14 +27,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -44,7 +44,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
  * gehucht
@@ -57,19 +57,19 @@ Zegelsem
  * huis
  * herberg
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 Perlinkmolen
 
 **Kerkelijk erfgoed:**
@@ -79,7 +79,7 @@ Perlinkmolen
  * klooster
  * pastorie
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -90,7 +90,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
+
 kasseiwegen
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -101,7 +101,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -115,12 +115,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * loof
@@ -128,7 +128,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -144,7 +144,7 @@ onderschat worden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het begin van de beek wordt net ten zuiden van Zegelsem gevormd door
 de samenloop van twee beken die in twee amphitheatervormige brongebieden
 hun aanvang nemen. Door de textuurwisseling van het Tertiair substraat
@@ -200,7 +200,7 @@ De dorpskern van Zegelsem is in de vallei gelegen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het deel van de Perlinckbeek dat in de ankerplaats is opgenomen, vormt
+Het deel van de Perlinckbeek dat in de ankerplaats is opgenomen, vormt
 de bovenloop van de beek die ongeveer vijf kilometer lang is en zich
 tussen Zegelsem en Sint-Blasius- Boekel in noord-zuidelijke richting
 situeert. Hier is het verval van de beek het grootst, over de helft van

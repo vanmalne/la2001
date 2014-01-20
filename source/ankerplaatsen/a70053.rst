@@ -20,18 +20,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 o.a. Stiemerbeek, Miezerikbeek, Achterbeek
 
 **Moerassige gronden:**
@@ -41,7 +41,7 @@ o.a. Stiemerbeek, Miezerikbeek, Achterbeek
  * rietland
  * ven
 
- 
+
 vochtige beemden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -53,12 +53,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 Slagmolen
 
  **Archeologische elementen:**
@@ -71,17 +71,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * pad
 
- 
+
 wandelpaden
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
  * stuw
 
- 
+
 molensloot, vijvercomplex
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -91,7 +91,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * houtkant
@@ -103,19 +103,19 @@ deels beboste dijken
  * turfput
  * vijver
 
- 
+
 zogenaamde weyers
 
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 **Bos:**
 
  * naald
@@ -124,13 +124,13 @@ zogenaamde weyers
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
 
- 
+
 kleinschalige waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
@@ -147,7 +147,7 @@ tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Waardevol is het voorkomen in een aaneensluitend logisch geheel van
 voor de Kempen typische en steeds zeldzamer wordende landschapselementen
 zoals vijvers met verlandingszones, veenplassen, vochtige en droge
@@ -186,7 +186,7 @@ voor de organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Maten, op de grens van de gemeenten Genk en Diepenbeek, zijn een
+De Maten, op de grens van de gemeenten Genk en Diepenbeek, zijn een
 deel van een moerassige zone die zich uitstrekt langsheen de
 zuidwestelijke rand van het Kempens plateau en langzaam naar de Demer
 afhelt. Het is een nagenoeg vlak gebied met een oppervlakte van ongeveer

@@ -21,17 +21,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Winterbeek
 
 **Moerassige gronden:**
 
- 
+
 gebrekkige natuurlijke drainage en hoge bodemvochtigheid
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -42,7 +42,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelpark Jongenbosch
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -50,7 +50,7 @@ kasteelpark Jongenbosch
  * kasteel
  * landgoed
 
- 
+
 kasteel Jongenbosch met voormalig koetshuis
 
  **Archeologische elementen:**
@@ -67,7 +67,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -78,17 +78,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 historisch stabiel bos en weilanden
 
 **Bos:**
@@ -99,7 +99,7 @@ historisch stabiel bos en weilanden
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -112,8 +112,8 @@ tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 Park en bos van het domein Jongenbosch zijn de historisch stabiele
 restanten van een voormalig bosrijke omgeving, die als jachtdomein van
@@ -140,7 +140,7 @@ ruimtelijk-structureel bepalend.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het 104 ha grote Jongenbos ligt ten noordoosten van het centrum van
+Het 104 ha grote Jongenbos ligt ten noordoosten van het centrum van
 Vliermaalroot, in het noordelijk gedeelte van Vochtig-Haspengouw. Tot
 1865 maakte het deel uit van de gemeente Vliermaal. Het suffix -root zou
 wijzen op het aanvankelijk bosrijke karakter van de destijds noordelijke

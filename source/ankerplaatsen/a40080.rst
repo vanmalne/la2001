@@ -19,27 +19,27 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 Molenbeek, bronnen
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,12 +50,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 kapel O-L-V van Zeven Weeën
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -66,7 +66,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,7 +83,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * permanent grasland
  * kouters
 
- 
+
 **Bos:**
 
  * loof
@@ -91,7 +91,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het langgerekt bos op de oostelijke flank van de asymmetrische vallei
 van de Meulebeek of Molenbeek, die in feite de bovenloop is van de
 Maarkebeek. Er komen verschillende bronzones en geologische
@@ -142,7 +142,7 @@ hoeven voor.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats wordt in het zuiden begrensd door de gewestgrens, de
+Deze ankerplaats wordt in het zuiden begrensd door de gewestgrens, de
 ganse ankerplaats ligt op grondgebied Schorisse (Maarkedal). Op de kaart
 van Ferraris (ca. 1775) staat op de plaats van het huidige bos nog
 akker- en weiland ingetekend. Vlak voor de Ferrariskaart werd opgemaakt

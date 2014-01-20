@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,17 +29,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 zacht glooiend reliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 bovenlopen Demer
 
 **Moerassige gronden:**
 
- 
+
 vochtige beemden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -50,7 +50,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteelpark
 
 **Nederzettingspatronen:**
@@ -66,26 +66,26 @@ straatgehucht
  * landgoed
  * kasteelgracht
 
- 
+
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
- 
+
 **Archeologische elementen:**
 Gallo-Romeinse vondsten
 
@@ -96,7 +96,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * Romeinse weg
 
- 
+
 Tongeren-Spouwen
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -107,7 +107,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -119,25 +119,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 deels historisch stabiel
 
 **Historisch stabiel landgebruik:**
 
- 
+
 grasland onder boomgaarden, vochtige beemden, open akkers
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -145,7 +145,7 @@ grasland onder boomgaarden, vochtige beemden, open akkers
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -157,8 +157,8 @@ De recente bebouwing levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
- 
+Wetenschappelijke waarde:
+
 Historische waarde:
 De historische kern wordt gevormd door de t.o.v. het straatdorp
 excentrisch gelegen kasteelgebouwen met de Sint-Stefanuskerk, pastorie
@@ -187,7 +187,7 @@ bepalend voor de opbouw en organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- 's Herenelderen ligt in het brongebied van de Demer. Het is een
+'s Herenelderen ligt in het brongebied van de Demer. Het is een
 woonforenzengemeente met landbouw als voornaamste bedrijvigheid
 (graangewassen, ook suikerbieten en fruitteelt). De bebouwing heeft zich
 als een lint geconcentreerd aan de steenweg Tongeren-Spouwen, die in het

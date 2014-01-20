@@ -21,15 +21,15 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * rivier
  * beek
  * vallei
  * meander
 
- 
+
 Kleine Nete, Krekelbeek, Elstbeek
 
 **Moerassige gronden:**
@@ -37,7 +37,7 @@ Kleine Nete, Krekelbeek, Elstbeek
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +46,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -55,7 +55,7 @@ kasteelpark
  * toren
  * kasteelgracht
 
- 
+
 Kasteel 'heidebloem' + dienstwoningen
 
 **Bouwkundig erfgoed:**
@@ -63,7 +63,7 @@ Kasteel 'heidebloem' + dienstwoningen
  * huis
  * herberg
 
- 
+
 bareelwachterhuis, 'Maison des Bains', breedhuis
 
 **Landbouwkundig erfgoed:**
@@ -73,28 +73,28 @@ bareelwachterhuis, 'Maison des Bains', breedhuis
  * stal
  * wagenhuis
 
- 
+
 'Heidebloemhoeve'
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
- 
+
 arduinen vazen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,7 +104,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -115,13 +115,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
 
- 
+
 heiderelict
 
 **Bos:**
@@ -131,7 +131,7 @@ heiderelict
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -149,7 +149,7 @@ vallei jammer genoeg zo goed als volledig verbroken.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De geleidelijke overgang van klei naar zand en van nat naar droog in
 dit gebied, heeft een grote vegetatiekundige en daarmee ook structurele
 diversiteit tot gevolg. Rijk begroeide oevers en dijken vormen de
@@ -188,7 +188,7 @@ kempische laaglandbeek.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het 'Dal van de kleine Nete tussen Lier en Kessel' is gelegen op
+Het 'Dal van de kleine Nete tussen Lier en Kessel' is gelegen op
 grondgebied van de gemeenten Lier en Kessel in de Zuiderkempen. De
 begrenzing van dit landschap wordt gevormd door het Netekanaal in het
 westen noorden, de Krekelstraat in het oosten en de Kesselse Heide en de

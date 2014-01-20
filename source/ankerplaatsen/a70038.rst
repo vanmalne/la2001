@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 o.a. oeverwallen
 
 **Macroreliëf:**
@@ -33,13 +33,13 @@ o.a. oeverwallen
 
 o.a. noordoostrand van het Kempens Plateau
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
- 
+
 Itterbeek, Eetsevelder- of Wijshagerbeek, Baatsbeek, bronnen of
 sprinken
 
@@ -49,14 +49,14 @@ sprinken
  * veen
  * rietland
 
- 
+
 vochtige beemden
 
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 **Andere:**
 Feldbissbreuk
 
@@ -68,7 +68,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 o.a. pastorietuin Opitter, park Itterdal
 
 **Nederzettingspatronen:**
@@ -90,7 +90,7 @@ Eetseveld en Neerglabbeek
  * omheining
  * kasteelgracht
 
- 
+
 commanderij van Gruitrode
 
 **Landbouwkundig erfgoed:**
@@ -100,14 +100,14 @@ commanderij van Gruitrode
  * stal
  * wagenhuis
 
- 
+
 o.a. kasteelhoeve commanderij Gruitrode
 
 **Molens:**
 
  * watermolen
 
- 
+
 Rooiermolen, Pollismolen, Stalsmolen, Vinckemolen of Kasteelmolen
 
 **Kerkelijk erfgoed:**
@@ -116,14 +116,14 @@ Rooiermolen, Pollismolen, Stalsmolen, Vinckemolen of Kasteelmolen
  * kapel
  * pastorie
 
- 
+
 o.a. Sint-Gertrudiskerk, Sint-Trudokerk met kerkhof
 
 **Klein historisch erfgoed:**
 
  * kruis
 
- 
+
 ommuringen
 
  **Archeologische elementen:**
@@ -138,18 +138,18 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
+
 o.a. historische verbindingen tussen beemden, molens en
 nederzettingen
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
  * stuw
 
- 
+
 waterbouwkundige infrastructuur in de beemden en aan de molens
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -160,7 +160,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -175,26 +175,26 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
  * heide
 
- 
+
 o.a. vochtige hooi- en weilanden, bevloeid hooiland, heiderelicten
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -204,14 +204,14 @@ o.a. vochtige hooi- en weilanden, bevloeid hooiland, heiderelicten
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide
  * watering
 
- 
+
 bevloeid hooiland
 
 OPMERKINGEN EN KNELPUNTEN
@@ -231,7 +231,7 @@ landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het valleigebied van de Itter- en Eetsevelderbeek ligt op de overgang
 van het Kempens Plateau naar de Vlakte van Bocholt en wordt gekenmerkt
 door een eigen dynamiek. Het bezit een uitgesproken reliëf en
@@ -283,7 +283,7 @@ hier bepalend voor de opbouw en organisatie van het landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- In Gruitrode en Opitter ligt het brongebied van de Itterbeek, op de
+In Gruitrode en Opitter ligt het brongebied van de Itterbeek, op de
 overgang van het Kempens Plateau naar de Vlakte van Bocholt. Dergelijke
 overgangszone wordt gekenmerkt door een eigen dynamiek. Naast een
 gevarieerd bodemgebruik en waardevolle, cultuurhistorische elementen

@@ -20,24 +20,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * vallei
 
- 
+
 De Vliet
 
 **Moerassige gronden:**
 
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,22 +46,22 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * huis
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * schuur
 
- 
+
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,17 +75,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * kouters
 
- 
+
 **Bos:**
 
  * loof
@@ -93,7 +93,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hakhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -109,7 +109,7 @@ en verdere uitbreiding moet worden vermeden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Ten gevolge van voornamelijk de fysische gradiënten en het gebruik
 door de mens, zijn in het Moer talrijke soortenrijke overgangsvegetaties
 aanwezig. Verder komen structureel sterk verschillende biotopen voor,
@@ -141,7 +141,7 @@ fluviatiel stelsel.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap van het Moer te Eikevliet behoort tot de gemeente
+Het landschap van het Moer te Eikevliet behoort tot de gemeente
 Bornem, gelegen in Klein Brabant. De begrenzing van dit landschap wordt
 in het zuiden gevormd door de winterdijk, in het westen door de
 rijksweg, in het noorden door de bebouwing van Wintham en in het oosten

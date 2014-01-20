@@ -21,19 +21,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,7 +43,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -55,18 +55,18 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * muur
  * kasteelgracht
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
  * pastorie
 
- 
+
 **Archeologische elementen:**
 opgravingen middeleeuwse burchtsite
 
@@ -79,7 +79,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * Oostenrijkse periode
 
- 
+
 **Spoorweg:**
 
  * verlaten spoorweg
@@ -96,13 +96,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -114,7 +114,7 @@ Bebouwing in dorpskern, bebouwing ter hoogte van Lokaartsveld
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Warande werd door een aantal landschapsarchitecten aangelegd, de
 Franse tuin werd in 1897 door E. Lainé aangelegd. De zevensterre in de
 Warande weerspiegeld de geometrische vormgeving, kenmerkend voor de in
@@ -138,14 +138,14 @@ Sociaal-culturele waarde : Sinds de 12de eeuw is Tervuren, dat
 verweven is met het koloniaal verleden van België, een oord met een hoge
 vorstelijke interesse.
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het omschreven gebied strekt zich uit vanaf de Tervurenlaan tot de
+Het omschreven gebied strekt zich uit vanaf de Tervurenlaan tot de
 Voervallei ter hoogte van de dorpskern van Vossem. Het park van Tervuren
 fungeert tesamen met het Kapucijnenbos als brongebied van de Voer, die
 nabij de Vossemvijver het domein uitstroomt. De eerste vermelding van

@@ -20,24 +20,24 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * steilrand
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Molenbeek
 
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,17 +46,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * watermolen
 
- 
+
 **Militair erfgoed:**
 
  * fort
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Archeologische elementen:**
 site
 
@@ -76,13 +76,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
- 
+
 No
 
 **Bos:**
@@ -91,7 +91,7 @@ No
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -105,7 +105,7 @@ deze sportinfrastructuur moet dan ook vermeden worden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De geomorfologische opbouw van de vallei met aangrenzende hogere
 gronden doet sterk variërende milieuomstandigheden ontstaan. Dankzij
 deze variatie in abiotiek wordt het gebied gekarakteriseerd door een
@@ -139,7 +139,7 @@ buiten het afgelijnde erfgoedlandschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap van de 'Vallei van de Molenbeek' is gelegen in de
+Het landschap van de 'Vallei van de Molenbeek' is gelegen in de
 gemeente Puurs in Klein Brabant. De structuur van dit karakteristieke
 valleilandschap, begrensd door de bewoning van Liezele en Puurs en door
 wegeninfrastructuur, loopt ook buiten het afgebakende erfgoedlandschap

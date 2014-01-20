@@ -18,12 +18,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 donk (Oostdonk)
 
 **Macroreliëf:**
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -31,7 +31,7 @@ donk (Oostdonk)
  * vallei
  * meander
 
- 
+
 Zuidlede en Moervaart, Hoofdgeleed, depressie
 
 **Moerassige gronden:**
@@ -39,10 +39,10 @@ Zuidlede en Moervaart, Hoofdgeleed, depressie
  * moeras
  * veen
 
- 
+
 **Geologie:**
 
- 
+
 Vlaamse Vallei
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -52,7 +52,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 Groot Hof
 
 **Landbouwkundig erfgoed:**
@@ -61,7 +61,7 @@ Groot Hof
  * schuur
  * stal
 
- 
+
 Groothof of Grote Hofstede
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -72,12 +72,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * brug
 
- 
+
 brug over Zuidlede
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -88,7 +88,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -102,22 +102,22 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * hooghout
 
- 
+
 **Bijzondere waterhuishouding:**
 
- 
+
 Moervaartdepressie
 
  **Andere:**
@@ -135,7 +135,7 @@ bebouwing.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De Moervaartdepressie is ontstaan na het afsluiten van de Vlaamse
 Vallei met een dekzandrug. Er ontstonden grote meren, op de bodem werd
 moeraskalk (gyttja) gevormd. Oostdonk is een zandige opduiking in de
@@ -176,7 +176,7 @@ gecompartimenteerd landschap.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Oostdonk ligt in het westelijke deel van de Moervaartdepressie, ten
+Oostdonk ligt in het westelijke deel van de Moervaartdepressie, ten
 zuiden van Wachtebeke. De ankerplaats wordt min of meer door de
 Moervaart en Zuidlede begrensd. Het akkerland situeert zich voornamelijk
 op de donk, die wat hoger dan de omgeving ligt. De overerige gebieden

@@ -18,19 +18,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -41,14 +41,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * schuur
  * stal
 
- 
+
 Kapelhoeve
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 Boskapel
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -59,7 +59,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -69,7 +69,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -79,12 +79,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Bos:**
 
  * naald
@@ -94,7 +94,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -111,7 +111,7 @@ toegenomen, vooral aan de noordzijde van het huidige bos.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De ondergrond van het bos bestaat uit glauconiethoudende klei en
 grijze klei van Assiaan. Het bos is in het overgangsgebied tussen de
 zand- en zandleemstreek gelegen. Het gebied bevindt zich eveneens op de
@@ -145,7 +145,7 @@ bewoning en wat industrie in het bos.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het huidige Buggenhoutbos, op grondgebied van de gemeente Buggenhout,
+Het huidige Buggenhoutbos, op grondgebied van de gemeente Buggenhout,
 is maar een bescheiden overblijfsel van een duizenden hectare groot
 boscomplex, dat al in de 12e eeuw werd vermeld als het 'Beuckenhoudt'
 omdat de beuk wellicht de boventoon voerde in het woud of op zijn minst

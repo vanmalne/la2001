@@ -21,14 +21,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -37,13 +37,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * meander
  * oude rivierarm
 
- 
+
 **Moerassige gronden:**
 
  * moeras
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -58,19 +58,19 @@ Vlassenbroek
 
  * hoeve
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
  * standbeeld
  * kruis
 
- 
+
 graf Emile Verhaeren, waterpomp
 
  **Andere:**
@@ -84,14 +84,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
 
- 
+
 veer
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -107,19 +107,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * turfput
  * weel
 
- 
+
 **Topografie:**
 
  * repelvormig
  * blokvormig
  * historisch stabiel
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -129,14 +129,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 **Bijzondere waterhuishouding:**
 
  * polder
  * uiterwaarden
  * buitendijks
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -151,7 +151,7 @@ N41 doorsneden. Rond de turfputjes staan visserskoten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Dit gebied behoort tot het alluviale deel van de Scheldevallei. De
 schorren zijn van de slikken gescheiden door middel van een microklif.
 In de polders liggen oude scheldearmen. De polders worden voor landbouw
@@ -193,7 +193,7 @@ afgesneden Scheldemeander.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De polders van Vlassenbroek en Kastel liggen in een zeer bochtig
+De polders van Vlassenbroek en Kastel liggen in een zeer bochtig
 traject van de Zeeschelde, ten zuiden van Moerzeke. Deze ankerplaats
 bestaat uit alluviale klei of ligt net op de overgang van de alluviale
 vallei naar de Vlaamse Zandstreek. Ten westen van het gebied ligt de

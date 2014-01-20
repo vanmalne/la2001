@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * graft
  * talud
 
- 
+
 langs valleigrenzen, langs hellingen
 
 **Macroreliëf:**
@@ -31,12 +31,12 @@ langs valleigrenzen, langs hellingen
 
 Tiegemberg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 dalhoofden; bronniveau's
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -46,28 +46,28 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 St-Arnolduspark met kleine waterpartijen
 
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 Hof Ter Linden; Helleboshoeve
 
 **Molens:**
 
  * windmolen
 
- 
+
 Bergmolen
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 St-Arnolduskapel
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -87,7 +87,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * loof
 
- 
+
 ook tuinbouw met fruitbomen
 
 OPMERKINGEN EN KNELPUNTEN
@@ -109,7 +109,7 @@ ankerplaats.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Tiegemberg is een hoge top met langs de hellingen enkele natuurlijke
 en gave dalhoofden rond bronniveau's met steilranden. Het bos heeft een
 rijke voorjaarsflora.
@@ -135,7 +135,7 @@ zijn beurt de bebouwing in grote mate bepaalt.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt op de heuveltop en de zuidelijke helling ten
+Deze ankerplaats ligt op de heuveltop en de zuidelijke helling ten
 noorden van het dorp van Tiegem in de gemeente Anzegem. Langs de
 hellingen zijn heel wat dalhoofden en bronnen aanwezig. De dalhoofden
 zijn sterk ingesneden en hebben steilranden langs de valleigrenzen. Vaak

@@ -22,7 +22,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * graft
  * talud
 
- 
+
 o.a. trappenreliëf
 
 **Macroreliëf:**
@@ -33,7 +33,7 @@ o.a. trappenreliëf
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -41,14 +41,14 @@ o.a. trappenreliëf
  * meander
  * oude rivierarm
 
- 
+
 o.a. fossiele maasbedding, bronnen
 
 **Moerassige gronden:**
 
  * veen
 
- 
+
 alcalisch veen, vochtig grasland
 
 **Geologie:**
@@ -56,7 +56,7 @@ alcalisch veen, vochtig grasland
  * ontsluitingen
  * graften
 
- 
+
 mergel, grind, harde kalksteen (Onder-Carboon), vuursteen
 
  **Andere:**
@@ -69,7 +69,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -86,7 +86,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * landgoed
  * kasteelgracht
 
- 
+
 o.a. Altenbroek, Commanderij Sint-Pietersvoeren
 
 **Bouwkundig erfgoed:**
@@ -95,7 +95,7 @@ o.a. Altenbroek, Commanderij Sint-Pietersvoeren
  * huis
  * afspanning
 
- 
+
 o.a. De Swaen
 
 **Landbouwkundig erfgoed:**
@@ -105,19 +105,19 @@ o.a. De Swaen
  * stal
  * wagenhuis
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
- 
+
 o.a. Sint-Annakapel, Steenboskapel, Sint-Lambertus-, Sint-Martinus-
 en Sint-Pieterskerk
 
@@ -125,7 +125,7 @@ en Sint-Pieterskerk
 
  * kruis
 
- 
+
 **Archeologische elementen:**
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -138,18 +138,18 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * Romeinse weg
  * Oostenrijkse periode
 
- 
+
 o.a. Koetsweg, Snauwenberg
 
 **Spoorweg:**
 
 spoorweg met tunnel en boogbruggen
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
 
- 
+
 boogbrug, bruggetjes over de Voer
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -160,7 +160,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -175,23 +175,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -202,7 +202,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 o.a. hellingbossen, plateaubossen
 
 OPMERKINGEN EN KNELPUNTEN
@@ -219,7 +219,7 @@ bebouwing levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Van belang zijn o.a. het dagzomen van primaire gesteenten (harde
 kalksteen uit het Onder Carboon) in de oever van de Veurs en de
 aanwezigheid van alcalische veenlagen in de Veurs, een zeer zeldzaam
@@ -256,7 +256,7 @@ struktuur van de streek.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het landschap strekt zich uit over delen van 's Gravenvoeren,
+Het landschap strekt zich uit over delen van 's Gravenvoeren,
 Sint-Martens- en Sint-Pietersvoeren. Het wordt in het noorden en het
 westen begrensd door Nederland, in het oosten grotendeels door de
 verbindingsweg tussen de gehuchten Ulvend, Plank en Hagelstein. De

@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * graft
  * talud
 
- 
+
 langs Palingbeek
 
 **Macroreliëf:**
@@ -30,17 +30,17 @@ langs Palingbeek
 
 interfluviale kam Ijzer- Schelde&Leie
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 langs de wanden van het kanaal zowel formaties van Gent, kortrijk en
 Tielt
 
@@ -51,14 +51,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 Lankhof met motte; Pollepelhof
 
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
- 
+
 Kasteel Palingbeek
 
 **Militair erfgoed:**
@@ -67,7 +67,7 @@ Kasteel Palingbeek
  * bunker
  * motte
 
- 
+
 grotendeels uit WOI
 
  **Archeologische elementen:**
@@ -83,13 +83,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Ieper - Komen nu als fietspad in gebruik
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * sluis
  * stuw
 
- 
+
 kan. Ieper-Komen met talrijke sluizen erop; dam voor Zillebeekse
 vijver
 
@@ -109,14 +109,14 @@ vestingswallen
 
  * vijver
 
- 
+
 zillebeekse vijver; vijvers bij kasteel Palingbeek
 
 **Historisch stabiel landgebruik:**
 
  * meersen
 
- 
+
 Verdronken Weide
 
 **Bos:**
@@ -127,7 +127,7 @@ Verdronken Weide
  * middelhout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,7 +161,7 @@ verlichtingspalen te plaatsen en geen opgaand groen aan te planten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De mislukte kanaalsleuf heeft een bijzondere geologische en
 geomorfologische waarde door de ontsluiting van de formaties van Gent en
 Ieper en door de talrijke verglijdingsfenomenen langs de hellingen.
@@ -227,7 +227,7 @@ schouw.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats bevindt zich ten zuidoosten van de stad Ieper en
+Deze ankerplaats bevindt zich ten zuidoosten van de stad Ieper en
 bevat een deel van haar oude vestingwallen. Ze strekt zich uit van
 Hollebeke in het zuiden langs de Palingbeek/ kanaal Ieper-Komen naar de
 Verdronken Weide en de Zillebeekse vijver in het noorden. Het bos en

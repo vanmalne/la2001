@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 o.a. de Herk, Cijnsbroekbeek, Busselkesbeek, Sterrebeek, Heustenbeek
 
 **Moerassige gronden:**
@@ -36,7 +36,7 @@ o.a. de Herk, Cijnsbroekbeek, Busselkesbeek, Sterrebeek, Heustenbeek
  * veen
  * rietland
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,7 +46,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
@@ -54,14 +54,14 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * omheining
  * kasteelgracht
 
- 
+
 kastelen van Stevoort en Schimpen
 
 **Bouwkundig erfgoed:**
 
  * (heren)woning
 
- 
+
 kasteel van Schimpen
 
 **Landbouwkundig erfgoed:**
@@ -71,24 +71,24 @@ kasteel van Schimpen
  * stal
  * wagenhuis
 
- 
+
 o.a.Ten Roye, Scholteswinning, Vuileplas, Boswinning
 
 **Molens:**
 
  * watermolen
 
- 
+
 Elsartmolen, dorpsmolen van Stevoort
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
- 
+
 smeedijzeren hekwerk
 
  **Archeologische elementen:**
@@ -103,15 +103,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 onverharde wegen en voetwegen volgens Atlas van de Buurtwegen
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
- 
+
 toegangsbrug over de watergracht van het kasteel van Stevoort
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -122,7 +122,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -134,23 +134,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
- 
+
 historisch stabiele bosrelicten
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -158,7 +158,7 @@ historisch stabiele bosrelicten
  * hooghout
  * struweel
 
- 
+
 relicten van voormalig Herkenrodebos, Sterrebos op
 
 OPMERKINGEN EN KNELPUNTEN
@@ -181,7 +181,7 @@ bebouwing levert geen bijdrage tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Opmerkelijk zijn de historisch stabiele bossen met een rijke
 voorjaarsflora, als restanten van het Herkenrodebos.
 Historische waarde:
@@ -207,14 +207,14 @@ bijzondere landschap met een cluster van bouwkundig erfgoed. De bossen
 worden gesierd door een rijke voorjaarsflora.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Het gebied Herkenrodebos ligt ten zuiden van de spoorweg Hasselt-Diest
+Het gebied Herkenrodebos ligt ten zuiden van de spoorweg Hasselt-Diest
 op het knooppunt van drie vroegere deelgemeenten van Hasselt m.n.
 Kuringen, Stevoort en Kermt. Geografisch bevindt het zich op de
 noordgrens van vochtig Haspengouw, op het interfluvium tussen de Demer

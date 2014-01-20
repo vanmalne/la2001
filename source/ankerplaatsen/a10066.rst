@@ -20,13 +20,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Bruine Beek, Zennekensbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -36,7 +36,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -45,7 +45,7 @@ kasteelpark
  * toren
  * kasteelgracht
 
- 
+
 Kasteel Zellaar, Kasteel Berentrode
 
 **Landbouwkundig erfgoed:**
@@ -54,7 +54,7 @@ Kasteel Zellaar, Kasteel Berentrode
  * schuur
  * wagenhuis
 
- 
+
 Blijdenberghoeve, Krankehoeve, Kleine Krankehoeve
 
 **Kerkelijk erfgoed:**
@@ -63,7 +63,7 @@ Blijdenberghoeve, Krankehoeve, Kleine Krankehoeve
  * kapel
  * abdij
 
- 
+
 Abdij van Bethlehem
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -73,7 +73,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 oude verbindingsweg tussen kerk en kasteel
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -91,12 +91,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
- 
+
 **Bos:**
 
  * loof
@@ -104,7 +104,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -119,7 +119,7 @@ parking in de noordwestelijke hoek van de ankerplaats.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Gelegen in de vallei van de Bruine Beek, vertoont dit landschap een
 geleidelijke overgang van zand- naar zandleemgronden wat resulteert in
 een grote vegetatiekundige diversiteit op een relatief kleine
@@ -164,7 +164,7 @@ die de relatie legt tussen het landelijke gebied en de dorpskern.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Vallei van de Bruine Beek met kasteeldomeinen
+De ankerplaats 'Vallei van de Bruine Beek met kasteeldomeinen
 Berentrode en Zellaar' is gelegen op grondgebied van de gemeenten
 Bonheiden en Putte en wordt begrensd door de Putsesteenweg in het
 noorden, het gehucht Harent in het oosten en de bewoning van Bonheiden

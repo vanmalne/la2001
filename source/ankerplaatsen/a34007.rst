@@ -18,19 +18,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 **Macroreliëf:**
 
  * heuvel
 
 heuvelkam van het Schelde-Leie interfluvium
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -39,7 +39,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * herberg
 
- 
+
 stokerij "d' Oude Stokerij"
 
 **Landbouwkundig erfgoed:**
@@ -48,12 +48,12 @@ stokerij "d' Oude Stokerij"
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 kap O-L-V van Lourdes
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -64,7 +64,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,7 +82,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * onregelmatig
 
- 
+
 **Bos:**
 
  * naald
@@ -91,7 +91,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,7 +104,7 @@ volledig door lintbebouwing omsloten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats maakt deel uit van het zandig Leie-Schelde
 interfluvium. Dit vlakke interfluvium heeft voornamelijk langs de
 valleiranden een uitgesproken microreliëf.
@@ -129,7 +129,7 @@ onderbroken.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De Oud Moregembossen- Spitaalsbossen liggen op grondgebied van de
+De Oud Moregembossen- Spitaalsbossen liggen op grondgebied van de
 gemeente Wortegem- Petegem en nog voor een deeltje op West- Vlaanderen,
 op grondgebied van Waregem. De bossen liggen op een helling waarvan het
 hoogste punt bijna 60 meter bedraagt. Hier ligt de voormalige stokerij.

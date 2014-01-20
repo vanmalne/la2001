@@ -21,18 +21,18 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * vallei
 
- 
+
 bronnen
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -42,7 +42,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kasteel
 
- 
+
 **Archeologische elementen:**
 sporen van voormalig Kapucijnenklooster
 
@@ -57,7 +57,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -66,7 +66,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -75,13 +75,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
  * loof
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -93,7 +93,7 @@ Een grote verkeersader doorsnijdt het westelijk deel.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het geografisch arboretum (belang als illustratie van
 fytogeografische inzichten en voor de studie van de acclimatisatie van
 exotische boomsoorten), sommige gedeelten van het Zoniënwoud en van het
@@ -116,14 +116,14 @@ en het geografisch arbortum zijn mooie voorbeelden van landschappelijke
 parkaanleg en hebben dankzij hun reliëf een hoge belevingswaarde.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Dit deel van het Zoniënwoud is gelegen tussen Oudergem, Tervuren en
+Dit deel van het Zoniënwoud is gelegen tussen Oudergem, Tervuren en
 Overijse. Het Zoniënwoud is een restant van het historische "Kolenwoud"
 dat zich in de vierde eeuw nog uitstrekte van Thuin tot Brussel. Samen
 met zijn uitgestrektheid geeft dit voortbestaan aan het bos een op

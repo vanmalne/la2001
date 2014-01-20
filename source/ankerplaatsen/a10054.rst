@@ -20,14 +20,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
 
- 
+
 Wimp, Oevelse Dreefloop
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -38,7 +38,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 Franse tuin, abdijtuin, landschapspark
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -47,14 +47,14 @@ Franse tuin, abdijtuin, landschapspark
  * toren
  * hovenierswoning
 
- 
+
 Kasteel de Meeuw d' Argenteuil + donjon
 
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 Bisschopshuis, Abtshuis
 
 **Landbouwkundig erfgoed:**
@@ -64,7 +64,7 @@ Bisschopshuis, Abtshuis
  * stal
  * wagenhuis
 
- 
+
 Abdijhoeve, tiendschuur
 
 **Kerkelijk erfgoed:**
@@ -73,7 +73,7 @@ Abdijhoeve, tiendschuur
  * abdij
  * klooster
 
- 
+
 Norbertijnerabdij + ringmuur + toren
 
  **Andere:**
@@ -86,7 +86,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 oude, gekasseide dreef
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -96,7 +96,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -107,14 +107,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * naald
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -129,7 +129,7 @@ omgeving meer en meer plaats ruimen voor bebouwing.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van deze ankerplaats wordt vooral bepaald
 door het oude bomenbestand van de bossen en dreven, dat een belangrijke
 dendrologische waarde vertegenwoordigt en goede kansen biedt voor de
@@ -174,7 +174,7 @@ ankerplaats vormt.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Abdij van Tongerlo en Kasteel de Meeûs d' Argenteuil'
+De ankerplaats 'Abdij van Tongerlo en Kasteel de Meeûs d' Argenteuil'
 is gelegen op grondgebied van de gemeente Westerlo in de Antwerpse
 Zuiderkempen. De begrenzing wordt gevormd door de Heksenbrug en de
 Oevelse Dreef in het westen, de Bosstraat in het noorden, de bewoning

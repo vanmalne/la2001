@@ -20,12 +20,12 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Zalfense Beek, Lopende Beek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -34,11 +34,11 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -60,7 +60,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Bos:**
 
  * naald
@@ -69,7 +69,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,7 +81,7 @@ Geen.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Door de zeer natte bodems en het voorkomen van kwelsituaties, wordt
 dit gebied gekenmerkt door plantensoorten die in hun verspreiding sterk
 beperkt worden tot de invloedsfeer van het grondwater. Dankzij het
@@ -119,7 +119,7 @@ Blommerschot.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Het Zalfens Gebroekt' is gelegen op grondgebied van de
+De ankerplaats 'Het Zalfens Gebroekt' is gelegen op grondgebied van de
 gemeenten Oostmalle (Malle) en Zoersel in de Antwerpse Noorderkempen. De
 begrenzing wordt gevormd door Salphen en de Salphensebaan in het
 noorden, 's Herenbos en Bruulbergen in het noordoosten en oosten, het

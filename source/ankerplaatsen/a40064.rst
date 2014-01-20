@@ -19,7 +19,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -27,14 +27,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 bronnen op Kapelleberg (oa 'Fontanabronnen')
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
 **Bouwkundig erfgoed:**
@@ -53,19 +53,19 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * (heren)woning
  * huis
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 Borgtmolen
 
 **Militair erfgoed:**
@@ -73,14 +73,14 @@ Borgtmolen
  * fort
  * verdedingingslinie
 
- 
+
 Kezelfort
 
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 O-L-V van Kerselare met Rozenkransommegang
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -92,7 +92,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * pad
  * kerkwegel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -102,7 +102,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -117,7 +117,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * permanent grasland
  * kouters
 
- 
+
 **Bos:**
 
  * loof
@@ -125,7 +125,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -137,7 +137,7 @@ Een hoogspanningslijn doorkruist het gebied.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De vallei van de Maarkebeek heeft een asymmetrische vorm. De
 noordhelling is veel steiler dan de zuidhelling. Op deze steilste
 helling zijn er verschillende bronniveau's.
@@ -191,7 +191,7 @@ verschillende holle wegen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats situeert zich rond de vallei van de Maarkebeek, op
+Deze ankerplaats situeert zich rond de vallei van de Maarkebeek, op
 het grondgebied van de dorpen Etikhove, Edelare, Leupegem en Maarke-
 Kerkem. In het zuiden van de ankerplaats meandert de Maarkebeek, met
 daarrond enkele weiden. De beek is dikwijls vergezeld van

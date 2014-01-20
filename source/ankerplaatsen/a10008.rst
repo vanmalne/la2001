@@ -21,20 +21,20 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Grote Beek
 
 **Moerassige gronden:**
 
  * moeras
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,17 +43,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * hof
 
- 
+
 Wezels Hof
 
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteelgracht
 
- 
+
 **Bouwkundig erfgoed:**
 
- 
+
 dienstgebouwtje en jagersafspanning
 
 **Landbouwkundig erfgoed:**
@@ -63,7 +63,7 @@ dienstgebouwtje en jagersafspanning
  * stal
  * wagenhuis
 
- 
+
 Vloeikenshoeve, bakhuis, duiventoren
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -73,14 +73,14 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * weg
 
- 
+
 aardenweg
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -89,7 +89,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -99,12 +99,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -114,7 +114,7 @@ heiderelicten
  * broek
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,7 +126,7 @@ Geen opmerkingen of knelpunten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Deze ankerplaats betreft een gevarieerd gebied met een sterk bebost
 kasteeldomein, een aantal open akkers en weilanden met een dens netwerk
 van grachten en verder al dan niet vochtige bossen. Die variatie geeft
@@ -179,7 +179,7 @@ afwateringsysteem, doorsnijdt de valleigronden van de Grote Beek.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats met het Kasteel van Wuustwezel en de Vloeikens is
+De ankerplaats met het Kasteel van Wuustwezel en de Vloeikens is
 gelegen ten oosten van de bewoningskern van Wuustwezel in de vallei van
 de Grote Beek. Ze wordt begrens door De Bredabaan in het noordwesten, de
 bewoning van Braken in het noorden, de Schotten- en Schietveldweg in het

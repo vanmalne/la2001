@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,13 +29,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * markante terreinovergang
  * holle weg
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 **Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
@@ -54,7 +54,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * omheining
  * ijskelder
 
- 
+
 Kasteel Grootveld, koetshuis, tuinpaviljoentje
 
 **Landbouwkundig erfgoed:**
@@ -63,12 +63,12 @@ Kasteel Grootveld, koetshuis, tuinpaviljoentje
  * schuur
  * stal
 
- 
+
 **Molens:**
 
  * watermolen
 
- 
+
 Kasteelmolen
 
 **Kerkelijk erfgoed:**
@@ -76,7 +76,7 @@ Kasteelmolen
  * kerk
  * kapel
 
- 
+
 school Schorisse
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -87,7 +87,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,7 +97,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -111,17 +111,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * loof
@@ -129,7 +129,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -148,7 +148,7 @@ eveneens prioriteiten.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het Burreken en de Krombeek zijn in het brongebied van de Maarkebeek
 gelegen. Het landschap rond Burreken bevat een aantal unieke bronbossen
 met een waardevolle bronbosflora. De bronbossen zijn in de diepere delen
@@ -194,7 +194,7 @@ rond vochtige weiden en (bron)bossen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats strekt zich over het grondgebied van de gemeenten
+Deze ankerplaats strekt zich over het grondgebied van de gemeenten
 Brakel, Horebeke en Schorisse uit. Het omvat de bronhoofden van de
 Maarkebeek en een deel van de loop van de Maarkebeek. Het heuvelig
 karakter van dit gebied wordt veroorzaakt door de sterke erosiewerking

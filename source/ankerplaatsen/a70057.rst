@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -29,11 +29,11 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 golvend reliëf
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
- 
+
 Kelsbeek, Raasbeek
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -45,7 +45,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 hoeves Kasselaar en Schorrenbos, kastelen Kortenbos, Nieuwenhoven,
 Nieuwerkerken, Terkelen
 
@@ -66,7 +66,7 @@ Kortenbos, ontstaan als bedevaartsoord langs de weg naar Hasselt
  * ijskelder
  * kasteelgracht
 
- 
+
 kastelen Kortenbos, Nieuwerkerken, Nieuwenhoven, T
 
 **Landbouwkundig erfgoed:**
@@ -76,7 +76,7 @@ kastelen Kortenbos, Nieuwerkerken, Nieuwenhoven, T
  * stal
  * wagenhuis
 
- 
+
 o.a. hoeves Kasselaar en Schorrebos, kasteelhoeves Nieuwenhoven,
 Nieuwerkerken, Terkelen
 
@@ -86,12 +86,12 @@ Nieuwerkerken, Terkelen
  * kapel
  * pastorie
 
- 
+
 o.a. basiliek Onze-Lieve-Vrouw-Hemelvaart
 
 **Klein historisch erfgoed:**
 
- 
+
 o.a. barriers, hekwerk, muren
 
  **Andere:**
@@ -105,7 +105,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
+
 bos- en parkpaden en -wegen
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -116,7 +116,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -128,7 +128,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 o.a. parkvijvers, kanaalvormige vijver met waterbekkens aan de hoeve
 Schorrebos
 
@@ -136,19 +136,19 @@ Schorrebos
 
  * onregelmatig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 grasland onder boomgaarden of populierenaanplantingen
 
 **Typische landbouwteelten:**
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * naald
@@ -156,7 +156,7 @@ grasland onder boomgaarden of populierenaanplantingen
  * hooghout
  * struweel
 
- 
+
 kleinere, verspreide (park)bossen zowel als uitges
 
 OPMERKINGEN EN KNELPUNTEN
@@ -172,7 +172,7 @@ gekenmerkt door de nog steeds uitbreidende laagstammige fruitplantages.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het kasteelpark Terkelen - ongeveer 14 ha groot - is dendrologisch
 waardevol omwille van zijn variatie aan vaak monumentale bomen.
 Historische waarde:
@@ -204,7 +204,7 @@ temidden van een overwegend agrarische omgeving.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Van oudsher strekt zich ten noorden van Sint-Truiden een golvend,
+Van oudsher strekt zich ten noorden van Sint-Truiden een golvend,
 Haspengouws landschap van bouw- en weilanden uit, nu veelal ingenomen
 door fruitplantages, hier en daar met populieren omzoomd en afgewisseld
 met uitgestrekte maar ook kleinere oude bossen. Het beschreven

@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -31,17 +31,17 @@ GEOMORFOLOGIE/HYDROGRAFIE
 door riviererosie sterk versneden steilrand tussen Laag- en
 Midden-België
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 Molenbeek of Mombeek, Winterbeek
 
 **Moerassige gronden:**
 
- 
+
 vochtige beemden
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -52,7 +52,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * tuin
  * park
 
- 
+
 kasteeltuin Bellevue, kasteelparken Gorsleeuw, Haagsmeer en Opleeuw
 
 **Nederzettingspatronen:**
@@ -69,21 +69,21 @@ hoopdorp Gorsleeuw, straatdorp Opleeuw
  * muur
  * ijskelder
 
- 
+
 Bellevue, Gorsleeuw, Haagsmeer, Opleeuw
 
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
- 
+
 o.a. Oude Winning, kasteelhoeven Gorsleeuw, Haagsmeer, Opleeuw,
 
 **Kerkelijk erfgoed:**
@@ -92,14 +92,14 @@ o.a. Oude Winning, kasteelhoeven Gorsleeuw, Haagsmeer, Opleeuw,
  * kapel
  * pastorie
 
- 
+
 o.a. Sint-Martinus
 
 **Klein historisch erfgoed:**
 
  * kruis
 
- 
+
 o.a. gietzijzeren pomp, Opleeuwkruis
 
  **Archeologische elementen:**
@@ -115,7 +115,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * Oostenrijkse periode
 
- 
+
 Tongersesteenweg
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -126,7 +126,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * bomenrij
@@ -139,20 +139,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * poel
  * vijver
 
- 
+
 **Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
- 
+
 gedeeltelijk historsich stabiel
 
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 grasland onder boomgaarden, vochtige beemden, traditioneel open
 akkergebied op hogere delen
 
@@ -160,7 +160,7 @@ akkergebied op hogere delen
 
  * hoogstam
 
- 
+
 **Bos:**
 
  * loof
@@ -168,7 +168,7 @@ akkergebied op hogere delen
  * hooghout
  * struweel
 
- 
+
 historisch stabiel Bellevuebos , hellingbos op oos
 
 OPMERKINGEN EN KNELPUNTEN
@@ -182,7 +182,7 @@ tot de landschapswaarden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Geografisch bevindt het landschap zich op het talud tussen Laag- en
 Midden-België. De steilrand valt hier samen met de grens tussen Droog-
 en Vochtig Haspengouw en met de overgang van de Zand- naar de
@@ -227,7 +227,7 @@ beekbegeleidende Bellevuebos op de oostelijke valleihelling.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Gors-Opleeuw ligt op het overgangsgebied tussen Droog- en
+Gors-Opleeuw ligt op het overgangsgebied tussen Droog- en
 Vochtig-Haspengouw, door riviererosie plaatselijk sterk versneden.
 Geografisch bevindt het landschap zich op het talud tussen Laag- en
 Midden-België. De steilrand valt hier samen met de grens tussen Droog-

@@ -16,12 +16,12 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 GEOMORFOLOGIE/HYDROGRAFIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -30,7 +30,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Sterrebos
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -41,7 +41,7 @@ Sterrebos
  * ijskelder
  * kasteelgracht
 
- 
+
 poortgebouwen
 
 **Landbouwkundig erfgoed:**
@@ -49,7 +49,7 @@ poortgebouwen
  * stal
  * wagenhuis
 
- 
+
 bij kasteel als dienstgebouwen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -67,7 +67,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 in beekdal gelegen
 
 **Bos:**
@@ -75,7 +75,7 @@ in beekdal gelegen
  * loof
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -90,7 +90,7 @@ drevenpatroon dient door aangepast beheer veel opvallender te worden.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De grote verscheidenheid aan landschapsbepalende elementen in het
 park bepaalt de wetenschappelijek waarde door de aanwezige flora en
 fauna rond deze elementen. Daarenboven bieden enkele merkwaardige en
@@ -128,7 +128,7 @@ gestructureerd door de vallei en de beek.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt ten zuiden van Roeselare en bevat het kasteel en
+Deze ankerplaats ligt ten zuiden van Roeselare en bevat het kasteel en
 domein van Rumbeke. Het domein bevindt zich in een klein beekdal wat de
 natuurlijke watertoevoer voor de vijvers en grachten waarborgt. Het
 domein van Rumbeke wordt door enkele legendes verbonden met de graven

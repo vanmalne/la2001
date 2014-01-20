@@ -20,19 +20,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * talud
 
- 
+
 langs randen beekvalleien
 
 **Macroreliëf:**
 
 interfluvium
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
- 
+
 vallei Kemmelbeek; talrijke bronnen voor zijbeken Kemmelbeek en
 Poperingse Vaart
 
@@ -43,7 +43,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 bij kastelen
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -54,17 +54,17 @@ bij kastelen
  * landgoed
  * muur
 
- 
+
 **Landbouwkundig erfgoed:**
 
  * hoeve
 
- 
+
 Hospitaalhoeveen andere (soms restant walgracht)
 
 **Militair erfgoed:**
 
- 
+
 begraafplaatsen WOI (vnl. Britse)
 
 **Kerkelijk erfgoed:**
@@ -72,7 +72,7 @@ begraafplaatsen WOI (vnl. Britse)
  * kerk
  * kapel
 
- 
+
 kerk van Elverdinge
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -85,7 +85,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 bij kapellen
 
 **Lijnvormige elementen:**
@@ -99,7 +99,7 @@ zuidelijke grens
  * poel
  * vijver
 
- 
+
 bij kastelen; poelen in bossen
 
 **Bos:**
@@ -108,7 +108,7 @@ bij kastelen; poelen in bossen
  * hakhout
  * middelhout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -132,7 +132,7 @@ een andere locatie.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De geologische ondergrond en de variërende dikte van de Kwartaire
 mantel bepalen grotendeels het landgebruik op deze interfluviale kam
 tussen de bekkens van de Poperingse Vaart en de Grote Kemmelbeek. De
@@ -188,7 +188,7 @@ de kerk van Vlamertinge is visueel opvallend.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt tussen Poperinge, Elverdinge (gem. Ieper) en
+Deze ankerplaats ligt tussen Poperinge, Elverdinge (gem. Ieper) en
 Vlamertinge (idem) met een noordleijke uitloepr langs de Grote
 kemmelbeek. De weg tussen Elverdinge en Vlamertinge vormt de oostelijke
 grens, de weg tussen Vlamertinge en Poperinge (tot vallei van

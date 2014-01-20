@@ -21,25 +21,25 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
  * meander
 
- 
+
 **Moerassige gronden:**
 
  * veen
 
- 
+
 **Geologie:**
 
  * ontsluitingen
 
- 
+
 Vlaamse Vallei
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
@@ -49,7 +49,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * park
 
- 
+
 Park van Poeke
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -62,7 +62,7 @@ Park van Poeke
  * ijskelder
  * kasteelgracht
 
- 
+
 koetshuis, hondenkennel
 
 **Landbouwkundig erfgoed:**
@@ -71,20 +71,20 @@ koetshuis, hondenkennel
  * schuur
  * stal
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kerk
  * kapel
 
- 
+
 kerk van Poeke
 
 **Klein historisch erfgoed:**
 
  * standbeeld
 
- 
+
 H. Hartmonument
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -95,13 +95,13 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -111,7 +111,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * bomengroep
  * solitaire boom
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -124,19 +124,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * poel
 
- 
+
 **Topografie:**
 
  * blokvormig
  * onregelmatig
  * historisch stabiel
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * permanent grasland
 
- 
+
 **Bos:**
 
  * loof
@@ -144,7 +144,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -154,7 +154,7 @@ OPMERKINGEN EN KNELPUNTEN
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Een goed onderhouden parkbos met grote verscheidenheid aan landschap
 en biotopen: graslanden, beekdalbossen, hakhoutbosbestanden, middel- en
 hooghoutbossen, poelen, natuurlijke waterlopen en waterpartijen,
@@ -197,7 +197,7 @@ axiaal drevenpatroon met het omgevende landschap verbonden.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Dit deel van de vallei van de Poekebeek strekt zich hoofdzakelijk op
+Dit deel van de vallei van de Poekebeek strekt zich hoofdzakelijk op
 grondgebied van de gemeente Aalter uit. Centraal in de ankerplaats ligt
 het kasteeldomein van Poeke. De Poekebeek is in het kasteelpark
 rechtgetrokken. Door de omliggende gebieden meandert ze nog wat. De

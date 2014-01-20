@@ -20,16 +20,16 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
-**Hydrografische\_Elementen:**
+
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
 
- 
+
 **Moerassige gronden:**
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,7 +40,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * park
  * hof
 
- 
+
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
@@ -53,12 +53,12 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * omheining
  * kasteelgracht
 
- 
+
 **Bouwkundig erfgoed:**
 
  * huis
 
- 
+
 conciërgewoning
 
 **Landbouwkundig erfgoed:**
@@ -68,15 +68,15 @@ conciërgewoning
  * stal
  * wagenhuis
 
- 
+
 **Kerkelijk erfgoed:**
 
  * kapel
 
- 
+
 **Klein historisch erfgoed:**
 
- 
+
 Lourdesgrot en calvarie
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
@@ -87,12 +87,12 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * weg
  * pad
 
- 
-**Waterbouwkundige\_infrastructuur:**
+
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,7 +101,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * bomengroep
 
- 
+
 **Lijnvormige elementen:**
 
  * dreef
@@ -111,13 +111,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * vijver
 
- 
+
 **Bos:**
 
  * loof
  * struweel
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,7 +130,7 @@ de omgeving van het kasteel Eiken.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Het beboste gedeelte van het domein herbergt waardevolle vegetaties;
 in de omgeving van het kasteel komen diverse oude en zeldzame bomen
 voor.
@@ -146,14 +146,14 @@ te midden van een heel aantrekkelijk domein met oude dreven, weiden en
 boompartijen.
 Sociaal-culturele waarde :
 Ruimtelijk-structurerende waarde:
- 
+
 
 --------------
 
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats met het Gravenkasteel ligt ten zuiden van
+De ankerplaats met het Gravenkasteel ligt ten zuiden van
 Kapelle-op-den-Bos, op de westelijke over van het kanaal
 Brussel-Willebroek. Op de oostelijke oever van het kanaal ligt het Bos
 van Aa. Ten noorden van het kasteel ligt het Gravenbos, een typisch

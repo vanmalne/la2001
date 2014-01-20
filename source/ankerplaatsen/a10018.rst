@@ -21,7 +21,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * microreliëf
  * talud
 
- 
+
 **Macroreliëf:**
 
  * macroreliëf
@@ -31,7 +31,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * ven
 
- 
+
 
 ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,17 +40,17 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
  * kapel
 
- 
+
 Rovertkapel
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
- 
+
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,12 +64,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * blokvormig
 
- 
+
 **Historisch stabiel landgebruik:**
 
  * heide
 
- 
+
 heiderelicten
 
 **Bos:**
@@ -78,7 +78,7 @@ heiderelicten
  * loof
  * hooghout
 
- 
+
 
 OPMERKINGEN EN KNELPUNTEN
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -92,7 +92,7 @@ oostelijke zijde.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 De wetenschappelijke waarde van Molenheide wordt in de eerste plaats
 bepaald door de geomorfologie en hydrologie. Daar het gebied verheven
 ligt boven de omgeving -met de valleien van de Aa, de Maarleloop en de
@@ -133,7 +133,7 @@ complex aaneengesloten groen.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- De ankerplaats 'Molenheide' is gelegen op grondgebied van de gemeente
+De ankerplaats 'Molenheide' is gelegen op grondgebied van de gemeente
 Poppel (Ravels) in de Antwerpse Noorderkempen. De begrenzing wordt
 gevormd door de rijksgrens met Nederland in het noorden, de vallei van
 de Aa in het oosten, de bewoning van Poppel in het zuiden en Maarle in

@@ -20,19 +20,19 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
  * microreliëf
 
- 
+
 in weilanden op oude duingronden
 
 **Macroreliëf:**
 
 duinengebieden
 
-**Hydrografische\_Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * kreek
 
- 
+
 monding van de Zwingeul en kreken, geleden, vlieten
 
  **Andere:**
@@ -46,7 +46,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * hoeve
  * schuur
 
- 
+
 grote hoeves (o.a. Prinsenhoeve en langs de Schapersdijk)
 
 **Militair erfgoed:**
@@ -54,17 +54,17 @@ grote hoeves (o.a. Prinsenhoeve en langs de Schapersdijk)
  * fort
  * verdedingingslinie
 
- 
+
 fort St.-Pol, Cantelmolinie, Oud fort Isabella
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige\_infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
 
- 
+
 Graaf Jansdijk in zuiden en Schapersdijk in noorden
 
 ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
@@ -82,14 +82,14 @@ langs dijk, wegen en perceelsranden
 
  * poel
 
- 
+
 enkele veedrinkpoelen
 
 **Topografie:**
 
  * blokvormig
 
- 
+
 blokvormig en grootschalig in recentere polders, kleinschalig in
 oudere polders
 
@@ -98,14 +98,14 @@ oudere polders
  * naald
  * loof
 
- 
+
 Koningsbos en Zwinbosjes
 
 **Bijzondere waterhuishouding:**
 
  * polder
 
- 
+
 brak grondwater op geringe diepte
 
 OPMERKINGEN EN KNELPUNTEN
@@ -125,7 +125,7 @@ en gave hoeves.
 B.landschapswaarden
 -------------------
 
- Wetenschappelijke waarde:
+Wetenschappelijke waarde:
 Vroeger uitgestrekt schorregebied, oude Zwinmond. Nog actief
 slikke-schorre-gebied in natuurreservaat van het Zwin met waardevolle
 flora en fauna. Bijzonder complexe geomorfologische, pedologische en
@@ -175,7 +175,7 @@ beïnvloed.
 C.TEKSTUELE Omschrijving
 ------------------------
 
- Deze ankerplaats ligt in de gemeente Knokke en omvat het
+Deze ankerplaats ligt in de gemeente Knokke en omvat het
 natuurreservaat Het Zwin en de Zwinbosjes met het aangrenzende strand,
 de Oude en Nieuwe Hazegraspolder, het Koningsbos, de Willems
 Leopoldpolder en het Oud Fort Isabella met aansluitend de Cantelmolinie.
