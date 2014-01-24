@@ -1,16 +1,16 @@
 R40089: Zone van rivierduinrelicten langs de Schelde
 ====================================================
 
-| Verstoring:
+Verstoring:
 
-| Herkenbaarheid: 2
+Herkenbaarheid: 2
 
-| Samenhang: 3
+Samenhang: 3
 
-| Gaafheid: 2
+Gaafheid: 2
 
-| **Wetenschappelijke waarde:**
-|  Heisbroek en Kruihoutput: Gedeelte van de donk gelegen langsheen de
+**Wetenschappelijke waarde:**
+Heisbroek en Kruihoutput: Gedeelte van de donk gelegen langsheen de
 Scheldevallei. Duidelijk hoger gelegen gebied tov de Scheldevallei.
 Vallen samen met rivierduinen, ontstaan tijdens de ijstijden door
 opstuiven van zand. Speelbos, Duingebied De Blakken: Best bewaarde
@@ -18,8 +18,8 @@ restant van stuifzandmassieven. Relict van de eertijds veel meer
 uitgestrekte Warandeduinen van stuifzandmassieven langs de Schelde,
 hangt samen met de ontstaansgeschiedenis van de Scheldevallei.
 
-| **Historische waarde:**
-|  Toestand van Heisbroek op de kaart van Ferraris: gecompartimenteerd
+**Historische waarde:**
+Toestand van Heisbroek op de kaart van Ferraris: gecompartimenteerd
 landschap met kleine percelen bos en landbouwland, perceelsranden
 aanwezig, kleine vijver. Op de kaart van Vandermaelen is dezelfde
 situatie te zien. Op de kaart MGI 1/20,000 is de kleinschaligheid van
@@ -33,8 +33,8 @@ Berlare. Toestand van Speelbos, Duingebied De Blakken op Ferraris:
 kleine percelen bos met open percelen, geen specifieke aanduiding van
 heide. Idem bij Vandermaelen.
 
-| **Esthetische waarde:**
-|  Heisbroek en Kruihoutput: Kleinschalige, gecompartimenteerde
+**Esthetische waarde:**
+Heisbroek en Kruihoutput: Kleinschalige, gecompartimenteerde
 landschappen met kleine percelen bos, een kleine regelmatige
 percelering, zowel akkerland als weiland, perceelsranden nog
 gedeeltelijk bewaard, kleine vijvers. Geen bebouwing in de relictzone

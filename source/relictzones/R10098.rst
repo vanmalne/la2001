@@ -1,17 +1,17 @@
 R10098: Fortengordel Lier
 =========================
 
-| Verstoring:
-|  Aan de rand van fort Broechem komt bebouwing voor.
+Verstoring:
+Aan de rand van fort Broechem komt bebouwing voor.
 
-| Herkenbaarheid: 3
+Herkenbaarheid: 3
 
-| Samenhang: 2
+Samenhang: 2
 
-| Gaafheid: 3
+Gaafheid: 3
 
-| **Historische waarde:**
-|  Fort Broechem: betonnen pantserfort van 2de orde met samengestelde
+**Historische waarde:**
+Fort Broechem: betonnen pantserfort van 2de orde met samengestelde
 coponnières; deel uitmakend van Hoofdweerstandstelling (1906-1914);
 herkenbaar en relatief gaaf fortlichaam (cf. MGI); aangrenzend wel
 bebouwing. Fort Kessel: betonnen pantserfort van 1ste orde met
@@ -30,12 +30,12 @@ Hoofdweerstandstelling (1906-1914); fortstructuur nog herkenbaar, doch
 randen zijn niet meer gaaf (cf. MGI). Archeologische vondst:
 Laat-Ijzertijd-aardewerk gevonden bij aanleg fort van Broechem.
 
-| **Esthetische waarde:**
-|  Duidelijk herkenbare en gave forten deel uitmakend van twee
+**Esthetische waarde:**
+Duidelijk herkenbare en gave forten deel uitmakend van twee
 verschillende linies; ruimtelijke samenhang is niet zo duidelijk meer.
 
-| **Sociaal-culturele waarde:**
-|  In het kader van de uitbreiding van de Vesting Antwerpen wordt in
+**Sociaal-culturele waarde:**
+In het kader van de uitbreiding van de Vesting Antwerpen wordt in
 1875 de hoofdweerstandstelling van de Vesting, van de Fortengordel uit
 1859, naar de Rupel-Netelijn gebracht. In de loop van de jaren worden
 daar een aantal forten opgericht die meest gevaarlijke toegangen tot de
@@ -49,5 +49,5 @@ als infanteriesteunpunten.
 
 
 
-| **Beleidswenselijkheden:**
-|  Vrijwaren van bebouwing op als rond het fort.
+**Beleidswenselijkheden:**
+Vrijwaren van bebouwing op als rond het fort.
