@@ -9,7 +9,10 @@ Samenhang: 3
 
 Gaafheid: 3
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Het bos onderging sinds Ferraris nagenoeg geen veranderingen op
 landschappelijk vlak. De omgeving van het kasteel Ter Rijst en Terlinden
 wijzigden wel in die periode. Het kasteel werd op een andere site

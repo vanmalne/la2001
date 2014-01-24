@@ -11,7 +11,10 @@ Samenhang: 1
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Benedenloop van de Mark is tussen staatsgrens en Volmolenbrug
 opgenomen in een ruilverkavelingsgebied. De oorspronkelijke
 valleigronden (gesloten karakter en de kleinschalige percelen) zijn
@@ -30,7 +33,10 @@ Nederlands grondgebied is het valleikarakter gerespecteerd.
 Archeologische vondsten: prehistorische vondst nabij Laag-Eind en
 middeleeuwse bewoning nabij het Looi.
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Grotendeels gebanaliseerde en sterk uitgeklede vallei met beperkte
 zones met resten opgaand groen. Rivier zelf is nagenoeg over het hele
 traject tussen de staatsgrens en Volmolenbrug gekalibreerd, slechts het
@@ -40,6 +46,9 @@ heel mooi bewaard.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Resterende authentieke valleigronden vrijwaren van verdere
 uniformisering.

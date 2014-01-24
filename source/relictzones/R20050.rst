@@ -9,7 +9,10 @@ Samenhang: 3
 
 Gaafheid: 3
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Het landschap van de relictzone, dat onmiddellijk aansluit met de
 relictzone van de omgeving van de abdij van Affligem en met de
 relictzone van het Oost-Vlaamse Kluisbos, is niet veel gewijzigd. De

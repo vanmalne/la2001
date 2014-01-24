@@ -9,7 +9,10 @@ Samenhang: 2
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Polder ten oosten van de Leugenberg: perceelsstructuur is grotendeels
 herkenbaar (cf. MGI), doch uitgekleed op enkele restanten van opgaande
 begroeiing na; gedeeltelijk meanderende Kaartse Beek loopt doorheen het

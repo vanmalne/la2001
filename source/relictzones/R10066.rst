@@ -11,7 +11,10 @@ Samenhang: 2
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Broekbeek: bij Ferraris en Vandermaelen gesloten beemdenlandschap;
 nog steeds gesloten landschap (bos en opgaande perceelsrandbegroeiing)
 met herkenbare perceelsstructuur en -richting (cf. MGI). Beemdenbeek:

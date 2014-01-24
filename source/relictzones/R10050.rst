@@ -10,7 +10,10 @@ Samenhang: 2
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Domein ter Looi: kasteel en park met noordelijker gelegen vijvers
 langsheen de Kleine Mark zijn goed herkenbaar en relatief gaaf (cf.
 MGI); omliggende percelen landbouwland met herkenbare perceelsstructuur

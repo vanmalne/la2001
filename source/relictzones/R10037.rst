@@ -11,7 +11,10 @@ Samenhang: 1
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Enkel de loop van de Weehagense Beek is nog zichtbaar; het vochtige,
 gesloten beemdencomplex langsheen de beek is verloren gegaan (cf.
 Vandermaelen en MGI); slechts nabij De Laren en Nollekens zijn nog

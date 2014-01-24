@@ -9,7 +9,10 @@ Samenhang: 1
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 De Molenberg (behalve de top rond de molen) werd na Ferraris met
 naaldbomen bebost. De percelen bos wijzigden gedurende de periode. Het
 Eekelbos was ten tijde van Ferraris een bos maar is nadien een naaldbos

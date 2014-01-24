@@ -9,7 +9,10 @@ Samenhang: 2
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Archeologische waarde Heeshakker : Grafveld-Metaaltijd. Oud akkerland
 van Overpelt weergegeven op de Ferrariskaart als gemeenschappelijke
 akker. Merkwaardig genoeg werden op de bodemkaart geen plaggenbodems
@@ -20,5 +23,8 @@ Herent. Schans te Kleine Breugel, zeer fraai aangeduid op Ferrariskaart.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Tegengaan van de oprukkende verstedelijking.

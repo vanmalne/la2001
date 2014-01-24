@@ -12,7 +12,10 @@ Samenhang: 3
 
 Gaafheid: 3
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Molse Nete: vanaf Kievermont stroomopwaarts sterk meanderend verloop;
 zeer goed herkenbare vallei door relatief gave perceelsstructuur en veel
 restanten van opgaande begroeiing langsheen percelen (cf. MGI);
@@ -32,12 +35,18 @@ protohistorisch grafveld en protohistorische bewoning 'Asbergen' -
 'Tombroeken' (grootste deel van archeologische zone bevindt zich in
 relictzone R10123).
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Zeer goed herkenbare vallei met sterk meanderende loop en relatief
 gave valleigronden.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Vrijwaren van verdere versnippering door bebouwing en
 infrastructuren; behouden van uitzicht valleigronden.

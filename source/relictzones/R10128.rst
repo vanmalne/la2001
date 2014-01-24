@@ -11,7 +11,10 @@ Samenhang: 1
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Bosbeek ter hoogte van Schorbeider: enkele herkenbare percelen
 aansluitend op beek en met perceelsrandbegroeiing (cf. MGI);
 cultuurgrond buiten relictzone heeft een schaalvergroting ondergaan.
@@ -34,7 +37,10 @@ en MGI). Archeologische vondst: neolithische bewoningssporen (palen,
 aardewerk, silex) in Zwartebeekvallei ter hoogte van Blaasveld (loopt
 door in R10126).
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Sterk versnipperd gebied met vage kenmerken van vroeger landschap.
 
 

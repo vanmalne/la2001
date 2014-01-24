@@ -9,7 +9,10 @@ Samenhang: 2
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Oud landbouwgebied langsheen Lozenbroekbeek, Veldhoverbeek, Lechter
 Rietbeek en de Kreiler Rietbeek met het Kreilerbos. Weidevogelgebied met
 historisch interessante percelering in de vallei. De historische waarden
@@ -20,12 +23,18 @@ landbouwontginning; - Plaggenbodems te Lozen, Veldhoven en Neerkreiel; -
 Kleinschalig valleigebied rond de Lozerbeek. - Het kanaal geaccentueerd
 door bomenrij. - Schans (aangeduid op Ferrariskaart)
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Weinig verstedelijkt gebied. Visueel aantrekkelijk met oa bomenrij
 langs het kanaal.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Behoud van de kleinschalige landbouw en versterking van natuurwaarden
 via landinrichtingsproject.

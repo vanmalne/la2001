@@ -10,7 +10,10 @@ Samenhang: 3
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Klein Schietveld en Kamp van Brasschaat: bij Ferraris en Vandermaelen
 open heide met vennen; nu nog open ruigte met aan randen bos,
 aansluitend op omgevend bos. Franse Heide, Mastenbos, Wolvenbos: bij
@@ -22,7 +25,10 @@ Grote Heide en Kleine Heide: bosstructuur daterend van MGI; nog
 herkenbaar; ten dele omgezet in akkerland met verlies aan oorspronkelijk
 perceelsstructuur.
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Sterk gesloten landschap door hoofdzakelijk bebossing; grote
 ontginningsstructuur is nog duidelijk herkenbaar, hoewel het bos
 grotendeels volgebouwd is (vnl. ter hoogte van Franse Heide); talrijke

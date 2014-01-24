@@ -9,7 +9,10 @@ Samenhang: 1
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Deze zone bestaat uit kouters op het plateau met enkel in de iets
 lager gelegen en dus nattere gebieden een meer gesloten karakter
 (weiland met perceelsrandbegroeiing,bos of populieraanplantingen(meestal
@@ -25,5 +28,8 @@ met 43 kapellen uit de 18de en 19de eeuw.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Vrijwaren van het open landschappen.

@@ -11,7 +11,10 @@ Samenhang: 1
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Slechts enkele stukken van volledige Wimpvallei komen in aanmerking
 als relictzone, omdat de vallei sterk ruilverkaveld is (loop van de Wimp
 is tevens gekalibreerd). Vallei ter hoogte van Herlaar: kasteel reeds
@@ -22,7 +25,10 @@ te lezen is uit de perceelsstructuur (cf. MGI). Vallei ter hoogte van
 Vijfhuizen: nog een meanderende loop met herkenbare perceelsstructuur en
 gesloten landschap (cf. MGI).
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Volledige vallei is zwaar verminkt en onherkenbaar; stukje ter hoogte
 van Herlaar sluit aan op vallei van de Grote Nete en heeft nog min of
 meer een gesloten karakter.

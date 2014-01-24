@@ -9,7 +9,10 @@ Samenhang: 2
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Lintkasteel: De directe beboste omgeving van het kasteel met bos en
 dreven is weinig veranderd. De wijdere omgeving is echter wel een stuk
 gewijzigd door bebossing na Ferraris. Willebroekse Vaart: De bomenrij
@@ -25,7 +28,10 @@ na Ferraris open).
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Het herstel van het drevenlandschap langs weerszijden van het kanaal
 en het behoud van de dubbele bomenrij op de dijk langs het kanaal en bij
 het kapen van de huidige populierenrijen meer streekeigen bomen

@@ -11,10 +11,16 @@ Samenhang: 2
 
 Gaafheid: 2
 
-**Wetenschappelijke waarde:**
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Keiheuvel: actieve landduinen.
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Millegem: bij Ferraris open akker; bij Vandermaelen stukjes bos en
 hei en open akker; herkenbare bosrestanten, versnipperd door verspreide
 bebouwing (cf. MGI). Galbergen: bij Vandermaelen heide op duinkopjes;
@@ -31,7 +37,10 @@ gedeeltelijk in relictzone gelegen); Laat-Mesolithische site in Wezel
 (loopt door in relictzone R10119); prehistorische site op 'Keiheuvel'
 (ter hoogte van vliegveld).
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Bosgebieden gaan samen met duinen, wat voor een visuele markering in
 het landschap zorgt; bosgebieden zijn sterk ingesloten door allerhande
 bebouwing en infrastructuren waardoor ze een versnipperd voorkomen
@@ -39,5 +48,8 @@ hebben.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Vrijwaren van bebouwing; versterken bosstructuur.

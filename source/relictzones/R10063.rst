@@ -11,7 +11,10 @@ Samenhang: 3
 
 Gaafheid: 2
 
-**Wetenschappelijke waarde:**
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Binnenbos: geomorfologische opbouw van de valleien en hogere gronden
 met de bijhorende bodemtypen; botanische waarde zowel van de graslanden
 en de bossen als van de moerassen en de oevers van de beken;
@@ -19,7 +22,10 @@ verscheidenheid van de verschillende begroeiingen op een vrij kleine
 schaal ten gevolge van de sterk variërende milieuomstandigheden
 (vochtigheidsgradiënten, bodemtypen en beheer).
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Relatief gesloten valleigebied waar nog duidelijke binding met
 aanpalende kasteeldomeinen voorkomt. Vallei van de Pulderbeek: over het
 algemeen duidelijk herkenbare perceelsstructuur, talrijke bosjes en
@@ -41,7 +47,10 @@ Vandermaelen eerste aanzet tot bebossing ter hoogte van Lovenhoek en
 randen van de vallei; wegenpatroon en perceelsstructuur zijn goed
 herkenbaar, voornamelijk bebost (cf. MGI).
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Binnenbos: kenmerkend uitzicht van een intact, kleinschalig landschap
 dat hier nog een uitgestrekt geheel vormt, waarin een aantal beken en
 hun valleien de hoofdgraat vormen en waarin afwisselend open en gesloten
@@ -50,5 +59,8 @@ houtkanten, bomenrijen en dreven.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Vrijwaren van verder schaalvergroting.

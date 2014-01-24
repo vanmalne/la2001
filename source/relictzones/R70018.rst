@@ -10,7 +10,10 @@ Samenhang: 3
 
 Gaafheid: 3
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Archeologisch interessant : ijzertijdvondsten en grafheuvel. Dommel
 en Bolisserbeek zijn twee zeer waardevolle valleien met kleinschalig
 bodemgebruik. De twee op de Ferrariskaart voorkomende schansen zijn nog
@@ -28,6 +31,9 @@ historisch stabiele percelering.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Behoud van de kleinschalige landbouw tussen de valleien. Weren van
 weekendhuisjes in de valleien.

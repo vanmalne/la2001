@@ -10,7 +10,10 @@ Samenhang: 2
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Zwarte Nete: meanderende loop; langgerekte perceelsstructuur is nog
 herkenbaar, maar begeleidende randbegroeiing is nagenoeg verdwenen (cf.
 MGI). Desselse Nete: meanderende loop; richting van langgerekte percelen
@@ -22,7 +25,10 @@ mate herkenbaar (cf. MGI). Voorste en Achterste Nete: grotendeels nog
 meanderend verloop; langgerekte en smalle valleigronden zijn nog
 herkenbaar, maar randbegroeiing is grotendeels verdwenen (cf. MGI).
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Moeilijk herkenbare valleitjes wegens teloorgang van eertijds
 gesloten karkater. Het Goor: esthetische waarde bepaald door harmonische
 afwisseling van open plassen met rietgordels en broekbossen,

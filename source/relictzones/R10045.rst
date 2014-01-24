@@ -9,7 +9,10 @@ Samenhang: 2
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Kooldriespark natuurreservaat en beschermd landschap Brechtse Heide:
 bebost gebied met waterpartijen (vroegere ontginningsputten van klei) en
 aansluitend landbouwland met restanten van opgaande begroeiing (cf.

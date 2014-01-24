@@ -11,7 +11,10 @@ Samenhang: 3
 
 Gaafheid: 3
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Vallei wordt grotendeels gekenmerkt door duidelijk herkenbare
 valleigronden (cf. MGI) afgewisseld met stukken waar perceelsstructuur
 onherkenbaar is of schaalvergroting heeft ondergaan; Grote Nete kent nog
@@ -79,7 +82,10 @@ relictzone gelegen); lithisch materiaal, rijk brandgraf en Romeinse
 nederzetting in 'Straalse Bossen' (slechts klein stukje in vallei
 gelegen).
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Duidelijke en grote riviervallei met sterk meanderende rivier en
 grotendeels intacte valleigronden; gesloten karakter van vallei is op
 diverse plaatsen nog goed bewaard. Netevallei te Hallaar: esthetische
@@ -94,6 +100,9 @@ elementen.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Behoud gesloten karakter van vallei; vrijwaren van bebouwing en
 verdere versnippering door infrastructuren.

@@ -10,7 +10,10 @@ Samenhang: 3
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Forten 2, 3, 4, 5, 6, 7 en 8: bakstenen forten met reduit in
 keelgracht, met uitzondering van Fort 8 zijn alle andere forten
 aangepast/gemoderniseerd; deel uitmakend van Fortengordel daterend van
@@ -23,7 +26,10 @@ volkstuintjes. Archeologische vondsten: Ijzertijd en Romeins aardewerk
 nabij Fort 7 en boomstamwaterput (waarschijnlijk volle middeleeuwen) op
 Fort 6.
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Duidelijk waarneembare bouwwerken (ook temidden van verstedelijkt
 gebied) met een herkenbare ruimtelijke samenhang.
 
@@ -41,5 +47,8 @@ na 1907 met beton versterkt.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Behoud en vrijwaring van forten.

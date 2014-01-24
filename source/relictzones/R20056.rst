@@ -11,10 +11,16 @@ Samenhang: 2
 
 Gaafheid: 2
 
-**Wetenschappelijke waarde:**
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Historische Broekbossen.
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Een nat gebied dat van oudsher sterk bebost was. De broekbossen
 werden deels gerooid in de periode Ferraris -MGI(1948). Vanaf het begin
 van de twintigste eeuw werden wel populieren aangeplant op vroeger
@@ -52,7 +58,10 @@ Pattenpoelbos, nu populieraanplantingen.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Versnippering van de bossen ongedaan maken door de tussenliggende
 percelen terug te bebossen. De populieraanplantingen laten evolueren tot
 gemengd loofbos.

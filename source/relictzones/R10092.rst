@@ -12,7 +12,10 @@ Samenhang: 2
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Zandhoevenheide/Poelheide: bij Ferraris heide; bij Vandermaelen
 grotendeels heide met enkele wegen die nu nog voorkomen; bij MGI is
 heide bebost; nu nog grote bosrestanten (cf. MGI). Heieind te Lille:
@@ -24,5 +27,8 @@ en heeft schaalvergroting ondergaan (cf. MGI).
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Vrijwaren van bebouwing.

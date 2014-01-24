@@ -9,7 +9,10 @@ Samenhang: 3
 
 Gaafheid: 3
 
-**Wetenschappelijke waarde:**
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Relict van een zeeschorre. Aanwezigheid van verscheidene
 landschapstypes met typische overgangszones tussen zee, strand, slikke,
 schorre, duin, dijk en polder, gekenmerkt door de specifieke
@@ -20,13 +23,19 @@ brakwaterplanten, foerageerplaats en hoogwatervluchtplaats. Het
 duingebied is een bijzonder gevarieerd duinenmilieu met floraelementen
 van het zeldzame laagveenmoeras.
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Representatief voor het krekenlandschap van de premiddeleeuwse
 periode. Ijzermonding in de 9de eeuw nog een estuarium. Verlanding van
 het Ijzerestuarium en de snelle aangroei van het duin Sandeshoved
 maakten mee het ontstaan van Nieuwpoort mogelijk.
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Vookomen van een grote verscheidenheid aan landschapsvisuele eenheden
 gekenmerkt door de gradiëntrijke geomorfologische configuratie van het
 gebied en het estuarium van de Ijzer.
@@ -36,7 +45,10 @@ Militair domein
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 - behoud en bescherming van de resterende natuur- en geomorfologische
 relicten; - duidelijke compartimentering in gescheiden gebruikszones met
 sterk verschillende dynamiek; - permanente monitoring van de

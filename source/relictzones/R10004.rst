@@ -11,7 +11,10 @@ Samenhang: 2
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Essen Duinen, Klein Horendonkse Heide: bij Ferraris en Vandermaelen
 een duingebied met heide. De ontginningsstructuur (vnl. het
 wegenpatroon) is nog relatief gaaf. Het gebied is grotendeels bebost,
@@ -27,11 +30,17 @@ sedert 1750 in onbruik raakten. Opvallend is ook de Vertakkingsvaart, de
 jongste van alle turfvaarten (in 1710 aangelegd en in 1750 niet meer
 gebruikt).
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Hoofdzakelijk gesloten landschap door sterke bebossing.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Bochten van turfvaarten behouden en wisselingen in vaartkant niet
 rechttrekken.

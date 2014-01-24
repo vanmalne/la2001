@@ -9,7 +9,10 @@ Samenhang: 3
 
 Gaafheid: 3
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Itegemse Heide: bij Ferraris nog heide te midden van cultuurland;
 zeer goed herkenbare bosstructuur (cf. Vandermaelen en MGI).
 Averechtenbos: bij Ferraris reeds bos en bosstructuur gaat terug tot
@@ -20,5 +23,8 @@ percelen grotendeels vergroot (cf. MGI).
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Vrijwaren van bebouwing en behoud gesloten landschap.

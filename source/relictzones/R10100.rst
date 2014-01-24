@@ -11,7 +11,10 @@ Samenhang: 3
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Nijlense Beekvallei: valleigronden hebben goed herkenbare structuur
 (cf. MGI); bosrestanten komen nog voor (cf. MGI). Kleine Beekvallei:
 bosrestanten en opgaande begroeiing herinneren aan eertijds gesloten
@@ -24,12 +27,18 @@ opgaande perceelsrandbegroeiing; structuur van Moerbroek (cf.
 Vandermaelen en MGI) is nog vaag herkenbaar; aan oostzijde wordt gebied
 verstoord door industrie.
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Vrij intacte vallei met grote oppervlakten relatief gave
 beemdenstructuur en bosrestanten; gesloten karaker is nagenoeg behouden.
 Vallei is vrijwel over volledige tracé te volgen.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Vrijwaren van bebouwing; behoud beemdenstructuur en bosrestanten.

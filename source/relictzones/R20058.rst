@@ -10,7 +10,10 @@ Samenhang: 1
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 De moerassen van de Meren werden na Ferraris drooggelegd en bebost en
 er werden vijvers aangelegd. De Pannishoeve was (F.) een omwalde site
 die via een dreef rechtsreeks verbonden was met het dorp, een deel van
@@ -20,5 +23,8 @@ was steeds sterk bebost.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Behoud en aanplanten van bomenrijen, erfbeplanting en poelen.

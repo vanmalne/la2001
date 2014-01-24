@@ -10,7 +10,10 @@ Samenhang: 1
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Het Kapenbergbos is een is een restant van drassig bos op de rand van
 de Kapenberg. In de omgeving van het bos is er nog enige
 perceelsrandbegroeiing te bespeuren. In het alluvium van de Brabantse
@@ -18,6 +21,9 @@ beek is er eveneens nog perceelsrandbegroeiing.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Onderhoud en heraanplanting van perceelsrandbegroeiing en vroeger
 beboste gebieden herbebossen.

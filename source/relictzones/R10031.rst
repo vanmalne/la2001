@@ -11,7 +11,10 @@ Samenhang: 2
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Zwart Goor was bij Ferraris en Vandermaelen een groot ven;
 hoevegebouw en resterende perceelsstructuur, dreven en bospercelen zijn
 nog herkenbaar (cf. MGI), doch schaalvergroting is hier opgetreden door

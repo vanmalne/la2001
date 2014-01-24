@@ -9,7 +9,10 @@ Samenhang: 2
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 In de periode tussen Ferraris en begin 1900 werd een groot deel van
 het bos gerooid. Ook na begin 1900 werden er nog resterende losse
 percelen bos gerooid. Deze rooiing vertaalde zich in het landschap door
@@ -18,5 +21,8 @@ zijn in het landschap.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Verhogen van de diversiteit boomsoorten eigen aan deze regio.

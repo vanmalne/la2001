@@ -10,11 +10,17 @@ Samenhang: 2
 
 Gaafheid: 1
 
-**Wetenschappelijke waarde:**
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Hoger gelegen dekzandgebied. Laag gelegen gebied, vochtig en zandig.
 Gedeelte van de Vlaamse Vallei.
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Gebied Westermolen - Molenhoek : percelering grotendeels volgens
 Ferraris (lange, evenwijdige stroken, typisch voor het Meetjesland),
 perceelsranden verdwenen. De percelen zijn nu groter (samengenomen).
@@ -22,7 +28,10 @@ Verspreiding van de bebouwing volgens Ferraris. Oosthoek : percelering
 grotendeels volgens Ferraris, perceelsranden wel allemaal verdwenen.
 Bossen ten zuiden van Lembeke : herkenbaar op Ferraris, nog zeer gaaf.
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Overwegend open landschap, zeer weinig perceelsranden aanwezig.
 Percelering : lange, evenwijdige stroken, typisch voor het Meetjesland.
 Bebouwing enkel aanwezig langs de wegen. Het oostelijke deel meer
@@ -31,7 +40,10 @@ Verschillende vergezichten aanwezig in de relictzone.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Stoppen uitbreiding lintbebouwing. Dorpskernrenovatie wenselijk.
 Behoud (eventueel herstel) van het hoofdnetwerk van lineaire
 perceelsrandbegroeiing met knotbomen. Duidelijke architectonische

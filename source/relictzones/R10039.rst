@@ -11,7 +11,10 @@ Samenhang: 2
 
 Gaafheid: 2
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Gammel: gehucht met eigen open akker ten noorden van de grote open
 akker van Rijkevorsel; bij Ferraris twee driehoekvormige pleinen met
 elkaar in verbinding staand door gehuchtstraat (Grote en Kleine Gammel),
@@ -24,7 +27,10 @@ plein met open akker. Gronden ten westen van Achtel hebben nog zelfde
 ontginningsrichting als bij MGI, doch het gesloten karakter is verloren
 gegaan.
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Twee opvallende gehuchten met oude structuur, niet uitgebreid door
 nieuwe bebouwing.
 

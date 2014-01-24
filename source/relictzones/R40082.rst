@@ -11,10 +11,16 @@ Samenhang: 2
 
 Gaafheid: 1
 
-**Wetenschappelijke waarde:**
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Licht golvend landschap, gelegen in zandlemig tot lemig gebied.
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Toestand Ferraris: grote percelen bos en perceelsranden gelegen langs
 kleine beekjes. Buiten de beekvalleitjes open landschap, geen
 perceelsranden, enkel bomenrijen langs sommige wegen aanwezig. Bebouwing
@@ -24,7 +30,10 @@ de oppervlakte van de bossen is wel gedaald en bebouwingselementen
 toegenomen. Oppervlakte en aantal nog gedaald op de kaart MGI 1/20,000.
 Kleine beekvalleien minder duidelijk.
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Kleine percelen bos, sterk versnipperd, soms onderling verbonden met
 bomenrijen. Omliggende percelering is regelmatig, meestal klein en
 rechthoekig tot strookvormig. Vormt een gecompartimenteerd landschap.

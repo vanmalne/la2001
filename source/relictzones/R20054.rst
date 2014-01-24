@@ -9,7 +9,10 @@ Samenhang: 1
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Ten tijde van Ferraris weiland met bomenrijen en hagen omheen de
 bron. De perceelsvormen zijn de laatste 230 jaar gewijzigd doordat de
 percelen nog verder werden opgedeeld (voor MGI) en nadien werden de
@@ -22,5 +25,8 @@ allemaal na het MGI gebouwd . Het wegennet veranderde deels.
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Vrijwaren van verder bebouwing.

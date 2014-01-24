@@ -11,7 +11,10 @@ Samenhang: 1
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Wamp is een grotere beek die kennelijk deels de oude bisdomgrens
 Luik-Kamerijk markeerde en vermoedelijk ook de eerste grens was van het
 Markgraafschap van Antwerpen (ca. 1000 AD) tegen de invloedsfeer van
@@ -31,7 +34,10 @@ herkenbare bosrestanten met ingesloten landbouwpercelen die
 schaalvergroting hebben ondergaan (cf. MGI); gedeeltelijk verstoord door
 industrie.
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Sterk verminkte vallei met enkele herkenbare stukken.
 
 

@@ -9,10 +9,16 @@ Samenhang: 3
 
 Gaafheid: 3
 
-**Wetenschappelijke waarde:**
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Landschap met een (potentiële) natuurhistorische waarde.
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Klein Veerle: bij Ferraris slechts Groot Veerle vermeld; bij
 Vandermaelen hoofdzakelijk bebost gebied met aanwezigheid van vijfsprong
 te Klein Veerle; nu vergraven terreinen voor kleiontginning met aanzet
@@ -30,7 +36,10 @@ van steenbakkerijzone St.-Lenaarts) en protohistorische bewoningssporen
 nabij Heikant met toponiem Klokkenven (net ten zuiden van
 steenbakkerijzone St.-Lenaarts en ten dele in Klokkeven).
 
-**Esthetische waarde:**
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Vrij recent en nog steeds dynamisch/veranderlijk landschap met een
 potentiële industriëel-archeologische waarde.
 

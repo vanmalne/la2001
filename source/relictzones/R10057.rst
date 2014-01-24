@@ -10,7 +10,10 @@ Samenhang: 1
 
 Gaafheid: 1
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Relict van de Open Akker van het gehucht Veld te Beerse. Slechts
 gedeeltelijk bewaard (cf. MGI).
 

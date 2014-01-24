@@ -10,7 +10,10 @@ Samenhang: 0
 
 Gaafheid: 0
 
-**Historische waarde:**
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
 Maleize-Terholst-Broekbos :reeds ten tijde van Ferraris was het
 Maleizenveld een akkerland met versnipperde percelen bos. De hoeve
 Terholst die midden van de akkers ligt dateert van voor Ferraris, wel
@@ -23,5 +26,8 @@ Terdek dat dateert van voor F. (bouwplan wijzigde na F.)
 
 
 
-**Beleidswenselijkheden:**
+
+Beleidswenselijkheden:
+~~~~~~~~~~~~~~~~~~~~~
+
 Vrijwaren van verkavelingen en infrastructuurwerken.
