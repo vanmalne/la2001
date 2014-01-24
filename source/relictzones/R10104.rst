@@ -29,6 +29,6 @@ Kasteeldomein valt op in uitgeklede en gebanaliseerde omgeving.
 
 
 Beleidswenselijkheden:
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Behoud domeinstructuur en herstel van directe omgeving.

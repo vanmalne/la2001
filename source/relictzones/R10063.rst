@@ -61,6 +61,6 @@ houtkanten, bomenrijen en dreven.
 
 
 Beleidswenselijkheden:
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Vrijwaren van verder schaalvergroting.

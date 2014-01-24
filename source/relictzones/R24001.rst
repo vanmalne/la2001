@@ -51,7 +51,7 @@ open landbouwlandschap. Herenbos: boscomplex, omgeving: open landschap
 
 
 Beleidswenselijkheden:
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Vrijwaren resterende open ruimten door weren en bufferen van bewoning
 en infrastructuur. Accentueren van de landschappelijke structuur door

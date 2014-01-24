@@ -111,7 +111,7 @@ bebouwing.
 
 
 Beleidswenselijkheden:
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Getuigenheuvels beschermen tegen ongecontroleerde ontzandingen
 (ijzerhoudend zand). Het verbreden, asfalteren en rioleren van de holle

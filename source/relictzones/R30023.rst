@@ -19,7 +19,7 @@ Uitgelezen rust- en foerageerterrein voor water- en weidevogels.
 
 
 Beleidswenselijkheden:
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 maximaal behoud van het open landelijk karakter door : -
 niet-grondgebonden landbouw te weren; - architectonisch (kleur, vorm,

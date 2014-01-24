@@ -50,6 +50,6 @@ beschermd.
 
 
 Beleidswenselijkheden:
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Behoud huidige structuur.

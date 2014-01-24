@@ -71,7 +71,7 @@ begrensd.
 
 
 Beleidswenselijkheden:
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Maximaal behoud van het open landelijk karakter met duidelijke
 differentiatie t.o.v. de omliggende landschappen (westelijke
