@@ -1,16 +1,6 @@
 R10001: Vallei van de Kleine Aa
 ===============================
 
-Verstoring:
-Groot deel van de vallei van de Kleine Aa (m.u.v. het weerhouden deel
-als relictzone) is aangetast door ruilverkavelingswerken (RVK
-Nieuwmoer).
-
-Herkenbaarheid: 1
-
-Samenhang: 1
-
-Gaafheid: 1
 
 
 Historische waarde:
@@ -38,3 +28,9 @@ Beleidswenselijkheden:
 
 Behoud bestaande natuurlijke loop van Kleine Aa en aanpalende
 percelen.
+
+
+Verstoring:
+Groot deel van de vallei van de Kleine Aa (m.u.v. het weerhouden deel
+als relictzone) is aangetast door ruilverkavelingswerken (RVK
+Nieuwmoer).
