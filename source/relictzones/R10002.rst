@@ -1,14 +1,6 @@
 R10002: Kalmthoutse Hoek en Hemelrijk
 =====================================
 
-Verstoring:
-Zuidelijke deel Hemelrijk is reeds volgebouwd.
-
-Herkenbaarheid: 2
-
-Samenhang: 3
-
-Gaafheid: 2
 
 
 Historische waarde:
@@ -45,5 +37,8 @@ In 1264 werd Huijbergen ter ontginning uitgegeven door de heer van
 Breda. Het dorp moest in 1269 klaar zijn. De ontginning strekte zich uit
 tot Essen.
 
+
+Verstoring:
+Zuidelijke deel Hemelrijk is reeds volgebouwd.
 
 
