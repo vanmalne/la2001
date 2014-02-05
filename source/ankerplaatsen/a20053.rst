@@ -4,145 +4,9 @@ Torfbroek
 Anker ID: A20053
 ----------------
 
-**Landschap**
 
 
-
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
-
-
-
-GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Microreliëf:**
-
- * microreliëf
-
-
-**Hydrografische Elementen:**
-
- * oude rivierarm
-
-
-**Moerassige gronden:**
-
- * moeras
-
-
-
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Nederzettingspatronen:**
-
- * nederzettingspatroon
-
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Wegenis:**
-
- * weg
- * pad
-
-
-
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Puntvormige elementen:**
-
- * bomengroep
-
-
-**Lijnvormige elementen:**
-
- * bomenrij
-
-**Kunstmatige waters:**
-
- * vijver
-
-
-**Historisch stabiel landgebruik:**
-
- * kouters
- * meersen
-
-
-No
-
-**Bos:**
-
- * loof
- * broek
- * hakhout
-
-
-
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Bebouwing aan de zuidkant (omgeving Laar) en tussen het eigenlijke
-Torfbroek en Terbronnen.
-
-
-
-B.landschapswaarden
--------------------
-
-
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Het Torfbroek ligt - samen met het Floordambos en het Silsombos in
-een brede strook "oud " alluvium die deel uit maakt van een fossiele
-oost-west gerichte riviervallei die momenteel via een aantal beken naar
-het bekken van de Zenne (westelijk deel) en van de Dijle (oostelijk
-deel) wordt afgewaterd. Omtrent de ouderdom van de fossiele vallei
-bestaat er tot op heden discussie, afhankelijk van de bron is ze 9000 à
-8500 jaar of tussen de 5500-3000 jaar oud. De vegetatie - vooral in het
-Torfbroek - wordt grotendeels gekenmerkt door voedselarme, kalkrijke
-basische laagveenmoerassen, die ten noorden ven de Maas in België
-zeldzaam zijn. Ook op het vlak van de fauna is het gebied zeer
-waardevol.
-
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-
-Het huidige uitzicht van het gebied is - naast enkele sporen van de
-middeleeuwse turfstekerij en de 19de-eeuwse vlasroterij - vooral het
-resultaat van een grootscheepse poging tot verkaveling, waarbij twee
-grote vijvers werden gegraven. Het verkavelingsontwerp, dat ook binnen
-het natuurreservaat sporen heeft nagelaten, werd opgemaakt door
-landschapsarchitect A. Delvaux en is een representatief voorbeeld van
-interbellum stedenbouw en groenvoorziening.
-
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-De met opgaand groen omringde vijvers en de
-schoonheid van sommige plantengemeenschappen vormen de basis van een
-grote esthetische waarde.
-
-
-Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-
-C.TEKSTUELE Omschrijving
+A.TEKSTUELE Omschrijving
 ------------------------
 
 Het Torfbroek is gelegen ten zuiden van Kampenhout en de steenweg
@@ -317,4 +181,126 @@ paardekastanjes beplante dreef die de Visserijlaan had moeten worden,
 kon het oostelijke gedeelte met de zegen van de diverse edities van het
 gewestplan - van voorontwerp tot definitieve versie - grotendeels worden
 afgewerkt. Op meeste percelen ten oosten van de Neerstraat, die Berg met
-Steenokkerzeel verbindt, werden villa's gebouwd.
+Steenokkerzeel verbindt, werden villa's gebouwd. 
+
+
+
+B.landschapswaarden
+-------------------
+
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Het Torfbroek ligt - samen met het Floordambos en het Silsombos in
+een brede strook "oud " alluvium die deel uit maakt van een fossiele
+oost-west gerichte riviervallei die momenteel via een aantal beken naar
+het bekken van de Zenne (westelijk deel) en van de Dijle (oostelijk
+deel) wordt afgewaterd. Omtrent de ouderdom van de fossiele vallei
+bestaat er tot op heden discussie, afhankelijk van de bron is ze 9000 à
+8500 jaar of tussen de 5500-3000 jaar oud. De vegetatie - vooral in het
+Torfbroek - wordt grotendeels gekenmerkt door voedselarme, kalkrijke
+basische laagveenmoerassen, die ten noorden ven de Maas in België
+zeldzaam zijn. Ook op het vlak van de fauna is het gebied zeer
+waardevol.
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+
+Het huidige uitzicht van het gebied is - naast enkele sporen van de
+middeleeuwse turfstekerij en de 19de-eeuwse vlasroterij - vooral het
+resultaat van een grootscheepse poging tot verkaveling, waarbij twee
+grote vijvers werden gegraven. Het verkavelingsontwerp, dat ook binnen
+het natuurreservaat sporen heeft nagelaten, werd opgemaakt door
+landschapsarchitect A. Delvaux en is een representatief voorbeeld van
+interbellum stedenbouw en groenvoorziening.
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+De met opgaand groen omringde vijvers en de
+schoonheid van sommige plantengemeenschappen vormen de basis van een
+grote esthetische waarde.
+
+
+
+C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+-----------------------------------------------
+
+
+
+GEOMORFOLOGIE/HYDROGRAFIE
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Microreliëf:**
+
+ * microreliëf
+
+
+**Hydrografische Elementen:**
+
+ * oude rivierarm
+
+
+**Moerassige gronden:**
+
+ * moeras
+
+
+
+ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Nederzettingspatronen:**
+
+ * nederzettingspatroon
+
+ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Wegenis:**
+
+ * weg
+ * pad
+
+
+
+ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Puntvormige elementen:**
+
+ * bomengroep
+
+
+**Lijnvormige elementen:**
+
+ * bomenrij
+
+**Kunstmatige waters:**
+
+ * vijver
+
+
+**Historisch stabiel landgebruik:**
+
+ * kouters
+ * meersen
+
+
+No
+
+**Bos:**
+
+ * loof
+ * broek
+ * hakhout
+
+
+
+OPMERKINGEN EN KNELPUNTEN
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bebouwing aan de zuidkant (omgeving Laar) en tussen het eigenlijke
+Torfbroek en Terbronnen.
