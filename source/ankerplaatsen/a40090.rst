@@ -8,139 +8,6 @@ Anker ID: A40090
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
-
-
-
-GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Microreliëf:**
-
- * microreliëf
-
-
-**Macroreliëf:**
-
- * macroreliëf
- * heuvel
-
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Koeren en hovingen:**
-
- * park
-
-
-**Kastelen, landgoederen en aanhorigheden:**
-
- * kasteel
-
-
-
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Wegenis:**
-
- * weg
- * pad
-
-
-**Waterbouwkundige infrastructuur:**
-
- * brug
-
-
-
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Puntvormige elementen:**
-
- * bomengroep
- * solitaire boom
-
-
-**Lijnvormige elementen:**
-
- * bomenrij
- * hagen
-
-**Kunstmatige waters:**
-
- * vijver
-
-
-**Bos:**
-
- * loof
- * middelhout
- * hooghout
-
-
-
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-B.landschapswaarden
--------------------
-
-
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-In het park van het kasteeldomein komt talrijke merkwaardige bomen
-voor. Het domein is een goed voorbeeld van een 19e eeuwse
-landschapstuin, met bijzondere kwaliteiten op het gebied van de
-tuinarchitectuur.
-
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-
-De ontwikkeling van het kasteeldomein start in het midden van de 19e
-eeuw met de aanleg van een grote vijver, die vermoedelijk als eendenkooi
-werd aangewend. De aanleg van het eigenlijke park begon op het einde van
-de 19e eeuw. Begin de 20e eeuw werd een kasteeltje in neo- Vlaamse
-renaissancestijl gebouwd. Op de topografische kaart van 1910 zien we het
-aangelegde park dat, op een aantal percelen langs de Gotendries na, de
-actuele oppervlakte van het park beslaat. Op de stafkaarten van
-1937,1950-51 en 1975 merken we hoe het domein evolueert naar de huidige
-toestand. We zien de bijkomende aanleg van twee kleine vijvers, een
-toename van de oppervlakte van het grasveld tussen kasteel en grote
-vijver, de padenstructuur, de bomengroepen, de aanleg van de
-fonteinvijver en de cascade.
-
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-Vanuit het parkbos is er een sterke visuele
-relatie met de centrale open ruimte door talrijke doorkijken, ook
-vista's genoemd.
-
-
-Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Grofweg kan men de structuur van het park ontleden door het te
-herleiden tot een centrale parkzone en beboste randen met tussenin een
-overgangsgebied dat we als parkbos kunnen bestempelen. Het kasteel is op
-het hoogst gelegen deel van het park ingeplant, van waaruit men een mooi
-zicht heeft op de grote vijver.
-
-
-
 C.TEKSTUELE Omschrijving
 ------------------------
 
@@ -229,3 +96,125 @@ het domein de allure van een Engelse "water garden". Alle vijvers staan
 met elkaar in verbinding en van het hoogteverschil tussen de vijvers
 werd gebruik gemaakt om een arcadisch effect te bekomen bij de cascades
 en de fontein.
+
+
+
+B.landschapswaarden
+-------------------
+
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In het park van het kasteeldomein komt talrijke merkwaardige bomen
+voor. Het domein is een goed voorbeeld van een 19e eeuwse
+landschapstuin, met bijzondere kwaliteiten op het gebied van de
+tuinarchitectuur.
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+
+De ontwikkeling van het kasteeldomein start in het midden van de 19e
+eeuw met de aanleg van een grote vijver, die vermoedelijk als eendenkooi
+werd aangewend. De aanleg van het eigenlijke park begon op het einde van
+de 19e eeuw. Begin de 20e eeuw werd een kasteeltje in neo- Vlaamse
+renaissancestijl gebouwd. Op de topografische kaart van 1910 zien we het
+aangelegde park dat, op een aantal percelen langs de Gotendries na, de
+actuele oppervlakte van het park beslaat. Op de stafkaarten van
+1937,1950-51 en 1975 merken we hoe het domein evolueert naar de huidige
+toestand. We zien de bijkomende aanleg van twee kleine vijvers, een
+toename van de oppervlakte van het grasveld tussen kasteel en grote
+vijver, de padenstructuur, de bomengroepen, de aanleg van de
+fonteinvijver en de cascade.
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+Vanuit het parkbos is er een sterke visuele
+relatie met de centrale open ruimte door talrijke doorkijken, ook
+vista's genoemd.
+
+
+Ruimtelijk-structurerende waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Grofweg kan men de structuur van het park ontleden door het te
+herleiden tot een centrale parkzone en beboste randen met tussenin een
+overgangsgebied dat we als parkbos kunnen bestempelen. Het kasteel is op
+het hoogst gelegen deel van het park ingeplant, van waaruit men een mooi
+zicht heeft op de grote vijver.
+
+
+
+A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+-----------------------------------------------
+
+
+
+GEOMORFOLOGIE/HYDROGRAFIE
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Microreliëf:**
+
+ * microreliëf
+
+
+**Macroreliëf:**
+
+ * macroreliëf
+ * heuvel
+
+ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Koeren en hovingen:**
+
+ * park
+
+
+**Kastelen, landgoederen en aanhorigheden:**
+
+ * kasteel
+
+
+
+ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Wegenis:**
+
+ * weg
+ * pad
+
+
+**Waterbouwkundige infrastructuur:**
+
+ * brug
+
+
+
+ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Puntvormige elementen:**
+
+ * bomengroep
+ * solitaire boom
+
+
+**Lijnvormige elementen:**
+
+ * bomenrij
+ * hagen
+
+**Kunstmatige waters:**
+
+ * vijver
+
+
+**Bos:**
+
+ * loof
+ * middelhout
+ * hooghout
