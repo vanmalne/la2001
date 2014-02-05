@@ -6,136 +6,6 @@ Anker ID: A40089
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
-
-
-
-GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Microreliëf:**
-
- * microreliëf
-
-
-
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Koeren en hovingen:**
-
- * park
-
-
-bij kasteeldomein van Beervelde
-
-**Kastelen, landgoederen en aanhorigheden:**
-
- * hovenierswoning
- * landgoed
- * omheining
- * ijskelder
-
-
-**Andere:**
-stationsgebouw Beervelde
-
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Wegenis:**
-
- * weg
- * pad
-
-
-**Waterbouwkundige infrastructuur:**
-
- * brug
-
-
-
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Puntvormige elementen:**
-
- * bomengroep
- * solitaire boom
-
-
-**Lijnvormige elementen:**
-
- * dreef
- * hagen
-
-**Kunstmatige waters:**
-
- * vijver
-
-
-**Bos:**
-
- * loof
- * middelhout
-
-
-
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-B.landschapswaarden
--------------------
-
-
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-
-Het kasteeldomein gaat terug op een middeleeuws goed met omwalde
-motte met opperhof, neerhof en dreef, en bijhorende, verpachte gronden.
-In de loop der eeuwen verandert het kasteel verschillende malen van
-eigenaar. In de 19e eeuw lag het er bouwvallig bij. De toemalige graaf
-bouwde een nieuw kasteel en legde de landschappelijke tuin aan. Na WO II
-werd het kasteel nogmaals afgebroken en werd een nieuw gebouw geplaatst.
-Het park bevat een uitgebreide plantencollectie.
-
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-Het park van Beervelde is aangelegd in
-romantische landschapsstijl met een formele tuin bezuiden het kasteel.
-Met gebouwen, reliëf, bomen, boomgroepen, bos, weiden en water is op een
-oppervlakte van 20 ha een samenhangend park met enkele sublieme
-vergezichten gecreëerd.
-
-
-Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Het kasteel is vanaf het dorp niet zichtbaar. Een dreef leidt naar
-het kasteel. In het park liggen verschillende dienstgebouwen ten westen
-van het kasteel. Ze scheiden de formele moestuin en boomgaard van het
-landschappelijke park. Diagonaal door het park loopt een vijver die de
-indruk van een meanderende rivier schept. Verschillende
-plantencollecties komen in het park voor.
-
-
-
 C.TEKSTUELE Omschrijving
 ------------------------
 
@@ -210,3 +80,117 @@ rivier te zijn. In het park ligt een ijskelder, de grot ervoor heeft de
 tand des tijds niet doorstaan. Ten oosten van het kasteel ligt de
 voormalige moestuin, oude boomgaard en afgebroken serres. Hier liggen
 ook de koetshuizen, koeien- en paardestallen en dienstgebouwen.
+
+
+
+B.landschapswaarden
+-------------------
+
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+
+Het kasteeldomein gaat terug op een middeleeuws goed met omwalde
+motte met opperhof, neerhof en dreef, en bijhorende, verpachte gronden.
+In de loop der eeuwen verandert het kasteel verschillende malen van
+eigenaar. In de 19e eeuw lag het er bouwvallig bij. De toemalige graaf
+bouwde een nieuw kasteel en legde de landschappelijke tuin aan. Na WO II
+werd het kasteel nogmaals afgebroken en werd een nieuw gebouw geplaatst.
+Het park bevat een uitgebreide plantencollectie.
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+Het park van Beervelde is aangelegd in
+romantische landschapsstijl met een formele tuin bezuiden het kasteel.
+Met gebouwen, reliëf, bomen, boomgroepen, bos, weiden en water is op een
+oppervlakte van 20 ha een samenhangend park met enkele sublieme
+vergezichten gecreëerd.
+
+
+Ruimtelijk-structurerende waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Het kasteel is vanaf het dorp niet zichtbaar. Een dreef leidt naar
+het kasteel. In het park liggen verschillende dienstgebouwen ten westen
+van het kasteel. Ze scheiden de formele moestuin en boomgaard van het
+landschappelijke park. Diagonaal door het park loopt een vijver die de
+indruk van een meanderende rivier schept. Verschillende
+plantencollecties komen in het park voor.
+
+
+
+A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+-----------------------------------------------
+
+
+
+GEOMORFOLOGIE/HYDROGRAFIE
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Microreliëf:**
+
+ * microreliëf
+
+
+
+ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Koeren en hovingen:**
+
+ * park
+
+
+bij kasteeldomein van Beervelde
+
+**Kastelen, landgoederen en aanhorigheden:**
+
+ * hovenierswoning
+ * landgoed
+ * omheining
+ * ijskelder
+
+
+**Andere:**
+stationsgebouw Beervelde
+
+ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Wegenis:**
+
+ * weg
+ * pad
+
+
+**Waterbouwkundige infrastructuur:**
+
+ * brug
+
+
+
+ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Puntvormige elementen:**
+
+ * bomengroep
+ * solitaire boom
+
+
+**Lijnvormige elementen:**
+
+ * dreef
+ * hagen
+
+**Kunstmatige waters:**
+
+ * vijver
+
+
+**Bos:**
+
+ * loof
+ * middelhout
